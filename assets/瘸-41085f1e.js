@@ -1,0 +1,1 @@
+const p=[{p:"qué",pp:"que2",d:"lame",t:"瘸"}],t=[{p:"yī qué yī guǎi",w:"一瘸一拐",d:"to limp ☆ to hobble",t:"一瘸一拐"},{p:"qué zi",w:"瘸子",d:"lame person (colloquial)",t:"瘸子"},{p:"qué bāng",w:"瘸帮",d:"Crips (gang)",t:"瘸幫"},{p:"qué tuǐ",w:"瘸腿",d:"crippled ☆ lame ☆ a cripple ☆ a lame person",t:"瘸腿"}],e=[],l={s:p,w:t,i:e};export{l as default,e as i,p as s,t as w};

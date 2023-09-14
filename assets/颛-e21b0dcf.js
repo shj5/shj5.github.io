@@ -1,0 +1,1 @@
+const n=[{p:"zhuān",pp:"zhuan1",d:"surname Zhuan",t:"顓"},{p:"zhuān",pp:"zhuan1",d:"good ☆ simple",t:"顓"}],e=[{p:"zhuān xū",w:"颛顼",d:"Zhuanxu, one of the Five Legendary Emperors 五帝[wu3 di4], grandson of the Yellow Emperor 黃帝|黄帝[Huang2 di4], trad. reigned 2513-2435 BC",t:"顓頊"}],o=[],t={s:n,w:e,i:o};export{t as default,o as i,n as s,e as w};

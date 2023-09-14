@@ -1,0 +1,1 @@
+const t=[{p:"áo",pp:"ao2",d:"(bound form) mastiff",t:"獒"}],o=[{p:"áo quǎn",w:"獒犬",d:"mastiff (dog breed)",t:"獒犬"},{p:"zàng áo",w:"藏獒",d:"Tibetan mastiff",t:"藏獒"},{p:"xī zàng áo quǎn",w:"西藏獒犬",d:"Tibetan mastiff",t:"西藏獒犬"}],n=[],s={s:t,w:o,i:n};export{s as default,n as i,t as s,o as w};

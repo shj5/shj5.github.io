@@ -1,0 +1,1 @@
+const n=[{p:"chāng",pp:"chang1",d:"gate of heaven ☆ gate of palace",t:"閶"}],t=[{p:"jīn chāng",w:"金阊",d:"Jinchang district of Suzhou city 蘇州市|苏州市[Su1 zhou1 shi4], Jiangsu",t:"金閶"},{p:"jīn chāng qū",w:"金阊区",d:"Jinchang district of Suzhou city 蘇州市|苏州市[Su1 zhou1 shi4], Jiangsu",t:"金閶區"}],c=[],i={s:n,w:t,i:c};export{i as default,c as i,n as s,t as w};

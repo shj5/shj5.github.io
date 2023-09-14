@@ -1,0 +1,1 @@
+const o=[{p:"ǒu",pp:"ou3",d:"root of lotus",t:"藕"}],t=[{p:"lián ǒu",w:"莲藕",d:"lotus root",t:"蓮藕"}],s=[{p:"ǒu duàn sī lián",w:"藕断丝连",d:"lit. lotus roots may break, but the fiber remains joined (idiom), lovers part, but still long for one another",t:"藕斷絲連"}],n={s:o,w:t,i:s};export{n as default,s as i,o as s,t as w};

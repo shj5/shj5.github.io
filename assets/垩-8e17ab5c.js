@@ -1,0 +1,1 @@
+const o=[{p:"è",pp:"e4",d:"to whitewash ☆ to plaster",t:"堊"}],t=[{p:"bái è",w:"白垩",d:"chalk",t:"白堊"},{p:"bái è shì",w:"白垩世",d:"Cretaceous (geological period 140-65m years ago)",t:"白堊世"},{p:"bái è jì",w:"白垩纪",d:"Cretaceous (geological period 140-65m years ago)",t:"白堊紀"}],e=[],s={s:o,w:t,i:e};export{s as default,e as i,o as s,t as w};

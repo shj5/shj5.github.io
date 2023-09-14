@@ -1,0 +1,1 @@
+const t=[{p:"chēng",pp:"cheng1",d:"stare at sth beyond reach",t:"瞠"}],s=[{p:"chēng mù",w:"瞠目",d:"to stare",t:"瞠目"},{p:"chēng mù yǐ duì",w:"瞠目以对",d:"to return only a blank stare ☆ to stare back",t:"瞠目以對"}],e=[{p:"chēng mù jié shé",w:"瞠目结舌",d:"stupefied ☆ flabbergasted",t:"瞠目結舌"}],a={s:t,w:s,i:e};export{a as default,e as i,t as s,s as w};

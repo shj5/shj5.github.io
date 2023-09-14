@@ -1,0 +1,1 @@
+const s=[{p:"xì",pp:"xi4",d:"shoe ☆ slipper",t:"舄"}],t=[],e=[{p:"lǚ xì jiāo cuò",w:"履舄交错",d:"lit. shoes and slippers muddled together (idiom), fig. many guests come and go ☆ a lively party",t:"履舄交錯"}],o={s,w:t,i:e};export{o as default,e as i,s,t as w};

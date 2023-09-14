@@ -1,0 +1,1 @@
+const l=[{p:"huái",pp:"huai2",d:"ankle",t:"踝"}],a=[{p:"nèi huái",w:"内踝",d:"medial malleolus",t:"內踝"},{p:"wài huái",w:"外踝",d:"lateral malleolus",t:"外踝"},{p:"jiǎo huái",w:"脚踝",d:"ankle",t:"腳踝"},{p:"zú huái",w:"足踝",d:"ankle",t:"足踝"},{p:"huái gǔ",w:"踝骨",d:"ankle bone ☆ ankle",t:"踝骨"}],i=[],t={s:l,w:a,i};export{t as default,i,l as s,a as w};

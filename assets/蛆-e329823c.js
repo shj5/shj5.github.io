@@ -1,0 +1,1 @@
+const t=[{p:"qū",pp:"qu1",d:"maggot",t:"蛆"}],o=[{p:"fèn qū",w:"粪蛆",d:"muckworm",t:"糞蛆"},{p:"qū chóng",w:"蛆虫",d:"maggot",t:"蛆蟲"}],g=[{p:"rú qū fù gǔ",w:"如蛆附骨",d:"lit. like maggots feeding on a corpse (idiom) ☆ fig. fixed on sth ☆ to cling on without letting go ☆ to pester obstinately",t:"如蛆附骨"}],i={s:t,w:o,i:g};export{i as default,g as i,t as s,o as w};

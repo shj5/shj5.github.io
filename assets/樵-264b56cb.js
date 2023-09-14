@@ -1,0 +1,1 @@
+const o=[{p:"qiáo",pp:"qiao2",d:"firewood ☆ gather wood",t:"樵"}],t=[{p:"qiáo fū",w:"樵夫",d:"woodman ☆ woodcutter",t:"樵夫"},{p:"qiáo zǐ",w:"樵子",d:"woodcutter",t:"樵子"}],d=[],w={s:o,w:t,i:d};export{w as default,d as i,o as s,t as w};

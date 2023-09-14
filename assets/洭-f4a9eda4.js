@@ -1,0 +1,1 @@
+const n=[{p:"kuāng",pp:"kuang1",d:"ancient name of a river 洭河[Kuang1 He2] in present-day Guangdong ☆ (used in ancient place names)",t:"洭"}],a=[{p:"kuāng hé",w:"洭河",d:"Kuang River, ancient name of a river in present-day Guangdong",t:"洭河"}],e=[],t={s:n,w:a,i:e};export{t as default,e as i,n as s,a as w};

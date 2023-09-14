@@ -1,0 +1,1 @@
+const i=[{p:"kuí",pp:"kui2",d:"cheekbone ☆ crossroads ☆ high",t:"馗"}],o=[{p:"zhōng kuí",w:"钟馗",d:"Zhong Kui (mythological figure, supposed to drive away evil spirits) ☆ (fig.) a person with the courage to fight against evil",t:"鍾馗"}],s=[],t={s:i,w:o,i:s};export{t as default,s as i,i as s,o as w};

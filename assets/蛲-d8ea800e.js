@@ -1,0 +1,1 @@
+const n=[{p:"náo",pp:"nao2",d:"parasitic worm ☆ human pinworm (Enterobius vermicularis)",t:"蟯"}],i=[{p:"náo chóng",w:"蛲虫",d:"parasitic worm ☆ human pinworm (Enterobius vermicularis)",t:"蟯蟲"},{p:"náo chóng bìng",w:"蛲虫病",d:"enterobiasis",t:"蟯蟲病"}],o=[],s={s:n,w:i,i:o};export{s as default,o as i,n as s,i as w};

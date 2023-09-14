@@ -1,0 +1,1 @@
+const o=[{p:"yōng",pp:"yong1",d:"to obstruct ☆ to stop up ☆ to heap soil around the roots of a plant",t:"壅"}],t=[{p:"yōng sè",w:"壅塞",d:"variant of 擁塞|拥塞[yong1 se4]",t:"壅塞"},{p:"yōng bì",w:"壅蔽",d:"(literary) to cover ☆ to conceal ☆ to hide from view",t:"壅蔽"}],n=[],s={s:o,w:t,i:n};export{s as default,n as i,o as s,t as w};

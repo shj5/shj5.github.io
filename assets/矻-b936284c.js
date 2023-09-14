@@ -1,0 +1,1 @@
+const s=[{p:"kū",pp:"ku1",d:"used in 矻矻[ku1 ku1]",t:"矻"}],t=[{p:"kū kū",w:"矻矻",d:"assiduously",t:"矻矻"},{p:"kū kū",w:"矻矻",d:"assiduously",t:"矻矻"}],k=[{p:"zī zī kū kū",w:"孜孜矻矻",d:"diligently",t:"孜孜矻矻"},{p:"zī zī kū kū",w:"孜孜矻矻",d:"diligently",t:"孜孜矻矻"}],d={s,w:t,i:k};export{d as default,k as i,s,t as w};

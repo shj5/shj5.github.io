@@ -1,0 +1,1 @@
+const a=[{p:"zhàng",pp:"zhang4",d:"malaria ☆ miasma",t:"瘴"}],t=[{p:"zhàng lì",w:"瘴疠",d:"tropical disease attributed to miasma ☆ malaria",t:"瘴癘"}],i=[{p:"wū yān zhàng qì",w:"乌烟瘴气",d:"billowing smoke (idiom) ☆ foul atmosphere ☆ (fig.) murky atmosphere ☆ in a turmoil",t:"烏煙瘴氣"}],o={s:a,w:t,i};export{o as default,i,a as s,t as w};

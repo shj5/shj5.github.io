@@ -1,0 +1,1 @@
+const t=[{p:"chì",pp:"chi4",d:"step with the left foot (Kangxi radical 60) ☆ see also 彳亍[chi4 chu4]",t:"彳"}],c=[{p:"chì chù",w:"彳亍",d:"(literary) to walk slowly",t:"彳亍"}],s=[],o={s:t,w:c,i:s};export{o as default,s as i,t as s,c as w};

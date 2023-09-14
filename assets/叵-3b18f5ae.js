@@ -1,0 +1,1 @@
+const t=[{p:"pǒ",pp:"po3",d:"not ☆ thereupon",t:"叵"}],o=[{p:"pǒ cè",w:"叵测",d:"unfathomable ☆ unpredictable ☆ treacherous",t:"叵測"}],p=[{p:"jū xīn pǒ cè",w:"居心叵测",d:"harboring unfathomable motives (idiom)",t:"居心叵測"},{p:"xīn huái pǒ cè",w:"心怀叵测",d:"see 居心叵測|居心叵测[ju1 xin1 po3 ce4]",t:"心懷叵測"}],e={s:t,w:o,i:p};export{e as default,p as i,t as s,o as w};

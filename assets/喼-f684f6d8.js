@@ -1,0 +1,1 @@
+const t=[{p:"jié",pp:"jie2",d:"box (dialect) ☆ used to transliterate words with sounds kip-, cap- etc",t:"喼"}],s=[{p:"jié zhī",w:"喼汁",d:"Worcestershire sauce",t:"喼汁"}],e=[],i={s:t,w:s,i:e};export{i as default,e as i,t as s,s as w};

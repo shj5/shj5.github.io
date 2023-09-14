@@ -1,0 +1,1 @@
+const n=[{p:"gōng",pp:"gong1",d:"surname Gong",t:"龔"}],t=[{p:"gōng gǔ ěr",w:"龚古尔",d:"Goncourt (name)",t:"龔古爾"},{p:"gōng zì zhēn",w:"龚自珍",d:"Gong Zizhen (1792-1841), Chinese man of letters, calligrapher and poet",t:"龔自珍"}],g=[],o={s:n,w:t,i:g};export{o as default,g as i,n as s,t as w};

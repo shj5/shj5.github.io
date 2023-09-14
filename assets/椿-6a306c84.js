@@ -1,0 +1,1 @@
+const e=[{p:"chūn",pp:"chun1",d:"Chinese toon (Toona sinensis) ☆ tree of heaven (Ailanthus altissima) ☆ (literary metaphor) father",t:"椿"}],n=[{p:"chūn xiàng",w:"椿象",d:"stinkbug",t:"椿象"},{p:"xiāng chūn",w:"香椿",d:"Chinese toon (Toona sinensis), deciduous tree whose young leaves are used as a vegetable",t:"香椿"}],s=[],t={s:e,w:n,i:s};export{t as default,s as i,e as s,n as w};

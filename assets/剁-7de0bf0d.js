@@ -1,0 +1,1 @@
+const o=[{p:"duò",pp:"duo4",d:"to chop up (meat etc) ☆ to chop off (sb's hand etc)",t:"剁"}],s=[{p:"duò shǒu jié",w:"剁手节",d:"(jocular) a day of frenetic online spending, such as Singles' Day",t:"剁手節"},{p:"duò shǒu dǎng",w:"剁手党",d:"online shopaholic",t:"剁手黨"},{p:"duò suì",w:"剁碎",d:"to mince",t:"剁碎"}],t=[],n={s:o,w:s,i:t};export{n as default,t as i,o as s,s as w};

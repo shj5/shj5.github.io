@@ -1,0 +1,1 @@
+const t=[{p:"xiá",pp:"xia2",d:"(phonetic) ☆ crafty",t:"黠"}],i=[{p:"huì xiá",w:"慧黠",d:"intelligent ☆ bright ☆ sharp",t:"慧黠"},{p:"jiǎo xiá",w:"狡黠",d:"crafty ☆ astute",t:"狡黠"}],s=[],p={s:t,w:i,i:s};export{p as default,s as i,t as s,i as w};

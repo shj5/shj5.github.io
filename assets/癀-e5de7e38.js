@@ -1,0 +1,1 @@
+const n=[{p:"huáng",pp:"huang2",d:"used in 癀病[huang2 bing4]",t:"癀"}],t=[{p:"huáng bìng",w:"癀病",d:"(dialect) anthrax in livestock",t:"癀病"}],s=[],a={s:n,w:t,i:s};export{a as default,s as i,n as s,t as w};

@@ -1,0 +1,1 @@
+const n=[{p:"xiù",pp:"xiu4",d:"cave ☆ mountain peak",t:"岫"}],a=[{p:"xiù yán mǎn zú zì zhì xiàn",w:"岫岩满族自治县",d:"Xiuyan Manzu autonomous county in Anshan 鞍山[An1 shan1], Liaoning",t:"岫岩滿族自治縣"},{p:"xiù yán xiàn",w:"岫岩县",d:"Xiuyan Manzu autonomous county in Anshan 鞍山[An1 shan1], Liaoning",t:"岫岩縣"}],i=[],o={s:n,w:a,i};export{o as default,i,n as s,a as w};

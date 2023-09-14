@@ -1,0 +1,1 @@
+const i=[{p:"xì",pp:"xi4",d:"semiannual ceremony of purification",t:"禊"}],o=[{p:"xiū xì",w:"修禊",d:"to hold a semiannual ceremony of purification",t:"修禊"},{p:"fú xì",w:"祓禊",d:"exorcistic ablutions",t:"祓禊"}],t=[],n={s:i,w:o,i:t};export{n as default,t as i,i as s,o as w};

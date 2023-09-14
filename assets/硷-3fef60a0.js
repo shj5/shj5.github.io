@@ -1,0 +1,1 @@
+const n=[{p:"jiǎn",pp:"jian3",d:"variant of 鹼|碱, alkali",t:"礆"}],i=[{p:"yān jiǎn",w:"烟硷",d:"variant of 菸鹼|菸碱[yan1 jian3] ☆ nicotine",t:"煙礆"},{p:"yān jiǎn",w:"菸硷",d:"nicotine ☆ also written 菸鹼|菸碱[yan1 jian3]",t:"菸礆"}],t=[],a={s:n,w:i,i:t};export{a as default,t as i,n as s,i as w};

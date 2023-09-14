@@ -1,0 +1,1 @@
+const t=[{p:"chéng",pp:"cheng2",d:"(literary) inebriated ☆ hungover",t:"酲"}],e=[{p:"jiě chéng",w:"解酲",d:"to sober up ☆ to sleep off the effect of drink",t:"解酲"}],o=[],n={s:t,w:e,i:o};export{n as default,o as i,t as s,e as w};

@@ -1,0 +1,1 @@
+const n=[{p:"xuān",pp:"xuan1",d:"ornamental piece of jade",t:"瑄"}],a=[{p:"míng xuān",w:"铭瑄",d:"MaxSun, PRC company specializing in video and computer display",t:"銘瑄"}],o=[],p={s:n,w:a,i:o};export{p as default,o as i,n as s,a as w};

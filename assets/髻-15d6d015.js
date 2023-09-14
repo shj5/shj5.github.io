@@ -1,0 +1,1 @@
+const n=[{p:"jì",pp:"ji4",d:"hair rolled up in a bun, topknot",t:"髻"}],o=[{p:"yā jì",w:"丫髻",d:"bun (of hair) ☆ topknot",t:"丫髻"},{p:"luó jì",w:"螺髻",d:"spiral coil (in hairdressing)",t:"螺髻"},{p:"shuāng jì shā",w:"双髻鲨",d:"hammerhead shark",t:"雙髻鯊"},{p:"fà jì",w:"发髻",d:"hair worn in a bun or coil",t:"髮髻"}],t=[],i={s:n,w:o,i:t};export{i as default,t as i,n as s,o as w};

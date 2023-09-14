@@ -1,0 +1,1 @@
+const s=[{p:"yǔ",pp:"yu3",d:"percussion instrument shaped as a hollow wooden tiger, with serrated strip across the back, across which one runs a drumstick",t:"敔"}],t=[],o=[],e={s,w:t,i:o};export{e as default,o as i,s,t as w};

@@ -1,0 +1,1 @@
+const a=[{p:"jiǎ",pp:"jia3",d:"cape (geography) ☆ headland",t:"岬"}],d=[{p:"dì jiǎ",w:"地岬",d:"cape (geography) ☆ headland",t:"地岬"},{p:"jiǎ jiǎo",w:"岬角",d:"cape ☆ headland ☆ promontory",t:"岬角"},{p:"hǎi jiǎ",w:"海岬",d:"headland",t:"海岬"}],p=[],e={s:a,w:d,i:p};export{e as default,p as i,a as s,d as w};

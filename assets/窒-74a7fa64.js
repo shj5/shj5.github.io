@@ -1,0 +1,1 @@
+const t=[{p:"zhì",pp:"zhi4",d:"to obstruct ☆ to stop up",t:"窒"}],o=[{p:"zhì xī",w:"窒息",d:"to choke ☆ to stifle ☆ to suffocate",t:"窒息"},{p:"zhì xī xìng dú jì",w:"窒息性毒剂",d:"choking agent",t:"窒息性毒劑"}],s=[],c={s:t,w:o,i:s};export{c as default,s as i,t as s,o as w};

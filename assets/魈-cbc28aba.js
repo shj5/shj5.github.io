@@ -1,0 +1,1 @@
+const i=[{p:"xiāo",pp:"xiao1",d:"used in 山魈[shan1 xiao1]",t:"魈"}],n=[{p:"shān xiāo",w:"山魈",d:"mandrill (Mandrillus sphinx) ☆ legendary mountain spirit",t:"山魈"}],s=[],o={s:i,w:n,i:s};export{o as default,s as i,i as s,n as w};

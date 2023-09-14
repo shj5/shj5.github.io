@@ -1,0 +1,1 @@
+const a=[{p:"chǐ",pp:"chi3",d:"salted fermented beans",t:"豉"}],e=[{p:"háo chǐ",w:"蚝豉",d:"dried oyster meat",t:"蠔豉"},{p:"dòu chǐ",w:"豆豉",d:"black bean ☆ black bean sauce",t:"豆豉"},{p:"dòu chǐ jiàng",w:"豆豉酱",d:"black bean sauce",t:"豆豉醬"},{p:"chǐ yóu",w:"豉油",d:"soy sauce (chiefly in Cantonese and Hakka areas)",t:"豉油"}],c=[],s={s:a,w:e,i:c};export{s as default,c as i,a as s,e as w};

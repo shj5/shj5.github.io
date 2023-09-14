@@ -1,0 +1,1 @@
+const t=[{p:"dāng",pp:"dang1",d:"crotch ☆ seat of a pair of trousers",t:"襠"}],o=[{p:"diào dāng kù",w:"吊裆裤",d:"baggy pants ☆ sagging pants",t:"吊襠褲"},{p:"kù dāng",w:"裤裆",d:"crotch of trousers",t:"褲襠"},{p:"dāng bù",w:"裆部",d:"crotch",t:"襠部"},{p:"kāi dāng kù",w:"开裆裤",d:"open-crotch pants (for toddlers)",t:"開襠褲"}],s=[],d={s:t,w:o,i:s};export{d as default,s as i,t as s,o as w};

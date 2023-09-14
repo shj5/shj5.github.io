@@ -1,0 +1,1 @@
+const t=[{p:"chán",pp:"chan2",d:"flow ☆ trickle (of water)",t:"潺"}],n=[{p:"chán chán",w:"潺潺",d:"murmur ☆ babble (sound of water)",t:"潺潺"},{p:"chán chán",w:"潺潺",d:"murmur ☆ babble (sound of water)",t:"潺潺"}],c=[],o={s:t,w:n,i:c};export{o as default,c as i,t as s,n as w};

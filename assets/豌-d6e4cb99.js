@@ -1,0 +1,1 @@
+const t=[{p:"wān",pp:"wan1",d:"peas",t:"豌"}],w=[{p:"wān dòu",w:"豌豆",d:"pea (Pisum sativum)",t:"豌豆"},{p:"wān dòu jiān",w:"豌豆尖",d:"pea shoots",t:"豌豆尖"},{p:"wān dòu zhōu",w:"豌豆粥",d:"pea gruel",t:"豌豆粥"},{p:"wān dòu xiàng",w:"豌豆象",d:"pea weevil",t:"豌豆象"},{p:"xiāng wān dòu",w:"香豌豆",d:"sweet pea (Lathyrus odoratus)",t:"香豌豆"}],p=[],s={s:t,w,i:p};export{s as default,p as i,t as s,w};

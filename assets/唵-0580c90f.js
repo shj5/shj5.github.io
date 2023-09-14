@@ -1,0 +1,1 @@
+const t=[{p:"ǎn",pp:"an3",d:"(interjection) oh! ☆ (dialect) to stuff sth in one's mouth ☆ (used in buddhist transliterations) om",t:"唵"}],n=[{p:"ǎn má ní bā mī hōng",w:"唵嘛呢叭咪吽",d:"om mani padme hum (Buddhist mantra)",t:"唵嘛呢叭咪吽"}],s=[],o={s:t,w:n,i:s};export{o as default,s as i,t as s,n as w};

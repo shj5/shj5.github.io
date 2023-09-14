@@ -1,0 +1,1 @@
+const n=[{p:"níng",pp:"ning2",d:"(used as a bound form in 薴烯|苧烯[ning2 xi1], limonene) ☆ tangled ☆ in disarray",t:"薴"}],s=[{p:"níng xī",w:"苧烯",d:"(chemistry) limonene",t:"薴烯"},{p:"jì níng",w:"荠苧",d:"(botany) Mosla grosseserrata ☆ Mosla chinensis",t:"薺薴"}],i=[],o={s:n,w:s,i};export{o as default,i,n as s,s as w};

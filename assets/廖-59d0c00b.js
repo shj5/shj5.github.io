@@ -1,0 +1,1 @@
+const o=[{p:"liào",pp:"liao4",d:"surname Liao",t:"廖"}],i=[{p:"liào mò shā",w:"廖沫沙",d:"Liao Mosha (1907-1990), journalist and communist propagandist, severely criticized and imprisoned for 10 years during the Cultural Revolution",t:"廖沫沙"}],s=[],t={s:o,w:i,i:s};export{t as default,s as i,o as s,i as w};

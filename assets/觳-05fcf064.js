@@ -1,0 +1,1 @@
+const t=[{p:"hú",pp:"hu2",d:"ancient measuring vessel (same as 斛) ☆ frightened",t:"觳"}],e=[{p:"hú sù",w:"觳觫",d:"(literary) to tremble with fear",t:"觳觫"}],s=[],a={s:t,w:e,i:s};export{a as default,s as i,t as s,e as w};

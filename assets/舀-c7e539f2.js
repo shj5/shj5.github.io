@@ -1,0 +1,1 @@
+const o=[{p:"yǎo",pp:"yao3",d:"to ladle out, to scoop up",t:"舀"}],t=[{p:"yǎo sháo",w:"舀勺",d:"scoop, dipper",t:"舀勺"},{p:"yǎo zi",w:"舀子",d:"ladle, scoop",t:"舀子"},{p:"yǎo shuǐ",w:"舀水",d:"to ladle water, to scoop up water",t:"舀水"},{p:"yǎo tāng",w:"舀汤",d:"to ladle out soup",t:"舀湯"}],p=[],s={s:o,w:t,i:p};export{s as default,p as i,o as s,t as w};

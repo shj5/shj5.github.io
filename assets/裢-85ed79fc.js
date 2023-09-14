@@ -1,0 +1,1 @@
+const n=[{p:"lián",pp:"lian2",d:"pouch hung from belt",t:"褳"}],t=[{p:"dā lian",w:"搭裢",d:"variant of 褡褳|褡裢[da1 lian5]",t:"搭褳"},{p:"dā lian",w:"褡裢",d:"cloth pouch open in the middle, forming two bags ☆ jacket worn for Chinese wrestling",t:"褡褳"}],o=[],i={s:n,w:t,i:o};export{i as default,o as i,n as s,t as w};

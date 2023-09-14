@@ -1,0 +1,1 @@
+const t=[{p:"cuó",pp:"cuo2",d:"short ☆ dwarfish",t:"矬"}],o=[{p:"ǎi cuó",w:"矮矬",d:"short (in stature)",t:"矮矬"}],s=[{p:"cuó zi lǐ bá jiāng jūn",w:"矬子里拔将军",d:"lit. to choose a general among the dwarves (idiom) ☆ fig. to pick the best out of a bad group",t:"矬子裡拔將軍"}],i={s:t,w:o,i:s};export{i as default,s as i,t as s,o as w};

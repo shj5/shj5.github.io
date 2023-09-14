@@ -1,0 +1,1 @@
+const e=[{p:"zhōng",pp:"zhong1",d:"restless ☆ agitated",t:"忪"}],s=[{p:"zhēng zhōng",w:"怔忪",d:"frightened ☆ scared ☆ terrified",t:"怔忪"},{p:"xīng sōng",w:"惺忪",d:"drowsy-eyed ☆ wavering ☆ indecisive ☆ awake ☆ conscious ☆ clearheaded",t:"惺忪"}],n=[],t={s:e,w:s,i:n};export{t as default,n as i,e as s,s as w};

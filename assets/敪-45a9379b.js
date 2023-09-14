@@ -1,0 +1,1 @@
+const t=[{p:"duó",pp:"duo2",d:"to weigh ☆ to cut ☆ to come without being invited",t:"敪"}],o=[{p:"zhí duō",w:"直敪",d:"a kind of a robe",t:"直敪"}],d=[],i={s:t,w:o,i:d};export{i as default,d as i,t as s,o as w};

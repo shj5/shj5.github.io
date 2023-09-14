@@ -1,0 +1,1 @@
+const t=[{p:"hóng",pp:"hong2",d:"used in 雪裡蕻|雪里蕻[xue3 li3 hong2]",t:"蕻"},{p:"hòng",pp:"hong4",d:"(literary) luxuriant, flourishing ☆ (literary) bud ☆ (dialect) long stem of certain vegetables",t:"蕻"}],n=[{p:"xuě lǐ hóng",w:"雪里蕻",d:"potherb mustard (Brassica juncea var. crispifolia)",t:"雪裡蕻"}],i=[],s={s:t,w:n,i};export{s as default,i,t as s,n as w};

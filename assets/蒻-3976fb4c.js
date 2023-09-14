@@ -1,0 +1,1 @@
+const o=[{p:"ruò",pp:"ruo4",d:"young rush (Typha japonica), a kind of cattail",t:"蒻"}],a=[{p:"jǔ ruò",w:"蒟蒻",d:"konjac, konnyaku or devil's tongue (Amorphophallus konjac), plant whose corms are used to make a stiff jelly (as a food)",t:"蒟蒻"}],s=[],t={s:o,w:a,i:s};export{t as default,s as i,o as s,a as w};

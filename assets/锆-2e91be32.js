@@ -1,0 +1,1 @@
+const o=[{p:"gào",pp:"gao4",d:"zirconium (chemistry)",t:"鋯"}],i=[{p:"gào hé jīn",w:"锆合金",d:"zircaloy",t:"鋯合金"},{p:"gào shí",w:"锆石",d:"zircon (colored crystal of zirconium silicate ZrSiO4)",t:"鋯石"},{p:"gào yīng shā",w:"锆英砂",d:"zircon sand (zirconium ore)",t:"鋯英砂"}],c=[],s={s:o,w:i,i:c};export{s as default,c as i,o as s,i as w};

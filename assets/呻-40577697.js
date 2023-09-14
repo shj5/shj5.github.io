@@ -1,0 +1,1 @@
+const n=[{p:"shēn",pp:"shen1",d:"groan",t:"呻"}],s=[{p:"shēn yín",w:"呻吟",d:"to moan ☆ to groan",t:"呻吟"}],o=[{p:"wú bìng shēn yín",w:"无病呻吟",d:"to moan about imaginary illness ☆ fussing like a hypochondriac ☆ fig. sentimental nonsense",t:"無病呻吟"}],t={s:n,w:s,i:o};export{t as default,o as i,n as s,s as w};

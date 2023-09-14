@@ -1,0 +1,1 @@
+const t=[{p:"jī",pp:"ji1",d:"to present (a gift) ☆ to harbor (a feeling)",t:"賫"},{p:"jī",pp:"ji1",d:"variant of 齎|赍[ji1]",t:"賷"},{p:"jī",pp:"ji1",d:"(literary) to harbor (a feeling) ☆ (literary) to present as a gift",t:"齎"}],a=[{p:"jī hèn",w:"赍恨",d:"to have a gnawing regret",t:"齎恨"}],e=[],i={s:t,w:a,i:e};export{i as default,e as i,t as s,a as w};

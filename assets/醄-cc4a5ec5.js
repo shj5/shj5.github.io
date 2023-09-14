@@ -1,0 +1,1 @@
+const o=[{p:"táo",pp:"tao2",d:"very drunk ☆ blotto ☆ happy appearance ☆ happy looks",t:"醄"}],t=[{p:"máo táo",w:"酕醄",d:"very drunk",t:"酕醄"}],p=[],a={s:o,w:t,i:p};export{a as default,p as i,o as s,t as w};

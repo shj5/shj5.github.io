@@ -1,0 +1,1 @@
+const n=[{p:"pó",pp:"po2",d:"name of a lake",t:"鄱"}],a=[{p:"pó yáng",w:"鄱阳",d:"Poyang county in Shangrao 上饒|上饶, Jiangxi",t:"鄱陽"},{p:"pó yáng hú",w:"鄱阳湖",d:"Poyang Lake in Shangrao 上饒|上饶[Shang4 rao2], Jiangxi",t:"鄱陽湖"},{p:"pó yáng xiàn",w:"鄱阳县",d:"Poyang county in Shangrao 上饒|上饶, Jiangxi",t:"鄱陽縣"}],o=[],g={s:n,w:a,i:o};export{g as default,o as i,n as s,a as w};

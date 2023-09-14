@@ -1,0 +1,1 @@
+const t=[{p:"quán",pp:"quan2",d:"bamboo fish trap",t:"筌"}],n=[],o=[{p:"dé yú wàng quán",w:"得鱼忘筌",d:"lit. catch fish then forget the trap (idiom, from Zhuangzi 莊子|庄子[Zhuang1 zi3]), fig. to take help for granted",t:"得魚忘筌"}],a={s:t,w:n,i:o};export{a as default,o as i,t as s,n as w};

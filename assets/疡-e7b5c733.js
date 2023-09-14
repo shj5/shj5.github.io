@@ -1,0 +1,1 @@
+const s=[{p:"yáng",pp:"yang2",d:"ulcers ☆ sores",t:"瘍"}],t=[{p:"kuì yáng",w:"溃疡",d:"ulcer ☆ to ulcerate",t:"潰瘍"},{p:"chuāng yáng",w:"疮疡",d:"sore, skin ulcer",t:"瘡瘍"}],n=[],c={s,w:t,i:n};export{c as default,n as i,s,t as w};

@@ -1,0 +1,1 @@
+const i=[{p:"liú",pp:"liu2",d:"lutetium (chemistry) (Tw)",t:"鎦"}],t=[{p:"jīn liù zi",w:"金镏子",d:"gold ring ☆ CL:條|条[tiao2]",t:"金鎦子"},{p:"liù zi",w:"镏子",d:"a (finger) ring",t:"鎦子"},{p:"liú jīn",w:"镏金",d:"gold-plating ☆ gilded ☆ gold-plated",t:"鎦金"},{p:"liú yín qì",w:"镏银器",d:"gilded silverware ☆ CL:件[jian4]",t:"鎦銀器"}],l=[],d={s:i,w:t,i:l};export{d as default,l as i,i as s,t as w};

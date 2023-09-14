@@ -1,0 +1,1 @@
+const t=[{p:"luǒ",pp:"luo3",d:"a heap ☆ pile (of rocks)",t:"砢"}],o=[{p:"kē chen",w:"砢碜",d:"ugly ☆ unsightly ☆ shabby ☆ to humiliate ☆ to ridicule",t:"砢磣"}],s=[],i={s:t,w:o,i:s};export{i as default,s as i,t as s,o as w};

@@ -1,0 +1,1 @@
+const n=[{p:"shēng",pp:"sheng1",d:"(used as a surname and in given names)",t:"昇"}],s=[{p:"bì shēng",w:"毕昇",d:"Bi Sheng (990-1051), inventor of movable type",t:"畢昇"},{p:"hán shēng zhū",w:"韩昇洙",d:"Han Seung-soo (1936-), South Korean diplomat and politician, prime minister 2008-2009",t:"韓昇洙"}],e=[],t={s:n,w:s,i:e};export{t as default,e as i,n as s,s as w};

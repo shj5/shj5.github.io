@@ -1,0 +1,1 @@
+const a=[{p:"cuì",pp:"cui4",d:"haggard ☆ sad ☆ downcast ☆ distressed",t:"悴"},{p:"cuì",pp:"cui4",d:"variant of 悴[cui4]",t:"顇"}],t=[{p:"qiáo cuì",w:"憔悴",d:"wan and sallow ☆ thin and pallid ☆ haggard ☆ (of plants) withered",t:"憔悴"}],d=[],s={s:a,w:t,i:d};export{s as default,d as i,a as s,t as w};

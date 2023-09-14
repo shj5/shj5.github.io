@@ -1,0 +1,1 @@
+const t=[{p:"yì",pp:"yi4",d:"high and steep",t:"屹"}],s=[{p:"yì lì",w:"屹立",d:"to tower ☆ to stand straight (of person's bearing)",t:"屹立"}],o=[{p:"wēi rán yì lì",w:"巍然屹立",d:"to stand tall and rock-solid (idiom) ☆ towering majestically ☆ (of a person) to stand up against sb",t:"巍然屹立"}],a={s:t,w:s,i:o};export{a as default,o as i,t as s,s as w};

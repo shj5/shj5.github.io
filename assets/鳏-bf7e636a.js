@@ -1,0 +1,1 @@
+const o=[{p:"guān",pp:"guan1",d:"widower",t:"鰥"}],e=[{p:"guān fū",w:"鳏夫",d:"old wifeless man, bachelor, widower",t:"鰥夫"},{p:"guān jū",w:"鳏居",d:"to live as a widower",t:"鰥居"}],w=[{p:"guān guǎ gū dú",w:"鳏寡孤独",d:"lit. widowers, widows, orphans and the childless ☆ fig. people with no one left to rely on",t:"鰥寡孤獨"}],t={s:o,w:e,i:w};export{t as default,w as i,o as s,e as w};

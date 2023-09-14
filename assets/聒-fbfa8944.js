@@ -1,0 +1,1 @@
+const t=[{p:"guō",pp:"guo1",d:"raucous ☆ clamor ☆ unpleasantly noisy",t:"聒"}],o=[{p:"xù guō",w:"絮聒",d:"noisy prattle ☆ to chatter loudly",t:"絮聒"},{p:"guō zào",w:"聒噪",d:"a clamor ☆ noisy",t:"聒噪"},{p:"guō ěr",w:"聒耳",d:"raucous ☆ ear-splitting",t:"聒耳"}],s=[],a={s:t,w:o,i:s};export{a as default,s as i,t as s,o as w};

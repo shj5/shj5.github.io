@@ -1,0 +1,1 @@
+const l=[{p:"liè",pp:"lie4",d:"cold and raw",t:"冽"}],i=[{p:"lěng liè",w:"冷冽",d:"chilly",t:"冷冽"},{p:"lǐn liè",w:"凛冽",d:"biting cold",t:"凜冽"},{p:"shuò fēng lǐn liè",w:"朔风凛冽",d:"The north wind is icy cold.",t:"朔風凜冽"}],n=[],t={s:l,w:i,i:n};export{t as default,n as i,l as s,i as w};

@@ -1,0 +1,1 @@
+const n=[{p:"shéng",pp:"sheng2",d:"name of a river in Shandong",t:"澠"}],a=[{p:"miǎn chí",w:"渑池",d:"Mianchi county in Sanmenxia 三門峽|三门峡[San1 men2 xia2], Henan",t:"澠池"},{p:"miǎn chí xiàn",w:"渑池县",d:"Mianchi county in Sanmenxia 三門峽|三门峡[San1 men2 xia2], Henan",t:"澠池縣"}],i=[],e={s:n,w:a,i};export{e as default,i,n as s,a as w};

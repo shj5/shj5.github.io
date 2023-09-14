@@ -1,0 +1,1 @@
+const e=[{p:"hú",pp:"hu2",d:"ancient measuring vessel ☆ fifty liters ☆ dry measure for grain equal to five dou 五斗 (before Tang, ten pecks)",t:"斛"}],n=[{p:"shí hú",w:"石斛",d:"noble dendrobium (Dendrobium nobile)",t:"石斛"}],s=[],o={s:e,w:n,i:s};export{o as default,s as i,e as s,n as w};

@@ -1,0 +1,1 @@
+const e=[{p:"cǎ",pp:"ca3",d:"shredder ☆ grater (kitchen implement for grating vegetables) ☆ grindstone",t:"礤"}],t=[{p:"cǎ chuáng",w:"礤床",d:"vegetable shredder ☆ grater",t:"礤床"},{p:"cǎ chuáng r",w:"礤床儿",d:"shredder ☆ grater (kitchen implement for grating vegetables)",t:"礤床兒"}],r=[],n={s:e,w:t,i:r};export{n as default,r as i,e as s,t as w};

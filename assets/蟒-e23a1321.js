@@ -1,0 +1,1 @@
+const n=[{p:"mǎng",pp:"mang3",d:"python",t:"蟒"}],t=[{p:"jù mǎng",w:"巨蟒",d:"python",t:"巨蟒"},{p:"huā mǎng",w:"花蟒",d:"python",t:"花蟒"},{p:"mǎng shé",w:"蟒蛇",d:"python ☆ boa",t:"蟒蛇"},{p:"mǎng páo",w:"蟒袍",d:"official robe worn by ministers during the Ming 明 (1368-1644) and Qing 清 (1644-1911) dynasties",t:"蟒袍"}],o=[],p={s:n,w:t,i:o};export{p as default,o as i,n as s,t as w};

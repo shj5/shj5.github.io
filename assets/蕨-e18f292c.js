@@ -1,0 +1,1 @@
+const e=[{p:"jué",pp:"jue2",d:"Pteridium aquilinum ☆ bracken",t:"蕨"}],i=[{p:"jué cài",w:"蕨菜",d:"fiddlehead ☆ edible fern fronds",t:"蕨菜"},{p:"jué lèi",w:"蕨类",d:"(botany) fern, bracken, brake",t:"蕨類"},{p:"fèng wěi jué",w:"凤尾蕨",d:"brake (fern of genus Pteris) ☆ (esp.) spider fern (Pteris multifida)",t:"鳳尾蕨"}],n=[],t={s:e,w:i,i:n};export{t as default,n as i,e as s,i as w};

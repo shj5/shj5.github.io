@@ -1,0 +1,1 @@
+const i=[{p:"xiū",pp:"xiu1",d:"delicacies",t:"饈"}],t=[{p:"zhēn xiū",w:"珍馐",d:"delicacy ☆ dainties ☆ rare foodstuff",t:"珍饈"}],d=[{p:"zhēn xiū měi wèi",w:"珍馐美味",d:"delicacy and fine taste (idiom), a wonderful treat",t:"珍饈美味"},{p:"zhēn xiū měi zhuàn",w:"珍馐美馔",d:"delicacy and fine taste (idiom), a wonderful treat",t:"珍饈美饌"}],e={s:i,w:t,i:d};export{e as default,d as i,i as s,t as w};

@@ -1,0 +1,1 @@
+const o=[{p:"cù",pp:"cu4",d:"collect ☆ frame for silk worm ☆ nest",t:"蔟"}],s=[{p:"cán cù",w:"蚕蔟",d:"small bundle of straw etc provided for silkworms to spin cocoons on",t:"蠶蔟"}],c=[],t={s:o,w:s,i:c};export{t as default,c as i,o as s,s as w};

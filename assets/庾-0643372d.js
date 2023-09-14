@@ -1,0 +1,1 @@
+const n=[{p:"yǔ",pp:"yu3",d:"surname Yu ☆ name of a mountain",t:"庾"}],t=[{p:"dà yǔ lǐng",w:"大庾岭",d:"Dayu mountain range between southwest Jiangxi and Guangdong",t:"大庾嶺"},{p:"yǔ xìn",w:"庾信",d:"Yu Xin (513-581), poet from Liang of the Southern dynasties 南朝梁朝 and author of Lament for the South 哀江南賦|哀江南赋",t:"庾信"}],o=[],a={s:n,w:t,i:o};export{a as default,o as i,n as s,t as w};

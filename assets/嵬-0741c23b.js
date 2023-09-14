@@ -1,0 +1,1 @@
+const t=[{p:"wéi",pp:"wei2",d:"rocky",t:"嵬"}],i=[{p:"cuī wéi",w:"崔嵬",d:"Cui Wei (1912-1979), actor, dramatist and movie director",t:"崔嵬"}],o=[],c={s:t,w:i,i:o};export{c as default,o as i,t as s,i as w};

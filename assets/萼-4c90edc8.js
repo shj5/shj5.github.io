@@ -1,0 +1,1 @@
+const t=[{p:"è",pp:"e4",d:"calyx of a flower",t:"萼"},{p:"è",pp:"e4",d:"old variant of 萼[e4]",t:"蕚"}],o=[{p:"táng è",w:"糖萼",d:"glycocalyx",t:"糖萼"},{p:"huā è",w:"花萼",d:"sepal",t:"花萼"}],p=[],a={s:t,w:o,i:p};export{a as default,p as i,t as s,o as w};

@@ -1,0 +1,1 @@
+const t=[{p:"huò",pp:"huo4",d:"wok (dialect) ☆ cauldron (old)",t:"鑊"}],n=[],o=[{p:"dāo jù dǐng huò",w:"刀锯鼎镬",d:"knife, saw and cauldron ☆ ancient instruments of torture ☆ fig. torture",t:"刀鋸鼎鑊"},{p:"fǔ yuè tāng huò",w:"斧钺汤镬",d:"battle-ax and boiling cauldron (idiom), facing torture and execution",t:"斧鉞湯鑊"}],d={s:t,w:n,i:o};export{d as default,o as i,t as s,n as w};

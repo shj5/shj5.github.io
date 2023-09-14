@@ -1,0 +1,1 @@
+const o=[{p:"fā",pp:"fa1",d:"used in 醱酵|酦酵[fa1 jiao4]",t:"醱"},{p:"pō",pp:"po1",d:"to ferment alcohol",t:"醱"}],t=[{p:"fā jiào",w:"酦酵",d:"variant of 發酵|发酵[fa1 jiao4]",t:"醱酵"}],a=[],p={s:o,w:t,i:a};export{p as default,a as i,o as s,t as w};

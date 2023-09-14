@@ -1,0 +1,1 @@
+const i=[{p:"xiāo",pp:"xiao1",d:"the scream or roar of a tiger ☆ to intimidate ☆ to scare",t:"猇"}],t=[{p:"xiāo tíng",w:"猇亭",d:"Xiaoting district of Yichang city 宜昌市[Yi2 chang1 Shi4], Hubei",t:"猇亭"},{p:"xiāo tíng qū",w:"猇亭区",d:"Xiaoting district of Yichang city 宜昌市[Yi2 chang1 Shi4], Hubei",t:"猇亭區"}],o=[],a={s:i,w:t,i:o};export{a as default,o as i,i as s,t as w};

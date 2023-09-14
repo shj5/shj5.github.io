@@ -1,0 +1,1 @@
+const n=[{p:"liàn",pp:"lian4",d:"to prepare a dead body for coffin",t:"殮"}],o=[{p:"rù liàn",w:"入殓",d:"to put dead body in coffin",t:"入殮"},{p:"liàn fáng",w:"殓房",d:"morgue",t:"殮房"},{p:"bìn liàn",w:"殡殓",d:"to bury sb",t:"殯殮"}],t=[],d={s:n,w:o,i:t};export{d as default,t as i,n as s,o as w};

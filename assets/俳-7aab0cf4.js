@@ -1,0 +1,1 @@
+const i=[{p:"pái",pp:"pai2",d:"not serious ☆ variety show",t:"俳"}],t=[{p:"pái huái",w:"俳佪",d:"variant of 徘徊[pai2 huai2]",t:"俳佪"},{p:"pái jù",w:"俳句",d:"haiku",t:"俳句"}],p=[],s={s:i,w:t,i:p};export{s as default,p as i,i as s,t as w};

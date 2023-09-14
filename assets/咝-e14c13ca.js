@@ -1,0 +1,1 @@
+const s=[{p:"sī",pp:"si1",d:"(onom.) to hiss ☆ to whistle ☆ to whiz ☆ to fizz",t:"噝"}],o=[{p:"sī sī shēng",w:"咝咝声",d:"hissing sound (onom.)",t:"噝噝聲"},{p:"sī sī shēng",w:"咝咝声",d:"hissing sound (onom.)",t:"噝噝聲"}],t=[],n={s,w:o,i:t};export{n as default,t as i,s,o as w};

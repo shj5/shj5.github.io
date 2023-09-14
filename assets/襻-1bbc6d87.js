@@ -1,0 +1,1 @@
+const t=[{p:"pàn",pp:"pan4",d:"loop ☆ belt ☆ band ☆ to tie together ☆ to stitch together",t:"襻"}],o=[{p:"niǔ pàn",w:"纽襻",d:"button loop",t:"紐襻"},{p:"kòu pàn",w:"扣襻",d:"fastening",t:"釦襻"}],n=[],p={s:t,w:o,i:n};export{p as default,n as i,t as s,o as w};

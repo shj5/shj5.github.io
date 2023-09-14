@@ -1,0 +1,1 @@
+const o=[{p:"yín",pp:"yin2",d:"to go forward ☆ to advance",t:"冘"},{p:"yóu",pp:"you2",d:"(bound form) mostly used in either 冘豫[you2 yu4] or 冘疑[you2 yi2]",t:"冘"}],y=[{p:"yóu yí",w:"冘疑",d:"variant of 猶疑|犹疑[you2 yi2]",t:"冘疑"},{p:"yóu yù",w:"冘豫",d:"variant of 猶豫|犹豫[you2 yu4]",t:"冘豫"}],t=[],u={s:o,w:y,i:t};export{u as default,t as i,o as s,y as w};

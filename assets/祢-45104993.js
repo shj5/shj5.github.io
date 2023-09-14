@@ -1,0 +1,1 @@
+const t=[{p:"nǐ",pp:"ni3",d:"you (used to address a deity)",t:"祢"},{p:"mí",pp:"mi2",d:"surname Mi",t:"禰"},{p:"mí",pp:"mi2",d:"memorial tablet in a temple commemorating a deceased father",t:"禰"}],e=[],a=[],s={s:t,w:e,i:a};export{s as default,a as i,t as s,e as w};

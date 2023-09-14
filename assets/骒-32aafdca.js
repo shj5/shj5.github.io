@@ -1,0 +1,1 @@
+const e=[{p:"kè",pp:"ke4",d:"(bound form) (of a horse, mule, camel etc) female",t:"騍"}],t=[{p:"kè mǎ",w:"骒马",d:"mare",t:"騍馬"},{p:"kè tuó",w:"骒驼",d:"cow (female camel)",t:"騍駞"},{p:"kè luó",w:"骒骡",d:"mare (female mule)",t:"騍騾"}],m=[],a={s:e,w:t,i:m};export{a as default,m as i,e as s,t as w};

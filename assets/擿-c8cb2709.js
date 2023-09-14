@@ -1,0 +1,1 @@
+const t=[{p:"tī",pp:"ti1",d:"to select ☆ to nitpick ☆ to expose",t:"擿"},{p:"zhì",pp:"zhi4",d:"to scratch ☆ old variant of 擲|掷[zhi4]",t:"擿"}],o=[],s=[],p={s:t,w:o,i:s};export{p as default,s as i,t as s,o as w};

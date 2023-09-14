@@ -1,0 +1,1 @@
+const n=[{p:"zī",pp:"zi1",d:"variant of 咨[zi1]",t:"諮"}],t=[{p:"tóng chái zī shāng",w:"同侪谘商",d:"peer counseling",t:"同儕諮商"},{p:"zī shāng",w:"谘商",d:"(Tw) consultation ☆ counseling",t:"諮商"},{p:"zī xún",w:"谘询",d:"consultation ☆ to consult ☆ to inquire",t:"諮詢"},{p:"zī xún yuán",w:"谘询员",d:"advisor ☆ consultant",t:"諮詢員"}],o=[],s={s:n,w:t,i:o};export{s as default,o as i,n as s,t as w};

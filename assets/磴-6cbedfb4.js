@@ -1,0 +1,1 @@
+const n=[{p:"dèng",pp:"deng4",d:"cliff-ledge ☆ stone step",t:"磴"}],o=[{p:"dèng kǒu",w:"磴口",d:"Dengkou county in Bayan Nur 巴彥淖爾|巴彦淖尔[Ba1 yan4 nao4 er3], Inner Mongolia",t:"磴口"},{p:"dèng kǒu xiàn",w:"磴口县",d:"Dengkou county in Bayan Nur 巴彥淖爾|巴彦淖尔[Ba1 yan4 nao4 er3], Inner Mongolia",t:"磴口縣"}],a=[],e={s:n,w:o,i:a};export{e as default,a as i,n as s,o as w};

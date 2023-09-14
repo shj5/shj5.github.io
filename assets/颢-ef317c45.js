@@ -1,0 +1,1 @@
+const o=[{p:"hào",pp:"hao4",d:"(literary) white and shining",t:"顥"}],n=[{p:"cuī hào",w:"崔颢",d:"Cui Hao (-754), Tang dynasty poet and author of poem Yellow Crane Tower 黃鶴樓|黄鹤楼",t:"崔顥"},{p:"chéng hào",w:"程颢",d:"Cheng Hao (1032-1085), Song neo-Confucian scholar",t:"程顥"}],a=[],t={s:o,w:n,i:a};export{t as default,a as i,o as s,n as w};

@@ -1,0 +1,1 @@
+const s=[{p:"shū",pp:"shu1",d:"surname Shu",t:"殳"},{p:"shū",pp:"shu1",d:"bamboo or wooden spear ☆ Kangxi radical 79, occurring in 段[duan4], 毅[yi4], 殺|杀[sha1] etc",t:"殳"}],o=[],a=[],n={s,w:o,i:a};export{n as default,a as i,s,o as w};

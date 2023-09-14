@@ -1,0 +1,1 @@
+const t=[{p:"dǐ",pp:"di3",d:"to butt ☆ resist",t:"牴"}],d=[{p:"dǐ wǔ",w:"牴牾",d:"variant of 抵牾[di3 wu3]",t:"牴牾"},{p:"dǐ chù",w:"牴触",d:"variant of 抵觸|抵触[di3 chu4]",t:"牴觸"}],s=[],i={s:t,w:d,i:s};export{i as default,s as i,t as s,d as w};

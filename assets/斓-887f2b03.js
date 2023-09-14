@@ -1,0 +1,1 @@
+const n=[{p:"lán",pp:"lan2",d:"used in 斑斕|斑斓[ban1 lan2]",t:"斕"}],o=[{p:"bān lán",w:"斑斓",d:"gorgeous, brightly colored, multicolored",t:"斑斕"}],t=[],l={s:n,w:o,i:t};export{l as default,t as i,n as s,o as w};

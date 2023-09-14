@@ -1,0 +1,1 @@
+const t=[{p:"kāi",pp:"kai1",d:"to wipe",t:"揩"}],o=[{p:"kāi shì",w:"揩拭",d:"to wipe off ☆ to wipe clean",t:"揩拭"},{p:"kāi cā",w:"揩擦",d:"to wipe",t:"揩擦"},{p:"kāi yóu",w:"揩油",d:"to take advantage of sb ☆ to freeload",t:"揩油"}],e=[],i={s:t,w:o,i:e};export{i as default,e as i,t as s,o as w};

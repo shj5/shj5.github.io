@@ -1,0 +1,1 @@
+const n=[{p:"shāng",pp:"shang1",d:"feast ☆ goblet",t:"觴"}],t=[{p:"làn shāng",w:"滥觞",d:"lit. floating wine goblets on a stream ☆ the origin (of some phenomenon)",t:"濫觴"}],o=[],s={s:n,w:t,i:o};export{s as default,o as i,n as s,t as w};

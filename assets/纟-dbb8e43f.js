@@ -1,0 +1,1 @@
+const i=[{p:"sī",pp:"si1",d:'"silk" radical in Chinese characters (Kangxi radical 120), occurring in 紅|红[hong2], 綠|绿[lu:4], 累[lei4] etc ☆ also pr. [mi4]',t:"糹"}],s=[],c=[],a={s:i,w:s,i:c};export{a as default,c as i,i as s,s as w};

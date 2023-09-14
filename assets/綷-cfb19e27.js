@@ -1,0 +1,1 @@
+const c=[{p:"cuì",pp:"cui4",d:"five-color silk ☆ see 綷縩[cui4 cai4]",t:"綷"}],o=[{p:"cuì cài",w:"綷縩",d:"(onom.) sound of friction of fabric",t:"綷縩"}],i=[],s={s:c,w:o,i};export{s as default,i,c as s,o as w};

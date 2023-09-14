@@ -1,0 +1,1 @@
+const h=[{p:"hēi",pp:"hei1",d:"hey",t:"嘿"}],e=[{p:"hēi xiū",w:"嘿咻",d:"(coll.) to make love",t:"嘿咻"},{p:"hēi hēi",w:"嘿嘿",d:"(onom.) he he ☆ mischievous laughter",t:"嘿嘿"},{p:"hēi hēi",w:"嘿嘿",d:"(onom.) he he ☆ mischievous laughter",t:"嘿嘿"}],i=[],o={s:h,w:e,i};export{o as default,i,h as s,e as w};

@@ -1,0 +1,1 @@
+const n=[{p:"bīn",pp:"bin1",d:"(literary) a kind of jade",t:"玢"},{p:"fēn",pp:"fen1",d:"porphyrites",t:"玢"}],p=[{p:"sài lù fēn",w:"赛璐玢",d:"cellophane (loanword)",t:"賽璐玢"}],t=[],o={s:n,w:p,i:t};export{o as default,t as i,n as s,p as w};

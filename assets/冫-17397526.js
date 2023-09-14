@@ -1,0 +1,1 @@
+const i=[{p:"bīng",pp:"bing1",d:'"ice" radical in Chinese characters (Kangxi radical 15), occurring in 冰[bing1], 次[ci4] etc, known as 兩點水|两点水[liang3 dian3 shui3]',t:"冫"}],n=[],c=[],a={s:i,w:n,i:c};export{a as default,c as i,i as s,n as w};

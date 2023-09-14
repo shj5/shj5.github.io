@@ -1,0 +1,1 @@
+const o=[{p:"hōng",pp:"hong1",d:"sound of a Buddhist incantation",t:"吽"},{p:"hǒu",pp:"hou3",d:"roar or howl of an animal ☆ bellow of rage",t:"吽"}],n=[{p:"ōu yá",w:"吽牙",d:"sound of dogs fighting, also written 吽呀[ou1 ya2]",t:"吽牙"},{p:"ǎn má ní bā mī hōng",w:"唵嘛呢叭咪吽",d:"om mani padme hum (Buddhist mantra)",t:"唵嘛呢叭咪吽"}],t=[],a={s:o,w:n,i:t};export{a as default,t as i,o as s,n as w};

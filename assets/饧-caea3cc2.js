@@ -1,0 +1,1 @@
+const t=[{p:"xíng",pp:"xing2",d:"maltose syrup ☆ molasses ☆ heavy (eyelids) ☆ drowsy-eyed ☆ listless ☆ (of dough, candy etc) to soften ☆ to become soft and sticky",t:"餳"}],s=[{p:"xíng miàn",w:"饧面",d:"to let the dough rest (after mixing it)",t:"餳麵"}],e=[],o={s:t,w:s,i:e};export{o as default,e as i,t as s,s as w};

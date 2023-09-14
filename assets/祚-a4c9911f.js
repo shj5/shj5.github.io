@@ -1,0 +1,1 @@
+const t=[{p:"zuò",pp:"zuo4",d:"blessing ☆ the throne",t:"祚"}],o=[{p:"hēng zuò",w:"亨祚",d:"to prosper, to flourish",t:"亨祚"},{p:"guó zuò",w:"国祚",d:"the period over which a dynasty or nation endures",t:"國祚"}],s=[],e={s:t,w:o,i:s};export{e as default,s as i,t as s,o as w};

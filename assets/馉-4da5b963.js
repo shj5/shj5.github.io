@@ -1,0 +1,1 @@
+const n=[{p:"gǔ",pp:"gu3",d:"used in 餶飿|馉饳[gu3 duo4]",t:"餶"}],t=[{p:"gǔ duò",w:"馉饳",d:"a kind of wonton made in ancient times",t:"餶飿"},{p:"ān chún gǔ duò r",w:"鹌鹑馉饳儿",d:"a type of wonton made in a shape similar to that of a quail (in ancient times)",t:"鵪鶉餶飿兒"}],a=[],i={s:n,w:t,i:a};export{i as default,a as i,n as s,t as w};

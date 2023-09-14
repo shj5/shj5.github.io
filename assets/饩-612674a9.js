@@ -1,0 +1,1 @@
+const t=[{p:"xì",pp:"xi4",d:"grain ration ☆ sacrificial victim",t:"餼"}],i=[{p:"yōng xì",w:"饔饩",d:"to present slaughtered or live animals",t:"饔餼"}],s=[],a={s:t,w:i,i:s};export{a as default,s as i,t as s,i as w};

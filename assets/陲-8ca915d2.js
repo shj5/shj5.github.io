@@ -1,0 +1,1 @@
+const n=[{p:"chuí",pp:"chui2",d:"frontier",t:"陲"}],t=[{p:"zhōng guó xī běi biān chuí",w:"中国西北边陲",d:"border area of northwest China (i.e. Xinjiang)",t:"中國西北邊陲"},{p:"biān chuí",w:"边陲",d:"border area ☆ frontier",t:"邊陲"}],i=[],r={s:n,w:t,i};export{r as default,i,n as s,t as w};

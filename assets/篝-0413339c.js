@@ -1,0 +1,1 @@
+const o=[{p:"gōu",pp:"gou1",d:"bamboo frame for drying clothes ☆ bamboo cage",t:"篝"}],t=[{p:"gōu huǒ",w:"篝火",d:"bonfire",t:"篝火"}],i=[{p:"gōu huǒ hú míng",w:"篝火狐鸣",d:"to tell fox ghost stories around a bonfire and incite rebellion ☆ an uprising is afoot (idiom)",t:"篝火狐鳴"}],n={s:o,w:t,i};export{n as default,i,o as s,t as w};

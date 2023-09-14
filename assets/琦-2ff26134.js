@@ -1,0 +1,1 @@
+const i=[{p:"qí",pp:"qi2",d:"curio ☆ valuable stone",t:"琦"}],s=[{p:"cuī qí",w:"崔琦",d:"Daniel C. Tsui (1939-), Chinese-born American physicist, winner of 1998 Nobel Prize in Physics",t:"崔琦"}],n=[],e={s:i,w:s,i:n};export{e as default,n as i,i as s,s as w};

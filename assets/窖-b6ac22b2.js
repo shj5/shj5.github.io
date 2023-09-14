@@ -1,0 +1,1 @@
+const t=[{p:"jiào",pp:"jiao4",d:"cellar",t:"窖"}],o=[{p:"bīng jiào",w:"冰窖",d:"icehouse",t:"冰窖"},{p:"dì jiào",w:"地窖",d:"cellar ☆ basement",t:"地窖"},{p:"mù jiào",w:"墓窖",d:"catacomb",t:"墓窖"},{p:"dòu jiào",w:"窦窖",d:"cellar ☆ crypt",t:"竇窖"},{p:"jiǔ jiào",w:"酒窖",d:"wine cellar",t:"酒窖"}],c=[],i={s:t,w:o,i:c};export{i as default,c as i,t as s,o as w};

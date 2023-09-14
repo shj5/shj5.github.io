@@ -1,0 +1,1 @@
+const n=[{p:"nèn",pp:"nen4",d:"to think ☆ this ☆ which? ☆ how? (literary)",t:"恁"},{p:"nín",pp:"nin2",d:"old variant of 您[nin2]",t:"恁"}],t=[{p:"rèn bān",w:"恁般",d:"(old) this way ☆ this much",t:"恁般"},{p:"rèn me",w:"恁么",d:"(old) this way ☆ what?",t:"恁麼"}],i=[],o={s:n,w:t,i};export{o as default,i,n as s,t as w};

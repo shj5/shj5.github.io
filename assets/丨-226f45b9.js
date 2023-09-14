@@ -1,0 +1,1 @@
+const s=[{p:"gǔn",pp:"gun3",d:"radical in Chinese characters (Kangxi radical 2)",t:"丨"},{p:"shù",pp:"shu4",d:"vertical stroke (in Chinese characters), referred to as 豎筆|竖笔[shu4 bi3]",t:"丨"}],a=[],e=[],t={s,w:a,i:e};export{t as default,e as i,s,a as w};

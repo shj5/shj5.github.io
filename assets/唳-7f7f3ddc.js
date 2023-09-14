@@ -1,0 +1,1 @@
+const t=[{p:"lì",pp:"li4",d:"cry of a crane or wild goose",t:"唳"}],i=[],n=[{p:"fēng shēng hè lì",w:"风声鹤唳",d:"lit. wind sighing and crane calling (idiom) ☆ fig. to panic at the slightest move ☆ to be jittery",t:"風聲鶴唳"}],o={s:t,w:i,i:n};export{o as default,n as i,t as s,i as w};

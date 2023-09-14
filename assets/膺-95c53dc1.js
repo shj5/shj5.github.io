@@ -1,0 +1,1 @@
+const n=[{p:"yīng",pp:"ying1",d:"breast ☆ receive",t:"膺"}],t=[{p:"fú yīng",w:"服膺",d:"to bear in mind",t:"服膺"},{p:"yīng xuǎn",w:"膺选",d:"to be elected",t:"膺選"}],i=[{p:"yì fèn tián yīng",w:"义愤填膺",d:"righteous indignation fills one's breast (idiom), to feel indignant at injustice",t:"義憤填膺"}],e={s:n,w:t,i};export{e as default,i,n as s,t as w};

@@ -1,0 +1,1 @@
+const t=[{p:"gǔ",pp:"gu3",d:"to implicate ☆ net for birds or fish",t:"罟"}],s=[{p:"wǎng gǔ",w:"网罟",d:"net used to catch fish (or birds etc) ☆ (fig.) the net of justice 法網|法网[fa3 wang3]",t:"網罟"},{p:"wǎng gǔ zuò",w:"网罟座",d:"Reticulum (constellation)",t:"網罟座"}],o=[],e={s:t,w:s,i:o};export{e as default,o as i,t as s,s as w};

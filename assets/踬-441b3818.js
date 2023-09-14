@@ -1,0 +1,1 @@
+const t=[{p:"zhì",pp:"zhi4",d:"to stumble",t:"躓"}],o=[],s=[{p:"bá qián zhì hòu",w:"跋前踬后",d:"to trip forwards or stumble back (idiom, from Book of Songs), can't get anything right",t:"跋前躓後"}],i={s:t,w:o,i:s};export{i as default,s as i,t as s,o as w};

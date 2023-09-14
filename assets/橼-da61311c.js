@@ -1,0 +1,1 @@
+const t=[{p:"yuán",pp:"yuan2",d:"Citrus medica",t:"櫞"}],i=[{p:"jǔ yuán",w:"枸橼",d:"citron (Citrus medica) ☆ grapefruit",t:"枸櫞"},{p:"xiāng yuán",w:"香橼",d:"grapefruit",t:"香櫞"}],n=[],s={s:t,w:i,i:n};export{s as default,n as i,t as s,i as w};

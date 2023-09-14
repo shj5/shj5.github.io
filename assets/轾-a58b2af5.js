@@ -1,0 +1,1 @@
+const t=[{p:"zhì",pp:"zhi4",d:"back and lower of chariot ☆ short ☆ low",t:"輊"}],o=[],a=[{p:"bù fēn xuān zhì",w:"不分轩轾",d:"well-matched ☆ equally matched",t:"不分軒輊"}],c={s:t,w:o,i:a};export{c as default,a as i,t as s,o as w};

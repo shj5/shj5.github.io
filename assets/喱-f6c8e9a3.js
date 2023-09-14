@@ -1,0 +1,1 @@
+const o=[{p:"lí",pp:"li2",d:"grain (unit of weight, approx. 0.065 grams)",t:"喱"}],t=[{p:"gā lí",w:"咖喱",d:"curry (loanword)",t:"咖喱"},{p:"gā lí fěn",w:"咖喱粉",d:"curry powder",t:"咖喱粉"},{p:"zhě lí",w:"啫喱",d:"(loanword) jelly ☆ gel",t:"啫喱"}],l=[],r={s:o,w:t,i:l};export{r as default,l as i,o as s,t as w};

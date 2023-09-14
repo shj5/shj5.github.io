@@ -1,0 +1,1 @@
+const o=[{p:"chěng",pp:"cheng3",d:"to hasten ☆ to run ☆ to open up ☆ to gallop",t:"騁"}],t=[{p:"chí chěng",w:"驰骋",d:"to gallop ☆ to rush headlong",t:"馳騁"}],n=[{p:"zòng héng chí chěng",w:"纵横驰骋",d:"to criss-cross ☆ to run unhindered across the whole country",t:"縱橫馳騁"}],s={s:o,w:t,i:n};export{s as default,n as i,o as s,t as w};

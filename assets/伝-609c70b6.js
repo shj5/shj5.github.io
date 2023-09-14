@@ -1,0 +1,1 @@
+const t=[{p:"chuán",pp:"chuan2",d:"Japanese variant of 傳|传",t:"伝"},{p:"yún",pp:"yun2",d:"to summon ☆ to propagate ☆ to transmit",t:"伝"}],n=[],o=[],a={s:t,w:n,i:o};export{a as default,o as i,t as s,n as w};

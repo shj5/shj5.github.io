@@ -1,0 +1,1 @@
+const t=[{p:"wò",pp:"wo4",d:"see 石硪[shi2 wo4]",t:"硪"}],s=[{p:"shí wò",w:"石硪",d:"flat stone with ropes attached, used to ram the ground",t:"石硪"}],o=[],e={s:t,w:s,i:o};export{e as default,o as i,t as s,s as w};

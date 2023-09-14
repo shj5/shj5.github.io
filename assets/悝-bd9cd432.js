@@ -1,0 +1,1 @@
+const t=[{p:"kuī",pp:"kui1",d:"to laugh at",t:"悝"},{p:"lǐ",pp:"li3",d:"worried ☆ afflicted",t:"悝"}],i=[{p:"lǐ kuī",w:"李悝",d:"Li Kui (455-395 BC), legalist philosopher and statesman of Wei state 魏國|魏国[Wei4 guo2]",t:"李悝"}],s=[],o={s:t,w:i,i:s};export{o as default,s as i,t as s,i as w};

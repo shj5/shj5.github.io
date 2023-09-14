@@ -1,0 +1,1 @@
+const o=[{p:"yú",pp:"yu2",d:"cornelian cherry",t:"萸"}],n=[{p:"shān zhū yú",w:"山茱萸",d:"Cornus officinalis ☆ sour mountain date ☆ herb associated with longevity",t:"山茱萸"},{p:"zhū yú",w:"茱萸",d:"Cornus officinalis (Japanese cornel dogwood, a kind of herb)",t:"茱萸"}],s=[],i={s:o,w:n,i:s};export{i as default,s as i,o as s,n as w};

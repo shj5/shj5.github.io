@@ -1,0 +1,1 @@
+const t=[{p:"jiàng",pp:"jiang4",d:"(of soup, paste etc) thick",t:"糨"}],s=[{p:"jiàng zi",w:"糨子",d:"(coll.) paste",t:"糨子"},{p:"jiàng hu",w:"糨糊",d:"paste ☆ also written 漿糊|浆糊[jiang4 hu5]",t:"糨糊"}],i=[],n={s:t,w:s,i};export{n as default,i,t as s,s as w};

@@ -1,0 +1,1 @@
+const n=[{p:"pèng",pp:"peng4",d:"used in 椪柑[peng4 gan1]",t:"椪"}],t=[{p:"pèng gān",w:"椪柑",d:"ponkan, a variety of tangerine",t:"椪柑"},{p:"lǜ dòu pèng",w:"绿豆椪",d:"mung bean cake (pastry with a rounded top, containing a sweet or savory filling made with cooked mung beans)",t:"綠豆椪"}],a=[],e={s:n,w:t,i:a};export{e as default,a as i,n as s,t as w};

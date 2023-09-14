@@ -1,0 +1,1 @@
+const p=[{p:"qì",pp:"qi4",d:"maple ☆ also pr. [zu2]",t:"槭"}],t=[{p:"qì mù",w:"槭木",d:"maple (timber)",t:"槭木"},{p:"qì shù",w:"槭树",d:"maple",t:"槭樹"},{p:"qì táng jiāng",w:"槭糖浆",d:"maple syrup",t:"槭糖漿"}],s=[],a={s:p,w:t,i:s};export{a as default,s as i,p as s,t as w};

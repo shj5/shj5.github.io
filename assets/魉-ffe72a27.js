@@ -1,0 +1,1 @@
+const n=[{p:"liǎng",pp:"liang3",d:"sprite ☆ fairy",t:"魎"}],s=[{p:"wǎng liǎng",w:"魍魉",d:"sprites and goblins ☆ monsters and demons",t:"魍魎"},{p:"wǎng liǎng guǐ guài",w:"魍魉鬼怪",d:"ghoulies and bogeys ☆ things that go bump in the night",t:"魍魎鬼怪"}],i=[{p:"chī mèi wǎng liǎng",w:"魑魅魍魉",d:"demons and monsters (idiom)",t:"魑魅魍魎"}],t={s:n,w:s,i};export{t as default,i,n as s,s as w};

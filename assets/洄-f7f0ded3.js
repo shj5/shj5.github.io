@@ -1,0 +1,1 @@
+const t=[{p:"huí",pp:"hui2",d:"eddying ☆ whirling (of water) ☆ to go against the current",t:"洄"}],o=[{p:"yán huí",w:"沿洄",d:"to go with the stream",t:"沿洄"},{p:"huí yóu",w:"洄游",d:"(of fish) to migrate",t:"洄游"}],i=[],s={s:t,w:o,i};export{s as default,i,t as s,o as w};

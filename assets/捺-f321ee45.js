@@ -1,0 +1,1 @@
+const t=[{p:"nà",pp:"na4",d:"to press down firmly ☆ to suppress ☆ right-falling stroke in Chinese characters (e.g. the last stroke of 大[da4])",t:"捺"}],o=[{p:"àn nà",w:"按捺",d:"to restrain ☆ to control",t:"按捺"}],s=[{p:"àn nà bu zhù",w:"按捺不住",d:"to be unable to hold back",t:"按捺不住"}],n={s:t,w:o,i:s};export{n as default,s as i,t as s,o as w};

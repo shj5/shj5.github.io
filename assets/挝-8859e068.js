@@ -1,0 +1,1 @@
+const t=[{p:"wō",pp:"wo1",d:"ancient weapon with a tip shaped like a hand or claw",t:"撾"},{p:"zhuā",pp:"zhua1",d:"beat",t:"撾"}],a=[{p:"lǎo wō",w:"老挝",d:"Laos",t:"老撾"},{p:"fēi wō",w:"飞挝",d:"ancient weapon with a tip like a grappling hook, thrown at enemy combatants in order to capture them",t:"飛撾"}],o=[],p={s:t,w:a,i:o};export{p as default,o as i,t as s,a as w};

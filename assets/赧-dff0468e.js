@@ -1,0 +1,1 @@
+const n=[{p:"nǎn",pp:"nan3",d:"blushing with shame",t:"赧"}],s=[{p:"kuì nǎn",w:"愧赧",d:"to blush in shame ☆ red-faced",t:"愧赧"},{p:"xiū nǎn",w:"羞赧",d:"(literary) embarrassed ☆ bashful",t:"羞赧"},{p:"nǎn rán",w:"赧然",d:"blushing ☆ embarrassed",t:"赧然"}],t=[],a={s:n,w:s,i:t};export{a as default,t as i,n as s,s as w};

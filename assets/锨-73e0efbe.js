@@ -1,0 +1,1 @@
+const t=[{p:"xiān",pp:"xian1",d:"shovel",t:"鍁"}],e=[{p:"lǎo shǔ tuō mù xiān , dà tóu zài hòu tou",w:"老鼠拖木锨，大头在后头",d:"when the mice drag a shovel, the biggest thing comes second ☆ the tip of the iceberg ☆ the cockroach principle",t:"老鼠拖木鍁，大頭在後頭"},{p:"tiě xiān",w:"铁锨",d:"iron shovel ☆ spade ☆ CL:把[ba3]",t:"鐵鍁"}],i=[],o={s:t,w:e,i};export{o as default,i,t as s,e as w};

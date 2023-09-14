@@ -1,0 +1,1 @@
+const t=[{p:"jìng",pp:"jing4",d:"strong ☆ powerful",t:"倞"},{p:"liàng",pp:"liang4",d:"distant ☆ to seek ☆ old variant of 亮[liang4] ☆ bright",t:"倞"}],n=[],o=[],s={s:t,w:n,i:o};export{s as default,o as i,t as s,n as w};

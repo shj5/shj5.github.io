@@ -1,0 +1,1 @@
+const t=[{p:"huàn",pp:"huan4",d:"(of writing, pictures etc) indistinct due to deterioration (water damage etc) ☆ blurry ☆ eroded",t:"漶"}],e=[{p:"màn huàn",w:"漫漶",d:"(of writing etc) indistinct (due to water damage or wear)",t:"漫漶"}],i=[],n={s:t,w:e,i};export{n as default,i,t as s,e as w};

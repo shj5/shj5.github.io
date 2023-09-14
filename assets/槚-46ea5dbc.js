@@ -1,0 +1,1 @@
+const s=[{p:"jiǎ",pp:"jia3",d:"Catalpa, a genus of mostly deciduous trees ☆ old term for Camellia sinensis, the tea plant 茶 ☆ also called Thea sinensis ☆ small evergreen shrub (Mallotus japonicus)",t:"檟"}],e=[],a=[],t={s,w:e,i:a};export{t as default,a as i,s,e as w};

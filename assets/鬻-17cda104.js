@@ -1,0 +1,1 @@
+const n=[{p:"yù",pp:"yu4",d:"to sell, esp. in strained circumstances",t:"鬻"}],t=[{p:"xūn yù",w:"獯鬻",d:"an ethnic group in ancient northern China ☆ also written 葷粥|荤粥[Xun1 yu4]",t:"獯鬻"}],s=[],e={s:n,w:t,i:s};export{e as default,s as i,n as s,t as w};

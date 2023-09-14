@@ -1,0 +1,1 @@
+const n=[{p:"yǎn",pp:"yan3",d:"mole",t:"鼴"}],o=[{p:"zhēn yǎn",w:"针鼹",d:"echidna",t:"針鼴"},{p:"yǎn shǔ",w:"鼹鼠",d:"mole (zoology)",t:"鼴鼠"},{p:"yǎn shǔ pí",w:"鼹鼠皮",d:"moleskin",t:"鼴鼠皮"}],s=[],t={s:n,w:o,i:s};export{t as default,s as i,n as s,o as w};

@@ -1,0 +1,1 @@
+const t=[{p:"yáng",pp:"yang2",d:"molten ☆ smelt",t:"煬"}],e=[{p:"yáng jīn",w:"炀金",d:"molten metal",t:"煬金"},{p:"suí yáng dì",w:"隋炀帝",d:"Emperor Yang of Sui (569-618), said to have murdered his father and brother to seize the throne, reigned 604-618",t:"隋煬帝"}],n=[],o={s:t,w:e,i:n};export{o as default,n as i,t as s,e as w};

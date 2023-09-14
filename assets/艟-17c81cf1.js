@@ -1,0 +1,1 @@
+const n=[{p:"chōng",pp:"chong1",d:"see 艨艟, ancient leatherclad warship",t:"艟"}],t=[{p:"méng chōng",w:"艨艟",d:"ancient leatherclad warship",t:"艨艟"}],c=[],a={s:n,w:t,i:c};export{a as default,c as i,n as s,t as w};

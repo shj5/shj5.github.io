@@ -1,0 +1,1 @@
+const n=[{p:"mì",pp:"mi4",d:"used in 峚山[Mi4 Shan1]",t:"峚"}],i=[{p:"mì shān",w:"峚山",d:"Mi Shan, mountain in Shaanxi province ☆ also written 密山[Mi4 Shan1]",t:"峚山"}],t=[],s={s:n,w:i,i:t};export{s as default,t as i,n as s,i as w};

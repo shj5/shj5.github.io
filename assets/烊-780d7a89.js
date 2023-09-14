@@ -1,0 +1,1 @@
+const n=[{p:"yáng",pp:"yang2",d:"molten ☆ smelt",t:"烊"}],t=[{p:"dǎ yàng",w:"打烊",d:"to close shop in the evening ☆ also pr. [da3 yang2]",t:"打烊"},{p:"yáng jīn",w:"烊金",d:"variant of 煬金|炀金[yang2 jin1]",t:"烊金"}],o=[],s={s:n,w:t,i:o};export{s as default,o as i,n as s,t as w};

@@ -1,0 +1,1 @@
+const t=[{p:"zāi",pp:"zai1",d:"steroid nucleus",t:"甾"}],o=[{p:"zāi tóng",w:"甾酮",d:"sterone (steroid containing a ketone group) ☆ steroid hormone",t:"甾酮"},{p:"zāi chún",w:"甾醇",d:"sterol (chemistry)",t:"甾醇"},{p:"gāo wán zāi tóng",w:"睾丸甾酮",d:"testosterone",t:"睾丸甾酮"},{p:"gāo zāi tóng",w:"睾甾酮",d:"testosterone",t:"睾甾酮"}],e=[],n={s:t,w:o,i:e};export{n as default,e as i,t as s,o as w};

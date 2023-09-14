@@ -1,0 +1,1 @@
+const t=[{p:"tuān",pp:"tuan1",d:"to rush (of water)",t:"湍"}],n=[{p:"tuān jí",w:"湍急",d:"rapid (flow of water)",t:"湍急"},{p:"tuān liú",w:"湍流",d:"turbulence",t:"湍流"}],o=[],s={s:t,w:n,i:o};export{s as default,o as i,t as s,n as w};

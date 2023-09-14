@@ -1,0 +1,1 @@
+const n=[{p:"lì",pp:"li4",d:"hole, pit",t:"壢"}],o=[{p:"zhōng lì",w:"中坜",d:"Zhongli or Chungli city in Taoyuan county 桃園縣|桃园县[Tao2 yuan2 xian4], north Taiwan",t:"中壢"},{p:"zhōng lì shì",w:"中坜市",d:"Zhongli or Chungli city in Taoyuan county 桃園縣|桃园县[Tao2 yuan2 xian4], north Taiwan",t:"中壢市"}],a=[],i={s:n,w:o,i:a};export{i as default,a as i,n as s,o as w};

@@ -1,0 +1,1 @@
+const t=[{p:"zhī",pp:"zhi1",d:"used in 胼胝[pian2 zhi1]",t:"胝"}],s=[{p:"pián zhī",w:"胼胝",d:"callus",t:"胼胝"},{p:"pián zhī tǐ",w:"胼胝体",d:"(anatomy) corpus callosum",t:"胼胝體"}],n=[{p:"pián shǒu zhī zú",w:"胼手胝足",d:"lit. with calluses on hands and feet (idiom) ☆ fig. to work one's fingers to the bone",t:"胼手胝足"}],i={s:t,w:s,i:n};export{i as default,n as i,t as s,s as w};

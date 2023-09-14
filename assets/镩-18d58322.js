@@ -1,0 +1,1 @@
+const i=[{p:"cuān",pp:"cuan1",d:"ice spud (aka ice chisel) with a pointy tip ☆ to break a hole in ice (for ice fishing etc) using an ice spud",t:"鑹"}],c=[{p:"bīng cuān",w:"冰镩",d:"ice spud (aka ice chisel) with a pointy tip",t:"冰鑹"},{p:"cuān zi",w:"镩子",d:"ice spud (aka ice chisel) with a pointy tip",t:"鑹子"}],t=[],e={s:i,w:c,i:t};export{e as default,t as i,i as s,c as w};

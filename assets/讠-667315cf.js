@@ -1,0 +1,1 @@
+const a=[{p:"yán",pp:"yan2",d:'"speech" or "words" radical in Chinese characters (Kangxi radical 149) ☆ see also 言字旁[yan2 zi4 pang2]',t:"訁"}],s=[],n=[],c={s:a,w:s,i:n};export{c as default,n as i,a as s,s as w};

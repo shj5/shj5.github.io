@@ -1,0 +1,1 @@
+const n=[{p:"kuān",pp:"kuan1",d:"pelvis ☆ pelvic",t:"髖"}],p=[{p:"kuān guān jié",w:"髋关节",d:"pelvis ☆ hip joint",t:"髖關節"},{p:"kuān gǔ",w:"髋骨",d:"hip bone",t:"髖骨"}],t=[],i={s:n,w:p,i:t};export{i as default,t as i,n as s,p as w};

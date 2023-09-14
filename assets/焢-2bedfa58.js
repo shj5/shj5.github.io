@@ -1,0 +1,1 @@
+const n=[{p:"hōng",pp:"hong1",d:"angry appearance (archaic)",t:"焢"},{p:"kòng",pp:"kong4",d:"see 焢肉[kong4 rou4]",t:"焢"}],o=[{p:"kòng ròu",w:"焢肉",d:"slow-braised pork belly (Tw)",t:"焢肉"}],p=[],s={s:n,w:o,i:p};export{s as default,p as i,n as s,o as w};

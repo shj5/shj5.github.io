@@ -1,0 +1,1 @@
+const n=[{p:"bīn",pp:"bin1",d:"best man ☆ to entertain",t:"儐"}],t=[{p:"bīn xiàng",w:"傧相",d:"attendant of the bride or bridegroom at a wedding",t:"儐相"},{p:"nǚ bīn xiàng",w:"女傧相",d:"bridesmaid",t:"女儐相"},{p:"nán bīn xiàng",w:"男傧相",d:"best man (in a marriage)",t:"男儐相"}],i=[],a={s:n,w:t,i};export{a as default,i,n as s,t as w};

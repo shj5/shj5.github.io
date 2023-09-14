@@ -1,0 +1,1 @@
+const p=[{p:"piē",pp:"pie1",d:"to shoot a glance ☆ glance ☆ to appear in a flash",t:"瞥"}],t=[{p:"yī piē",w:"一瞥",d:"glance ☆ glimpse",t:"一瞥"},{p:"piē jiàn",w:"瞥见",d:"to glimpse",t:"瞥見"}],s=[],a={s:p,w:t,i:s};export{a as default,s as i,p as s,t as w};

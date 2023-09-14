@@ -1,0 +1,1 @@
+const s=[{p:"shū",pp:"shu1",d:"sudden ☆ abrupt",t:"倏"},{p:"shū",pp:"shu1",d:"variant of 倏[shu1]",t:"倐"},{p:"shū",pp:"shu1",d:"variant of 倏[shu1]",t:"儵"}],t=[{p:"shū de",w:"倏地",d:"swiftly ☆ suddenly",t:"倏地"},{p:"shū hū",w:"倏忽",d:"(literary) suddenly",t:"倏忽"},{p:"shū rán",w:"倏然",d:"(literary) suddenly",t:"倏然"}],d=[],p={s,w:t,i:d};export{p as default,d as i,s,t as w};

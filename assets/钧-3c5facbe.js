@@ -1,0 +1,1 @@
+const t=[{p:"jūn",pp:"jun1",d:"30 catties ☆ great ☆ your (honorific)",t:"鈞"}],n=[{p:"jūn yù",w:"钧谕",d:"(deferential) your instructions",t:"鈞諭"}],i=[{p:"qiān jūn yī fà",w:"千钧一发",d:"a thousand pounds hangs by a thread (idiom) ☆ imminent peril ☆ a matter of life or death",t:"千鈞一髮"}],o={s:t,w:n,i};export{o as default,i,t as s,n as w};

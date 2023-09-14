@@ -1,0 +1,1 @@
+const s=[{p:"bí",pp:"bi2",d:"see 荸薺|荸荠[bi2 qi2]",t:"荸"}],t=[{p:"bí qí",w:"荸荠",d:"Chinese water chestnut ☆ Eleocharis dulcis or E. congesta",t:"荸薺"}],e=[],c={s,w:t,i:e};export{c as default,e as i,s,t as w};

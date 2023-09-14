@@ -1,0 +1,1 @@
+const a=[{p:"jiāo",pp:"jiao1",d:"Zizania aquatica",t:"茭"}],i=[{p:"jiāo bái",w:"茭白",d:"Manchurian wild rice 菰[gu1], aka water bamboo, or its edible stem, which resembles a bamboo shoot",t:"茭白"},{p:"jiāo bái sǔn",w:"茭白笋",d:"edible stem of Manchurian wild rice 菰[gu1], aka water bamboo",t:"茭白筍"}],o=[],t={s:a,w:i,i:o};export{t as default,o as i,a as s,i as w};

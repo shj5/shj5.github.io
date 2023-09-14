@@ -1,0 +1,1 @@
+const m=[{p:"mǎ",pp:"ma3",d:"mammoth",t:"獁"}],t=[{p:"měng mǎ",w:"猛犸",d:"mammoth",t:"猛獁"},{p:"měng mǎ xiàng",w:"猛犸象",d:"see 猛獁|猛犸[meng3 ma3]",t:"猛獁象"}],n=[],s={s:m,w:t,i:n};export{s as default,n as i,m as s,t as w};

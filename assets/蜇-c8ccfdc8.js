@@ -1,0 +1,1 @@
+const t=[{p:"zhē",pp:"zhe1",d:"to sting",t:"蜇"},{p:"zhé",pp:"zhe2",d:"jellyfish",t:"蜇"}],e=[{p:"hǎi zhé",w:"海蜇",d:"Rhopilema esculenta, an edible jellyfish",t:"海蜇"}],s=[],h={s:t,w:e,i:s};export{h as default,s as i,t as s,e as w};

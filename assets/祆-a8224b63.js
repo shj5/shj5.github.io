@@ -1,0 +1,1 @@
+const i=[{p:"xiān",pp:"xian1",d:"Ahura Mazda, the creator deity in Zoroastrianism",t:"祆"}],a=[{p:"xiān jiào",w:"祆教",d:"Zoroastrianism",t:"祆教"},{p:"xiān dào",w:"祆道",d:"Zoroastrianism ☆ see also 祆教[Xian1 jiao4]",t:"祆道"}],o=[],s={s:i,w:a,i:o};export{s as default,o as i,i as s,a as w};

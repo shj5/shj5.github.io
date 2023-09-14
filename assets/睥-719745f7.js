@@ -1,0 +1,1 @@
+const o=[{p:"pì",pp:"pi4",d:"used in 睥睨[pi4 ni4]",t:"睥"}],t=[{p:"pì nì",w:"睥睨",d:"(literary) to look disdainfully out of the corner of one's eye, to look askance at",t:"睥睨"}],n=[],s={s:o,w:t,i:n};export{s as default,n as i,o as s,t as w};

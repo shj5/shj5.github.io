@@ -1,0 +1,1 @@
+const s=[{p:"suō",pp:"suo1",d:"carboxyl radical (chemistry)",t:"羧"}],c=[{p:"suō jī",w:"羧基",d:"carboxyl group -COOH",t:"羧基"},{p:"suō jī suān",w:"羧基酸",d:"carboxylic acid",t:"羧基酸"},{p:"suō jiǎ sī tǎn",w:"羧甲司坦",d:"carbocysteine",t:"羧甲司坦"},{p:"suō suān",w:"羧酸",d:"carboxylic acid",t:"羧酸"}],t=[],o={s,w:c,i:t};export{o as default,t as i,s,c as w};

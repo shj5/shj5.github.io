@@ -1,0 +1,1 @@
+const e=[{p:"kù",pp:"ku4",d:"one of the five legendary emperors, also called 高辛氏[Gao1 xin1 shi4]",t:"嚳"}],o=[{p:"dì kù",w:"帝喾",d:"Di Ku or Emperor Ku, one of the Five Legendary Emperors 五帝[wu3 di4], great-grandson of the Yellow Emperor 黃帝|黄帝[Huang2 di4]",t:"帝嚳"}],r=[],n={s:e,w:o,i:r};export{n as default,r as i,e as s,o as w};

@@ -1,0 +1,1 @@
+const i=[{p:"pài",pp:"pai4",d:"used in transliteration",t:"哌"}],e=[{p:"pài dìng",w:"哌啶",d:"piperidine (chemistry) (loanword)",t:"哌啶"},{p:"pài qín",w:"哌嗪",d:"piperazine (medicine) (loanword)",t:"哌嗪"},{p:"pài tì dìng",w:"哌替啶",d:"pethidine (aka meperidine or Demerol) (loanword)",t:"哌替啶"}],n=[],p={s:i,w:e,i:n};export{p as default,n as i,i as s,e as w};

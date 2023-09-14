@@ -1,0 +1,1 @@
+const t=[{p:"bì",pp:"bi4",d:"used in 獙獙[bi4 bi4]",t:"獙"}],i=[{p:"bì bì",w:"獙獙",d:"mythological beast resembling a fox with wings",t:"獙獙"},{p:"bì bì",w:"獙獙",d:"mythological beast resembling a fox with wings",t:"獙獙"}],s=[],b={s:t,w:i,i:s};export{b as default,s as i,t as s,i as w};

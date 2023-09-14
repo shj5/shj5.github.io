@@ -1,0 +1,1 @@
+const t=[{p:"háo",pp:"hao2",d:"trench",t:"濠"}],o=[{p:"háo jiāng",w:"濠江",d:"Haojiang District of Shantou city 汕頭市|汕头市[Shan4 tou2 Shi4], Guangdong",t:"濠江"},{p:"háo jiāng qū",w:"濠江区",d:"Haojiang District of Shantou City 汕頭市|汕头市[Shan4 tou2 Shi4], Guangdong",t:"濠江區"}],n=[],i={s:t,w:o,i:n};export{i as default,n as i,t as s,o as w};

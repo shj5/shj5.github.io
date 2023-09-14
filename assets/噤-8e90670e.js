@@ -1,0 +1,1 @@
+const n=[{p:"jìn",pp:"jin4",d:"unable to speak ☆ silent",t:"噤"}],t=[{p:"jìn shēng",w:"噤声",d:"to keep silent",t:"噤聲"},{p:"jìn shēng lìng",w:"噤声令",d:"gag order",t:"噤聲令"},{p:"hán jìn",w:"寒噤",d:"a shiver",t:"寒噤"}],e=[{p:"jìn ruò hán chán",w:"噤若寒蝉",d:"to keep quiet out of fear (idiom)",t:"噤若寒蟬"}],s={s:n,w:t,i:e};export{s as default,e as i,n as s,t as w};

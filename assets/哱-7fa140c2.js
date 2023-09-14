@@ -1,0 +1,1 @@
+const o=[{p:"bō",pp:"bo1",d:"phonetic bo ☆ used in onomatopoeia ☆ see 呼呼哱[hu1 hu1 bo1], hoopoe bird",t:"哱"}],p=[{p:"hū hū bō",w:"呼呼哱",d:"colloquial word for hoopoe bird (Upupa epops)",t:"呼呼哱"}],e=[],s={s:o,w:p,i:e};export{s as default,e as i,o as s,p as w};

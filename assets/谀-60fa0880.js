@@ -1,0 +1,1 @@
+const t=[{p:"yú",pp:"yu2",d:"to flatter",t:"諛"}],n=[{p:"yú cí",w:"谀辞",d:"flattering words",t:"諛辭"},{p:"ē yú",w:"阿谀",d:"to flatter ☆ to toady",t:"阿諛"},{p:"miàn yú",w:"面谀",d:"to praise sb to his face",t:"面諛"}],o=[{p:"ē yú fèng chéng",w:"阿谀奉承",d:"flattering and fawning (idiom) ☆ sweet-talking",t:"阿諛奉承"}],a={s:t,w:n,i:o};export{a as default,o as i,t as s,n as w};

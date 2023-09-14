@@ -1,0 +1,1 @@
+const t=[{p:"jí",pp:"ji2",d:"surname Ji",t:"汲"},{p:"jí",pp:"ji2",d:"to draw (water)",t:"汲"}],o=[{p:"jí qǔ",w:"汲取",d:"to draw ☆ to derive ☆ to absorb",t:"汲取"},{p:"jí yǐn",w:"汲引",d:"to draw water ☆ (fig.) to promote sb to a more senior position",t:"汲引"},{p:"jí shuǐ",w:"汲水",d:"to draw water",t:"汲水"}],r=[],s={s:t,w:o,i:r};export{s as default,r as i,t as s,o as w};

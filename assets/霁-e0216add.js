@@ -1,0 +1,1 @@
+const e=[{p:"jì",pp:"ji4",d:"sky clearing up",t:"霽"}],t=[{p:"kāi jì",w:"开霁",d:"to clear up (of weather)",t:"開霽"}],o=[{p:"guāng fēng jì yuè",w:"光风霁月",d:"lit. light breeze and clear moon (idiom) ☆ period of peace and prosperity ☆ noble and benevolent character",t:"光風霽月"}],n={s:e,w:t,i:o};export{n as default,o as i,e as s,t as w};

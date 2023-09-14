@@ -1,0 +1,1 @@
+const n=[{p:"jīng",pp:"jing1",d:"acrylic",t:"腈"}],c=[{p:"bǐng xī jīng",w:"丙烯腈",d:"acrylo-nitrile",t:"丙烯腈"},{p:"yì jīng",w:"异腈",d:"carbylamine ☆ isocyanide",t:"異腈"},{p:"jīng lún",w:"腈纶",d:"acrylic fiber",t:"腈綸"}],i=[],t={s:n,w:c,i};export{t as default,i,n as s,c as w};

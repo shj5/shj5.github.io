@@ -1,0 +1,1 @@
+const i=[{p:"qí",pp:"qi2",d:"dark gray ☆ superlative ☆ variegated",t:"綦"}],n=[{p:"qí jiāng",w:"綦江",d:"Qijiang suburban county in Chongqing municipality, formerly in Sichuan",t:"綦江"},{p:"qí jiāng xiàn",w:"綦江县",d:"Qijiang suburban county in Chongqing municipality, formerly in Sichuan",t:"綦江縣"}],a=[],t={s:i,w:n,i:a};export{t as default,a as i,i as s,n as w};

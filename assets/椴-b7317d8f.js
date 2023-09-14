@@ -1,0 +1,1 @@
+const n=[{p:"duàn",pp:"duan4",d:"Chinese linden (Tilia chinensis)",t:"椴"}],i=[{p:"xīn yè duàn",w:"心叶椴",d:"small-leaf linden (Tilia cordata)",t:"心葉椴"}],s=[],a={s:n,w:i,i:s};export{a as default,s as i,n as s,i as w};

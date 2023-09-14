@@ -1,0 +1,1 @@
+const t=[{p:"páng",pp:"pang2",d:"irresolute",t:"彷"}],n=[{p:"fǎng sì",w:"彷似",d:"variant of 仿似[fang3 si4]",t:"彷似"},{p:"páng yáng",w:"彷徉",d:"unsettled ☆ doubtful ☆ to roam about",t:"彷徉"},{p:"páng huáng",w:"彷徨",d:"to pace back and forth ☆ to hesitate ☆ to be indecisive",t:"彷徨"}],o=[],s={s:t,w:n,i:o};export{s as default,o as i,t as s,n as w};

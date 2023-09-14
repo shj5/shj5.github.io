@@ -1,0 +1,1 @@
+const o=[{p:"táng",pp:"tang2",d:"half congealed ☆ pond",t:"溏"}],t=[{p:"táng biàn",w:"溏便",d:"(TCM) unformed stool ☆ semiliquid stool",t:"溏便"},{p:"táng xīn",w:"溏心",d:"soft yolk (of a cooked egg)",t:"溏心"}],n=[],s={s:o,w:t,i:n};export{s as default,n as i,o as s,t as w};

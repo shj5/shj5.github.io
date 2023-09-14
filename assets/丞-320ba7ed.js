@@ -1,0 +1,1 @@
+const n=[{p:"chéng",pp:"cheng2",d:"deputy",t:"丞"}],t=[{p:"chéng xiàng",w:"丞相",d:"the most senior minister of many kingdoms or dynasties (with varying roles) ☆ prime minister",t:"丞相"},{p:"yáng chéng lín",w:"杨丞琳",d:"Rainie Yang (1984-), Taiwanese entertainer",t:"楊丞琳"}],e=[],i={s:n,w:t,i:e};export{i as default,e as i,n as s,t as w};

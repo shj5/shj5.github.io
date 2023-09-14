@@ -1,0 +1,1 @@
+const s=[{p:"huàn",pp:"huan4",d:"soapberry (order Sapindales)",t:"槵"}],t=[{p:"huàn zǐ",w:"槵子",d:"fruit of the Sapindus trees (used for Buddhist prayer beads)",t:"槵子"}],e=[],d={s,w:t,i:e};export{d as default,e as i,s,t as w};

@@ -1,0 +1,1 @@
+const i=[{p:"yǔ",pp:"yu3",d:"prison ☆ to imprison",t:"圄"}],n=[{p:"líng yǔ",w:"囹圄",d:"(literary) prison",t:"囹圄"},{p:"shēn xiàn líng yǔ",w:"身陷囹圄",d:"thrown into prison ☆ behind bars",t:"身陷囹圄"}],o=[{p:"cǎo mǎn líng yǔ",w:"草满囹圄",d:"lit. jails overgrown with grass (idiom), fig. peaceful society",t:"草滿囹圄"}],s={s:i,w:n,i:o};export{s as default,o as i,i as s,n as w};

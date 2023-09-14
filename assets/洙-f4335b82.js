@@ -1,0 +1,1 @@
+const n=[{p:"zhū",pp:"zhu1",d:"surname Zhu",t:"洙"},{p:"zhū",pp:"zhu1",d:"name of a river",t:"洙"}],t=[{p:"hán shēng zhū",w:"韩昇洙",d:"Han Seung-soo (1936-), South Korean diplomat and politician, prime minister 2008-2009",t:"韓昇洙"}],o=[],p={s:n,w:t,i:o};export{p as default,o as i,n as s,t as w};

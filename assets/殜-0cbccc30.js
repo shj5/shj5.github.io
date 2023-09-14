@@ -1,0 +1,1 @@
+const t=[{p:"dié",pp:"die2",d:"unwell",t:"殜"}],i=[{p:"yè dié",w:"殗殜",d:"somewhat ill, but still able to sit up",t:"殗殜"},{p:"dié dié",w:"殜殜",d:"(of one's breathing) weak",t:"殜殜"},{p:"dié dié",w:"殜殜",d:"(of one's breathing) weak",t:"殜殜"}],d=[],e={s:t,w:i,i:d};export{e as default,d as i,t as s,i as w};

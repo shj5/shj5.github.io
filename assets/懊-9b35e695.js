@@ -1,0 +1,1 @@
+const e=[{p:"ào",pp:"ao4",d:"to regret",t:"懊"}],o=[{p:"ào sàng",w:"懊丧",d:"dejected ☆ despondent ☆ depressed",t:"懊喪"},{p:"ào huǐ",w:"懊悔",d:"to feel remorse ☆ to repent ☆ to regret",t:"懊悔"},{p:"ào nǎo",w:"懊恼",d:"annoyed ☆ vexed ☆ upset",t:"懊惱"},{p:"ào náo",w:"懊𢙐",d:"anxious ☆ brooding",t:"懊憹"}],t=[],d={s:e,w:o,i:t};export{d as default,t as i,e as s,o as w};

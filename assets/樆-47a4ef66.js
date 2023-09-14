@@ -1,0 +1,1 @@
+const o=[{p:"chī",pp:"chi1",d:"manjack or cordia (genus Cordia)",t:"樆"},{p:"lí",pp:"li2",d:"rowan or mountain ash (genus Sorbus)",t:"樆"}],s=[],n=[],a={s:o,w:s,i:n};export{a as default,n as i,o as s,s as w};

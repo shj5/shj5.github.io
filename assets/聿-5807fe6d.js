@@ -1,0 +1,1 @@
+const t=[{p:"yù",pp:"yu4",d:"(arch. introductory particle) ☆ then ☆ and then",t:"聿"}],e=[{p:"bèi yù míng",w:"贝聿铭",d:"Pei Ieoh Ming or I.M. Pei (1917-2019), Chinese-American architect",t:"貝聿銘"}],n=[],i={s:t,w:e,i:n};export{i as default,n as i,t as s,e as w};

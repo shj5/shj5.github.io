@@ -1,0 +1,1 @@
+const t=[{p:"zhōng",pp:"zhong1",d:"handleless cup ☆ goblet",t:"盅"}],p=[{p:"shǎi zhōng",w:"色盅",d:"dice cup",t:"色盅"},{p:"jiǔ zhōng",w:"酒盅",d:"wine cup ☆ goblet",t:"酒盅"},{p:"táo zhōng",w:"陶盅",d:"pottery bowl",t:"陶盅"},{p:"tóu zhōng",w:"骰盅",d:"dice cup",t:"骰盅"}],n=[],o={s:t,w:p,i:n};export{o as default,n as i,t as s,p as w};

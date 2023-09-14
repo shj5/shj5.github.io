@@ -1,0 +1,1 @@
+const n=[{p:"cóng",pp:"cong2",d:"surname Cong",t:"琮"},{p:"cóng",pp:"cong2",d:"jade tube with round hole and rectangular sides, used ceremonially in ancient times",t:"琮"}],e=[{p:"yù cóng",w:"玉琮",d:"see 琮[cong2]",t:"玉琮"}],t=[],c={s:n,w:e,i:t};export{c as default,t as i,n as s,e as w};

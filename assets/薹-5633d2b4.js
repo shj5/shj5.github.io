@@ -1,0 +1,1 @@
+const t=[{p:"tái",pp:"tai2",d:"Carex dispalatha",t:"薹"}],s=[{p:"suàn tái",w:"蒜薹",d:"garlic shoots (cookery)",t:"蒜薹"},{p:"yún tái",w:"芸薹",d:"rape (plant)",t:"蕓薹"},{p:"yún tái shǔ",w:"芸薹属",d:"Brassica (cabbage genus)",t:"蕓薹屬"},{p:"tái cǎo",w:"薹草",d:"sedge",t:"薹草"},{p:"tái cǎo shǔ",w:"薹草属",d:"genus Carex",t:"薹草屬"}],a=[],i={s:t,w:s,i:a};export{i as default,a as i,t as s,s as w};

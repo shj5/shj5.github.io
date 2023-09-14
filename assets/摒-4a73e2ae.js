@@ -1,0 +1,1 @@
+const t=[{p:"bìng",pp:"bing4",d:"to discard ☆ to get rid of",t:"摒"}],o=[{p:"bìng dàng",w:"摒挡",d:"to put in order ☆ to arrange (literary) ☆ cuisine",t:"摒擋"},{p:"bìng qì",w:"摒弃",d:"to abandon ☆ to discard ☆ to spurn ☆ to forsake",t:"摒棄"},{p:"bìng chú",w:"摒除",d:"to get rid of ☆ to dismiss",t:"摒除"}],n=[],d={s:t,w:o,i:n};export{d as default,n as i,t as s,o as w};

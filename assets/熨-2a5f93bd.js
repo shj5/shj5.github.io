@@ -1,0 +1,1 @@
+const o=[{p:"yù",pp:"yu4",d:"reconciled ☆ smooth",t:"熨"},{p:"yùn",pp:"yun4",d:"an iron ☆ to iron",t:"熨"}],t=[{p:"yùn dǒu",w:"熨斗",d:"clothes iron",t:"熨斗"},{p:"yùn fǎ",w:"熨法",d:"application of a hot compress (TCM)",t:"熨法"},{p:"yùn tàng",w:"熨烫",d:"to iron (clothes)",t:"熨燙"}],n=[],p={s:o,w:t,i:n};export{p as default,n as i,o as s,t as w};

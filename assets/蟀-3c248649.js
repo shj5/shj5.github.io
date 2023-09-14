@@ -1,0 +1,1 @@
+const s=[{p:"shuài",pp:"shuai4",d:"used in 蟋蟀[xi1 shuai4]",t:"蟀"}],i=[{p:"xī shuài",w:"蟋蟀",d:"cricket (insect)",t:"蟋蟀"},{p:"xī shuài cǎo",w:"蟋蟀草",d:"wire grass (Eleusine indica)",t:"蟋蟀草"}],t=[],c={s,w:i,i:t};export{c as default,t as i,s,i as w};

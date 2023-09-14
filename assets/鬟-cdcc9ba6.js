@@ -1,0 +1,1 @@
+const n=[{p:"huán",pp:"huan2",d:"a knot of hair on top of head",t:"鬟"}],o=[{p:"yā huan",w:"丫鬟",d:"servant girl ☆ maid",t:"丫鬟"},{p:"xiǎo huán",w:"小鬟",d:"(historical) chignon worn by a young girl ☆ slave girl (prepubescent household courtesan wearing a distinctive paired chignon hairstyle)",t:"小鬟"}],i=[],t={s:n,w:o,i};export{t as default,i,n as s,o as w};

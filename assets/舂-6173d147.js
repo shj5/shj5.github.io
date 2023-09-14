@@ -1,0 +1,1 @@
+const n=[{p:"chōng",pp:"chong1",d:"to pound (grain) ☆ beat",t:"舂"}],t=[{p:"xíng chōng",w:"刑舂",d:"to be forced to grind grain as a punishment (old)",t:"刑舂"}],o=[],s={s:n,w:t,i:o};export{s as default,o as i,n as s,t as w};

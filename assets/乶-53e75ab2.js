@@ -1,0 +1,1 @@
+const n=[{p:"fǔ",pp:"fu3",d:'(phonetic "pol", used in Korean place names)',t:"乶"}],o=[{p:"fǔ xià",w:"乶下",d:"Polha, a place in the Joseon dynasty province of Hamgyeong 咸鏡道|咸镜道[Xian2 jing4 Dao4]",t:"乶下"}],a=[],e={s:n,w:o,i:a};export{e as default,a as i,n as s,o as w};

@@ -1,0 +1,1 @@
+const n=[{p:"gěng",pp:"geng3",d:"fierce dog",t:"㹴"}],g=[{p:"gěng quǎn",w:"㹴犬",d:"variant of 梗犬[geng3 quan3]",t:"㹴犬"},{p:"niú tóu gěng",w:"牛头㹴",d:"variant of 牛頭梗|牛头梗[niu2 tou2 geng3]",t:"牛頭㹴"},{p:"dòu niú gěng",w:"斗牛㹴",d:"variant of 鬥牛梗|斗牛梗[dou4 niu2 geng3]",t:"鬥牛㹴"}],t=[],o={s:n,w:g,i:t};export{o as default,t as i,n as s,g as w};

@@ -1,0 +1,1 @@
+const t=[{p:"hé",pp:"he2",d:"vessel similar to a kettle, but with three or four legs, used in ancient times for warming wine",t:"盉"}],e=[],s=[],i={s:t,w:e,i:s};export{i as default,s as i,t as s,e as w};

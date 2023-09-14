@@ -1,0 +1,1 @@
+const r=[{p:"rán",pp:"ran2",d:"old variant of 髯[ran2]",t:"髥"},{p:"rán",pp:"ran2",d:"beard ☆ whiskers",t:"髯"}],a=[{p:"rán kou",w:"髯口",d:"artificial beard worn by Chinese opera actors",t:"髯口"},{p:"rán xū",w:"髯须",d:"beard ☆ whiskers",t:"髯鬚"}],n=[],s={s:r,w:a,i:n};export{s as default,n as i,r as s,a as w};

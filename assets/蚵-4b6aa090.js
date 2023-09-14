@@ -1,0 +1,1 @@
+const e=[{p:"é",pp:"e2",d:"(Tw) oyster (from Taiwanese, Tai-lo pr. [ô])",t:"蚵"}],t=[{p:"shǐ kē láng",w:"屎蚵螂",d:"dung beetle",t:"屎蚵螂"},{p:"é zi",w:"蚵仔",d:"oyster (from Taiwanese, Tai-lo pr. [ô-á])",t:"蚵仔"},{p:"é zǐ jiān",w:"蚵仔煎",d:"(Tw) oyster omelette (from Taiwanese, Tai-lo pr. [ô-á-tsian])",t:"蚵仔煎"}],o=[],s={s:e,w:t,i:o};export{s as default,o as i,e as s,t as w};

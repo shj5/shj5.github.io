@@ -1,0 +1,1 @@
+const t=[{p:"chán",pp:"chan2",d:"(variant of 饞|馋[chan2]) gluttonous ☆ greedy",t:"嚵"},{p:"chàn",pp:"chan4",d:"(literary) animal's mouth or beak",t:"嚵"}],n=[],a=[],o={s:t,w:n,i:a};export{o as default,a as i,t as s,n as w};

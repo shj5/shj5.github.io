@@ -1,0 +1,1 @@
+const s=[{p:"shū",pp:"shu1",d:"legumes (peas and beans)",t:"菽"}],t=[],n=[{p:"bù biàn shū mài",w:"不辨菽麦",d:"lit. cannot tell beans from wheat (idiom), fig. ignorant of practical matters",t:"不辨菽麥"},{p:"bù bó shū sù",w:"布帛菽粟",d:"cloth, silk, beans and grain ☆ food and clothing ☆ daily necessities",t:"布帛菽粟"}],a={s,w:t,i:n};export{a as default,n as i,s,t as w};

@@ -1,0 +1,1 @@
+const n=[{p:"yīn",pp:"yin1",d:"generative force ☆ magic emanation",t:"絪"}],t=[{p:"yīn yūn",w:"𬘡缊",d:"variant of 氤氳|氤氲[yin1 yun1]",t:"絪縕"}],a=[],i={s:n,w:t,i:a};export{i as default,a as i,n as s,t as w};

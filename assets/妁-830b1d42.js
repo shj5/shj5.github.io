@@ -1,0 +1,1 @@
+const s=[{p:"shuò",pp:"shuo4",d:"surname Suo",t:"妁"},{p:"shuò",pp:"shuo4",d:"(literary) matchmaker (on the bride's side)",t:"妁"}],t=[{p:"méi shuò",w:"媒妁",d:"matchmaker ☆ go-between (marital)",t:"媒妁"}],e=[],a={s,w:t,i:e};export{a as default,e as i,s,t as w};

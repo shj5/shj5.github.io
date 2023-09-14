@@ -1,0 +1,1 @@
+const t=[{p:"chēn",pp:"chen1",d:"to stare at angrily ☆ variant of 嗔[chen1]",t:"瞋"}],n=[{p:"chēn mù",w:"瞋目",d:"variant of 嗔目[chen1 mu4]",t:"瞋目"}],a=[],c={s:t,w:n,i:a};export{c as default,a as i,t as s,n as w};

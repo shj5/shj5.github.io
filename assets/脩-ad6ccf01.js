@@ -1,0 +1,1 @@
+const t=[{p:"xiū",pp:"xiu1",d:"dried meat presented by pupils to their teacher at their first meeting (in ancient times) ☆ dried, withered",t:"脩"}],e=[{p:"shù xiū",w:"束脩",d:"(literary) salary of a private tutor",t:"束脩"}],i=[],r={s:t,w:e,i};export{r as default,i,t as s,e as w};

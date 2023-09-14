@@ -1,0 +1,1 @@
+const t=[{p:"kài",pp:"kai4",d:"anger",t:"愾"}],e=[{p:"dí kài",w:"敌忾",d:"hatred felt toward one's enemies",t:"敵愾"}],n=[{p:"tóng chóu dí kài",w:"同仇敌忾",d:"anger against a common enemy (idiom), joined in opposition to the same adversary",t:"同仇敵愾"}],o={s:t,w:e,i:n};export{o as default,n as i,t as s,e as w};

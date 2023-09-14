@@ -1,0 +1,1 @@
+const n=[{p:"chǎn",pp:"chan3",d:"used in 嘽嘽|啴啴[chan3 chan3] and 嘽緩|啴缓[chan3 huan3]",t:"嘽"},{p:"tān",pp:"tan1",d:"used in 嘽嘽|啴啴[tan1 tan1]",t:"嘽"}],a=[{p:"chǎn chǎn",w:"啴啴",d:"relaxed and leisurely",t:"嘽嘽"},{p:"chǎn chǎn",w:"啴啴",d:"relaxed and leisurely",t:"嘽嘽"},{p:"chǎn huǎn",w:"啴缓",d:"relaxed ☆ unhurried",t:"嘽緩"}],d=[],e={s:n,w:a,i:d};export{e as default,d as i,n as s,a as w};

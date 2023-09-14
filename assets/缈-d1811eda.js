@@ -1,0 +1,1 @@
+const i=[{p:"miǎo",pp:"miao3",d:"indistinct",t:"緲"}],o=[{p:"piǎo miǎo",w:"缥缈",d:"see 飄渺|飘渺[piao1 miao3]",t:"縹緲"},{p:"piāo miǎo",w:"飘缈",d:"variant of 飄渺|飘渺[piao1 miao3]",t:"飄緲"}],t=[{p:"xū wú piāo miǎo",w:"虚无缥缈",d:"illusory, imaginary, fanciful",t:"虛無縹緲"}],a={s:i,w:o,i:t};export{a as default,t as i,i as s,o as w};

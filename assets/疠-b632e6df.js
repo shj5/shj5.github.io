@@ -1,0 +1,1 @@
+const t=[{p:"lì",pp:"li4",d:"ulcer ☆ plague",t:"癘"}],a=[{p:"zhàng lì",w:"瘴疠",d:"tropical disease attributed to miasma ☆ malaria",t:"瘴癘"}],s=[],i={s:t,w:a,i:s};export{i as default,s as i,t as s,a as w};

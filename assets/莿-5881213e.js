@@ -1,0 +1,1 @@
+const n=[{p:"cì",pp:"ci4",d:"Urtica thunbergiana",t:"莿"}],t=[{p:"cì tóng",w:"莿桐",d:"Citong or Tzutung township in Yunlin county 雲林縣|云林县[Yun2 lin2 xian4], Taiwan",t:"莿桐"},{p:"cì tóng xiāng",w:"莿桐乡",d:"Citong or Tzutung township in Yunlin county 雲林縣|云林县[Yun2 lin2 xian4], Taiwan",t:"莿桐鄉"}],i=[],o={s:n,w:t,i};export{o as default,i,n as s,t as w};

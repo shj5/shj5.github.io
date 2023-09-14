@@ -1,0 +1,1 @@
+const t=[{p:"xiè",pp:"xie4",d:"to meet unexpectedly",t:"邂"}],e=[{p:"xiè hòu",w:"邂逅",d:"to meet by chance ☆ to run into sb ☆ chance encounter",t:"邂逅"}],n=[],c={s:t,w:e,i:n};export{c as default,n as i,t as s,e as w};

@@ -1,0 +1,1 @@
+const i=[{p:"xián",pp:"xian2",d:"epilepsy ☆ insanity",t:"癇"}],p=[{p:"diān xián",w:"癫痫",d:"epilepsy",t:"癲癇"},{p:"diān xián fā zuò",w:"癫痫发作",d:"epileptic seizure",t:"癲癇發作"},{p:"yáng xián fēng",w:"羊痫风",d:"epilepsy",t:"羊癇風"},{p:"jīng xián",w:"惊痫",d:"epilepsy",t:"驚癇"}],n=[],e={s:i,w:p,i:n};export{e as default,n as i,i as s,p as w};

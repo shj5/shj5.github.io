@@ -1,0 +1,1 @@
+const t=[{p:"hán",pp:"han2",d:"before daybreak ☆ dawn about to break ☆ (used in given names)",t:"晗"}],a=[{p:"wú hán",w:"吴晗",d:"Wu Han (1909-1969), historian, author of biography of Zhu Yuanzhang 朱元璋, hounded to his death together with several members of his family during the cultural revolution",t:"吳晗"}],e=[],o={s:t,w:a,i:e};export{o as default,e as i,t as s,a as w};

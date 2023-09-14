@@ -1,0 +1,1 @@
+const t=[{p:"yě",pp:"ye3",d:"(Cantonese) thing ☆ matter ☆ stuff",t:"嘢"}],n=[{p:"miē yě",w:"乜嘢",d:"what? (Cantonese) (Mandarin equivalent: 什麼|什么[shen2 me5])",t:"乜嘢"}],e=[],s={s:t,w:n,i:e};export{s as default,e as i,t as s,n as w};

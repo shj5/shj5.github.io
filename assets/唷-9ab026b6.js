@@ -1,0 +1,1 @@
+const t=[{p:"yō",pp:"yo1",d:"(interjection expressing surprise) Oh! ☆ My!",t:"唷"},{p:"yo",pp:"yo5",d:"final particle expressing exhortation, admiration etc",t:"唷"}],i=[{p:"āi yō",w:"哎唷",d:"interjection of pain or surprise ☆ also written 哎喲|哎哟",t:"哎唷"}],e=[],o={s:t,w:i,i:e};export{o as default,e as i,t as s,i as w};

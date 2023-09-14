@@ -1,0 +1,1 @@
+const t=[{p:"lì",pp:"li4",d:"grind ☆ sandstone",t:"礪"}],o=[{p:"dǐ lì",w:"砥砺",d:"whetstone ☆ (fig.) to hone ☆ to temper ☆ to encourage",t:"砥礪"},{p:"mó lì",w:"磨砺",d:"to sharpen on grindstone ☆ to improve oneself by practice",t:"磨礪"}],e=[{p:"zài jiē zài lì",w:"再接再砺",d:"variant of 再接再厲|再接再厉[zai4 jie1 zai4 li4]",t:"再接再礪"}],i={s:t,w:o,i:e};export{i as default,e as i,t as s,o as w};

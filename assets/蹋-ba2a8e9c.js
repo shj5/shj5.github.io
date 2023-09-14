@@ -1,0 +1,1 @@
+const t=[{p:"tà",pp:"ta4",d:"to step on",t:"蹋"}],o=[{p:"zāo tà",w:"糟蹋",d:"to waste ☆ to defile ☆ to abuse ☆ to insult ☆ to defile ☆ to trample on ☆ to wreck ☆ also pr. [zao1 ta5]",t:"糟蹋"},{p:"tī tà wǔ",w:"踢蹋舞",d:"tap dance ☆ step dance",t:"踢蹋舞"},{p:"zāo tà",w:"蹧蹋",d:"variant of 糟蹋[zao1 ta4]",t:"蹧蹋"}],a=[],e={s:t,w:o,i:a};export{e as default,a as i,t as s,o as w};

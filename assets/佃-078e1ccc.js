@@ -1,0 +1,1 @@
+const t=[{p:"diàn",pp:"dian4",d:"farmer",t:"佃"},{p:"tián",pp:"tian2",d:"to cultivate ☆ to hunt",t:"佃"}],n=[{p:"diàn hù",w:"佃户",d:"tenant farmer",t:"佃戶"},{p:"diàn nóng",w:"佃农",d:"tenant farmer ☆ sharecropper",t:"佃農"},{p:"zū diàn",w:"租佃",d:"to rent out one's land (to tenant farmers)",t:"租佃"}],a=[],e={s:t,w:n,i:a};export{e as default,a as i,t as s,n as w};

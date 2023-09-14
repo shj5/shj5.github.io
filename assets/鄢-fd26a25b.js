@@ -1,0 +1,1 @@
+const n=[{p:"yān",pp:"yan1",d:"surname Yan ☆ name of a district in Henan",t:"鄢"}],a=[{p:"yān líng",w:"鄢陵",d:"Yanling county in Xuchang city 許昌市|许昌市[Xu3 chang1 shi4], Henan",t:"鄢陵"},{p:"yān líng xiàn",w:"鄢陵县",d:"Yanling county in Xuchang city 許昌市|许昌市[Xu3 chang1 shi4], Henan",t:"鄢陵縣"}],t=[],i={s:n,w:a,i:t};export{i as default,t as i,n as s,a as w};

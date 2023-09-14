@@ -1,0 +1,1 @@
+const t=[{p:"tǎ",pp:"ta3",d:"otter",t:"獺"}],o=[{p:"hàn tǎ",w:"旱獭",d:"marmot",t:"旱獺"},{p:"shù tǎ",w:"树獭",d:"sloth (family Bradypodidae)",t:"樹獺"},{p:"shuǐ tǎ",w:"水獭",d:"otter",t:"水獺"},{p:"hǎi tǎ",w:"海獭",d:"sea otter",t:"海獺"}],s=[],d={s:t,w:o,i:s};export{d as default,s as i,t as s,o as w};

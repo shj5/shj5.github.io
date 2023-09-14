@@ -1,0 +1,1 @@
+const t=[{p:"pī",pp:"pi1",d:"child's buttocks (esp. Cantonese) ☆ (onom.) crack, slap, clap, clatter etc",t:"噼"}],p=[{p:"pī pā",w:"噼啪",d:"see 劈啪[pi1 pa1]",t:"噼啪"},{p:"pī li pā lā",w:"噼里啪啦",d:"(onom.) to crackle and rattle ☆ to pitter-patter",t:"噼裡啪啦"}],c=[],e={s:t,w:p,i:c};export{e as default,c as i,t as s,p as w};

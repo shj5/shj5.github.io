@@ -1,0 +1,1 @@
+const t=[{p:"shàn",pp:"shan4",d:"(literary) to go through successive changes, to evolve",t:"嬗"}],s=[{p:"shàn biàn",w:"嬗变",d:"(literary) to evolve, to change ☆ (physics) transmutation",t:"嬗變"},{p:"dì shàn",w:"递嬗",d:"(literary) to go through successive changes, to evolve",t:"遞嬗"}],o=[],e={s:t,w:s,i:o};export{e as default,o as i,t as s,s as w};

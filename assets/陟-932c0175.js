@@ -1,0 +1,1 @@
+const o=[{p:"zhì",pp:"zhi4",d:"to advance ☆ to ascend ☆ to promote",t:"陟"}],n=[{p:"wǔ zhì",w:"武陟",d:"Wuzhi county in Jiaozuo, Henan",t:"武陟"},{p:"wǔ zhì xiàn",w:"武陟县",d:"Wuzhi county in Jiaozuo, Henan",t:"武陟縣"}],t=[],i={s:o,w:n,i:t};export{i as default,t as i,o as s,n as w};

@@ -1,0 +1,1 @@
+const o=[{p:"pài",pp:"pai4",d:"sound of waves",t:"湃"}],p=[{p:"péng pài",w:"澎湃",d:"to surge",t:"澎湃"}],t=[{p:"xīn cháo péng pài",w:"心潮澎湃",d:"to be overwhelmed by emotions",t:"心潮澎湃"}],s={s:o,w:p,i:t};export{s as default,t as i,o as s,p as w};

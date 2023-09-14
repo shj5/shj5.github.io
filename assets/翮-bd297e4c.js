@@ -1,0 +1,1 @@
+const t=[{p:"hé",pp:"he2",d:"quill",t:"翮"}],n=[{p:"jīn tiān hé",w:"金天翮",d:"Jin Tianhe (1874-1947), late Qing poet and novelist, author of Flower in the sea of evil 孽海花",t:"金天翮"}],e=[],o={s:t,w:n,i:e};export{o as default,e as i,t as s,n as w};

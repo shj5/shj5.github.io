@@ -1,0 +1,1 @@
+const n=[{p:"hān",pp:"han1",d:"snore ☆ to snore",t:"鼾"}],o=[{p:"dǎ hān",w:"打鼾",d:"to snore",t:"打鼾"},{p:"hān shēng",w:"鼾声",d:"sound of snoring",t:"鼾聲"},{p:"hān hān",w:"鼾鼾",d:"to snore",t:"鼾鼾"},{p:"hān hān",w:"鼾鼾",d:"to snore",t:"鼾鼾"}],s=[{p:"hān shēng rú léi",w:"鼾声如雷",d:"thunderous snoring",t:"鼾聲如雷"}],t={s:n,w:o,i:s};export{t as default,s as i,n as s,o as w};

@@ -1,0 +1,1 @@
+const o=[{p:"è",pp:"e4",d:"(bird species of China) western osprey (Pandion haliaetus)",t:"鶚"}],s=[{p:"liú è",w:"刘鹗",d:"Liu E (1857-1909), late Qing novelist, author of 老殘遊記|老残游记[Lao3 Can2 You2 ji4]",t:"劉鶚"}],t=[],i={s:o,w:s,i:t};export{i as default,t as i,o as s,s as w};

@@ -1,0 +1,1 @@
+const t=[{p:"zhǐ",pp:"zhi3",d:"(orange) ☆ hedge thorn",t:"枳"}],i=[{p:"zhǐ shí",w:"枳实",d:"dried fruit of immature citron or trifoliate orange (used in TCM)",t:"枳實"},{p:"zhǐ qiào",w:"枳壳",d:"bitter orange (Fructus aurantii) (used in TCM)",t:"枳殼"}],o=[],r={s:t,w:i,i:o};export{r as default,o as i,t as s,i as w};

@@ -1,0 +1,1 @@
+const i=[{p:"xì",pp:"xi4",d:"to argue ☆ to quarrel",t:"鬩"}],t=[],n=[{p:"xiōng dì xì yú qiáng , wài yù qí wǔ",w:"兄弟阋于墙，外御其侮",d:"internal disunity dissolves at the threat of an invasion from outside (idiom)",t:"兄弟鬩於墻，外禦其侮"},{p:"xiōng dì xì qiáng",w:"兄弟阋墙",d:"internecine strife (idiom), fighting among oneself",t:"兄弟鬩牆"}],o={s:i,w:t,i:n};export{o as default,n as i,i as s,t as w};

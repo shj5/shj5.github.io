@@ -1,0 +1,1 @@
+const n=[{p:"chēng",pp:"cheng1",d:"variant of 稱|称[cheng1]",t:"偁"}],t=[{p:"wáng yǔ chēng",w:"王禹偁",d:"Wang Yucheng (954-1001) Song dynasty literary figure",t:"王禹偁"},{p:"fàn gōng chēng",w:"范公偁",d:"Fan Gongcheng (12th century), Southern Song author of 過庭錄|过庭录",t:"范公偁"}],g=[],c={s:n,w:t,i:g};export{c as default,g as i,n as s,t as w};

@@ -1,0 +1,1 @@
+const o=[{p:"áo",pp:"ao2",d:"loud clamor ☆ the sound of wailing",t:"嗷"}],t=[],d=[{p:"áo áo dài bǔ",w:"嗷嗷待哺",d:"cry piteously for food",t:"嗷嗷待哺"},{p:"áo áo dài bǔ",w:"嗷嗷待哺",d:"cry piteously for food",t:"嗷嗷待哺"}],s={s:o,w:t,i:d};export{s as default,d as i,o as s,t as w};

@@ -1,0 +1,1 @@
+const e=[{p:"rú",pp:"ru2",d:"see 顳顬|颞颥, temple (the sides of human head)",t:"顬"}],s=[{p:"niè rú",w:"颞颥",d:"temple (the sides of human head)",t:"顳顬"}],t=[],d={s:e,w:s,i:t};export{d as default,t as i,e as s,s as w};

@@ -1,0 +1,1 @@
+const t=[{p:"gòu",pp:"gou4",d:"to marry ☆ to copulate",t:"媾"}],o=[{p:"jiāo gòu",w:"交媾",d:"to have sex ☆ to copulate",t:"交媾"},{p:"gòu hé",w:"媾合",d:"to copulate",t:"媾合"},{p:"gòu hé",w:"媾和",d:"to make peace ☆ to copulate",t:"媾和"},{p:"xìng gòu",w:"性媾",d:"sexual intercourse",t:"性媾"}],e=[],p={s:t,w:o,i:e};export{p as default,e as i,t as s,o as w};

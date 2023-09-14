@@ -1,0 +1,1 @@
+const t=[{p:"sà",pp:"sa4",d:"thirty",t:"卅"}],n=[{p:"wǔ sà",w:"五卅",d:"abbr. for 五卅運動|五卅运动[wu3 sa4 yun4 dong4], The May Thirtieth Movement (1925)",t:"五卅"},{p:"wǔ sà yùn dòng",w:"五卅运动",d:"anti-imperialist movement of 30th May 1925, involving general strike esp. in Shanghai, Guangzhou, Hong Kong etc",t:"五卅運動"}],s=[],e={s:t,w:n,i:s};export{e as default,s as i,t as s,n as w};

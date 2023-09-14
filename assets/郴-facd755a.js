@@ -1,0 +1,1 @@
+const n=[{p:"chēn",pp:"chen1",d:"name of a district in Hunan",t:"郴"}],t=[{p:"chēn zhōu",w:"郴州",d:"a city in Hunan province",t:"郴州"},{p:"chēn zhōu shì",w:"郴州市",d:"Chenzhou prefecture-level city in Hunan",t:"郴州市"}],c=[],e={s:n,w:t,i:c};export{e as default,c as i,n as s,t as w};

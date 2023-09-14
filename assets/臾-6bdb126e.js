@@ -1,0 +1,1 @@
+const t=[{p:"yú",pp:"yu2",d:"surname Yu",t:"臾"},{p:"yú",pp:"yu2",d:"a moment ☆ little while",t:"臾"}],o=[{p:"yú xū",w:"臾须",d:"short period of time ☆ a moment",t:"臾須"},{p:"xū yú",w:"须臾",d:"in a flash ☆ in a jiffy",t:"須臾"}],p=[],s={s:t,w:o,i:p};export{s as default,p as i,t as s,o as w};

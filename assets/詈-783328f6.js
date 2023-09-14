@@ -1,0 +1,1 @@
+const t=[{p:"lì",pp:"li4",d:"to curse ☆ to scold",t:"詈"}],s=[{p:"lì mà",w:"詈骂",d:"(literary) to scold ☆ to abuse",t:"詈罵"},{p:"lì cí",w:"詈词",d:"insult ☆ curse",t:"詈詞"}],o=[],c={s:t,w:s,i:o};export{c as default,o as i,t as s,s as w};

@@ -1,0 +1,1 @@
+const n=[{p:"nìng",pp:"ning4",d:"to flatter ☆ flattery",t:"佞"}],t=[{p:"bù nìng",w:"不佞",d:"without eloquence ☆ untalented ☆ I, me (humble)",t:"不佞"},{p:"jiān nìng",w:"奸佞",d:"crafty and fawning",t:"奸佞"},{p:"chán nìng",w:"谗佞",d:"to defame one person while flattering another ☆ a slandering toady",t:"讒佞"}],e=[],a={s:n,w:t,i:e};export{a as default,e as i,n as s,t as w};

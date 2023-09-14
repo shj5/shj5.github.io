@@ -1,0 +1,1 @@
+const n=[{p:"nài",pp:"nai4",d:"naphthalene C10H8",t:"萘"}],t=[{p:"pǔ nài luò ěr",w:"普萘洛尔",d:"propranolol (beta-blocker used to treat high blood pressure)",t:"普萘洛爾"},{p:"nài wán",w:"萘丸",d:"mothball ☆ naphthalene ball",t:"萘丸"},{p:"nài kūn",w:"萘醌",d:"naphthoquinone (chemistry)",t:"萘醌"}],o=[],e={s:n,w:t,i:o};export{e as default,o as i,n as s,t as w};

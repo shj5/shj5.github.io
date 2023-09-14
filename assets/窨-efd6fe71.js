@@ -1,0 +1,1 @@
+const n=[{p:"xūn",pp:"xun1",d:"to scent tea with flowers ☆ variant of 熏[xun1]",t:"窨"},{p:"yìn",pp:"yin4",d:"cellar",t:"窨"}],t=[{p:"dì yìn",w:"地窨",d:"cellar",t:"地窨"},{p:"dì yìn zi",w:"地窨子",d:"cellar",t:"地窨子"},{p:"yìn jǐng",w:"窨井",d:"inspection shaft ☆ well",t:"窨井"},{p:"yìn jǐng gài",w:"窨井盖",d:"manhole cover",t:"窨井蓋"}],e=[],p={s:n,w:t,i:e};export{p as default,e as i,n as s,t as w};

@@ -1,0 +1,1 @@
+const n=[{p:"yīng",pp:"ying1",d:"(crystal) ☆ lustrous",t:"瑛"}],t=[{p:"zhōu chuán yīng",w:"周传瑛",d:"Zhou Chuanying (1912-1988), Kunqu 崑曲|昆曲[Kun1 qu3] opera actor",t:"周傳瑛"},{p:"yuán yīng",w:"圆瑛",d:"Yuan Ying (1878-1953), Buddhist monk",t:"圓瑛"},{p:"qióng yīng",w:"琼瑛",d:"jade-like stone",t:"瓊瑛"}],u=[],s={s:n,w:t,i:u};export{s as default,u as i,n as s,t as w};

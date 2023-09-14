@@ -1,0 +1,1 @@
+const t=[{p:"chán",pp:"chan2",d:"(literary) animal tracks ☆ the course of a celestial body ☆ (of a celestial body) to follow its course",t:"躔"}],o=[{p:"niàn bā chán",w:"廿八躔",d:"the twenty-eight constellations ☆ also written 二十八宿[er4 shi2 ba1 xiu4]",t:"廿八躔"}],s=[],e={s:t,w:o,i:s};export{e as default,s as i,t as s,o as w};

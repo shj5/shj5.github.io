@@ -1,0 +1,1 @@
+const e=[{p:"chún",pp:"chun2",d:"edible water plant ☆ Brasenia schreberi",t:"蒓"},{p:"chún",pp:"chun2",d:"edible water plant ☆ Brasenia schreberi",t:"蓴"}],n=[{p:"chún cài",w:"莼菜",d:"Brasenia schreberi",t:"蒓菜"}],c=[],s={s:e,w:n,i:c};export{s as default,c as i,e as s,n as w};

@@ -1,0 +1,1 @@
+const t=[{p:"m",pp:"m2",d:"interjection expressing a question",t:"呣"},{p:"m",pp:"m4",d:"interjection expressing consent ☆ um",t:"呣"}],n=[],s=[],e={s:t,w:n,i:s};export{e as default,s as i,t as s,n as w};

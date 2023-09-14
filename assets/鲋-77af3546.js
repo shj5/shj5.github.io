@@ -1,0 +1,1 @@
+const i=[{p:"fù",pp:"fu4",d:"silver carp",t:"鮒"}],t=[],s=[{p:"hé zhé zhī fù",w:"涸辙之鲋",d:"lit. a fish in a dried-out rut (idiom) ☆ fig. a person in dire straits",t:"涸轍之鮒"}],o={s:i,w:t,i:s};export{o as default,s as i,i as s,t as w};

@@ -1,0 +1,1 @@
+const n=[{p:"chuāng",pp:"chuang1",d:"variant of 窗[chuang1]",t:"囪"},{p:"cōng",pp:"cong1",d:"chimney",t:"囪"}],c=[{p:"shēn hǎi yān cōng",w:"深海烟囱",d:"deep-sea vent ☆ black smoker",t:"深海煙囪"},{p:"yān cōng",w:"烟囱",d:"chimney",t:"煙囪"}],t=[],p={s:n,w:c,i:t};export{p as default,t as i,n as s,c as w};

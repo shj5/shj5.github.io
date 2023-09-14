@@ -1,0 +1,1 @@
+const t=[{p:"xìng",pp:"xing4",d:"yellow floating heart (Nymphoides peltatum)",t:"荇"}],e=[{p:"xìng cài",w:"荇菜",d:"yellow floating heart (Nymphoides peltatum)",t:"荇菜"},{p:"qīng xìng",w:"青荇",d:"waterlily ☆ floating heart (Nymphoides peltatum)",t:"青荇"}],l=[],o={s:t,w:e,i:l};export{o as default,l as i,t as s,e as w};

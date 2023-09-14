@@ -1,0 +1,1 @@
+const t=[{p:"jiān",pp:"jian1",d:"to wash ☆ to redress (a wrong) ☆ name of a river",t:"湔"}],o=[{p:"jiān xǐ",w:"湔洗",d:"to wash",t:"湔洗"},{p:"jiān dí",w:"湔涤",d:"to wash",t:"湔滌"},{p:"jiān xuě",w:"湔雪",d:"to wipe away (a humiliation) ☆ to redress (a wrong)",t:"湔雪"}],a=[],s={s:t,w:o,i:a};export{s as default,a as i,t as s,o as w};

@@ -1,0 +1,1 @@
+const o=[{p:"yè",pp:"ye4",d:"variant of 燁|烨[ye4]",t:"㷸"},{p:"yè",pp:"ye4",d:"blaze of fire ☆ glorious",t:"燁"},{p:"yè",pp:"ye4",d:"variant of 燁|烨[ye4]",t:"爗"}],t=[{p:"huáng cháng yè",w:"黄长烨",d:"Hwang Jang-yop (1923-2010), North Korean politician known for defecting to South Korea",t:"黃長燁"}],n=[],e={s:o,w:t,i:n};export{e as default,n as i,o as s,t as w};

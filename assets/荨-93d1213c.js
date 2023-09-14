@@ -1,0 +1,1 @@
+const n=[{p:"qián",pp:"qian2",d:"used in 蕁麻|荨麻[qian2 ma2] ☆ also pr. [xun2]",t:"蕁"}],t=[{p:"yì zhū qián má",w:"异株荨麻",d:"common nettle (Urtica dioica)",t:"異株蕁麻"},{p:"qián má",w:"荨麻",d:"nettle ☆ also pr. [xun2 ma2]",t:"蕁麻"},{p:"xún má zhěn",w:"荨麻疹",d:"urticaria ☆ nettle rash ☆ hives",t:"蕁麻疹"}],i=[],a={s:n,w:t,i};export{a as default,i,n as s,t as w};

@@ -1,0 +1,1 @@
+const n=[{p:"zòng",pp:"zong4",d:"rice dumplings wrapped in leaves",t:"粽"},{p:"zòng",pp:"zong4",d:"variant of 粽[zong4]",t:"糉"}],e=[{p:"zòng zi",w:"粽子",d:"glutinous rice and choice of filling wrapped in leaves and steamed or boiled",t:"粽子"}],i=[],o={s:n,w:e,i};export{o as default,i,n as s,e as w};

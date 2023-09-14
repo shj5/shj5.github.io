@@ -1,0 +1,1 @@
+const t=[{p:"wǎn",pp:"wan3",d:"to sigh in regret or pity",t:"惋"}],o=[{p:"wǎn xī",w:"惋惜",d:"to regret ☆ to feel that it is a great pity ☆ to feel sorry for sb",t:"惋惜"},{p:"qī wǎn",w:"凄惋",d:"doleful ☆ piteous ☆ also written 淒婉|凄婉[qi1 wan3]",t:"淒惋"}],e=[],s={s:t,w:o,i:e};export{s as default,e as i,t as s,o as w};

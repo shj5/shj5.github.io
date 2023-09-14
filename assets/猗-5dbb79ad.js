@@ -1,0 +1,1 @@
+const n=[{p:"yī",pp:"yi1",d:"(interj.)",t:"猗"}],i=[{p:"lín yī",w:"临猗",d:"Linyi county in Yuncheng 運城|运城[Yun4 cheng2], Shanxi",t:"臨猗"},{p:"lín yī xiàn",w:"临猗县",d:"Linyi county in Yuncheng 運城|运城[Yun4 cheng2], Shanxi",t:"臨猗縣"}],t=[],c={s:n,w:i,i:t};export{c as default,t as i,n as s,i as w};

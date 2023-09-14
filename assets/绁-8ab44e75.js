@@ -1,0 +1,1 @@
+const o=[{p:"xiè",pp:"xie4",d:"to tie ☆ to bind ☆ to hold on a leash ☆ rope ☆ cord",t:"紲"},{p:"xiè",pp:"xie4",d:"variant of 紲|绁[xie4]",t:"絏"}],t=[],i=[],e={s:o,w:t,i};export{e as default,i,o as s,t as w};

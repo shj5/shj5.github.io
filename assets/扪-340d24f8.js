@@ -1,0 +1,1 @@
+const n=[{p:"mén",pp:"men2",d:"lay hands on ☆ to cover",t:"捫"}],o=[],t=[{p:"mén xīn wú kuì",w:"扪心无愧",d:"lit. look into one's heart, no shame (idiom), with a clear conscience",t:"捫心無愧"},{p:"mén xīn zì wèn",w:"扪心自问",d:"to ask oneself honestly ☆ to search in one's heart",t:"捫心自問"}],e={s:n,w:o,i:t};export{e as default,t as i,n as s,o as w};

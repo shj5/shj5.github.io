@@ -1,0 +1,1 @@
+const t=[{p:"chī",pp:"chi1",d:"laugh at ☆ jeer ☆ scoff at ☆ sneer at",t:"嗤"}],s=[{p:"chī xiào",w:"嗤笑",d:"to sneer at",t:"嗤笑"},{p:"chī bí",w:"嗤鼻",d:"see 嗤之以鼻[chi1 zhi1 yi3 bi2]",t:"嗤鼻"}],o=[{p:"chī zhī yǐ bí",w:"嗤之以鼻",d:"to snort disdainfully ☆ to scoff at ☆ to turn up one's nose",t:"嗤之以鼻"}],c={s:t,w:s,i:o};export{c as default,o as i,t as s,s as w};

@@ -1,0 +1,1 @@
+const p=[{p:"yīng",pp:"ying1",d:"variant of 罌|罂[ying1]",t:"甖"},{p:"yīng",pp:"ying1",d:"earthen jar with small mouth",t:"罌"}],n=[{p:"yīng sù",w:"罂粟",d:"poppy",t:"罌粟"},{p:"yīng sù zhǒng zi",w:"罂粟种子",d:"poppy seed",t:"罌粟種子"}],t=[],s={s:p,w:n,i:t};export{s as default,t as i,p as s,n as w};

@@ -1,0 +1,1 @@
+const o=[{p:"zǐ",pp:"zi3",d:"Common Gromwell or European stoneseed (Lithospermum officinale)",t:"茈"}],e=[{p:"fú cí",w:"凫茈",d:"see 荸薺|荸荠[bi2 qi2]",t:"鳧茈"}],s=[],t={s:o,w:e,i:s};export{t as default,s as i,o as s,e as w};

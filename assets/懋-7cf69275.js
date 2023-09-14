@@ -1,0 +1,1 @@
+const o=[{p:"mào",pp:"mao4",d:"to be hardworking ☆ luxuriant ☆ splendid",t:"懋"}],t=[{p:"luó mào dēng",w:"罗懋登",d:"Luo Maodeng (16th century), Ming author of operas and popular fiction",t:"羅懋登"}],n=[],a={s:o,w:t,i:n};export{a as default,n as i,o as s,t as w};

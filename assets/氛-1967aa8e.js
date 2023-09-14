@@ -1,0 +1,1 @@
+const t=[{p:"fēn",pp:"fen1",d:"miasma ☆ vapor",t:"氛"}],e=[{p:"fēn wéi",w:"氛围",d:"ambience ☆ atmosphere",t:"氛圍"},{p:"qì fēn",w:"气氛",d:"atmosphere ☆ mood",t:"氣氛"},{p:"chǎo qì fēn",w:"炒气氛",d:"to liven up the atmosphere",t:"炒氣氛"},{p:"chǎo rè qì fēn",w:"炒热气氛",d:"to liven up the atmosphere",t:"炒熱氣氛"}],o=[],p={s:t,w:e,i:o};export{p as default,o as i,t as s,e as w};

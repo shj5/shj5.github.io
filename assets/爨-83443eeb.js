@@ -1,0 +1,1 @@
+const o=[{p:"cuàn",pp:"cuan4",d:"surname Cuan",t:"爨"},{p:"cuàn",pp:"cuan4",d:"cooking-stove ☆ to cook",t:"爨"}],c=[{p:"chuī cuàn",w:"炊爨",d:"to light a fire and cook a meal",t:"炊爨"}],n=[],t={s:o,w:c,i:n};export{t as default,n as i,o as s,c as w};

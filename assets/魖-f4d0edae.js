@@ -1,0 +1,1 @@
+const t=[{p:"xū",pp:"xu1",d:"used in 黑魖魖[hei1 xu1 xu1]",t:"魖"}],x=[{p:"hēi xū xū",w:"黑魖魖",d:"pitch-black, dark",t:"黑魖魖"},{p:"hēi xū xū",w:"黑魖魖",d:"pitch-black, dark",t:"黑魖魖"}],c=[],i={s:t,w:x,i:c};export{i as default,c as i,t as s,x as w};

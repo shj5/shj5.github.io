@@ -1,0 +1,1 @@
+const t=[{p:"hǔ",pp:"hu3",d:"amber",t:"琥"}],s=[{p:"èr liú jī hǔ pò suān nà",w:"二硫基琥珀酸钠",d:"sodium dimercaptosuccinate",t:"二硫基琥珀酸鈉"},{p:"hǔ pò",w:"琥珀",d:"amber",t:"琥珀"}],p=[],c={s:t,w:s,i:p};export{c as default,p as i,t as s,s as w};

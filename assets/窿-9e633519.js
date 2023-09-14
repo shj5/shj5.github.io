@@ -1,0 +1,1 @@
+const o=[{p:"lóng",pp:"long2",d:"cavity ☆ hole",t:"窿"}],t=[{p:"dà ěr lóng",w:"大耳窿",d:"loan shark ☆ usurer",t:"大耳窿"},{p:"qióng lóng",w:"穹窿",d:"a dome ☆ a vault ☆ the sky",t:"穹窿"},{p:"kū long",w:"窟窿",d:"hole ☆ pocket ☆ cavity ☆ loophole ☆ debt",t:"窟窿"},{p:"kū long yǎn",w:"窟窿眼",d:"small hole",t:"窟窿眼"}],l=[],n={s:o,w:t,i:l};export{n as default,l as i,o as s,t as w};

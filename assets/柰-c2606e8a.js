@@ -1,0 +1,1 @@
+const a=[{p:"nài",pp:"nai4",d:"crab-apple ☆ how can one help",t:"柰"}],n=[{p:"nài zi",w:"柰子",d:"Chinese pear-leaf crabapple (Malus asiatica) ☆ (Internet slang) tits (pun on 奶子[nai3 zi5])",t:"柰子"}],t=[],e={s:a,w:n,i:t};export{e as default,t as i,a as s,n as w};

@@ -1,0 +1,1 @@
+const n=[{p:"xún",pp:"xun2",d:"ranges of hills",t:"峋"}],o=[{p:"lín xún",w:"嶙峋",d:"bony (of people) ☆ craggy ☆ rugged (of terrain) ☆ upright (of people)",t:"嶙峋"}],t=[{p:"shòu gǔ lín xún",w:"瘦骨嶙峋",d:"skinny, emaciated (idiom)",t:"瘦骨嶙峋"}],e={s:n,w:o,i:t};export{e as default,t as i,n as s,o as w};

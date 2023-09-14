@@ -1,0 +1,1 @@
+const t=[{p:"chuán",pp:"chuan2",d:"beam ☆ rafter ☆ classifier for rooms",t:"椽"}],o=[{p:"chuán zi",w:"椽子",d:"beam ☆ rafter",t:"椽子"}],s=[{p:"chū tóu de chuán zi xiān làn",w:"出头的椽子先烂",d:"lit. rafters that jut out rot first (idiom) ☆ fig. anyone who makes himself conspicuous will be targeted for attack",t:"出頭的椽子先爛"}],a={s:t,w:o,i:s};export{a as default,s as i,t as s,o as w};

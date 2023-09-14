@@ -1,0 +1,1 @@
+const i=[{p:"liáng",pp:"liang2",d:"jump",t:"踉"},{p:"liàng",pp:"liang4",d:"stagger ☆ sway from side to side",t:"踉"}],n=[{p:"liàng qiàng",w:"踉跄",d:"to stagger ☆ to stumble",t:"踉蹌"},{p:"liàng qiàng",w:"踉蹡",d:"variant of 踉蹌|踉跄[liang4 qiang4]",t:"踉蹡"},{p:"qiàng liàng",w:"跄踉",d:"see 踉蹌|踉跄[liang4 qiang4]",t:"蹌踉"}],g=[],t={s:i,w:n,i:g};export{t as default,g as i,i as s,n as w};

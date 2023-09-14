@@ -1,0 +1,1 @@
+const n=[{p:"xuān",pp:"xuan1",d:"genial and warm",t:"暄"}],t=[{p:"hán xuān",w:"寒暄",d:"to exchange conventional greetings ☆ to exchange pleasantries",t:"寒暄"},{p:"xuān teng",w:"暄腾",d:"soft and warm (of bread)",t:"暄騰"}],e=[{p:"fēng hé rì xuān",w:"风和日暄",d:"gentle wind and warm sunshine (idiom)",t:"風和日暄"}],a={s:n,w:t,i:e};export{a as default,e as i,n as s,t as w};

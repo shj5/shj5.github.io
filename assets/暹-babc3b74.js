@@ -1,0 +1,1 @@
+const i=[{p:"xiān",pp:"xian1",d:"sunrise",t:"暹"}],a=[{p:"xiān lì",w:"暹粒",d:"Siem Reap, Cambodia",t:"暹粒"},{p:"xiān luó",w:"暹罗",d:"Siam (old word for Thailand) ☆ Siamese",t:"暹羅"},{p:"xiān luó yǔ",w:"暹罗语",d:"Siamese (Thai) language",t:"暹羅語"},{p:"xiān luó",w:"暹逻",d:"variant of 暹羅|暹罗[Xian1 luo2]",t:"暹邏"}],n=[],t={s:i,w:a,i:n};export{t as default,n as i,i as s,a as w};

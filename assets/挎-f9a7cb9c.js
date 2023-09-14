@@ -1,0 +1,1 @@
+const t=[{p:"kuà",pp:"kua4",d:"to carry (esp. slung over the arm, shoulder or side)",t:"挎"}],a=[{p:"kuà dōu",w:"挎兜",d:"satchel ☆ backpack",t:"挎兜"},{p:"kuà dōu r",w:"挎兜儿",d:"erhua variant of 挎兜[kua4 dou1]",t:"挎兜兒"},{p:"kuà bāo",w:"挎包",d:"satchel ☆ bag",t:"挎包"},{p:"kuà dǒu",w:"挎斗",d:"sidecar",t:"挎斗"}],u=[],s={s:t,w:a,i:u};export{s as default,u as i,t as s,a as w};

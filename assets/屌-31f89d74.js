@@ -1,0 +1,1 @@
+const o=[{p:"diǎo",pp:"diao3",d:"penis ☆ (slang) cool or extraordinary ☆ (Cantonese) to fuck",t:"屌"}],s=[{p:"diǎo bào",w:"屌爆",d:"(slang) awesome",t:"屌爆"},{p:"diǎo sī",w:"屌丝",d:"loser (Internet slang)",t:"屌絲"}],t=[],n={s:o,w:s,i:t};export{n as default,t as i,o as s,s as w};

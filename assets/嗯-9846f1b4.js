@@ -1,0 +1,1 @@
+const n=[{p:"ēn",pp:"en1",d:"(a groaning sound)",t:"嗯"},{p:"èn",pp:"en4",d:"(nonverbal grunt as interjection) ☆ OK, yeah ☆ what?",t:"嗯"},{p:"en",pp:"en5",d:"interjection indicating approval, appreciation or agreement",t:"嗯"}],t=[{p:"en hēng",w:"嗯哼",d:"uh-huh",t:"嗯哼"}],e=[],p={s:n,w:t,i:e};export{p as default,e as i,n as s,t as w};

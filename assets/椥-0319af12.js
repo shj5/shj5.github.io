@@ -1,0 +1,1 @@
+const n=[{p:"zhī",pp:"zhi1",d:"used in 檳椥|槟椥[Bin1 zhi1]",t:"椥"}],i=[{p:"bīn zhī",w:"槟椥",d:"Ben Tre, province and city in Vietnam",t:"檳椥"}],t=[],s={s:n,w:i,i:t};export{s as default,t as i,n as s,i as w};

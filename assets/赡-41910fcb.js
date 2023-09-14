@@ -1,0 +1,1 @@
+const t=[{p:"shàn",pp:"shan4",d:"to support ☆ to provide for",t:"贍"}],n=[{p:"nán shàn bù zhōu",w:"南赡部洲",d:"Jambudvipa",t:"南贍部洲"},{p:"shàn yǎng",w:"赡养",d:"to support ☆ to provide support for ☆ to maintain",t:"贍養"},{p:"shàn yǎng fèi",w:"赡养费",d:"alimony ☆ child support ☆ maintenance allowance",t:"贍養費"}],o=[],p={s:t,w:n,i:o};export{p as default,o as i,t as s,n as w};

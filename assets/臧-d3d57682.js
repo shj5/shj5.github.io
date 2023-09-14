@@ -1,0 +1,1 @@
+const n=[{p:"zāng",pp:"zang1",d:"surname Zang",t:"臧"},{p:"zāng",pp:"zang1",d:"good ☆ right",t:"臧"},{p:"zàng",pp:"zang4",d:"old variant of 藏[zang4] ☆ old variant of 臟|脏[zang4]",t:"臧"}],a=[{p:"zāng kè jiā",w:"臧克家",d:"Zang Kejia (1905-2004), Chinese poet",t:"臧克家"}],t=[],g={s:n,w:a,i:t};export{g as default,t as i,n as s,a as w};

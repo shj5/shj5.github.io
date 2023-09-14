@@ -1,0 +1,1 @@
+const n=[{p:"bēn",pp:"ben1",d:"surname Ben",t:"賁"},{p:"bēn",pp:"ben1",d:"energetic",t:"賁"},{p:"bì",pp:"bi4",d:"bright",t:"賁"}],t=[{p:"bì lín",w:"贲临",d:"(of a distinguished guest) honor my house (firm etc) with your presence",t:"賁臨"},{p:"bēn mén",w:"贲门",d:"cardia (anatomy)",t:"賁門"}],e=[],p={s:n,w:t,i:e};export{p as default,e as i,n as s,t as w};

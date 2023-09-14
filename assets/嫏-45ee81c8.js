@@ -1,0 +1,1 @@
+const s=[{p:"láng",pp:"lang2",d:"used in 嫏嬛[Lang2 huan2]",t:"嫏"}],t=[{p:"láng huán",w:"嫏嬛",d:"mythical place where the Celestial Emperor stores his books ☆ (fig.) library",t:"嫏嬛"}],e=[],n={s,w:t,i:e};export{n as default,e as i,s,t as w};

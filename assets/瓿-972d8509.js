@@ -1,0 +1,1 @@
+const o=[{p:"bù",pp:"bu4",d:"a kind of vase (old) ☆ see 安瓿[an1 bu4]",t:"瓿"}],n=[{p:"ān bù",w:"安瓿",d:"ampoule (loanword)",t:"安瓿"},{p:"ān bù píng",w:"安瓿瓶",d:"ampoule (loanword)",t:"安瓿瓶"}],a=[],p={s:o,w:n,i:a};export{p as default,a as i,o as s,n as w};

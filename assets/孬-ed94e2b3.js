@@ -1,0 +1,1 @@
+const o=[{p:"nāo",pp:"nao1",d:"(dialect) no good (contraction of 不[bu4] + 好[hao3])",t:"孬"}],n=[{p:"nāo zhǒng",w:"孬种",d:"coward, useless scoundrel",t:"孬種"}],s=[],t={s:o,w:n,i:s};export{t as default,s as i,o as s,n as w};

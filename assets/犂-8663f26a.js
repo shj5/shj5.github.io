@@ -1,0 +1,1 @@
+const i=[{p:"lí",pp:"li2",d:"see 犂靬[Li2 jian1] ☆ variant of 犁[li2]",t:"犂"}],t=[{p:"lí jiān",w:"犂靬",d:"variant of 犁靬[Li2 jian1]",t:"犂靬"}],n=[],a={s:i,w:t,i:n};export{a as default,n as i,i as s,t as w};

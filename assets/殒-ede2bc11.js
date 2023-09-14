@@ -1,0 +1,1 @@
+const t=[{p:"yǔn",pp:"yun3",d:"to perish ☆ to die",t:"殞"}],o=[{p:"yǔn mìng",w:"殒命",d:"to die ☆ to perish",t:"殞命"},{p:"yǔn luò",w:"殒落",d:"see 隕落|陨落[yun3 luo4]",t:"殞落"}],e=[{p:"yǔn shēn bù xù",w:"殒身不恤",d:"to die without regrets (idiom), to sacrifice oneself without hesitation",t:"殞身不恤"}],i={s:t,w:o,i:e};export{i as default,e as i,t as s,o as w};

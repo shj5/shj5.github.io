@@ -1,0 +1,1 @@
+const i=[{p:"lí",pp:"li2",d:"calabash",t:"蠡"},{p:"lǐ",pp:"li3",d:"wood-boring insect",t:"蠡"}],n=[{p:"fàn lǐ",w:"范蠡",d:"Fan Li (536-488 BC), politician of Yue state, businessman and economist",t:"范蠡"},{p:"lǐ xiàn",w:"蠡县",d:"Li county in Baoding 保定[Bao3 ding4], Hebei",t:"蠡縣"}],t=[],o={s:i,w:n,i:t};export{o as default,t as i,i as s,n as w};

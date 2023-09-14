@@ -1,0 +1,1 @@
+const o=[{p:"xī",pp:"xi1",d:"variant of 觿, ivory bodkin for undoing knots",t:"觽"}],s=[{p:"zī xī",w:"觜觽",d:"name of constellation, possibly same as 觜宿",t:"觜觽"}],n=[],t={s:o,w:s,i:n};export{t as default,n as i,o as s,s as w};

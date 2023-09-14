@@ -1,0 +1,1 @@
+const t=[{p:"jiàn",pp:"jian4",d:"material (such as rocks, earth, bamboo etc) used to hastily repair a dike ☆ (literary) door bar (vertical bar used to prevent the horizontal movement of a door bolt)",t:"楗"}],o=[],a=[],e={s:t,w:o,i:a};export{e as default,a as i,t as s,o as w};

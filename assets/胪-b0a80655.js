@@ -1,0 +1,1 @@
+const n=[{p:"lú",pp:"lu2",d:"belly ☆ skin ☆ to state ☆ to pass on information ☆ to display",t:"臚"}],o=[{p:"dà hóng lú",w:"大鸿胪",d:"Grand Herald in imperial China, one of the Nine Ministers 九卿[jiu3 qing1]",t:"大鴻臚"},{p:"hóng lú sì",w:"鸿胪寺",d:"(archaic) office in charge of ceremony and protocol",t:"鴻臚寺"}],i=[],t={s:n,w:o,i};export{t as default,i,n as s,o as w};

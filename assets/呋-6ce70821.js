@@ -1,0 +1,1 @@
+const n=[{p:"fū",pp:"fu1",d:"used in transliteration, e.g. 呋喃[fu1 nan2], furan or 呋喃西林[fu1 nan2 xi1 lin2], furacilinum ☆ old variant of 趺[fu1]",t:"呋"}],a=[{p:"fū nán",w:"呋喃",d:"furan (furfuran, used in making nylon) (loanword)",t:"呋喃"},{p:"fū nán xī lín",w:"呋喃西林",d:"furacilinum (loanword)",t:"呋喃西林"}],f=[],u={s:n,w:a,i:f};export{u as default,f as i,n as s,a as w};

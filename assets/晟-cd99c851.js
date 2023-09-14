@@ -1,0 +1,1 @@
+const s=[{p:"chéng",pp:"cheng2",d:"surname Cheng",t:"晟"},{p:"shèng",pp:"sheng4",d:"brightness of sun ☆ splendor ☆ also pr. [cheng2]",t:"晟"}],n=[],e=[],p={s,w:n,i:e};export{p as default,e as i,s,n as w};

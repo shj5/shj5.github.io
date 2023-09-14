@@ -1,0 +1,1 @@
+const t=[{p:"tā",pp:"ta1",d:"she",t:"她"}],e=[{p:"tā men",w:"她们",d:"they ☆ them (for females)",t:"她們"},{p:"tā mǎ",w:"她玛",d:"Tamir (mother of Perez and Zerah)",t:"她瑪"},{p:"tā jīng jì",w:"她经济",d:`"she-economy" reflecting women's economic contribution ☆ euphemism for prostitution-based economy`,t:"她經濟"}],o=[],n={s:t,w:e,i:o};export{n as default,o as i,t as s,e as w};

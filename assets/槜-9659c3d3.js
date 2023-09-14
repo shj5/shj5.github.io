@@ -1,0 +1,1 @@
+const e=[{p:"zuì",pp:"zui4",d:"see 槜李[zui4 li3] ☆ see 槜李[Zui4 li3]",t:"槜"}],i=[{p:"zuì lǐ",w:"槜李",d:"ancient place in modern day Zhejiang Province",t:"槜李"}],n=[],s={s:e,w:i,i:n};export{s as default,n as i,e as s,i as w};

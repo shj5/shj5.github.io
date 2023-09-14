@@ -1,0 +1,1 @@
+const o=[{p:"lái",pp:"lai2",d:"used in 棶木|梾木[lai2 mu4]",t:"棶"}],l=[{p:"lái mù",w:"梾木",d:"large-leaved dogwood (Cornus macrophylla)",t:"棶木"}],s=[],a={s:o,w:l,i:s};export{a as default,s as i,o as s,l as w};

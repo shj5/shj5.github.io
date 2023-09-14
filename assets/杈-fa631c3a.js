@@ -1,0 +1,1 @@
+const o=[{p:"chā",pp:"cha1",d:"fork of a tree ☆ pitchfork",t:"杈"},{p:"chà",pp:"cha4",d:"branches of a tree ☆ fork of a tree",t:"杈"}],t=[{p:"yā chà",w:"丫杈",d:"fork (of a tree) ☆ tool made of forked wood",t:"丫杈"},{p:"dǎ chà",w:"打杈",d:"to prune (branches)",t:"打杈"},{p:"yā chà",w:"桠杈",d:"variant of 丫杈[ya1 cha4]",t:"椏杈"}],a=[],c={s:o,w:t,i:a};export{c as default,a as i,o as s,t as w};

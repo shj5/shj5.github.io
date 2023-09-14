@@ -1,0 +1,1 @@
+const o=[{p:"liè",pp:"lie4",d:"unending exertion",t:"劦"},{p:"xié",pp:"xie2",d:"variant of 協|协[xie2] ☆ to cooperate ☆ combined labor",t:"劦"}],t=[],e=[],i={s:o,w:t,i:e};export{i as default,e as i,o as s,t as w};

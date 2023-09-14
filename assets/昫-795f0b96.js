@@ -1,0 +1,1 @@
+const i=[{p:"xù",pp:"xu4",d:"variant of 煦[xu4] ☆ balmy ☆ nicely warm ☆ cozy",t:"昫"}],t=[{p:"liú xù",w:"刘昫",d:"Liu Xu (887-946), politician in Later Jin of the Five Dynasties 後晉|后晋[Hou4 Jin4], compiled History of Early Tang Dynasty 舊唐書|旧唐书[Jiu4 Tang2 shu1]",t:"劉昫"}],n=[],a={s:i,w:t,i:n};export{a as default,n as i,i as s,t as w};

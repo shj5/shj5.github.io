@@ -1,0 +1,1 @@
+const i=[{p:"pī",pp:"pi1",d:"arsenic",t:"砒"}],s=[{p:"bái pī",w:"白砒",d:"white arsenic ☆ arsenic trioxide",t:"白砒"},{p:"pī shuāng",w:"砒霜",d:"white arsenic ☆ arsenic trioxide As2O3",t:"砒霜"}],n=[{p:"jiǎ zhī mì táng , yǐ zhī pī shuāng",w:"甲之蜜糖，乙之砒霜",d:"one man's meat is another man's poison (idiom)",t:"甲之蜜糖，乙之砒霜"}],t={s:i,w:s,i:n};export{t as default,n as i,i as s,s as w};

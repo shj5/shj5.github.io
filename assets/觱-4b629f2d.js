@@ -1,0 +1,1 @@
+const t=[{p:"bì",pp:"bi4",d:"fever ☆ tartar horn",t:"觱"}],e=[{p:"bì lì",w:"觱栗",d:"ancient bamboo reed instrument ☆ Chinese shawm (probably related to central Asian zurna)",t:"觱慄"},{p:"bì lì",w:"觱篥",d:"ancient bamboo reed instrument ☆ Chinese shawm (probably related to central Asian zurna)",t:"觱篥"}],n=[],a={s:t,w:e,i:n};export{a as default,n as i,t as s,e as w};

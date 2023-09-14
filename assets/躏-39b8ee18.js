@@ -1,0 +1,1 @@
+const t=[{p:"lìn",pp:"lin4",d:"used in 蹂躪|蹂躏[rou2 lin4]",t:"躪"}],o=[{p:"róu lìn",w:"蹂躏",d:"to ravage ☆ to devastate ☆ to trample on ☆ to violate",t:"蹂躪"}],n=[],s={s:t,w:o,i:n};export{s as default,n as i,t as s,o as w};

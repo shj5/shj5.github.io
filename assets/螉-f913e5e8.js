@@ -1,0 +1,1 @@
+const n=[{p:"wēng",pp:"weng1",d:"see 蠮螉[ye1 weng1]",t:"螉"}],e=[{p:"wēng zōng",w:"螉䗥",d:"parasitic wasp (of bovine and equine animals)",t:"螉䗥"},{p:"yē wēng",w:"蠮螉",d:"wasp of the family Sphecidae",t:"蠮螉"}],s=[],a={s:n,w:e,i:s};export{a as default,s as i,n as s,e as w};

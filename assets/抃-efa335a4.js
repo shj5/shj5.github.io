@@ -1,0 +1,1 @@
+const t=[{p:"biàn",pp:"bian4",d:"to applaud",t:"抃"}],n=[{p:"biàn yuè",w:"抃悦",d:"to clap one's hands in joy",t:"抃悅"},{p:"biàn zhǎng",w:"抃掌",d:"to clap ☆ to applaud",t:"抃掌"},{p:"wǔ biàn",w:"舞抃",d:"to dance for joy",t:"舞抃"},{p:"áo biàn",w:"鳌抃",d:"to clap and dance with joy",t:"鰲抃"}],o=[],p={s:t,w:n,i:o};export{p as default,o as i,t as s,n as w};

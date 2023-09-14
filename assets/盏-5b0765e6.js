@@ -1,0 +1,1 @@
+const n=[{p:"zhǎn",pp:"zhan3",d:"a small cup ☆ classifier for lamps",t:"盞"}],a=[{p:"dēng zhǎn",w:"灯盏",d:"lantern ☆ uncovered oil lamp",t:"燈盞"},{p:"mǎ lā zhǎn",w:"马拉盏",d:"(loanword) belachan (South-East Asian condiment made from fermented shrimp paste)",t:"馬拉盞"}],s=[],t={s:n,w:a,i:s};export{t as default,s as i,n as s,a as w};

@@ -1,0 +1,1 @@
+const e=[{p:"lí",pp:"li2",d:"red algae ☆ Gracilaria, several species, some edible ☆ Japanese ogonori ☆ arch. used for vanilla-like herb",t:"蘺"}],a=[{p:"jiāng lí",w:"江蓠",d:"red algae ☆ Gracilaria, several species, some edible ☆ Japanese ogonori",t:"江蘺"}],s=[],i={s:e,w:a,i:s};export{i as default,s as i,e as s,a as w};

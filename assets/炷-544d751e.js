@@ -1,0 +1,1 @@
+const i=[{p:"zhù",pp:"zhu4",d:"wick of an oil lamp ☆ to burn (incense etc) ☆ classifier for lit incense sticks",t:"炷"}],o=[{p:"ài zhù",w:"艾炷",d:"moxa cone",t:"艾炷"},{p:"ài zhù jiǔ",w:"艾炷灸",d:"cone moxibustion (TCM)",t:"艾炷灸"}],s=[],t={s:i,w:o,i:s};export{t as default,s as i,i as s,o as w};

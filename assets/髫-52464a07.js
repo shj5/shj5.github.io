@@ -1,0 +1,1 @@
+const i=[{p:"tiáo",pp:"tiao2",d:"(literary) hair hanging down in front (children's hairstyle)",t:"髫"}],t=[{p:"chuí tiáo",w:"垂髫",d:"hair hanging down (child's hairstyle) ☆ (fig.) young child, early childhood",t:"垂髫"}],n=[],o={s:i,w:t,i:n};export{o as default,n as i,i as s,t as w};

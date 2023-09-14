@@ -1,0 +1,1 @@
+const s=[{p:"huì",pp:"hui4",d:"Coumarouna odorata",t:"蕙"}],t=[],o=[{p:"zhī fén huì tàn",w:"芝焚蕙叹",d:"lit. when one grass burns the other grass sighs (idiom), fig. to have sympathy with a like-minded person in distress",t:"芝焚蕙嘆"}],i={s,w:t,i:o};export{i as default,o as i,s,t as w};

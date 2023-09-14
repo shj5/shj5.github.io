@@ -1,0 +1,1 @@
+const t=[{p:"suō",pp:"suo1",d:"to throw a glance at ☆ to peer at",t:"睃"}],s=[{p:"suō xún",w:"睃巡",d:"(eyes) to scan ☆ to glance left and right ☆ to scrutinize ☆ also written 巡睃[xun2 suo1]",t:"睃巡"}],o=[],n={s:t,w:s,i:o};export{n as default,o as i,t as s,s as w};

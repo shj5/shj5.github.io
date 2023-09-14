@@ -1,0 +1,1 @@
+const n=[{p:"wān",pp:"wan1",d:"used in 蜿蜒[wan1 yan2]",t:"蜿"}],t=[{p:"wān yán",w:"蜿蜒",d:"(of a snake) to wriggle along ☆ (of a river etc) to zigzag, to meander, to wind",t:"蜿蜒"}],o=[],a={s:n,w:t,i:o};export{a as default,o as i,n as s,t as w};

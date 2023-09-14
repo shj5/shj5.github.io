@@ -1,0 +1,1 @@
+const t=[{p:"tān",pp:"tan1",d:"to collapse",t:"坍"}],l=[{p:"dǎo tān",w:"倒坍",d:"to collapse (of building)",t:"倒坍"},{p:"tān tā",w:"坍塌",d:"to collapse",t:"坍塌"},{p:"tān fāng",w:"坍方",d:"to collapse ☆ landslide",t:"坍方"},{p:"bēng tān",w:"崩坍",d:"landslide ☆ collapse (of mountain side) ☆ talus slide",t:"崩坍"}],o=[],n={s:t,w:l,i:o};export{n as default,o as i,t as s,l as w};

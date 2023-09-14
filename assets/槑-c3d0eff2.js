@@ -1,0 +1,1 @@
+const t=[{p:"dāi",pp:"dai1",d:"(Internet slang) emphatic variant of 呆[dai1]",t:"槑"}],n=[{p:"jīng dāi",w:"惊槑",d:"(Internet slang) stupefied ☆ stunned",t:"驚槑"}],s=[],e={s:t,w:n,i:s};export{e as default,s as i,t as s,n as w};

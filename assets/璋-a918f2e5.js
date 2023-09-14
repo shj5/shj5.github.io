@@ -1,0 +1,1 @@
+const n=[{p:"zhāng",pp:"zhang1",d:"ancient stone ornament",t:"璋"}],t=[{p:"zhū yuán zhāng",w:"朱元璋",d:"Zhu Yuanzhang, personal name of first Ming dynasty emperor Hongwu 洪武[Hong2 wu3]",t:"朱元璋"}],o=[],s={s:n,w:t,i:o};export{s as default,o as i,n as s,t as w};

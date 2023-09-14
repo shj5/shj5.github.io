@@ -1,0 +1,1 @@
+const t=[{p:"pāng",pp:"pang1",d:"rushing (water)",t:"滂"}],n=[{p:"pāng tuó",w:"滂沱",d:"pouring ☆ flooding",t:"滂沱"}],o=[{p:"tì sì pāng tuó",w:"涕泗滂沱",d:"a flood of tears and mucus ☆ broken-hearted and weeping bitterly",t:"涕泗滂沱"},{p:"pāng tuó dà yǔ",w:"滂沱大雨",d:"torrents of rain (idiom)",t:"滂沱大雨"}],p={s:t,w:n,i:o};export{p as default,o as i,t as s,n as w};

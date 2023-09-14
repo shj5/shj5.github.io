@@ -1,0 +1,1 @@
+const t=[{p:"rèn",pp:"ren4",d:"to weave ☆ to lay warp for weaving ☆ silk thread for weaving ☆ variant of 紉|纫, to sew ☆ to stitch ☆ thread",t:"紝"}],n=[{p:"rèn zhī",w:"纴织",d:"to weave",t:"紝織"},{p:"zhī rèn",w:"织纴",d:"spinning and weaving",t:"織紝"}],a=[],e={s:t,w:n,i:a};export{e as default,a as i,t as s,n as w};

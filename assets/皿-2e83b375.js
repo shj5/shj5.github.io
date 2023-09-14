@@ -1,0 +1,1 @@
+const n=[{p:"mǐn",pp:"min3",d:"(bound form) dish, vessel, shallow container ☆ radical no. 108",t:"皿"}],s=[{p:"qì mǐn",w:"器皿",d:"household utensils",t:"器皿"},{p:"péi yǎng mǐn",w:"培养皿",d:"Petri dish",t:"培養皿"},{p:"bǐ dé lǐ mǐn",w:"彼得里皿",d:"Petri dish",t:"彼得里皿"},{p:"měi nài mǐn",w:"美耐皿",d:"(Tw) (loanword) melamine",t:"美耐皿"}],i=[],t={s:n,w:s,i};export{t as default,i,n as s,s as w};

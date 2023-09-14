@@ -1,0 +1,1 @@
+const t=[{p:"dī",pp:"di1",d:"billy goat ☆ ram",t:"羝"}],o=[],i=[{p:"dī yáng chù fān",w:"羝羊触藩",d:"lit. billy goat's horns caught in the fence (idiom from Book of Changes 易經|易经), impossible to advance or to retreat ☆ without any way out of a dilemma ☆ trapped ☆ in an impossible situation",t:"羝羊觸藩"}],a={s:t,w:o,i};export{a as default,i,t as s,o as w};

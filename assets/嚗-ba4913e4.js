@@ -1,0 +1,1 @@
+const o=[{p:"bó",pp:"bo2",d:"(onom.) sound of sth splitting or breaking apart ☆ sound of an object falling to the ground ☆ a cry of rage",t:"嚗"}],t=[],n=[],s={s:o,w:t,i:n};export{s as default,n as i,o as s,t as w};

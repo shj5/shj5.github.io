@@ -1,0 +1,1 @@
+const s=[{p:"zhé",pp:"zhe2",d:"variant of 哲[zhe2] (used as a surname and in given names)",t:"喆"}],a=[{p:"táo zhé",w:"陶喆",d:"David Tao (1969-), Taiwanese singer-songwriter",t:"陶喆"}],n=[],e={s,w:a,i:n};export{e as default,n as i,s,a as w};

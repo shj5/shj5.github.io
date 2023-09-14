@@ -1,0 +1,1 @@
+const a=[{p:"liáo",pp:"liao2",d:"name of a state during Han Dynasty",t:"膫"},{p:"liáo",pp:"liao2",d:"male genitals ☆ old variant of 膋[liao2]",t:"膫"}],o=[],t=[],i={s:a,w:o,i:t};export{i as default,t as i,a as s,o as w};

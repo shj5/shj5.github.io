@@ -1,0 +1,1 @@
+const i=[{p:"jiū",pp:"jiu1",d:"(onom.) wailing of child ☆ chirp ☆ kiss (Tw)",t:"啾"}],o=[{p:"hā jiū",w:"哈啾",d:"(onom.) a-choo (sound of a sneeze) (Tw)",t:"哈啾"},{p:"jī jiū",w:"唧啾",d:"(onom.) babble ☆ twittering of birds",t:"唧啾"},{p:"zhōu jiū",w:"啁啾",d:"(bird) twitter ☆ chirp",t:"啁啾"}],t=[],s={s:i,w:o,i:t};export{s as default,t as i,i as s,o as w};

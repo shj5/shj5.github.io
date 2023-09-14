@@ -1,0 +1,1 @@
+const o=[{p:"zhuó",pp:"zhuo2",d:"(chemistry) tropylium ion",t:"䓬"}],t=[{p:"běn èr dàn zhuó",w:"苯二氮䓬",d:"(organic chemistry, pharmacology) benzodiazepine",t:"苯二氮䓬"}],n=[],i={s:o,w:t,i:n};export{i as default,n as i,o as s,t as w};

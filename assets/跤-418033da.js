@@ -1,0 +1,1 @@
+const t=[{p:"jiāo",pp:"jiao1",d:"a tumble ☆ a fall",t:"跤"}],o=[{p:"shuāi jiāo",w:"摔跤",d:"to trip and fall ☆ to wrestle ☆ wrestling (sports)",t:"摔跤"},{p:"bàn jiāo",w:"绊跤",d:"to trip ☆ to stumble",t:"絆跤"},{p:"diē jiāo",w:"跌跤",d:"to fall down ☆ to take a fall",t:"跌跤"}],l=[],s={s:t,w:o,i:l};export{s as default,l as i,t as s,o as w};

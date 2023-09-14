@@ -1,0 +1,1 @@
+const n=[{p:"jiān",pp:"jian1",d:"see 犂靬[Li2 jian1], Han dynasty name for countries in far West",t:"靬"}],a=[{p:"lí jiān",w:"犁靬",d:"Han dynasty name for countries in far West ☆ may refer to Silk Road states or Alexandria or the Roman empire",t:"犁靬"},{p:"lí jiān",w:"犂靬",d:"variant of 犁靬[Li2 jian1]",t:"犂靬"}],t=[],i={s:n,w:a,i:t};export{i as default,t as i,n as s,a as w};

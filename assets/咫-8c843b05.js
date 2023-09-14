@@ -1,0 +1,1 @@
+const t=[{p:"zhǐ",pp:"zhi3",d:"8 in. length unit of Zhou dynasty",t:"咫"}],o=[{p:"zhǐ chǐ",w:"咫尺",d:"very close ☆ very near",t:"咫尺"}],s=[{p:"zhǐ chǐ tiān yá",w:"咫尺天涯",d:"so close, yet worlds apart (idiom)",t:"咫尺天涯"},{p:"jìn zài zhǐ chǐ",w:"近在咫尺",d:"to be almost within reach ☆ to be close at hand",t:"近在咫尺"}],e={s:t,w:o,i:s};export{e as default,s as i,t as s,o as w};

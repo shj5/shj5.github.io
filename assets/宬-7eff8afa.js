@@ -1,0 +1,1 @@
+const i=[{p:"chéng",pp:"cheng2",d:"(literary) archive room, library (esp. in the imperial palace in the Ming and Qing dynasties)",t:"宬"}],n=[],e=[],t={s:i,w:n,i:e};export{t as default,e as i,i as s,n as w};

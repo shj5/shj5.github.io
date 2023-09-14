@@ -1,0 +1,1 @@
+const o=[{p:"zuò",pp:"zuo4",d:"ashamed",t:"怍"}],a=[{p:"kuì zuò",w:"愧怍",d:"ashamed",t:"愧怍"}],s=[{p:"bù kuì bù zuò",w:"不愧不怍",d:"no shame, no subterfuge (idiom), just and honorable ☆ upright and above board",t:"不愧不怍"}],t={s:o,w:a,i:s};export{t as default,s as i,o as s,a as w};

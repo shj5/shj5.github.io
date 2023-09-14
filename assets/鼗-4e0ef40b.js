@@ -1,0 +1,1 @@
+const t=[{p:"táo",pp:"tao2",d:"hand drum used by peddlers",t:"鞀"},{p:"táo",pp:"tao2",d:"a drum-shaped rattle (used by peddlers or as a toy) ☆ rattle-drum",t:"鼗"}],d=[],s=[],a={s:t,w:d,i:s};export{a as default,s as i,t as s,d as w};

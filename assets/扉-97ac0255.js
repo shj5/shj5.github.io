@@ -1,0 +1,1 @@
+const t=[{p:"fēi",pp:"fei1",d:"door with only one leaf",t:"扉"}],e=[{p:"xīn fēi",w:"心扉",d:"inner heart ☆ soul",t:"心扉"},{p:"fēi huà",w:"扉画",d:"frontpage picture",t:"扉畫"},{p:"fēi yè",w:"扉页",d:"title page ☆ flyleaf ☆ end paper",t:"扉頁"}],p=[],i={s:t,w:e,i:p};export{i as default,p as i,t as s,e as w};

@@ -1,0 +1,1 @@
+const n=[{p:"fāng",pp:"fang1",d:"name of a district in Sichuan",t:"邡"}],t=[{p:"shí fāng",w:"什邡",d:"Shifang, county-level city in Deyang 德陽|德阳[De2 yang2], Sichuan",t:"什邡"},{p:"shí fāng shì",w:"什邡市",d:"Shifang, county-level city in Deyang 德陽|德阳[De2 yang2], Sichuan",t:"什邡市"}],a=[],i={s:n,w:t,i:a};export{i as default,a as i,n as s,t as w};

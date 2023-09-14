@@ -1,0 +1,1 @@
+const o=[{p:"yuē",pp:"yue1",d:"to speak ☆ to say",t:"曰"}],t=[{p:"zǐ yuē",w:"子曰",d:"Confucius says:",t:"子曰"},{p:"hào yuē",w:"号曰",d:"to be named ☆ named",t:"號曰"},{p:"shī yuē",w:"诗曰",d:"a poem goes:",t:"詩曰"}],s=[{p:"měi qí míng yuē",w:"美其名曰",d:"to call by the glorified name of (idiom)",t:"美其名曰"}],e={s:o,w:t,i:s};export{e as default,s as i,o as s,t as w};

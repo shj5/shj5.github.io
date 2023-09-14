@@ -1,0 +1,1 @@
+const i=[{p:"niè",pp:"nie4",d:"guidepost ☆ rule ☆ standard ☆ limit ☆ target (old)",t:"臬"}],t=[{p:"wù niè",w:"兀臬",d:"variant of 杌隉|杌陧[wu4 nie4]",t:"兀臬"},{p:"niè tái",w:"臬台",d:"provincial judge (in imperial China)",t:"臬臺"}],n=[{p:"fèng wéi guī niè",w:"奉为圭臬",d:"to take as a guiding principle (idiom)",t:"奉為圭臬"}],a={s:i,w:t,i:n};export{a as default,n as i,i as s,t as w};

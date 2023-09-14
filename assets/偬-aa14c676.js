@@ -1,0 +1,1 @@
+const t=[{p:"zǒng",pp:"zong3",d:"busy ☆ hurried ☆ despondent",t:"傯"}],n=[{p:"kǒng zǒng",w:"倥偬",d:"pressing ☆ urgent ☆ poverty-stricken ☆ destitute",t:"倥傯"},{p:"róng shì kǒng zǒng",w:"戎事倥偬",d:"a time of military urgency ☆ war crisis",t:"戎事倥傯"}],s=[],e={s:t,w:n,i:s};export{e as default,s as i,t as s,n as w};

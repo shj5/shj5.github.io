@@ -1,0 +1,1 @@
+const n=[{p:"wǎng",pp:"wang3",d:"elf ☆ sprite",t:"魍"}],s=[{p:"wǎng liǎng",w:"魍魉",d:"sprites and goblins ☆ monsters and demons",t:"魍魎"},{p:"wǎng liǎng guǐ guài",w:"魍魉鬼怪",d:"ghoulies and bogeys ☆ things that go bump in the night",t:"魍魎鬼怪"}],t=[{p:"chī mèi wǎng liǎng",w:"魑魅魍魉",d:"demons and monsters (idiom)",t:"魑魅魍魎"}],g={s:n,w:s,i:t};export{g as default,t as i,n as s,s as w};

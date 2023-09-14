@@ -1,0 +1,1 @@
+const t=[{p:"xiǎn",pp:"xian3",d:"barefooted",t:"跣"}],n=[],e=[{p:"péng tóu xiǎn zú",w:"蓬头跣足",d:"matted hair and bare feet ☆ unkempt",t:"蓬頭跣足"}],a={s:t,w:n,i:e};export{a as default,e as i,t as s,n as w};

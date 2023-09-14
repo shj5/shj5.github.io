@@ -1,0 +1,1 @@
+const t=[{p:"niàn",pp:"nian4",d:"twenty",t:"廿"}],n=[{p:"niàn bā chán",w:"廿八躔",d:"the twenty-eight constellations ☆ also written 二十八宿[er4 shi2 ba1 xiu4]",t:"廿八躔"},{p:"niàn sì shǐ",w:"廿四史",d:"twenty four dynastic histories (or 25 or 26 in modern editions) ☆ same as 二十四史[Er4 shi2 si4 Shi3]",t:"廿四史"}],s=[],i={s:t,w:n,i:s};export{i as default,s as i,t as s,n as w};

@@ -1,0 +1,1 @@
+const o=[{p:"jiào",pp:"jiao4",d:"to chew",t:"噍"}],t=[{p:"dǎo jiào",w:"倒噍",d:"to ruminate (of cows)",t:"倒噍"},{p:"jiào lèi",w:"噍类",d:"a living being (esp. human)",t:"噍類"}],i=[],s={s:o,w:t,i};export{s as default,i,o as s,t as w};

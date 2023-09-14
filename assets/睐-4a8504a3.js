@@ -1,0 +1,1 @@
+const o=[{p:"lài",pp:"lai4",d:"to glance ☆ to look askance at",t:"睞"}],t=[{p:"pàn lài",w:"盼睐",d:"your favors ☆ your consideration",t:"盼睞"},{p:"miàn lài",w:"眄睐",d:"to cast loving glances",t:"眄睞"},{p:"qīng lài",w:"青睐",d:"(lit.) to fix one's gaze on ☆ (fig.) to show interest in ☆ (favorable) attention ☆ favor",t:"青睞"}],n=[],i={s:o,w:t,i:n};export{i as default,n as i,o as s,t as w};

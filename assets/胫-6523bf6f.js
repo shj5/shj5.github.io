@@ -1,0 +1,1 @@
+const t=[{p:"jìng",pp:"jing4",d:"lower part of leg",t:"脛"},{p:"jìng",pp:"jing4",d:"variant of 脛|胫[jing4]",t:"踁"}],n=[{p:"jìng gǔ",w:"胫骨",d:"tibia",t:"脛骨"},{p:"hù jìng",w:"护胫",d:"shin pad ☆ shin guard",t:"護脛"}],i=[{p:"bù jìng ér zǒu",w:"不胫而走",d:"to get round fast ☆ to spread like wildfire",t:"不脛而走"}],p={s:t,w:n,i};export{p as default,i,t as s,n as w};

@@ -1,0 +1,1 @@
+const t=[{p:"shuān",pp:"shuan1",d:"to tie up",t:"拴"}],o=[{p:"shuān zhù",w:"拴住",d:"to tether ☆ to tie up ☆ (fig.) to restrict ☆ to keep a hold on",t:"拴住"},{p:"luó shuān",w:"螺拴",d:"bolt",t:"螺拴"},{p:"yīn shuān",w:"音拴",d:"organ stop (button activating a row of pipes)",t:"音拴"}],s=[],n={s:t,w:o,i:s};export{n as default,s as i,t as s,o as w};

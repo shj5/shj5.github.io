@@ -1,0 +1,1 @@
+const e=[{p:"shá",pp:"sha2",d:"dialectal equivalent of 什麼|什么[shen2 me5] ☆ also pr. [sha4]",t:"啥"}],t=[{p:"shá zi",w:"啥子",d:"(dialect) what",t:"啥子"},{p:"m shá",w:"呒啥",d:"dialectal equivalent of 沒什麼|没什么[mei2 shen2 me5]",t:"嘸啥"},{p:"wèi shá",w:"为啥",d:"dialectal equivalent of 為什麼|为什么[wei4 shen2 me5]",t:"為啥"}],s=[],a={s:e,w:t,i:s};export{a as default,s as i,e as s,t as w};

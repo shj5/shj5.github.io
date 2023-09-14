@@ -1,0 +1,1 @@
+const t=[{p:"ráng",pp:"rang2",d:"sacrifice for avoiding calamity",t:"禳"}],i=[{p:"qí fú ráng zāi",w:"祈福禳灾",d:"to pray for luck and sacrifice to avoid disasters (i.e. traditional superstitions)",t:"祈福禳災"},{p:"ráng jiě",w:"禳解",d:"to pray to the gods for the avoidance of a misfortune",t:"禳解"}],o=[],a={s:t,w:i,i:o};export{a as default,o as i,t as s,i as w};

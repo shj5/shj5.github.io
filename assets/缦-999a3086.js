@@ -1,0 +1,1 @@
+const n=[{p:"màn",pp:"man4",d:"plain thin silk ☆ slow ☆ unadorned",t:"縵"}],t=[{p:"làn màn",w:"烂缦",d:"variant of 爛漫|烂漫[lan4 man4]",t:"爛縵"}],a=[],s={s:n,w:t,i:a};export{s as default,a as i,n as s,t as w};

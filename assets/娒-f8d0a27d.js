@@ -1,0 +1,1 @@
+const p=[{p:"méi",pp:"mei2",d:"(used in personal names)",t:"娒"},{p:"mǔ",pp:"mu3",d:"variant of 姆[mu3]",t:"娒"},{p:"wǔ",pp:"wu3",d:"variant of 侮[wu3]",t:"娒"}],t=[],s=[],n={s:p,w:t,i:s};export{n as default,s as i,p as s,t as w};

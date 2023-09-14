@@ -1,0 +1,1 @@
+const i=[{p:"lián",pp:"lian2",d:"see 槤枷|梿枷[lian2 jia1], flail ☆ to thresh (using a flail)",t:"槤"}],a=[{p:"liú lián",w:"榴梿",d:"variant of 榴蓮|榴莲[liu2 lian2]",t:"榴槤"},{p:"liú lián guǒ",w:"榴梿果",d:"durian fruit ☆ also written 留蓮果|留莲果",t:"榴槤果"},{p:"lián jiā",w:"梿枷",d:"variant of 連枷|连枷[lian2 jia1]",t:"槤枷"}],l=[],n={s:i,w:a,i:l};export{n as default,l as i,i as s,a as w};

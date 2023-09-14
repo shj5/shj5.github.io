@@ -1,0 +1,1 @@
+const t=[{p:"kē",pp:"ke1",d:"nest",t:"窠"}],e=[{p:"kē jiù",w:"窠臼",d:"stereotypical pattern ☆ rut",t:"窠臼"},{p:"jiù kē",w:"臼窠",d:"see 窠臼[ke1 jiu4]",t:"臼窠"},{p:"zhū kē",w:"猪窠",d:"pigsty",t:"豬窠"}],s=[{p:"bù luò kē jiù",w:"不落窠臼",d:"not follow the beaten track ☆ have an original style",t:"不落窠臼"}],p={s:t,w:e,i:s};export{p as default,s as i,t as s,e as w};

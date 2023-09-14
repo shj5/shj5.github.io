@@ -1,0 +1,1 @@
+const o=[{p:"mò",pp:"mo4",d:"to gaze ☆ to ogle to look at",t:"眽"}],t=[{p:"mò mò",w:"眽眽",d:"variant of 脈脈|脉脉[mo4 mo4]",t:"眽眽"},{p:"mò mò",w:"眽眽",d:"variant of 脈脈|脉脉[mo4 mo4]",t:"眽眽"}],m=[],a={s:o,w:t,i:m};export{a as default,m as i,o as s,t as w};

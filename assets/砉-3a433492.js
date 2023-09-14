@@ -1,0 +1,1 @@
+const o=[{p:"huā",pp:"hua1",d:"sound of a thing flying fast by ☆ whoosh ☆ cracking sound",t:"砉"},{p:"xū",pp:"xu1",d:"sound of flaying",t:"砉"}],s=[],n=[],t={s:o,w:s,i:n};export{t as default,n as i,o as s,s as w};

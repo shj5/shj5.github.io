@@ -1,0 +1,1 @@
+const a=[{p:"yǐ",pp:"yi3",d:"common plantain (Plantago major)",t:"苡"}],t=[{p:"yǐ mǐ",w:"苡米",d:"grains of Job's tears plant 薏苡[yi4 yi3]",t:"苡米"},{p:"yì yǐ",w:"薏苡",d:"Job's tears plant (Coix lacryma-jobi) ☆ Chinese pearl barley",t:"薏苡"}],o=[],s={s:a,w:t,i:o};export{s as default,o as i,a as s,t as w};

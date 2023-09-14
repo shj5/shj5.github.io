@@ -1,0 +1,1 @@
+const e=[{p:"yù",pp:"yu4",d:"treasure ☆ hard metal",t:"鈺"}],t=[{p:"zhū qí yù",w:"朱祁钰",d:"Zhu Qiyu, personal name of seventh Ming emperor Jingtai 景泰[Jing3 tai4] (1428-1457), reigned 1449-1457",t:"朱祁鈺"}],n=[],s={s:e,w:t,i:n};export{s as default,n as i,e as s,t as w};

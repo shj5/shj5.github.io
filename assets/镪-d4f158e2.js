@@ -1,0 +1,1 @@
+const n=[{p:"qiāng",pp:"qiang1",d:"sulfuric acid",t:"鏹"},{p:"qiǎng",pp:"qiang3",d:"money ☆ string of coins",t:"鏹"}],i=[{p:"qiāng shuǐ",w:"镪水",d:"(coll.) strong acid",t:"鏹水"}],s=[],t={s:n,w:i,i:s};export{t as default,s as i,n as s,i as w};

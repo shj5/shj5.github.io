@@ -1,0 +1,1 @@
+const i=[{p:"yǔ",pp:"yu3",d:"big",t:"俁"}],t=[{p:"shuǐ yǔ shì",w:"水俣市",d:"Minamata City in Kumamoto prefecture, Japan",t:"水俁市"},{p:"shuǐ yǔ bìng",w:"水俣病",d:"Minamata disease (neurological disease caused by mercury poisoning due to industrial pollution in Japan, first identified in 1956)",t:"水俁病"}],a=[],n={s:i,w:t,i:a};export{n as default,a as i,i as s,t as w};

@@ -1,0 +1,1 @@
+const a=[{p:"fú",pp:"fu2",d:"ribbon for a seal ☆ sash",t:"紱"}],o=[{p:"zhū fú",w:"朱绂",d:"(archaic) red silk ribbon tied to a seal or a jade pendant ☆ red knee cover, part of an official's robes (also a synedoche for the attire of an official) ☆ to be an official",t:"朱紱"}],e=[],s={s:a,w:o,i:e};export{s as default,e as i,a as s,o as w};

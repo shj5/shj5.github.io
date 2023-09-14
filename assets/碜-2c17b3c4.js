@@ -1,0 +1,1 @@
+const t=[{p:"chěn",pp:"chen3",d:"gritty (of food) ☆ unsightly",t:"磣"}],i=[{p:"hán chen",w:"寒碜",d:"ugly ☆ shameful ☆ to ridicule",t:"寒磣"},{p:"yá chen",w:"牙碜",d:"gritty (of foodstuffs) ☆ fig. jarring speech",t:"牙磣"},{p:"kē chen",w:"砢碜",d:"ugly ☆ unsightly ☆ shabby ☆ to humiliate ☆ to ridicule",t:"砢磣"}],o=[],s={s:t,w:i,i:o};export{s as default,o as i,t as s,i as w};

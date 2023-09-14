@@ -1,0 +1,1 @@
+const n=[{p:"yóng",pp:"yong2",d:"breathing (of fish)",t:"喁"}],t=[{p:"yóng yóng",w:"喁喁",d:"looking up expectantly",t:"喁喁"},{p:"yóng yóng",w:"喁喁",d:"looking up expectantly",t:"喁喁"}],o=[],p={s:n,w:t,i:o};export{p as default,o as i,n as s,t as w};

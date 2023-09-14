@@ -1,0 +1,1 @@
+const t=[{p:"zhuǎi",pp:"zhuai3",d:"to waddle ☆ to swagger ☆ (coll.) strutting ☆ self-satisfied",t:"跩"}],s=[{p:"zhuǎi wén",w:"跩文",d:"see 轉文|转文[zhuai3 wen2] (Tw)",t:"跩文"}],e=[],i={s:t,w:s,i:e};export{i as default,e as i,t as s,s as w};

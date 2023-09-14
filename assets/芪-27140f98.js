@@ -1,0 +1,1 @@
+const s=[{p:"qí",pp:"qi2",d:"see 黃芪|黄芪[huang2 qi2]",t:"芪"}],t=[{p:"huáng qí",w:"黄芪",d:"huangqi ☆ milk vetch root (used in TCM) ☆ Astragalus membranaceus or Astragalus mongholicus",t:"黃芪"}],a=[],n={s,w:t,i:a};export{n as default,a as i,s,t as w};

@@ -1,0 +1,1 @@
+const i=[{p:"xiū",pp:"xiu1",d:"see 貔貅[pi2 xiu1], composite mythical animal (originally 貅 was the female)",t:"貅"}],a=[{p:"pí xiū",w:"貔貅",d:"mythical animal that brings luck and wards off evil, having head of a dragon and lion's body, often with hoofs, wings and tail ☆ also written 辟邪 ☆ fig. valiant soldier",t:"貔貅"}],t=[],n={s:i,w:a,i:t};export{n as default,t as i,i as s,a as w};

@@ -1,0 +1,1 @@
+const s=[{p:"wà",pp:"wa4",d:"used in 膃肭|腽肭[wa4 na4]",t:"膃"}],n=[{p:"wà nà",w:"腽肭",d:"fur seal ☆ (literary) fat, obese",t:"膃肭"},{p:"wà nà shòu",w:"腽肭兽",d:"fur seal (Callorhinus ursinus Linnaeus)",t:"膃肭獸"},{p:"wà nà qí",w:"腽肭脐",d:"penis and testes of fur seal (used in TCM)",t:"膃肭臍"}],e=[],t={s,w:n,i:e};export{t as default,e as i,s,n as w};

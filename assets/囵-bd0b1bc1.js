@@ -1,0 +1,1 @@
+const t=[{p:"lún",pp:"lun2",d:"complete",t:"圇"}],o=[{p:"hú lún",w:"囫囵",d:"complete ☆ whole",t:"囫圇"},{p:"hú lún tūn xià",w:"囫囵吞下",d:"to swallow whole ☆ (fig.) to swallow (lies etc)",t:"囫圇吞下"}],l=[{p:"hú lún tūn zǎo",w:"囫囵吞枣",d:"to swallow in one gulp (idiom) ☆ (fig.) to accept without thinking ☆ to lap up",t:"囫圇吞棗"}],n={s:t,w:o,i:l};export{n as default,l as i,t as s,o as w};

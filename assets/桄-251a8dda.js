@@ -1,0 +1,1 @@
+const n=[{p:"guāng",pp:"guang1",d:"used in 桄榔[guang1 lang2]",t:"桄"},{p:"guàng",pp:"guang4",d:"woven wood and bamboo utensil ☆ classifier for threads and strings",t:"桄"}],a=[{p:"guāng láng",w:"桄榔",d:"arenga or sugar palm (Arenga pinnata)",t:"桄榔"}],g=[],s={s:n,w:a,i:g};export{s as default,g as i,n as s,a as w};

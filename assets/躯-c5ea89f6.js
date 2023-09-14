@@ -1,0 +1,1 @@
+const t=[{p:"qū",pp:"qu1",d:"human body",t:"軀"}],o=[{p:"juān qū",w:"捐躯",d:"to sacrifice one's life",t:"捐軀"},{p:"shēn qū",w:"身躯",d:"body",t:"身軀"},{p:"qū gàn",w:"躯干",d:"trunk ☆ torso",t:"軀幹"},{p:"qū qiào",w:"躯壳",d:"the body (housing the soul)",t:"軀殼"},{p:"qū tǐ",w:"躯体",d:"(human) body",t:"軀體"}],s=[],n={s:t,w:o,i:s};export{n as default,s as i,t as s,o as w};

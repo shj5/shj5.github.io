@@ -1,0 +1,1 @@
+const e=[{p:"jí",pp:"ji2",d:"urgent",t:"亟"},{p:"qì",pp:"qi4",d:"repeatedly ☆ frequently",t:"亟"}],t=[{p:"jí dài",w:"亟待",d:"see 急待[ji2 dai4]",t:"亟待"},{p:"jí xū",w:"亟需",d:"to urgently need ☆ urgent need",t:"亟需"}],d=[],n={s:e,w:t,i:d};export{n as default,d as i,e as s,t as w};

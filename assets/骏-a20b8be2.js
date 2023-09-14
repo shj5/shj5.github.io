@@ -1,0 +1,1 @@
+const s=[{p:"jùn",pp:"jun4",d:"spirited horse",t:"駿"}],t=[{p:"gōng qí jùn",w:"宫崎骏",d:"Miyazaki Hayao (1941-), Japanese director",t:"宮崎駿"},{p:"jùn mǎ",w:"骏马",d:"fine horse ☆ steed",t:"駿馬"}],e=[],n={s,w:t,i:e};export{n as default,e as i,s,t as w};

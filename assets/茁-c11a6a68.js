@@ -1,0 +1,1 @@
+const o=[{p:"zhuó",pp:"zhuo2",d:"to display vigorous, new growth ☆ to sprout",t:"茁"}],t=[{p:"zhuó zhuàng",w:"茁壮",d:"healthy and strong ☆ sturdy ☆ thriving ☆ vigorous ☆ robust ☆ flourishing",t:"茁壯"}],s=[],u={s:o,w:t,i:s};export{u as default,s as i,o as s,t as w};

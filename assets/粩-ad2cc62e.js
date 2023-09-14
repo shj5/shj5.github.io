@@ -1,0 +1,1 @@
+const a=[{p:"lāo",pp:"lao1",d:"a traditional pastry of Taiwan and Fujian which is fried, then coated with maltose and rolled in sesame seeds or chopped peanuts etc",t:"粩"}],t=[],s=[],e={s:a,w:t,i:s};export{e as default,s as i,a as s,t as w};

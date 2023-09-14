@@ -1,0 +1,1 @@
+const o=[{p:"gǎo",pp:"gao3",d:"variant of 槁[gao3] ☆ dried up",t:"槀"},{p:"gǎo",pp:"gao3",d:"dried up (wood) ☆ dead tree",t:"槁"}],d=[{p:"kū gǎo",w:"枯槁",d:"withered ☆ haggard ☆ languid ☆ without energy",t:"枯槁"}],t=[],a={s:o,w:d,i:t};export{a as default,t as i,o as s,d as w};

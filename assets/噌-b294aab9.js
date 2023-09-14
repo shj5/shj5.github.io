@@ -1,0 +1,1 @@
+const o=[{p:"cēng",pp:"ceng1",d:"to scold ☆ whoosh!",t:"噌"},{p:"chēng",pp:"cheng1",d:"sound of bells etc",t:"噌"}],s=[{p:"wèi cēng",w:"味噌",d:'miso (orthographic borrowing from Japanese 味噌 "miso") ☆ also pr. [wei4 zeng1]',t:"味噌"},{p:"wèi cēng tāng",w:"味噌汤",d:"miso soup",t:"味噌湯"}],n=[],t={s:o,w:s,i:n};export{t as default,n as i,o as s,s as w};

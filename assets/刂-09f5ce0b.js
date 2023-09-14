@@ -1,0 +1,1 @@
+const a=[{p:"dāo",pp:"dao1",d:"Kangxi radical 18 (刀[dao1]) as a vertical side element, referred to as 立刀旁[li4 dao1 pang2] or 側刀旁|侧刀旁[ce4 dao1 pang2]",t:"刂"}],o=[],e=[],d={s:a,w:o,i:e};export{d as default,e as i,a as s,o as w};

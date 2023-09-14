@@ -1,0 +1,1 @@
+const n=[{p:"kōng",pp:"kong1",d:"name of a mountain",t:"崆"}],t=[{p:"kōng tóng",w:"崆峒",d:"Kongtong district of Pingliang city 平涼市|平凉市[Ping2 liang2 shi4], Gansu",t:"崆峒"},{p:"kōng tóng qū",w:"崆峒区",d:"Kongtong district of Pingliang city 平涼市|平凉市[Ping2 liang2 shi4], Gansu",t:"崆峒區"}],i=[],g={s:n,w:t,i};export{g as default,i,n as s,t as w};

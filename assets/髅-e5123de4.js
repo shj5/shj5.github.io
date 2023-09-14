@@ -1,0 +1,1 @@
+const s=[{p:"lóu",pp:"lou2",d:"skull",t:"髏"}],t=[{p:"kū lóu",w:"骷髅",d:"human skeleton ☆ human skull",t:"骷髏"},{p:"kū lóu tóu",w:"骷髅头",d:"a death's-head, depiction of a dead person's skull",t:"骷髏頭"}],l=[],u={s,w:t,i:l};export{u as default,l as i,s,t as w};

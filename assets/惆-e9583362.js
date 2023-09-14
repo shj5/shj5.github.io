@@ -1,0 +1,1 @@
+const o=[{p:"chóu",pp:"chou2",d:"forlorn ☆ vexed ☆ disappointed",t:"惆"}],e=[{p:"chóu chàng",w:"惆怅",d:"melancholy ☆ depression",t:"惆悵"}],n=[{p:"chóu chàng ruò shī",w:"惆怅若失",d:"to feel despondent (idiom)",t:"惆悵若失"}],s={s:o,w:e,i:n};export{s as default,n as i,o as s,e as w};

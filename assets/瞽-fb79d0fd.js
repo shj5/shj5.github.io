@@ -1,0 +1,1 @@
+const n=[{p:"gǔ",pp:"gu3",d:"blind ☆ undiscerning",t:"瞽"}],s=[{p:"gǔ shé",w:"瞽阇",d:"blind monk ☆ refers to famous blind historian 左丘明[Zuo3 Qiu1 ming2]",t:"瞽闍"}],i=[],o={s:n,w:s,i};export{o as default,i,n as s,s as w};

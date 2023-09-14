@@ -1,0 +1,1 @@
+const o=[{p:"duō",pp:"duo1",d:"to mend clothes",t:"裰"}],t=[{p:"zhí duō",w:"直裰",d:"everyday robe worn at home in ancient times ☆ robe worn by priests, monks and scholars",t:"直裰"},{p:"bǔ duō",w:"补裰",d:"to mend clothes",t:"補裰"}],s=[],e={s:o,w:t,i:s};export{e as default,s as i,o as s,t as w};

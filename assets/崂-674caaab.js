@@ -1,0 +1,1 @@
+const n=[{p:"láo",pp:"lao2",d:"name of a mountain in Shandong",t:"嶗"}],o=[{p:"láo shān",w:"崂山",d:"Laoshan district of Qingdao city 青島市|青岛市, Shandong",t:"嶗山"},{p:"láo shān qū",w:"崂山区",d:"Laoshan district of Qingdao city 青島市|青岛市, Shandong",t:"嶗山區"}],t=[],a={s:n,w:o,i:t};export{a as default,t as i,n as s,o as w};

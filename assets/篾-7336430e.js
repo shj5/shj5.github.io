@@ -1,0 +1,1 @@
+const s=[{p:"miè",pp:"mie4",d:"bamboo splints for baskets",t:"篾"}],t=[{p:"zhú miè",w:"竹篾",d:"thin bamboo strips used for basket weaving",t:"竹篾"}],o=[],i={s,w:t,i:o};export{i as default,o as i,s,t as w};

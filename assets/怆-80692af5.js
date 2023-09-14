@@ -1,0 +1,1 @@
+const t=[{p:"chuàng",pp:"chuang4",d:"mournful ☆ sad ☆ grieved ☆ sorry",t:"愴"}],n=[{p:"bēi chuàng",w:"悲怆",d:"sorrow ☆ tragic",t:"悲愴"},{p:"qī chuàng",w:"凄怆",d:"pitiful ☆ painful ☆ heartrending",t:"悽愴"},{p:"mù chuàng yǒu tiān",w:"目怆有天",d:"to look at the sky in sorrow",t:"目愴有天"}],o=[],r={s:t,w:n,i:o};export{r as default,o as i,t as s,n as w};

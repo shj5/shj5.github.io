@@ -1,0 +1,1 @@
+const c=[{p:"cāo",pp:"cao1",d:"rough ☆ coarse (in texture)",t:"糙"}],o=[{p:"cū cāo",w:"粗糙",d:"crude ☆ gruff ☆ rough ☆ coarse",t:"粗糙"},{p:"cāo pí bìng",w:"糙皮病",d:"pellagra (medicine)",t:"糙皮病"},{p:"cāo mǐ",w:"糙米",d:"brown rice",t:"糙米"},{p:"cāo miàn nèi zhì wǎng",w:"糙面内质网",d:"rough endoplasmic reticulum",t:"糙面內質網"}],t=[],e={s:c,w:o,i:t};export{e as default,t as i,c as s,o as w};

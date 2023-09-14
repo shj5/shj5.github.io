@@ -1,0 +1,1 @@
+const t=[{p:"fèi",pp:"fei4",d:"see 蔽芾[bi4 fei4]",t:"芾"},{p:"fú",pp:"fu2",d:"luxuriance of vegetation",t:"芾"}],i=[{p:"mǐ fú",w:"米芾",d:"Mi Fu (1051-1107), Song poet and calligrapher",t:"米芾"},{p:"bì fèi",w:"蔽芾",d:"luxuriant ☆ lush ☆ young (plants)",t:"蔽芾"}],p=[],e={s:t,w:i,i:p};export{e as default,p as i,t as s,i as w};
