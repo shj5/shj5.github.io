@@ -1,0 +1,1 @@
+const t=[{p:"zhí",pp:"zhi2",d:"to gather ☆ old variant of 埴[zhi2]",t:"戠"}],s=[],c=[],o="戈",n="13",a=["吅","音","戈"],d=["嬂","幟","旘","樴","熾","織","職","膱","蟙","識","軄"],i={s:t,w:s,i:c,r:o,sc:n,c:a,d};export{a as c,d,i as default,c as i,o as r,t as s,n as sc,s as w};

@@ -1,1 +1,0 @@
-const o=[{p:"dáo",pp:"dao2",d:"(coll.) to reel in (string, yarn etc) by pulling hand over hand or by coiling ☆ to step along ☆ to look into ☆ to pursue (a matter)",t:"捯"}],t=[{p:"dáo chi",w:"捯饬",d:"(coll.) to doll up ☆ to spruce up ☆ to zhoosh up",t:"捯飭"}],l=[],n={s:o,w:t,i:l};export{n as default,l as i,o as s,t as w};

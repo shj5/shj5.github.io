@@ -1,1 +1,0 @@
-const t=[{p:"chà",pp:"cha4",d:"beautiful ☆ see 奼紫嫣紅|姹紫嫣红[cha4 zi3 yan1 hong2]",t:"奼"}],i=[{p:"chà nǚ",w:"姹女",d:"beautiful girl ☆ mercury",t:"奼女"}],e=[{p:"chà zǐ yān hóng",w:"姹紫嫣红",d:"lit. beautiful purples and brilliant reds (idiom) ☆ fig. beautiful flowers",t:"奼紫嫣紅"}],a={s:t,w:i,i:e};export{a as default,e as i,t as s,i as w};

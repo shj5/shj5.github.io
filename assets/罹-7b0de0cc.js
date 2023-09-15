@@ -1,1 +1,0 @@
-const t=[{p:"lí",pp:"li2",d:"happen to ☆ sorrow ☆ suffer from",t:"罹"}],o=[{p:"lí huàn",w:"罹患",d:"to suffer (from an illness) ☆ to fall ill",t:"罹患"},{p:"lí huò",w:"罹祸",d:"to suffer a disaster ☆ to fall victim to misfortune",t:"罹禍"},{p:"lí nàn",w:"罹难",d:"to die in an accident or disaster ☆ to be killed",t:"罹難"}],s=[],l={s:t,w:o,i:s};export{l as default,s as i,t as s,o as w};

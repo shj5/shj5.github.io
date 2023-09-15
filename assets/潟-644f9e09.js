@@ -1,1 +1,0 @@
-const t=[{p:"xì",pp:"xi4",d:"saline land ☆ salt marsh",t:"潟"}],n=[{p:"xīn xì",w:"新潟",d:"Niigata, a city and prefecture in Japan",t:"新潟"},{p:"xīn xì xiàn",w:"新潟县",d:"Niigata prefecture in northwest Japan",t:"新潟縣"},{p:"xì hú",w:"潟湖",d:"lagoon ☆ erroneously written 瀉湖|泻湖[xie4 hu2]",t:"潟湖"}],a=[],e={s:t,w:n,i:a};export{e as default,a as i,t as s,n as w};

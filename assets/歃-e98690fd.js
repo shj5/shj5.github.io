@@ -1,1 +1,0 @@
-const s=[{p:"shà",pp:"sha4",d:"to drink",t:"歃"}],o=[{p:"shà xuè",w:"歃血",d:"to smear one's lips with the blood of a sacrifice as a means of pledging allegiance (old)",t:"歃血"}],t=[{p:"shà xuè wéi méng",w:"歃血为盟",d:"to smear the lips with blood when taking an oath (idiom) ☆ to swear a sacred oath",t:"歃血為盟"}],a={s,w:o,i:t};export{a as default,t as i,s,o as w};

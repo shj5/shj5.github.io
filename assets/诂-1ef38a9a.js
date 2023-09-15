@@ -1,1 +1,0 @@
-const t=[{p:"gǔ",pp:"gu3",d:"to comment ☆ to explain",t:"詁"}],s=[{p:"xùn gǔ",w:"训诂",d:"to interpret and make glossaries and commentaries on classic texts",t:"訓詁"},{p:"xùn gǔ xué",w:"训诂学",d:"study of classic texts, including interpretation, glossaries and commentaries",t:"訓詁學"}],n=[],e={s:t,w:s,i:n};export{e as default,n as i,t as s,s as w};

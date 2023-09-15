@@ -1,1 +1,0 @@
-const n=[{p:"kě",pp:"ke3",d:"see 岢嵐|岢岚[Ke3 lan2]",t:"岢"}],i=[{p:"kě lán",w:"岢岚",d:"Kelan county in Xinzhou 忻州[Xin1 zhou1], Shanxi",t:"岢嵐"},{p:"kě lán xiàn",w:"岢岚县",d:"Kelan county in Xinzhou 忻州[Xin1 zhou1], Shanxi",t:"岢嵐縣"}],o=[],t={s:n,w:i,i:o};export{t as default,o as i,n as s,i as w};

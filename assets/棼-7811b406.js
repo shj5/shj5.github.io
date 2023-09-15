@@ -1,1 +1,0 @@
-const t=[{p:"fén",pp:"fen2",d:"beams in roof ☆ confused",t:"棼"}],o=[],n=[{p:"zhì sī yì fén",w:"治丝益棼",d:"lit. try to straighten out silk threads only to tangle them further (idiom) ☆ fig. to try to help but end up making things worse",t:"治絲益棼"}],s={s:t,w:o,i:n};export{s as default,n as i,t as s,o as w};

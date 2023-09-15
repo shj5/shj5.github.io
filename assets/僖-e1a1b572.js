@@ -1,1 +1,0 @@
-const n=[{p:"xī",pp:"xi1",d:"surname Xi",t:"僖"},{p:"xī",pp:"xi1",d:"cautious ☆ merry ☆ joyful",t:"僖"}],e=[{p:"táng xī zōng",w:"唐僖宗",d:"Emperor Xizong of Tang, reign name of nineteenth Tang Emperor Li Xuan 李儇[Li3 Xuan1] (862-888), reigned 873-888",t:"唐僖宗"}],t=[],i={s:n,w:e,i:t};export{i as default,t as i,n as s,e as w};

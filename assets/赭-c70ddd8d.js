@@ -1,1 +1,0 @@
-const t=[{p:"zhě",pp:"zhe3",d:"ocher",t:"赭"}],c=[{p:"zhě shí",w:"赭石",d:"ocher (pigment)",t:"赭石"},{p:"zhě hóng wěi qú",w:"赭红尾鸲",d:"(bird species of China) black redstart (Phoenicurus ochruros)",t:"赭紅尾鴝"},{p:"zhě yī",w:"赭衣",d:"convict's garb in ancient times ☆ convict",t:"赭衣"}],s=[],i={s:t,w:c,i:s};export{i as default,s as i,t as s,c as w};

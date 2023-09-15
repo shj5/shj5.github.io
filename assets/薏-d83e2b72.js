@@ -1,1 +1,0 @@
-const s=[{p:"yì",pp:"yi4",d:"see 薏苡[yi4 yi3]",t:"薏"}],t=[{p:"yì rén",w:"薏仁",d:"grains of Job's tears plant 薏苡[yi4 yi3]",t:"薏仁"},{p:"yì mǐ",w:"薏米",d:"grains of Job's tears plant 薏苡[yi4 yi3]",t:"薏米"},{p:"yì yǐ",w:"薏苡",d:"Job's tears plant (Coix lacryma-jobi) ☆ Chinese pearl barley",t:"薏苡"}],a=[],i={s,w:t,i:a};export{i as default,a as i,s,t as w};

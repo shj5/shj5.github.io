@@ -1,0 +1,1 @@
+const s=[{p:"yūn",pp:"yun1",d:"heavy atmosphere",t:"氳"}],t=[{w:"氤氲",p:"yīn yūn",d:"(literary) (of smoke, mist) dense, thick"}],c=[],n="气",o="14",e=["吕","气","昷"],d=[],p={s,w:t,i:c,r:n,sc:o,c:e,d};export{e as c,d,p as default,c as i,n as r,s,o as sc,t as w};

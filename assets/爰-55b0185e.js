@@ -1,1 +1,0 @@
-const n=[{p:"yuán",pp:"yuan2",d:"surname Yuan",t:"爰"},{p:"yuán",pp:"yuan2",d:"therefore ☆ consequently ☆ thus ☆ hence ☆ thereupon ☆ it follows that ☆ where? ☆ to change (into) ☆ ancient unit of weight and money",t:"爰"}],t=[],e=[],o={s:n,w:t,i:e};export{o as default,e as i,n as s,t as w};

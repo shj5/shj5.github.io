@@ -1,1 +1,0 @@
-const t=[{p:"lì",pp:"li4",d:"(cattle) tongue (Cantonese)",t:"脷"}],o=[{p:"niú lì sū",w:"牛脷酥",d:"ox tongue pastry, oval Guangdong pastry made of fried dough, resembling an ox tongue",t:"牛脷酥"}],n=[],e={s:t,w:o,i:n};export{e as default,n as i,t as s,o as w};

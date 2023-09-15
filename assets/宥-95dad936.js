@@ -1,0 +1,1 @@
+const o=[{p:"yòu",pp:"you4",d:"to forgive ☆ to help ☆ profound",t:"宥"}],t=[{w:"宽宥",p:"kuān yòu",d:"to pardon ☆ to forgive"}],s=[],c="宀",n="9",p=["吕","宀","有"],d=[],r={s:o,w:t,i:s,r:c,sc:n,c:p,d};export{p as c,d,r as default,s as i,c as r,o as s,n as sc,t as w};

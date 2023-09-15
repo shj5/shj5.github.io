@@ -1,1 +1,0 @@
-const d=[{p:"dīng",pp:"ding1",d:"tincture (loanword)",t:"酊"},{p:"dǐng",pp:"ding3",d:"used in 酩酊[ming3 ding3]",t:"酊"}],n=[{p:"dīng jì",w:"酊剂",d:"tincture",t:"酊劑"},{p:"mǐng dǐng",w:"酩酊",d:"blind drunk",t:"酩酊"}],t=[{p:"mǐng dǐng dà zuì",w:"酩酊大醉",d:"dead drunk, plastered, as drunk as a lord",t:"酩酊大醉"}],g={s:d,w:n,i:t};export{g as default,t as i,d as s,n as w};

@@ -1,1 +1,0 @@
-const n=[{p:"yān",pp:"yan1",d:"rouge",t:"胭"},{p:"yān",pp:"yan1",d:"variant of 胭[yan1]",t:"臙"}],t=[{p:"yān zhī",w:"胭脂",d:"rouge",t:"胭脂"},{p:"yān zhī chóng",w:"胭脂虫",d:"cochineal insect",t:"胭脂蟲"},{p:"yān zhī yú",w:"胭脂鱼",d:"Chinese high-fin banded shark (Myxocyprinus asiaticus)",t:"胭脂魚"}],s=[],a={s:n,w:t,i:s};export{a as default,s as i,n as s,t as w};

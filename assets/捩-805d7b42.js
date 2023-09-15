@@ -1,1 +1,0 @@
-const t=[{p:"liè",pp:"lie4",d:"tear ☆ twist",t:"捩"}],n=[{p:"zhuǎn liè",w:"转捩",d:"to turn",t:"轉捩"},{p:"zhuǎn liè diǎn",w:"转捩点",d:"turning point",t:"轉捩點"}],i=[],s={s:t,w:n,i};export{s as default,i,t as s,n as w};

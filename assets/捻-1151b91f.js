@@ -1,1 +1,0 @@
-const n=[{p:"niǎn",pp:"nian3",d:"to twirl (in the fingers)",t:"捻"}],t=[{p:"niǎn jūn",w:"捻军",d:"Nian Army, leading a peasant rebellion against the Qing dynasty in Shandong, Henan, Jiangsu and Anhui 1851-1868, at the same time as the Taiping Rebellion further south",t:"捻軍"}],i=[],a={s:n,w:t,i};export{a as default,i,n as s,t as w};

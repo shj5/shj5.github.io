@@ -1,1 +1,0 @@
-const o=[{p:"yáo",pp:"yao2",d:"mother-of-pearl",t:"珧"}],s=[{p:"jiāng yáo zhù",w:"江珧柱",d:"(seafood) adductor muscle of a scallop or pen shell",t:"江珧柱"}],t=[],a={s:o,w:s,i:t};export{a as default,t as i,o as s,s as w};

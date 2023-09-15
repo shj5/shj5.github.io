@@ -1,0 +1,1 @@
+const s=[{p:"kè",pp:"ke4",d:"used in 緙絲|缂丝[ke4 si1]",t:"緙"}],t=[{w:"缂丝",p:"kè sī",d:"kesi or k’o-ssu, Chinese silk tapestry woven in a pictorial design"}],c=[],n="糸",o="12",e=["吅","纟","革"],i=[],d={s,w:t,i:c,r:n,sc:o,c:e,d:i};export{e as c,i as d,d as default,c as i,n as r,s,o as sc,t as w};

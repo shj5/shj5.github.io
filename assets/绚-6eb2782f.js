@@ -1,1 +1,0 @@
-const n=[{p:"xuàn",pp:"xuan4",d:"adorned ☆ swift ☆ gorgeous ☆ brilliant ☆ variegated",t:"絢"}],o=[{p:"xuàn làn",w:"绚烂",d:"splendid ☆ gorgeous ☆ dazzling",t:"絢爛"},{p:"xuàn lì",w:"绚丽",d:"gorgeous ☆ magnificent",t:"絢麗"}],t=[{p:"xuàn lì duō cǎi",w:"绚丽多彩",d:"bright and colorful ☆ gorgeous",t:"絢麗多彩"}],d={s:n,w:o,i:t};export{d as default,t as i,n as s,o as w};

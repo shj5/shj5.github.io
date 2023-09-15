@@ -1,1 +1,0 @@
-const s=[{p:"tí",pp:"ti2",d:"a kind of hawk",t:"鶗"}],t=[{p:"tí jué",w:"鶗鴂",d:"large hawk-cuckoo (Cuculus sparverioides)",t:"鶗鴂"},{p:"tí jué",w:"鶗鴃",d:"large hawk-cuckoo (Cuculus sparverioides)",t:"鶗鴃"}],o=[],u={s,w:t,i:o};export{u as default,o as i,s,t as w};

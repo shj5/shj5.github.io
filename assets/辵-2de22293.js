@@ -1,0 +1,1 @@
+const c=[{p:"chuò",pp:"chuo4",d:"to walk (side part of split character)",t:"辵"}],s=[],t=[],o="*",n="7",a=["吕","彡","止"],p=[],r={s:c,w:s,i:t,r:o,sc:n,c:a,d:p};export{a as c,p as d,r as default,t as i,o as r,c as s,n as sc,s as w};

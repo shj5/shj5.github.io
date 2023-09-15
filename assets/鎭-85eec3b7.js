@@ -1,0 +1,1 @@
+const n=[{p:"zhèn",pp:"zhen4",d:"variant of 鎮|镇[zhen4] ☆ town",t:"鎭"}],s=[],t=[],c="金",o="18",a=["吅","金","眞"],d=[],e={s:n,w:s,i:t,r:c,sc:o,c:a,d};export{a as c,d,e as default,t as i,c as r,n as s,o as sc,s as w};

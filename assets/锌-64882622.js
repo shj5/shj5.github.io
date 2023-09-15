@@ -1,1 +1,0 @@
-const n=[{p:"xīn",pp:"xin1",d:"zinc (chemistry)",t:"鋅"}],t=[{p:"yǎng huà xīn",w:"氧化锌",d:"zinc oxide",t:"氧化鋅"},{p:"lǜ huà xīn",w:"氯化锌",d:"zinc chloride",t:"氯化鋅"},{p:"dù xīn",w:"镀锌",d:"galvanized ☆ zinc-coated",t:"鍍鋅"}],c=[],i={s:n,w:t,i:c};export{i as default,c as i,n as s,t as w};

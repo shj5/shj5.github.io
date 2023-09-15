@@ -1,1 +1,0 @@
-const e=[{p:"wēn",pp:"wen1",d:"hearse",t:"轀"}],s=[{p:"wēn chē",w:"辒车",d:"hearse",t:"轀車"},{p:"wēn liáng",w:"辒辌",d:"(sleeping) carriage ☆ hearse",t:"轀輬"}],n=[],t={s:e,w:s,i:n};export{t as default,n as i,e as s,s as w};

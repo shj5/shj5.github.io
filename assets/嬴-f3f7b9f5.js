@@ -1,1 +1,0 @@
-const n=[{p:"yíng",pp:"ying2",d:"surname Ying",t:"嬴"},{p:"yíng",pp:"ying2",d:"old variant of 贏|赢[ying2], to win, to profit ☆ old variant of 盈[ying2], full",t:"嬴"}],t=[{p:"yíng zhèng",w:"嬴政",d:"Ying Zheng (260-210 BC), personal name of the first emperor 秦始皇[Qin2 Shi3 huang2]",t:"嬴政"}],i=[],o={s:n,w:t,i};export{o as default,i,n as s,t as w};

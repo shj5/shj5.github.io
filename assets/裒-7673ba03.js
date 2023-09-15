@@ -1,1 +1,0 @@
-const t=[{p:"póu",pp:"pou2",d:"collect",t:"裒"}],o=[],i=[{p:"póu duō yì guǎ",w:"裒多益寡",d:"to take from the rich and give to the poor (idiom)",t:"裒多益寡"},{p:"póu liǎn wú yàn",w:"裒敛无厌",d:"to accumulate wealth without satisfaction ☆ to continually plunder (idiom)",t:"裒斂無厭"}],p={s:t,w:o,i};export{p as default,i,t as s,o as w};

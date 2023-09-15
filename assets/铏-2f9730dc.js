@@ -1,1 +1,0 @@
-const a=[{p:"xíng",pp:"xing2",d:"soup cauldron ☆ (arch.) sacrificial tripod with two handles and a lid ☆ old variant of 硎[xing2]",t:"鉶"}],i=[],n=[],o={s:a,w:i,i:n};export{o as default,n as i,a as s,i as w};

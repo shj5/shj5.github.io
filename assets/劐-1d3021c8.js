@@ -1,1 +1,0 @@
-const o=[{p:"huō",pp:"huo1",d:"(coll.) to slit with a knife ☆ (variant of 耠[huo1]) hoe ☆ to loosen soil with a hoe",t:"劐"},{p:"huò",pp:"huo4",d:"(literary) variant of 穫|获[huo4]",t:"劐"}],t=[{p:"huō leng",w:"劐弄",d:"(dialect) to mix ☆ to stir ☆ to make trouble",t:"劐弄"}],i=[],a={s:o,w:t,i};export{a as default,i,o as s,t as w};

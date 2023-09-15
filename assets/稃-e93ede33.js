@@ -1,1 +1,0 @@
-const p=[{p:"fū",pp:"fu1",d:"husk ☆ outside shell of grain",t:"稃"}],t=[{p:"nèi fū",w:"内稃",d:"(botany) palea",t:"內稃"},{p:"wài fū",w:"外稃",d:"(botany) lemma",t:"外稃"},{p:"āo fū",w:"熬稃",d:"puffed grain ☆ popped wheat ☆ popcorn",t:"熬稃"},{p:"mài fū",w:"麦稃",d:"barley husk",t:"麥稃"}],o=[],a={s:p,w:t,i:o};export{a as default,o as i,p as s,t as w};

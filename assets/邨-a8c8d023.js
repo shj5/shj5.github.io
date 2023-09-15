@@ -1,1 +1,0 @@
-const n=[{p:"cūn",pp:"cun1",d:"surname Cun",t:"邨"}],c=[{p:"mǎ nán cūn",w:"马南邨",d:"Ma Nancun (1912-1966), pen name of Deng Tuo 鄧拓|邓拓",t:"馬南邨"}],s=[],t={s:n,w:c,i:s};export{t as default,s as i,n as s,c as w};

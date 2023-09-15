@@ -1,1 +1,0 @@
-const p=[{p:"pī",pp:"pi1",d:"ferocious",t:"狓"}],i=[{p:"huò jiā pī",w:"㺢㹢狓",d:"variant of 霍加狓[huo4 jia1 pi1]",t:"㺢㹢狓"},{p:"huò jiā pī",w:"霍加狓",d:"okapi (Okapia johnstoni)",t:"霍加狓"}],o=[],t={s:p,w:i,i:o};export{t as default,o as i,p as s,i as w};

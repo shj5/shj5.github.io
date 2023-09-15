@@ -1,1 +1,0 @@
-const n=[{p:"měng",pp:"meng3",d:"manganese (chemistry)",t:"錳"}],e=[{p:"èr yǎng huà měng",w:"二氧化锰",d:"manganese(iv) oxide",t:"二氧化錳"},{p:"měng kuàng",w:"锰矿",d:"manganese ore",t:"錳礦"},{p:"měng jié hé",w:"锰结核",d:"manganese nodule",t:"錳結核"},{p:"gāo měng suān jiǎ",w:"高锰酸钾",d:"potassium permanganate",t:"高錳酸鉀"}],s=[],a={s:n,w:e,i:s};export{a as default,s as i,n as s,e as w};

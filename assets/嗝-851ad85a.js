@@ -1,1 +1,0 @@
-const t=[{p:"gé",pp:"ge2",d:"hiccup ☆ belch",t:"嗝"}],o=[{p:"gé r pì",w:"嗝儿屁",d:"(dialect) to die ☆ to give up the ghost",t:"嗝兒屁"},{p:"dǎ gé",w:"打嗝",d:"to hiccup ☆ to belch ☆ to burp",t:"打嗝"},{p:"dǎ gé r",w:"打嗝儿",d:"erhua variant of 打嗝[da3 ge2]",t:"打嗝兒"},{p:"bǎo gé r",w:"饱嗝儿",d:"to belch (on a full stomach)",t:"飽嗝兒"}],c=[],p={s:t,w:o,i:c};export{p as default,c as i,t as s,o as w};

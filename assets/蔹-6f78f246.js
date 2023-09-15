@@ -1,1 +1,0 @@
-const i=[{p:"liǎn",pp:"lian3",d:"trailing plant ☆ liana ☆ creeper ☆ wild vine (Gynostemma pentaphyllum or Vitis pentaphylla)",t:"蘞"}],n=[{p:"bái liǎn",w:"白蔹",d:"Ampelopsis japonica (creeper with root used in TCM)",t:"白蘞"}],t=[],p={s:i,w:n,i:t};export{p as default,t as i,i as s,n as w};

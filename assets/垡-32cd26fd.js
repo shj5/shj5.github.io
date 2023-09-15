@@ -1,0 +1,1 @@
+const s=[{p:"fá",pp:"fa2",d:"to turn the soil ☆ upturned soil ☆ (used in place names)",t:"垡"}],t=[],c=[],n="土",o="9",e=["吕","伐","土"],d=[],p={s,w:t,i:c,r:n,sc:o,c:e,d};export{e as c,d,p as default,c as i,n as r,s,o as sc,t as w};

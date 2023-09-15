@@ -1,1 +1,0 @@
-const e=[{p:"niè",pp:"nie4",d:"bones of the temple (on the human head) ☆ see 顳顬|颞颥, temple",t:"顳"}],t=[{p:"niè yè",w:"颞叶",d:"temporal lobe",t:"顳葉"},{p:"niè rú",w:"颞颥",d:"temple (the sides of human head)",t:"顳顬"},{p:"niè gǔ",w:"颞骨",d:"temporal bone ☆ os temporale",t:"顳骨"}],o=[],n={s:e,w:t,i:o};export{n as default,o as i,e as s,t as w};

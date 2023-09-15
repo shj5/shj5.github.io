@@ -1,1 +1,0 @@
-const t=[{p:"huá",pp:"hua2",d:"sly",t:"猾"}],c=[{p:"jiān huá",w:"奸猾",d:"treacherous ☆ crafty ☆ deceitful",t:"奸猾"},{p:"yóu huá",w:"油猾",d:"sly ☆ slick",t:"油猾"},{p:"jiǎo huá",w:"狡猾",d:"crafty, cunning, sly",t:"狡猾"}],n=[{p:"lǎo jiān jù huá",w:"老奸巨猾",d:"cunning ☆ crafty ☆ wily old fox",t:"老奸巨猾"}],s={s:t,w:c,i:n};export{s as default,n as i,t as s,c as w};

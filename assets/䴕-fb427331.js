@@ -1,0 +1,1 @@
+const o=[{p:"liè",pp:"lie4",d:"woodpecker",t:"鴷"}],n=[{w:"蚁䴕",p:"yǐ liè",d:"(bird species of China) Eurasian wryneck (Jynx torquilla)"},{w:"黄腰响蜜䴕",p:"huáng yāo xiǎng mì liè",d:"(bird species of China) yellow-rumped honeyguide (Indicator xanthonotus)"}],s=[],c="",i="",t="",e=[],d={s:o,w:n,i:s,r:c,sc:i,c:t,d:e};export{t as c,e as d,d as default,s as i,c as r,o as s,i as sc,n as w};

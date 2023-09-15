@@ -1,0 +1,1 @@
+const n=[{p:"niè",pp:"nie4",d:"surname Nie",t:"齧"},{p:"niè",pp:"nie4",d:"variant of 嚙|啮[nie4]",t:"齧"}],s=[{w:"齧咬",p:"niè yǎo",d:"gnaw"}],t=[],c="齒",o="21",i=["吕","丯刀","齒"],p=["囓"],e={s:n,w:s,i:t,r:c,sc:o,c:i,d:p};export{i as c,p as d,e as default,t as i,c as r,n as s,o as sc,s as w};

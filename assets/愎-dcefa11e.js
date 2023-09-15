@@ -1,1 +1,0 @@
-const t=[{p:"bì",pp:"bi4",d:"perverse ☆ obstinate ☆ willful",t:"愎"}],e=[{p:"gāng bì",w:"刚愎",d:"headstrong ☆ perverse",t:"剛愎"}],n=[{p:"gāng bì zì yòng",w:"刚愎自用",d:"obstinate and self-opinionated (idiom)",t:"剛愎自用"}],s={s:t,w:e,i:n};export{s as default,n as i,t as s,e as w};

@@ -1,1 +1,0 @@
-const a=[{p:"mǒ",pp:"mo3",d:"(Japanese kokuji) I, me (archaic) ☆ suffix attached to the name of a person or pet ☆ pr. maro",t:"麿"}],i=[{p:"jìn wèi wén mǒ",w:"近卫文麿",d:"Prince KONOE Fumimaro (1891-), Japanese nobleman and militarist politician, prime minister 1937-1939 and 1940-1941",t:"近衛文麿"}],n=[],t={s:a,w:i,i:n};export{t as default,n as i,a as s,i as w};

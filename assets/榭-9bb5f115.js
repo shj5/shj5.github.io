@@ -1,1 +1,0 @@
-const s=[{p:"xiè",pp:"xie4",d:"pavilion",t:"榭"}],i=[{p:"tíng tái lóu xiè",w:"亭台楼榭",d:"see 亭臺樓閣|亭台楼阁[ting2 tai2 lou2 ge2]",t:"亭臺樓榭"},{p:"xiāng xiè lì shè",w:"香榭丽舍",d:"Champs Élysées",t:"香榭麗舍"},{p:"xiāng xiè lì shè dà jiē",w:"香榭丽舍大街",d:"Avenue des Champs-Élysées",t:"香榭麗舍大街"}],t=[],e={s,w:i,i:t};export{e as default,t as i,s,i as w};

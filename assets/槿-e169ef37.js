@@ -1,1 +1,0 @@
-const i=[{p:"jǐn",pp:"jin3",d:"Hibiscus syriacus ☆ transient",t:"槿"}],s=[{p:"mù jǐn",w:"木槿",d:"hibiscus (Hibiscus syriacus)",t:"木槿"},{p:"piáo jǐn huì",w:"朴槿惠",d:"Park Geun-hye (1952-), Korean politician, daughter of former dictator Park Chung-Hee 朴正熙[Piao2 Zheng4 xi1], president of Korea 2013-2017",t:"朴槿惠"}],n=[],t={s:i,w:s,i:n};export{t as default,n as i,i as s,s as w};

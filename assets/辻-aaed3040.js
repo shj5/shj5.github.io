@@ -1,1 +1,0 @@
-const s=[{p:"shí",pp:"shi2",d:"(Japanese kokuji) street corner ☆ intersection ☆ used in Japanese personal and place names ☆ pr. tsuji",t:"辻"}],e=[],n=[],t={s,w:e,i:n};export{t as default,n as i,s,e as w};

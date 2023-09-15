@@ -1,1 +1,0 @@
-const t=[{p:"zì",pp:"zi4",d:"female of domestic animals",t:"牸"}],s=[{p:"zì niú",w:"牸牛",d:"cow",t:"牸牛"},{p:"zì mǎ",w:"牸马",d:"mare",t:"牸馬"}],o=[],a={s:t,w:s,i:o};export{a as default,o as i,t as s,s as w};

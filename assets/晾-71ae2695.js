@@ -1,1 +1,0 @@
-const t=[{p:"liàng",pp:"liang4",d:"to dry in the air ☆ (fig.) to cold-shoulder",t:"晾"}],i=[{p:"liàng gān",w:"晾干",d:"to dry (sth) by airing",t:"晾乾"},{p:"liàng yī jiā",w:"晾衣夹",d:"clothes pin",t:"晾衣夾"},{p:"liàng yī jià",w:"晾衣架",d:"clothes drying rack",t:"晾衣架"},{p:"liàng yī shéng",w:"晾衣绳",d:"clothesline",t:"晾衣繩"}],n=[],l={s:t,w:i,i:n};export{l as default,n as i,t as s,i as w};

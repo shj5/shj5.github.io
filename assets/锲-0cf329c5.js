@@ -1,1 +1,0 @@
-const t=[{p:"qiè",pp:"qie4",d:"to cut ☆ to carve ☆ to engrave ☆ to chisel ☆ fig. to chisel away at",t:"鍥"}],a=[],o=[{p:"qiè ér bù shě",w:"锲而不舍",d:"to chip away at a task and not abandon it (idiom), to chisel away at sth ☆ to persevere ☆ unflagging efforts",t:"鍥而不捨"}],s={s:t,w:a,i:o};export{s as default,o as i,t as s,a as w};

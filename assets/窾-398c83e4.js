@@ -1,1 +1,0 @@
-const t=[{p:"cuàn",pp:"cuan4",d:"to conceal ☆ to hide",t:"窾"},{p:"kuǎn",pp:"kuan3",d:"crack ☆ hollow ☆ cavity ☆ to excavate or hollow out ☆ (onom.) water hitting rock ☆ (old) variant of 款[kuan3]",t:"窾"}],o=[],a=[{p:"pī xì dǎo kuǎn",w:"批郤导窾",d:"to get right to the heart of the matter (idiom)",t:"批郤導窾"}],n={s:t,w:o,i:a};export{n as default,a as i,t as s,o as w};

@@ -1,1 +1,0 @@
-const t=[{p:"jǐn",pp:"jin3",d:"nuptial wine cup",t:"巹"}],n=[{p:"hé jǐn",w:"合卺",d:"to share nuptial cup ☆ (fig.) to get married",t:"合巹"},{p:"jǐn yǐn",w:"卺饮",d:"to share nuptial cup ☆ fig. to get married",t:"巹飲"},{p:"lián jǐn",w:"连卺",d:"to share nuptial cup ☆ (fig.) to get married",t:"連巹"}],i=[],p={s:t,w:n,i};export{p as default,i,t as s,n as w};

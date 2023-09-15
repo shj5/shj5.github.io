@@ -1,1 +1,0 @@
-const s=[{p:"shā",pp:"sha1",d:"Buddhist monk's robe",t:"裟"}],o=[{p:"jiā shā",w:"袈裟",d:"kasaya (robe of a Buddhist monk or nun) (loanword from Sanskrit)",t:"袈裟"}],t=[],n={s,w:o,i:t};export{n as default,t as i,s,o as w};

@@ -1,1 +1,0 @@
-const e=[{p:"qí",pp:"qi2",d:"sushi ☆ grouper (Portuguese: garoupa) ☆ Epinephelus septemfasciatus",t:"鮨"}],s=[{p:"qí kē",w:"鮨科",d:"the grouper family ☆ Serranidae (fish family including Epinephelinae or grouper 石斑魚|石斑鱼)",t:"鮨科"}],i=[],p={s:e,w:s,i};export{p as default,i,e as s,s as w};

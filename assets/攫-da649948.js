@@ -1,1 +1,0 @@
-const t=[{p:"jué",pp:"jue2",d:"to seize ☆ to snatch ☆ to grab",t:"攫"}],o=[{p:"jué qǔ",w:"攫取",d:"to seize ☆ to capture ☆ to grab",t:"攫取"},{p:"jué duó",w:"攫夺",d:"to seize ☆ to pillage ☆ to plunder",t:"攫奪"}],e=[],s={s:t,w:o,i:e};export{s as default,e as i,t as s,o as w};

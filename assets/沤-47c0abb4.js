@@ -1,1 +1,0 @@
-const t=[{p:"ōu",pp:"ou1",d:"bubble ☆ froth",t:"漚"},{p:"òu",pp:"ou4",d:"to steep ☆ to macerate",t:"漚"}],e=[{p:"òu dàng",w:"沤凼",d:"cesspool ☆ compost pit",t:"漚凼"},{p:"òu féi",w:"沤肥",d:"to make fertilizer by steeping organic materials in water and leaving them to decompose ☆ fertilizer produced by this method",t:"漚肥"}],o=[],p={s:t,w:e,i:o};export{p as default,o as i,t as s,e as w};

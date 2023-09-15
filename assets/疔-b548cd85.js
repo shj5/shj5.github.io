@@ -1,1 +1,0 @@
-const n=[{p:"dīng",pp:"ding1",d:"boil ☆ carbuncle",t:"疔"}],t=[{p:"zhǐ dīng",w:"指疔",d:"whitlow ☆ felon",t:"指疔"},{p:"àn dīng",w:"暗疔",d:"axillary furuncle ☆ armpit boil",t:"暗疔"},{p:"zhǐ dīng",w:"趾疔",d:"boil on the toe",t:"趾疔"}],o=[],d={s:n,w:t,i:o};export{d as default,o as i,n as s,t as w};

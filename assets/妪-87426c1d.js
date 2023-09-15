@@ -1,1 +1,0 @@
-const o=[{p:"yù",pp:"yu4",d:"old woman ☆ to brood over ☆ to protect",t:"嫗"}],t=[{p:"lǎo yù",w:"老妪",d:"old woman (formal writing)",t:"老嫗"}],n=[],s={s:o,w:t,i:n};export{s as default,n as i,o as s,t as w};

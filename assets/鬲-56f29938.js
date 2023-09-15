@@ -1,1 +1,0 @@
-const e=[{p:"gé",pp:"ge2",d:"surname Ge",t:"鬲"},{p:"gé",pp:"ge2",d:"earthen pot ☆ iron cauldron",t:"鬲"},{p:"lì",pp:"li4",d:"ancient ceramic three-legged vessel used for cooking with cord markings on the outside and hollow legs",t:"鬲"}],o=[],t=[],n={s:e,w:o,i:t};export{n as default,t as i,e as s,o as w};

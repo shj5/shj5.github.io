@@ -1,1 +1,0 @@
-const o=[{p:"hāi",pp:"hai1",d:"oh alas ☆ hey! ☆ hi! (loanword) ☆ a high (natural or drug-induced) (loanword)",t:"嗨"}],a=[{p:"hāi yào",w:"嗨药",d:"(slang) to take drugs ☆ recreational drug",t:"嗨藥"},{p:"zì hāi",w:"自嗨",d:"(slang) to have fun by oneself ☆ to amuse oneself",t:"自嗨"}],t=[],n={s:o,w:a,i:t};export{n as default,t as i,o as s,a as w};

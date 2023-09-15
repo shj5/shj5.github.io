@@ -1,1 +1,0 @@
-const t=[{p:"zǐ",pp:"zi3",d:"bamboo mat ☆ bed mat",t:"笫"}],a=[{p:"chuáng zǐ",w:"床笫",d:"bed and bamboo sleeping mat ☆ (fig.) bed as a place for intimacy",t:"床笫"},{p:"chuáng zǐ zhī shì",w:"床笫之事",d:"bedroom matters ☆ sexual intercourse",t:"床笫之事"}],e=[{p:"chuáng zǐ zhī sī",w:"床笫之私",d:"intimate matters",t:"床笫之私"}],s={s:t,w:a,i:e};export{s as default,e as i,t as s,a as w};

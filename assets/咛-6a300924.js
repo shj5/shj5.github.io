@@ -1,0 +1,1 @@
+const n=[{p:"níng",pp:"ning2",d:"to enjoin",t:"嚀"}],t=[{w:"叮咛",p:"dīng níng",d:"to warn ☆ to urge ☆ to exhort ☆ to give instructions carefully and insistently"}],o=[],s="口",c="8",i=["吅","口","宁"],e=[],r={s:n,w:t,i:o,r:s,sc:c,c:i,d:e};export{i as c,e as d,r as default,o as i,s as r,n as s,c as sc,t as w};

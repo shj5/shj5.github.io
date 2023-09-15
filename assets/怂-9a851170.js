@@ -1,1 +1,0 @@
-const t=[{p:"sǒng",pp:"song3",d:"used mostly in 慫恿|怂恿[song3 yong3] ☆ (literary) terrified",t:"慫"}],n=[{p:"sǒng yǒng",w:"怂恿",d:"to instigate ☆ to incite ☆ to urge ☆ to encourage",t:"慫恿"}],o=[],s={s:t,w:n,i:o};export{s as default,o as i,t as s,n as w};

@@ -1,0 +1,1 @@
+const s=[{p:"píng",pp:"ping2",d:"family of flatfish ☆ sole",t:"鮃"}],t=[{w:"大菱鲆",p:"dà líng píng",d:"turbot"}],c=[],n="魚",o="13",p=["吅","鱼","平"],d=[],f={s,w:t,i:c,r:n,sc:o,c:p,d};export{p as c,d,f as default,c as i,n as r,s,o as sc,t as w};

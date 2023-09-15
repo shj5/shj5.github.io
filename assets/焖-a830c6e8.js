@@ -1,0 +1,1 @@
+const s=[{p:"mèn",pp:"men4",d:"to cook in a covered vessel ☆ to casserole ☆ to stew",t:"燜"}],o=[{w:"焖烧锅",p:"mèn shāo guō",d:"to casserole ☆ to stew ☆ vacuum flask ☆ cooker"}],c=[],t="火",e="11",n=["吅","火","闷"],a=[],r={s,w:o,i:c,r:t,sc:e,c:n,d:a};export{n as c,a as d,r as default,c as i,t as r,s,e as sc,o as w};

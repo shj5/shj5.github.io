@@ -1,1 +1,0 @@
-const t=[{p:"hàn",pp:"han4",d:"variant of 捍[han4]",t:"扞"},{p:"hàn",pp:"han4",d:"to ward off (a blow) ☆ to withstand ☆ to defend",t:"捍"}],o=[{p:"hàn wèi",w:"捍卫",d:"to defend ☆ to uphold ☆ to safeguard",t:"捍衛"},{p:"hàn wèi zhě",w:"捍卫者",d:"proponent ☆ supporter ☆ upholder",t:"捍衛者"}],n=[],p={s:t,w:o,i:n};export{p as default,n as i,t as s,o as w};

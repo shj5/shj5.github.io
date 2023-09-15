@@ -1,1 +1,0 @@
-const t=[{p:"xiè",pp:"xie4",d:"to walk",t:"躞"}],i=[{p:"dié xiè",w:"蹀躞",d:"to walk in small steps ☆ to pace about",t:"蹀躞"},{p:"xiè dié",w:"躞蹀",d:"to walk with a mincing gait",t:"躞蹀"}],a=[],o={s:t,w:i,i:a};export{o as default,a as i,t as s,i as w};

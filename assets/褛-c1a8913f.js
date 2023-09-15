@@ -1,0 +1,1 @@
+const s=[{p:"lǚ",pp:"lu:3",d:"soiled ☆ tattered",t:"褸"}],t=[{w:"褴褛",p:"lán lǚ",d:"ragged ☆ shabby"}],c=[],o="衣",n="15",d=["吅","衤","娄"],e=[],l={s,w:t,i:c,r:o,sc:n,c:d,d:e};export{d as c,e as d,l as default,c as i,o as r,s,n as sc,t as w};

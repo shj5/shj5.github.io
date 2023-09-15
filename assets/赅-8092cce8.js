@@ -1,1 +1,0 @@
-const i=[{p:"gāi",pp:"gai1",d:"surname Gai",t:"賅"},{p:"gāi",pp:"gai1",d:"complete ☆ full",t:"賅"}],t=[{p:"gāi bó",w:"赅博",d:"variant of 該博|该博[gai1 bo2]",t:"賅博"},{p:"gāi kuò",w:"赅括",d:"see 概括[gai4 kuo4]",t:"賅括"}],o=[{p:"yán jiǎn yì gāi",w:"言简意赅",d:"concise and comprehensive (idiom)",t:"言簡意賅"}],p={s:i,w:t,i:o};export{p as default,o as i,i as s,t as w};

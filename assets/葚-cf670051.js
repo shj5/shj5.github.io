@@ -1,0 +1,1 @@
+const s=[{p:"shèn",pp:"shen4",d:"fruit of mulberry ☆ also pr. [ren4]",t:"葚"}],t=[{w:"桑葚",p:"sāng shèn",d:"mulberry fruit (Fructus mori)"}],c=[],n="艸",r="12",o=["吕","艹","甚"],u=[],e={s,w:t,i:c,r:n,sc:r,c:o,d:u};export{o as c,u as d,e as default,c as i,n as r,s,r as sc,t as w};

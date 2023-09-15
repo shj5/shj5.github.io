@@ -1,1 +1,0 @@
-const t=[{p:"hù",pp:"hu4",d:"water bucket for irrigation",t:"戽"}],r=[{p:"hù dǒu",w:"戽斗",d:"bailing bucket (tool for irrigating fields) ☆ protruding lower jaw",t:"戽斗"},{p:"hù shuǐ",w:"戽水",d:"to draw water for irrigation (manually or with a water wheel)",t:"戽水"}],i=[],o={s:t,w:r,i};export{o as default,i,t as s,r as w};

@@ -1,1 +1,0 @@
-const n=[{p:"qí",pp:"qi2",d:"(herb) ☆ implore ☆ pray ☆ place name",t:"蘄"}],a=[{p:"qí chūn",w:"蕲春",d:"Qichun County in Huanggang 黃岡|黄冈[Huang2 gang1], Hubei",t:"蘄春"},{p:"qí chūn xiàn",w:"蕲春县",d:"Qichun County in Huanggang 黃岡|黄冈[Huang2 gang1], Hubei",t:"蘄春縣"}],g=[],i={s:n,w:a,i:g};export{i as default,g as i,n as s,a as w};

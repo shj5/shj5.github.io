@@ -1,1 +1,0 @@
-const t=[{p:"yān",pp:"yan1",d:"to castrate ☆ a castrate ☆ neuter",t:"閹"}],a=[{p:"yān rén",w:"阉人",d:"a castrate",t:"閹人"},{p:"yān gē",w:"阉割",d:"to castrate ☆ fig. to emasculate",t:"閹割"},{p:"yān rán",w:"阉然",d:"covertly ☆ secretly",t:"閹然"},{p:"yān shù",w:"阉竖",d:"eunuch (contemptuous appellation)",t:"閹豎"}],e=[],n={s:t,w:a,i:e};export{n as default,e as i,t as s,a as w};

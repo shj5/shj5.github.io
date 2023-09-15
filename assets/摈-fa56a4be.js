@@ -1,1 +1,0 @@
-const t=[{p:"bìn",pp:"bin4",d:"to reject ☆ to expel ☆ to discard ☆ to exclude ☆ to renounce",t:"擯"}],o=[{p:"bìn chì",w:"摈斥",d:"to reject ☆ to dismiss",t:"擯斥"},{p:"bìn qì",w:"摈弃",d:"to abandon ☆ to discard ☆ to cast away",t:"擯棄"},{p:"bìn chú",w:"摈除",d:"to discard ☆ to get rid of ☆ to dispense with",t:"擯除"}],d=[],s={s:t,w:o,i:d};export{s as default,d as i,t as s,o as w};

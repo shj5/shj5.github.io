@@ -1,0 +1,1 @@
+const n=[{p:"cháng",pp:"chang2",d:"a legendary beauty who flew to the moon ☆ the lady in the moon",t:"嫦"}],o=[{w:"嫦娥",p:"cháng é",d:"Chang'e, the lady in the moon (Chinese mythology) ☆ one of the Chang'e series of PRC lunar spacecraft"}],t=[],e="女",c="14",s=["吅","女","常"],h=[],a={s:n,w:o,i:t,r:e,sc:c,c:s,d:h};export{s as c,h as d,a as default,t as i,e as r,n as s,c as sc,o as w};

@@ -1,1 +1,0 @@
-const t=[{p:"fù",pp:"fu4",d:"to order",t:"咐"}],o=[{p:"fēn fù",w:"吩咐",d:"to tell ☆ to instruct ☆ to command",t:"吩咐"},{p:"zhǔ fù",w:"嘱咐",d:"to tell ☆ to exhort ☆ injunction",t:"囑咐"}],n=[],s={s:t,w:o,i:n};export{s as default,n as i,t as s,o as w};

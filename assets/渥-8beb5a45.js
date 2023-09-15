@@ -1,0 +1,1 @@
+const t=[{p:"wò",pp:"wo4",d:"to enrich ☆ to moisten",t:"渥"}],o=[{w:"优渥",p:"yōu wò",d:"handsome (pay etc) ☆ generous ☆ liberal"},{w:"渥太华",p:"wò tài huá",d:"Ottawa, capital of Canada"}],s=[],c="水",n="12",a=["吅","氵","屋"],e=[],w={s:t,w:o,i:s,r:c,sc:n,c:a,d:e};export{a as c,e as d,w as default,s as i,c as r,t as s,n as sc,o as w};

@@ -1,1 +1,0 @@
-const o=[{p:"zhēn",pp:"zhen1",d:"to warn ☆ to admonish ☆ variant of 針|针[zhen1]",t:"箴"}],n=[{p:"guān zhēn",w:"官箴",d:"rules of propriety for government officials",t:"官箴"},{p:"zhēn yán",w:"箴言",d:"admonition ☆ exhortation ☆ dictum ☆ the biblical Book of Proverbs",t:"箴言"}],t=[],i={s:o,w:n,i:t};export{i as default,t as i,o as s,n as w};

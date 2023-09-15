@@ -1,0 +1,1 @@
+const n=[{p:"dòng",pp:"dong4",d:"variant of 洞[dong4] ☆ cave ☆ pit",t:"硐"},{p:"tóng",pp:"tong2",d:"grind",t:"硐"}],t=[{w:"硐室",p:"dòng shì",d:"chamber (mining)"}],c=[],s="石",o="11",d=["吅","石","同"],p=[],g={s:n,w:t,i:c,r:s,sc:o,c:d,d:p};export{d as c,p as d,g as default,c as i,s as r,n as s,o as sc,t as w};

@@ -1,1 +1,0 @@
-const s=[{p:"shàn",pp:"shan4",d:"variant of 鱔|鳝[shan4]",t:"鱓"},{p:"shàn",pp:"shan4",d:"Chinese yellow eel",t:"鱔"}],n=[{p:"shàn yú",w:"鳝鱼",d:"eel",t:"鱔魚"},{p:"huáng shàn",w:"黄鳝",d:"Asian swamp eel (Monopterus albus) ☆ CL:個|个[ge4],條|条[tiao2]",t:"黃鱔"}],e=[],t={s,w:n,i:e};export{t as default,e as i,s,n as w};

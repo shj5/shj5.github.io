@@ -1,1 +1,0 @@
-const t=[{p:"yǒng",pp:"yong3",d:"leap",t:"踊"},{p:"yǒng",pp:"yong3",d:"leap",t:"踴"}],p=[{p:"yǒng yuè",w:"踊跃",d:"to leap ☆ to jump ☆ eager ☆ enthusiastically",t:"踴躍"}],n=[],o={s:t,w:p,i:n};export{o as default,n as i,t as s,p as w};

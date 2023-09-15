@@ -1,1 +1,0 @@
-const n=[{p:"yún",pp:"yun2",d:"sun light ☆ used in personal name",t:"昀"}],t=[{p:"jì yún",w:"纪昀",d:"Ji Yun (1724-1805), Qing Dynasty writer, author of supernatural novel Notes on a Minutely Observed Thatched Hut 閱微草堂筆記|阅微草堂笔记",t:"紀昀"}],s=[],e={s:n,w:t,i:s};export{e as default,s as i,n as s,t as w};

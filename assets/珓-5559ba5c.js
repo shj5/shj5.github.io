@@ -1,1 +1,0 @@
-const i=[{p:"jiào",pp:"jiao4",d:"pair of hemispherical objects used in divination",t:"珓"}],o=[{p:"bēi jiào",w:"杯珓",d:"pair of mussel-shaped objects thrown on the ground for divination purposes",t:"杯珓"},{p:"bēi jiào",w:"碑珓",d:"see 杯珓[bei1 jiao4]",t:"碑珓"}],s=[],t={s:i,w:o,i:s};export{t as default,s as i,i as s,o as w};

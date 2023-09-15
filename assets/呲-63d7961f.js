@@ -1,1 +1,0 @@
-const t=[{p:"cī",pp:"ci1",d:"(coll.) to scold ☆ to rebuke",t:"呲"},{p:"zī",pp:"zi1",d:"variant of 齜|龇[zi1]",t:"呲"}],o=[{p:"zī yá liě zuǐ",w:"呲牙咧嘴",d:"to grimace (in pain) ☆ to show one's teeth ☆ to bare one's fangs",t:"呲牙咧嘴"},{p:"ái cī r",w:"挨呲儿",d:"to suffer a rebuke ☆ criticized",t:"挨呲兒"}],e=[],i={s:t,w:o,i:e};export{i as default,e as i,t as s,o as w};

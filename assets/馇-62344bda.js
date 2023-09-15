@@ -1,1 +1,0 @@
-const a=[{p:"chā",pp:"cha1",d:"to cook and stir (animal feed) ☆ (coll.) to simmer (porridge etc)",t:"餷"},{p:"zha",pp:"zha5",d:"used in 餎餷|饹馇[ge1 zha5]",t:"餷"}],t=[{p:"gē zha",w:"饹馇",d:"a kind of flat cake made from bean flour, often cut up and fried",t:"餎餷"}],o=[],e={s:a,w:t,i:o};export{e as default,o as i,a as s,t as w};

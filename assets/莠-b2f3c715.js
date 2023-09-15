@@ -1,1 +1,0 @@
-const o=[{p:"yǒu",pp:"you3",d:"Setaria viridis ☆ vicious",t:"莠"}],s=[{p:"dú yǒu dìng",w:"毒莠定",d:"picloram",t:"毒莠定"}],t=[{p:"bù láng bù yǒu",w:"不稂不莠",d:"useless ☆ worthless ☆ good-for-nothing",t:"不稂不莠"},{p:"liáng yǒu bù qí",w:"良莠不齐",d:"good and bad people intermingled",t:"良莠不齊"}],d={s:o,w:s,i:t};export{d as default,t as i,o as s,s as w};

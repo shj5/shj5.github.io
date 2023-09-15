@@ -1,1 +1,0 @@
-const n=[{p:"shī",pp:"shi1",d:"Shi, name of river in Xinyang 信陽|信阳, Henan",t:"溮"}],i=[{p:"shī hé",w:"浉河",d:"Shi River in Xinyang 信陽|信阳[Xin4 yang2], Henan",t:"溮河"},{p:"shī hé qū",w:"浉河区",d:"Shihe District of Xinyang city 信陽市|信阳市[Xin4 yang2 Shi4], Henan",t:"溮河區"}],s=[],t={s:n,w:i,i:s};export{t as default,s as i,n as s,i as w};

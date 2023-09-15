@@ -1,1 +1,0 @@
-const t=[{p:"jìn",pp:"jin4",d:"wife of mother's brother",t:"妗"}],e=[{p:"jìn zi",w:"妗子",d:"(informal) mother's brother's wife ☆ maternal uncle's wife",t:"妗子"}],o=[],s={s:t,w:e,i:o};export{s as default,o as i,t as s,e as w};

@@ -1,1 +1,0 @@
-const e=[{p:"léi",pp:"lei2",d:"basket for carrying earth",t:"蔂"},{p:"léi",pp:"lei2",d:"to entwine ☆ creeper, bramble ☆ (literary) basket for carrying soil",t:"虆"}],t=[],r=[],i={s:e,w:t,i:r};export{i as default,r as i,e as s,t as w};

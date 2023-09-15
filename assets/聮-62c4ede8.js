@@ -1,0 +1,1 @@
+const s=[{p:"lián",pp:"lian2",d:"old variant of 聯|联[lian2]",t:"聮"}],c=[],n=[],t="耳",o="18",a=["吅","耳",""],i=[],d={s,w:c,i:n,r:t,sc:o,c:a,d:i};export{a as c,i as d,d as default,n as i,t as r,s,o as sc,c as w};

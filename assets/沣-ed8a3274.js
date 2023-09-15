@@ -1,1 +1,0 @@
-const i=[{p:"fēng",pp:"feng1",d:"rainy ☆ place name in Shaanxi ☆ Feng River in Shaanxi 陝西|陕西, tributary of Wei River 渭水[Wei4 Shui3]",t:"灃"}],n=[{p:"fēng shuǐ",w:"沣水",d:"Feng River in Shaanxi 陝西|陕西[Shan3 xi1], tributary of Wei River 渭水[Wei4 Shui3]",t:"灃水"}],e=[],a={s:i,w:n,i:e};export{a as default,e as i,i as s,n as w};

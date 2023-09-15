@@ -1,1 +1,0 @@
-const n=[{p:"biàn",pp:"bian4",d:"benzyl (chemistry)",t:"苄"}],i=[{p:"ān biàn qīng méi sù",w:"氨苄青霉素",d:"ampicillin (medicine)",t:"氨苄青霉素"},{p:"biàn xīng qīng méi sù",w:"苄星青霉素",d:"benzathine benzylpenicillin (aka benzathine penicillin G)",t:"苄星青霉素"},{p:"biàn àn",w:"苄胺",d:"benzylamine C7H9N",t:"苄胺"}],e=[],t={s:n,w:i,i:e};export{t as default,e as i,n as s,i as w};

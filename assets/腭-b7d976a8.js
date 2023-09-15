@@ -1,1 +1,0 @@
-const t=[{p:"è",pp:"e4",d:"palate ☆ roof of the mouth",t:"齶"}],n=[{p:"ruǎn è",w:"软腭",d:"soft palate",t:"軟齶"},{p:"ruǎn è yīn",w:"软腭音",d:"(linguistics) velar consonant",t:"軟齶音"},{p:"yín è yīn",w:"龈腭音",d:"alveo-palatal sound (linguistics)",t:"齦齶音"},{p:"è liè",w:"腭裂",d:"cleft palate",t:"齶裂"}],a=[],o={s:t,w:n,i:a};export{o as default,a as i,t as s,n as w};

@@ -1,1 +1,0 @@
-const t=[{p:"tòng",pp:"tong4",d:"grief",t:"慟"}],n=[{p:"āi tòng",w:"哀恸",d:"to be deeply grieved",t:"哀慟"},{p:"bēi tòng",w:"悲恸",d:"mournful",t:"悲慟"}],e=[],o={s:t,w:n,i:e};export{o as default,e as i,t as s,n as w};

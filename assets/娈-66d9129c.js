@@ -1,1 +1,0 @@
-const t=[{p:"luán",pp:"luan2",d:"beautiful",t:"孌"}],n=[{p:"luán tóng",w:"娈童",d:"catamite (boy as homosexual partner) ☆ kept man ☆ gigolo",t:"孌童"},{p:"luán tóng liàn",w:"娈童恋",d:"pederasty",t:"孌童戀"},{p:"luán tóng zhě",w:"娈童者",d:"child molester ☆ sex tourist",t:"孌童者"}],s=[],e={s:t,w:n,i:s};export{e as default,s as i,t as s,n as w};

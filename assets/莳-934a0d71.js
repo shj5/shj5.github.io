@@ -1,1 +1,0 @@
-const s=[{p:"shí",pp:"shi2",d:"see 蒔蘿|莳萝[shi2 luo2]",t:"蒔"},{p:"shì",pp:"shi4",d:"to grow ☆ to transplant",t:"蒔"}],t=[{p:"ōu shí luó",w:"欧莳萝",d:"cumin (Cuminum cyminum)",t:"歐蒔蘿"},{p:"shí luó",w:"莳萝",d:"dill (herb, Anethum graveolens)",t:"蒔蘿"},{p:"shí luó zǐ",w:"莳萝籽",d:"dill seed",t:"蒔蘿籽"}],l=[],n={s,w:t,i:l};export{n as default,l as i,s,t as w};

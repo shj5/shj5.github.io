@@ -1,1 +1,0 @@
-const t=[{p:"zhuó",pp:"zhuo2",d:"to join together ☆ to lack ☆ narrow and shallow",t:"叕"}],a=[{p:"yòu shuāng ruò zhuó",w:"又双叒叕",d:"(Internet slang) time after time ☆ again and again and again",t:"又雙叒叕"}],n=[],o={s:t,w:a,i:n};export{o as default,n as i,t as s,a as w};

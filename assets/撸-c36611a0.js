@@ -1,1 +1,0 @@
-const t=[{p:"lū",pp:"lu1",d:"(dialect) to rub one's hand along ☆ to fire (an employee) ☆ to reprimand",t:"擼"}],o=[{p:"lū guǎn",w:"撸管",d:"(slang) to masturbate",t:"擼管"},{p:"lū tiě",w:"撸铁",d:"(coll.) to pump iron ☆ to work out",t:"擼鐵"}],n=[],l={s:t,w:o,i:n};export{l as default,n as i,t as s,o as w};

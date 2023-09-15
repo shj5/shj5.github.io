@@ -1,0 +1,1 @@
+const n=[{p:"nèn",pp:"nen4",d:"to think ☆ this ☆ which? ☆ how? (literary)",t:"恁"},{p:"nín",pp:"nin2",d:"old variant of 您[nin2]",t:"恁"}],t=[{w:"恁般",p:"rèn bān",d:"(old) this way ☆ this much"},{w:"恁么",p:"rèn me",d:"(old) this way ☆ what?"}],s=[],o="心",c="10",i=["吕","任","心"],d=[],h={s:n,w:t,i:s,r:o,sc:c,c:i,d};export{i as c,d,h as default,s as i,o as r,n as s,c as sc,t as w};

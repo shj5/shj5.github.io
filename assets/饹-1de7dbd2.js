@@ -1,1 +1,0 @@
-const e=[{p:"gē",pp:"ge1",d:"used in 餎餷|饹馇[ge1 zha5]",t:"餎"},{p:"le",pp:"le5",d:"see 餄餎|饸饹[he2 le5]",t:"餎"}],t=[{p:"hé le",w:"饸饹",d:"noodles either made of buckwheat or sorghum",t:"餄餎"},{p:"gē zha",w:"饹馇",d:"a kind of flat cake made from bean flour, often cut up and fried",t:"餎餷"}],o=[],a={s:e,w:t,i:o};export{a as default,o as i,e as s,t as w};

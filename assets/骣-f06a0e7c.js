@@ -1,1 +1,0 @@
-const t=[{p:"chǎn",pp:"chan3",d:"(literary) to ride a horse without a saddle",t:"驏"}],a=[{p:"chǎn qí",w:"骣骑",d:"to ride bareback",t:"驏騎"}],o=[],s={s:t,w:a,i:o};export{s as default,o as i,t as s,a as w};

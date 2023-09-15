@@ -1,1 +1,0 @@
-const t=[{p:"bā",pp:"ba1",d:'"eight" component in Chinese characters ☆ archaic variant of 八[ba1]',t:"丷"},{p:"xx",pp:"xx5",d:"one of the characters used in kwukyel, an ancient Korean writing system",t:"丷"}],n=[],a=[],e={s:t,w:n,i:a};export{e as default,a as i,t as s,n as w};

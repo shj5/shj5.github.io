@@ -1,1 +1,0 @@
-const t=[{p:"zā",pp:"za1",d:"see 腌臢|腌臜[a1 za1]",t:"臢"}],s=[{p:"ā zā",w:"腌臜",d:"dirty ☆ filthy ☆ awkward ☆ disgusting ☆ nauseating",t:"腌臢"}],a=[],i={s:t,w:s,i:a};export{i as default,a as i,t as s,s as w};

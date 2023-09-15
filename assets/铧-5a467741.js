@@ -1,1 +1,0 @@
-const u=[{p:"huá",pp:"hua2",d:"plowshare ☆ spade",t:"鏵"}],t=[{p:"hé hòu huá",w:"何厚铧",d:"He Houhua (1955-), Macau financier and politician, Chief Executive 1999-2009",t:"何厚鏵"},{p:"duō huá lí",w:"多铧犁",d:"multishare or multifurrow plow",t:"多鏵犁"},{p:"lí huá",w:"犁铧",d:"plowshare",t:"犁鏵"}],a=[],h={s:u,w:t,i:a};export{h as default,a as i,u as s,t as w};

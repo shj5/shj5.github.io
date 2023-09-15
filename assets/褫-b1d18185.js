@@ -1,0 +1,1 @@
+const s=[{p:"chǐ",pp:"chi3",d:"to strip ☆ to deprive of ☆ to discharge ☆ to dismiss ☆ to undress",t:"褫"}],t=[{w:"褫夺",p:"chǐ duó",d:"to deprive ☆ to strip of"}],o=[],c="衣",d="16",i=["吅","衤","虒"],n=[],p={s,w:t,i:o,r:c,sc:d,c:i,d:n};export{i as c,n as d,p as default,o as i,c as r,s,d as sc,t as w};

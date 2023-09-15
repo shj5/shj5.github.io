@@ -1,0 +1,1 @@
+const t=[{p:"huái",pp:"huai2",d:"(agriculture) to cultivate with a harrow",t:"耲"}],o=[{w:"耲耙",p:"huái bà",d:"a kind of harrow used in north-east China to cultivate or sow"}],s=[],c="耒",a="22",i=["吅","耒","褱"],n=[],r={s:t,w:o,i:s,r:c,sc:a,c:i,d:n};export{i as c,n as d,r as default,s as i,c as r,t as s,a as sc,o as w};

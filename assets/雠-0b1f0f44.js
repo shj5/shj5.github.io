@@ -1,0 +1,1 @@
+const c=[{p:"chóu",pp:"chou2",d:"to collate ☆ to proofread",t:"讎"}],o=[{w:"仇雠",p:"chóu chóu",d:"(literary) enemy ☆ foe"}],t=[],s="隹",n="18",e=["弼","隹","讠"],r=[],d={s:c,w:o,i:t,r:s,sc:n,c:e,d:r};export{e as c,r as d,d as default,t as i,s as r,c as s,n as sc,o as w};

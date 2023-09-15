@@ -1,1 +1,0 @@
-const t=[{p:"bǎi",pp:"bai3",d:"to spread out ☆ to open",t:"捭"},{p:"bò",pp:"bo4",d:"variant of 擘[bo4] ☆ to separate ☆ to split",t:"捭"}],o=[],p=[],s={s:t,w:o,i:p};export{s as default,p as i,t as s,o as w};

@@ -1,1 +1,0 @@
-const n=[{p:"biān",pp:"bian1",d:"see 萹蓄[bian1 xu4]",t:"萹"},{p:"biǎn",pp:"bian3",d:"see 萹豆[bian3 dou4]",t:"萹"}],i=[{p:"biān xù",w:"萹蓄",d:"knotgrass (Polygonum aviculare)",t:"萹蓄"},{p:"biǎn dòu",w:"萹豆",d:"variant of 扁豆[bian3 dou4]",t:"萹豆"}],a=[],t={s:n,w:i,i:a};export{t as default,a as i,n as s,i as w};

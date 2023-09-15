@@ -1,0 +1,1 @@
+const s=[{p:"wú",pp:"wu2",d:"Japanese variant of 吳|吴[Wu2]",t:"呉"}],c=[],t=[],n="口",o="7",a=["吕","口","??八"],p=["娯"],d={s,w:c,i:t,r:n,sc:o,c:a,d:p};export{a as c,p as d,d as default,t as i,n as r,s,o as sc,c as w};

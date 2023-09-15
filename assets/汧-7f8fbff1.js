@@ -1,1 +1,0 @@
-const n=[{p:"qiān",pp:"qian1",d:"name of a river flowing through Gansu to Shaanxi Province",t:"汧"},{p:"qiān",pp:"qian1",d:"marsh ☆ float",t:"汧"}],a=[],o=[],t={s:n,w:a,i:o};export{t as default,o as i,n as s,a as w};

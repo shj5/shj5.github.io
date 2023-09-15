@@ -1,0 +1,1 @@
+const t=[{p:"xuàn",pp:"xuan4",d:"to shape on a lathe ☆ to peel with a knife ☆ to turn in (a screw)",t:"鏇"}],s=[],n=[],c="金",o="16",a=["吅","钅","旋"],e=[],p={s:t,w:s,i:n,r:c,sc:o,c:a,d:e};export{a as c,e as d,p as default,n as i,c as r,t as s,o as sc,s as w};

@@ -1,1 +1,0 @@
-const s=[{p:"kuí",pp:"kui2",d:"see 櫆師|櫆师[kui2 shi1] Polaris, the north star",t:"櫆"}],t=[{p:"kuí shī",w:"櫆师",d:"Polaris ☆ the north star ☆ same as 北斗[Bei3 dou3]",t:"櫆師"}],o=[],a={s,w:t,i:o};export{a as default,o as i,s,t as w};

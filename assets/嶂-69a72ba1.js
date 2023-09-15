@@ -1,0 +1,1 @@
+const n=[{p:"zhàng",pp:"zhang4",d:"cliff ☆ range of peaks",t:"嶂"}],o=[],s=[{w:"层峦叠嶂",p:"céng luán dié zhàng",d:"range upon range of mountains (idiom)"},{w:"重峦叠嶂",p:"chóng luán dié zhàng",d:"range upon range of mountains (idiom)"}],c="山",t="14",a=["吅","山","章"],g=[],i={s:n,w:o,i:s,r:c,sc:t,c:a,d:g};export{a as c,g as d,i as default,s as i,c as r,n as s,t as sc,o as w};

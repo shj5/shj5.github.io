@@ -1,1 +1,0 @@
-const a=[{p:"mián",pp:"mian2",d:'"roof" radical (Kangxi radical 40), occurring in 家, 定, 安 etc, referred to as 寶蓋|宝盖[bao3 gai4]',t:"宀"}],i=[],o=[],c={s:a,w:i,i:o};export{c as default,o as i,a as s,i as w};

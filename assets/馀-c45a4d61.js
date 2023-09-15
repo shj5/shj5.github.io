@@ -1,1 +1,0 @@
-const n=[{p:"yú",pp:"yu2",d:"surname Yu",t:"餘"},{p:"yú",pp:"yu2",d:"variant of 餘|余[yu2], remainder",t:"餘"}],t=[{p:"fú yú",w:"扶馀",d:"variant of 扶餘|扶余 Korean: Buyeo (c. 200 BC-494 AD), ancient kingdom in northeast frontier region of China",t:"扶餘"}],o=[],a={s:n,w:t,i:o};export{a as default,o as i,n as s,t as w};

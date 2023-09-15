@@ -1,1 +1,0 @@
-const n=[{p:"yǎn",pp:"yan3",d:"used in 兗州|兖州[Yan3 zhou1]",t:"兗"}],i=[{p:"yǎn zhōu",w:"兖州",d:"Yanzhou, county-level city in Jining 濟寧|济宁[Ji3 ning2], Shandong",t:"兗州"},{p:"yǎn zhōu shì",w:"兖州市",d:"Yanzhou, county-level city in Jining 濟寧|济宁[Ji3 ning2], Shandong",t:"兗州市"}],t=[],o={s:n,w:i,i:t};export{o as default,t as i,n as s,i as w};

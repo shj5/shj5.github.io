@@ -1,1 +1,0 @@
-const n=[{p:"qú",pp:"qu2",d:"surname Qu",t:"朐"}],i=[{p:"lín qú",w:"临朐",d:"Linqu County in Weifang 濰坊|潍坊[Wei2 fang1], Shandong",t:"臨朐"},{p:"lín qú xiàn",w:"临朐县",d:"Linqu County in Weifang 濰坊|潍坊[Wei2 fang1], Shandong",t:"臨朐縣"}],t=[],a={s:n,w:i,i:t};export{a as default,t as i,n as s,i as w};

@@ -1,0 +1,1 @@
+const t=[{p:"tiǎo",pp:"tiao3",d:"(dialect) to exchange ☆ to replace",t:"斢"},{p:"tǒu",pp:"tou3",d:"yellow (archaic)",t:"斢"}],c=[],o=[],s="斗",n="16",a=["吅","","斗"],e=[],p={s:t,w:c,i:o,r:s,sc:n,c:a,d:e};export{a as c,e as d,p as default,o as i,s as r,t as s,n as sc,c as w};

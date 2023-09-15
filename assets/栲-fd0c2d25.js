@@ -1,1 +1,0 @@
-const e=[{p:"kǎo",pp:"kao3",d:"chinquapin (Castanopsis fargesii and other spp.), genus of evergreen trees",t:"栲"}],s=[{p:"kǎo shǔ",w:"栲属",d:"Castanopsis, genus of evergreen trees",t:"栲屬"},{p:"kǎo lǎo",w:"栲栳",d:"round-bottomed wicker basket",t:"栲栳"},{p:"kǎo jiāo",w:"栲胶",d:"tannin",t:"栲膠"}],o=[],t={s:e,w:s,i:o};export{t as default,o as i,e as s,s as w};

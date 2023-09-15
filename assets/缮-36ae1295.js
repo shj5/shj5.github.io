@@ -1,1 +1,0 @@
-const t=[{p:"shàn",pp:"shan4",d:"to repair ☆ to mend ☆ to rewrite ☆ to transcribe",t:"繕"}],o=[{p:"xiū shàn",w:"修缮",d:"to renovate ☆ to repair (a building)",t:"修繕"},{p:"shàn xiě",w:"缮写",d:"to copy ☆ to transcribe",t:"繕寫"},{p:"shàn qīng",w:"缮清",d:"to make a clean copy",t:"繕清"}],n=[],s={s:t,w:o,i:n};export{s as default,n as i,t as s,o as w};

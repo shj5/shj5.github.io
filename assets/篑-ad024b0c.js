@@ -1,1 +1,0 @@
-const t=[{p:"kuì",pp:"kui4",d:"basket for carrying soil",t:"簣"}],o=[],e=[{p:"gōng kuī yī kuì",w:"功亏一篑",d:"lit. to ruin the enterprise for the sake of one basketful ☆ to fail through lack of a final effort ☆ to spoil the ship for a ha'penny worth of tar (idiom)",t:"功虧一簣"}],i={s:t,w:o,i:e};export{i as default,e as i,t as s,o as w};

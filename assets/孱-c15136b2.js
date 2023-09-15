@@ -1,1 +1,0 @@
-const t=[{p:"càn",pp:"can4",d:"see 孱頭|孱头[can4 tou5]",t:"孱"},{p:"chán",pp:"chan2",d:"weak ☆ feeble ☆ lowly",t:"孱"}],c=[{p:"chán ruò",w:"孱弱",d:"delicate ☆ frail ☆ impotent ☆ weak",t:"孱弱"},{p:"càn tou",w:"孱头",d:"(dialect) weakling ☆ coward",t:"孱頭"}],e=[],n={s:t,w:c,i:e};export{n as default,e as i,t as s,c as w};

@@ -1,1 +1,0 @@
-const n=[{p:"ào",pp:"ao4",d:"plain in the middle of the mountains ☆ used in place names, esp. in 浙江[Zhe4 jiang1] and 福建[Fu2 jian4]",t:"嶴"}],s=[],a=[],e={s:n,w:s,i:a};export{e as default,a as i,n as s,s as w};

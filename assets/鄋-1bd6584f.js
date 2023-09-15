@@ -1,1 +1,0 @@
-const n=[{p:"sōu",pp:"sou1",d:"see 鄋瞞|鄋瞒[Sou1 man2]",t:"鄋"}],s=[{p:"sōu mán",w:"鄋瞒",d:"name of a state and its people in Shangdong in late Spring and Autumn period",t:"鄋瞞"}],t=[],o={s:n,w:s,i:t};export{o as default,t as i,n as s,s as w};

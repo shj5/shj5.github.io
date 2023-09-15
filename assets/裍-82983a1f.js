@@ -1,0 +1,1 @@
+const s=[{p:"kǔn",pp:"kun3",d:"a border or band on the edge of a dress",t:"裍"}],o=[],c=[],n="衣",t="13",d=["吅","衤","困"],e=[],r={s,w:o,i:c,r:n,sc:t,c:d,d:e};export{d as c,e as d,r as default,c as i,n as r,s,t as sc,o as w};

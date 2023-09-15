@@ -1,1 +1,0 @@
-const n=[{p:"guì",pp:"gui4",d:"minnow",t:"鱥"}],t=[{p:"dīng guì",w:"丁鱥",d:"tench (Tinca tinca)",t:"丁鱥"},{p:"jiān tóu guì",w:"尖头鱥",d:"Chinese minnow (Phoxinus oxycephalus)",t:"尖頭鱥"}],i=[],s={s:n,w:t,i};export{s as default,i,n as s,t as w};

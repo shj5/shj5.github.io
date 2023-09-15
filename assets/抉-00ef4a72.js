@@ -1,1 +1,0 @@
-const o=[{p:"jué",pp:"jue2",d:"to pick out ☆ to single out",t:"抉"}],t=[{p:"jué gǎo",w:"抉搞",d:"to choose ☆ to expose and censure",t:"抉搞"},{p:"jué zé",w:"抉择",d:"to choose (literary)",t:"抉擇"}],s=[],e={s:o,w:t,i:s};export{e as default,s as i,o as s,t as w};

@@ -1,1 +1,0 @@
-const t=[{p:"chǎ",pp:"cha3",d:"open seam of a garment ☆ shorts ☆ panties",t:"衩"},{p:"chà",pp:"cha4",d:"slit on either side of robe",t:"衩"}],s=[{p:"sān jiǎo kù chǎ",w:"三角裤衩",d:"briefs ☆ panties",t:"三角褲衩"},{p:"kù chǎ",w:"裤衩",d:"underpants",t:"褲衩"},{p:"kāi chà",w:"开衩",d:"slit (in clothing)",t:"開衩"}],n=[],p={s:t,w:s,i:n};export{p as default,n as i,t as s,s as w};

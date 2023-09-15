@@ -1,1 +1,0 @@
-const s=[{p:"sì",pp:"si4",d:"animal cited in ancient texts, resembling a buffalo (some say rhinoceros or female rhinoceros)",t:"兕"}],e=[{p:"sì gōng",w:"兕觥",d:"ancient type of drinking vessel",t:"兕觥"}],n=[],t={s,w:e,i:n};export{t as default,n as i,s,e as w};

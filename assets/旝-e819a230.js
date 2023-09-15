@@ -1,1 +1,0 @@
-const a=[{p:"kuài",pp:"kuai4",d:"(literary) standard, banner (raised for battle) ☆ (literary) catapult, or a rock launched by a catapult",t:"旝"}],t=[],r=[],s={s:a,w:t,i:r};export{s as default,r as i,a as s,t as w};

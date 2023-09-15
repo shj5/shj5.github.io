@@ -1,1 +1,0 @@
-const n=[{p:"xìn",pp:"xin4",d:"fontanel (gap between the bones of an infant's skull)",t:"囟"}],t=[{p:"xìn nǎo mén",w:"囟脑门",d:"fontanel (gap between the bones of an infant's skull)",t:"囟腦門"},{p:"xìn mén",w:"囟门",d:"fontanel (gap between the bones of an infant's skull)",t:"囟門"}],e=[],s={s:n,w:t,i:e};export{s as default,e as i,n as s,t as w};

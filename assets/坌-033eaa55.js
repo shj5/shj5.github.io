@@ -1,0 +1,1 @@
+const n=[{p:"bèn",pp:"ben4",d:"variant of 坋[ben4] ☆ old variant of 笨[ben4]",t:"坌"}],s=[],t=[],c="土",o="7",a=["吕","分","土"],d=[],e={s:n,w:s,i:t,r:c,sc:o,c:a,d};export{a as c,d,e as default,t as i,c as r,n as s,o as sc,s as w};

@@ -1,1 +1,0 @@
-const d=[{p:"è",pp:"e4",d:"startling",t:"噩"}],t=[{p:"è mèng",w:"噩梦",d:"nightmare",t:"噩夢"},{p:"è hào",w:"噩耗",d:"news of sb's death, sad news",t:"噩耗"},{p:"è yùn",w:"噩运",d:"variant of 厄運|厄运[e4 yun4]",t:"噩運"}],n=[{p:"hún hún è è",w:"浑浑噩噩",d:"muddleheaded",t:"渾渾噩噩"},{p:"hún hún è è",w:"浑浑噩噩",d:"muddleheaded",t:"渾渾噩噩"}],e={s:d,w:t,i:n};export{e as default,n as i,d as s,t as w};

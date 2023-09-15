@@ -1,1 +1,0 @@
-const s=[{p:"liào",pp:"liao4",d:"fetters ☆ leg-irons ☆ shackles",t:"鐐"}],t=[{p:"jiǎo liào",w:"脚镣",d:"fetters ☆ leg-irons",t:"腳鐐"},{p:"liào kào",w:"镣铐",d:"manacles and leg-irons ☆ fetters and handcuffs",t:"鐐銬"},{p:"liào suǒ",w:"镣锁",d:"fetter lock (to restrain horse) ☆ handcuff lock",t:"鐐鎖"}],o=[],e={s,w:t,i:o};export{e as default,o as i,s,t as w};

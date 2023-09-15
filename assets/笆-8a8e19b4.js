@@ -1,1 +1,0 @@
-const o=[{p:"bā",pp:"ba1",d:"an article made of bamboo strips ☆ fence",t:"笆"}],t=[{p:"zhú lí bā",w:"竹篱笆",d:"fence",t:"竹籬笆"},{p:"bā dǒu",w:"笆斗",d:"round-bottomed basket",t:"笆斗"},{p:"bā lí zi",w:"笆篱子",d:"(dialect) prison",t:"笆籬子"},{p:"lí ba",w:"篱笆",d:"fence (esp. of bamboo or wood railings)",t:"籬笆"}],e=[],s={s:o,w:t,i:e};export{s as default,e as i,o as s,t as w};

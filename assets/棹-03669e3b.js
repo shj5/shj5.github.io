@@ -1,1 +1,0 @@
-const o=[{p:"zhuō",pp:"zhuo1",d:"variant of 桌[zhuo1]",t:"棹"},{p:"zhào",pp:"zhao4",d:"oar (archaic) ☆ scull ☆ paddle ☆ to row ☆ a boat",t:"櫂"}],a=[],t=[],p={s:o,w:a,i:t};export{p as default,t as i,o as s,a as w};

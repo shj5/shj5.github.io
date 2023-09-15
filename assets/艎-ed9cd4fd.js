@@ -1,1 +1,0 @@
-const s=[{p:"huáng",pp:"huang2",d:"fast ship ☆ see 艅艎, large warship",t:"艎"}],a=[{p:"xiē huáng",w:"歇艎",d:"large warship",t:"歇艎"},{p:"yú huáng",w:"艅艎",d:"large warship",t:"艅艎"}],p=[],t={s,w:a,i:p};export{t as default,p as i,s,a as w};

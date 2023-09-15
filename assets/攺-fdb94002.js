@@ -1,0 +1,1 @@
+const t=[{p:"yǐ",pp:"yi3",d:"a kind of metal or jade ornament worn in ancient times to ward off evil spirits",t:"攺"}],s=[],n=[],o="攵",c="7",i=["吅","尸?","攵"],a=[],e={s:t,w:s,i:n,r:o,sc:c,c:i,d:a};export{i as c,a as d,e as default,n as i,o as r,t as s,c as sc,s as w};

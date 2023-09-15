@@ -1,1 +1,0 @@
-const t=[{p:"bò",pp:"bo4",d:"thumb ☆ to break ☆ to tear ☆ to pierce ☆ to split",t:"擘"}],o=[{p:"jù bò",w:"巨擘",d:"thumb ☆ authority (knowledgeable person)",t:"巨擘"},{p:"bò huà",w:"擘划",d:"to plan ☆ to arrange",t:"擘劃"},{p:"bò huà",w:"擘画",d:"variant of 擘劃|擘划[bo4 hua4]",t:"擘畫"},{p:"bò kāi",w:"擘开",d:"to break open",t:"擘開"}],a=[],e={s:t,w:o,i:a};export{e as default,a as i,t as s,o as w};

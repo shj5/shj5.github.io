@@ -1,0 +1,1 @@
+const n=[{p:"hān",pp:"han1",d:"snore ☆ to snore",t:"鼾"}],s=[{w:"打鼾",p:"dǎ hān",d:"to snore"},{w:"鼾声",p:"hān shēng",d:"sound of snoring"},{w:"鼾鼾",p:"hān hān",d:"to snore"}],o=[{w:"鼾声如雷",p:"hān shēng rú léi",d:"thunderous snoring"}],t="鼻",c="17",d=["吅","鼻","干"],r=[],h={s:n,w:s,i:o,r:t,sc:c,c:d,d:r};export{d as c,r as d,h as default,o as i,t as r,n as s,c as sc,s as w};

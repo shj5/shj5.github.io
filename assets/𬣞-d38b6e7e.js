@@ -1,1 +1,0 @@
-const n=[{p:"zhǔ",pp:"zhu3",d:"wisdom",t:"詝"}],o=[{p:"yì zhǔ",w:"奕𬣞",d:"given name of Qing Emperor Xianfeng 咸豐|咸丰[Xian2 feng1]",t:"奕詝"}],s=[],t={s:n,w:o,i:s};export{t as default,s as i,n as s,o as w};

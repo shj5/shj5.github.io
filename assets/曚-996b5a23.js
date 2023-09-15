@@ -1,1 +1,0 @@
-const t=[{p:"méng",pp:"meng2",d:"twilight before dawn",t:"曚"}],i=[{p:"wěng méng",w:"暡曚",d:"(literary) (of daylight) dim",t:"暡曚"},{p:"méng lóng",w:"曚昽",d:"(literary) (of daylight) dim ☆ (literary) murky, indistinct",t:"曚曨"}],n=[],d={s:t,w:i,i:n};export{d as default,n as i,t as s,i as w};

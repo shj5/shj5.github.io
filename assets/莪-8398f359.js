@@ -1,0 +1,1 @@
+const s=[{p:"é",pp:"e2",d:"zedoary (Curcuma zedoaria), plant rhizome similar to turmeric",t:"莪"}],c=[{w:"雪兰莪",p:"xuě lán é",d:"Selangor (Malaysia)"}],o=[],t="艸",a="10",n=["吕","艹","我"],r=[],e={s,w:c,i:o,r:t,sc:a,c:n,d:r};export{n as c,r as d,e as default,o as i,t as r,s,a as sc,c as w};

@@ -1,1 +1,0 @@
-const t=[{p:"bì",pp:"bi4",d:"the castor-oil plant",t:"蓖"}],i=[{p:"bì má",w:"蓖麻",d:"castor-oil plant",t:"蓖麻"},{p:"bì má dú sù",w:"蓖麻毒素",d:"ricin (biochemistry)",t:"蓖麻毒素"},{p:"bì má dú dàn bái",w:"蓖麻毒蛋白",d:"ricin (biochemistry)",t:"蓖麻毒蛋白"},{p:"bì má zǐ",w:"蓖麻籽",d:"castor beans",t:"蓖麻籽"}],s=[],o={s:t,w:i,i:s};export{o as default,s as i,t as s,i as w};

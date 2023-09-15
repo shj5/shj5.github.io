@@ -1,1 +1,0 @@
-const a=[{p:"jí",pp:"ji2",d:"germanium (old)",t:"鈒"},{p:"sà",pp:"sa4",d:"(literary) small halberd with an iron handle, used as a weapon or as an agricultural tool ☆ (literary) to inlay",t:"鈒"}],t=[],s=[],l={s:a,w:t,i:s};export{l as default,s as i,a as s,t as w};

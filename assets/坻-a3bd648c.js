@@ -1,1 +1,0 @@
-const i=[{p:"chí",pp:"chi2",d:"islet ☆ rock in river",t:"坻"},{p:"dǐ",pp:"di3",d:"place name",t:"坻"}],n=[{p:"bǎo dǐ",w:"宝坻",d:"Baodi rural district in Tianjin 天津[Tian1 jin1]",t:"寶坻"},{p:"bǎo dǐ qū",w:"宝坻区",d:"Baodi rural district in Tianjin 天津[Tian1 jin1]",t:"寶坻區"}],t=[],d={s:i,w:n,i:t};export{d as default,t as i,i as s,n as w};

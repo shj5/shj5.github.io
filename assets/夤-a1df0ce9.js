@@ -1,1 +1,0 @@
-const n=[{p:"yín",pp:"yin2",d:"late at night",t:"夤"}],t=[{p:"yín yuán",w:"夤缘",d:"to curry favor ☆ to advance one's career by toadying",t:"夤緣"}],o=[{p:"yín yuán pān fù",w:"夤缘攀附",d:"to cling to the rich and powerful (idiom), to advance one's career by currying favor ☆ social climbing",t:"夤緣攀附"}],a={s:n,w:t,i:o};export{a as default,o as i,n as s,t as w};

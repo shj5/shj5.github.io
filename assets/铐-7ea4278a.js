@@ -1,1 +1,0 @@
-const s=[{p:"kào",pp:"kao4",d:"shackles ☆ fetters ☆ manacle",t:"銬"}],a=[{p:"shǒu kào",w:"手铐",d:"manacles ☆ handcuffs",t:"手銬"},{p:"liào kào",w:"镣铐",d:"manacles and leg-irons ☆ fetters and handcuffs",t:"鐐銬"}],t=[],n={s,w:a,i:t};export{n as default,t as i,s,a as w};

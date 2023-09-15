@@ -1,0 +1,1 @@
+const c=[{p:"lí kè",pp:"li2 ke4",d:"centigram (old) (single-character equivalent of 釐克|厘克[li2 ke4])",t:"兣"}],s=[],t=[],n="儿",o="16",e=["吅","克","厘"],i=[],l={s:c,w:s,i:t,r:n,sc:o,c:e,d:i};export{e as c,i as d,l as default,t as i,n as r,c as s,o as sc,s as w};

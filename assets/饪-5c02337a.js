@@ -1,1 +1,0 @@
-const n=[{p:"rèn",pp:"ren4",d:"cooked food ☆ to cook (until ready)",t:"飪"},{p:"rèn",pp:"ren4",d:"variant of 飪|饪[ren4]",t:"餁"}],o=[{p:"pēng rèn",w:"烹饪",d:"cooking, culinary arts",t:"烹飪"},{p:"pēng rèn fǎ",w:"烹饪法",d:"cuisine ☆ culinary art ☆ cookery ☆ recipe",t:"烹飪法"}],r=[],t={s:n,w:o,i:r};export{t as default,r as i,n as s,o as w};

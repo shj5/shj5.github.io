@@ -1,1 +1,0 @@
-const n=[{p:"kē",pp:"ke1",d:"jade-like stone",t:"珂"}],o=[{p:"ài luó xiān kē",w:"爱罗先珂",d:"Vasili Eroshenko (1890-1952), Russian writer and poet who wrote in Esperanto and Japanese",t:"愛羅先珂"},{p:"kē luó bǎn",w:"珂罗版",d:"collotype (printing) (loanword)",t:"珂羅版"}],t=[],e={s:n,w:o,i:t};export{e as default,t as i,n as s,o as w};

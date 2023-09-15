@@ -1,0 +1,1 @@
+const s=[{p:"huàn",pp:"huan4",d:"illness ☆ numbness of the limbs",t:"瘓"}],t=[{w:"瘫痪",p:"tān huàn",d:"paralysis ☆ be paralyzed (body, transportation, etc)"},{w:"陷于瘫痪",p:"xiàn yú tān huàn",d:"to be paralyzed ☆ at a standstill"}],n=[],a="疒",o="12",c=["吕","疒","奂"],d=[],e={s,w:t,i:n,r:a,sc:o,c,d};export{c,d,e as default,n as i,a as r,s,o as sc,t as w};

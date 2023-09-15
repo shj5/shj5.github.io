@@ -1,1 +1,0 @@
-const s=[{p:"jiǎ",pp:"jia3",d:"shoulder blade",t:"胛"}],a=[{p:"jiān jiǎ",w:"肩胛",d:"shoulder ☆ scapular region ☆ scapula",t:"肩胛"},{p:"jiān jiǎ gǔ",w:"肩胛骨",d:"scapula ☆ shoulder blade",t:"肩胛骨"}],d=[],i={s,w:a,i:d};export{i as default,d as i,s,a as w};

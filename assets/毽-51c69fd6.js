@@ -1,1 +1,0 @@
-const t=[{p:"jiàn",pp:"jian4",d:"shuttlecock",t:"毽"}],i=[{p:"jiàn zi",w:"毽子",d:"a kind of shuttlecock used to play games in which it is kept in the air without using the hands, primarily by kicking ☆ game played with such a shuttlecock",t:"毽子"}],s=[],c={s:t,w:i,i:s};export{c as default,s as i,t as s,i as w};

@@ -1,1 +1,0 @@
-const e=[{p:"gù",pp:"gu4",d:"obstinate disease ☆ (of passion, hobbies) long-term",t:"痼"}],t=[{p:"chén gù",w:"沉痼",d:"chronic illness ☆ fig. deeply entrenched problem",t:"沉痼"},{p:"gù jí",w:"痼疾",d:"chronic disease",t:"痼疾"},{p:"gù pǐ",w:"痼癖",d:"addiction",t:"痼癖"},{p:"gù xí",w:"痼习",d:"inveterate habit",t:"痼習"}],s=[],i={s:e,w:t,i:s};export{i as default,s as i,e as s,t as w};

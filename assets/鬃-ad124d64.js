@@ -1,1 +1,0 @@
-const n=[{p:"zōng",pp:"zong1",d:"variant of 鬃[zong1]",t:"騣"},{p:"zōng",pp:"zong1",d:"bristles ☆ horse's mane",t:"鬃"},{p:"zōng",pp:"zong1",d:"disheveled hair ☆ horse's mane",t:"鬉"}],s=[{p:"zōng máo",w:"鬃毛",d:"mane",t:"鬃毛"}],o=[],t={s:n,w:s,i:o};export{t as default,o as i,n as s,s as w};

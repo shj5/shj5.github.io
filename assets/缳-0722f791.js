@@ -1,1 +1,0 @@
-const n=[{p:"huán",pp:"huan2",d:"to bind ☆ to tie ☆ lace ☆ noose (for suicide) ☆ hangman's noose",t:"繯"}],t=[{p:"tóu huán",w:"投缳",d:"to hang oneself ☆ to commit suicide by hanging",t:"投繯"},{p:"huán shǒu",w:"缳首",d:"death by hanging",t:"繯首"}],o=[{p:"tóu huán zì yì",w:"投缳自缢",d:"to hang oneself (idiom)",t:"投繯自縊"}],s={s:n,w:t,i:o};export{s as default,o as i,n as s,t as w};

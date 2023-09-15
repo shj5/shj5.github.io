@@ -1,1 +1,0 @@
-const t=[{p:"cì",pp:"ci4",d:"ancient tax in the form of bales of cloth",t:"絘"}],o=[{p:"cì bù",w:"絘布",d:"ancient tax in the form of bales of cloth",t:"絘布"}],c=[],n={s:t,w:o,i:c};export{n as default,c as i,t as s,o as w};

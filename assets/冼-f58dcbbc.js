@@ -1,1 +1,0 @@
-const i=[{p:"xiǎn",pp:"xian3",d:"surname Xian",t:"冼"}],n=[{p:"xiǎn xīng hǎi",w:"冼星海",d:"Xian Xinghai (1905-1945), violinist and composer, known for patriotic wartime pieces, including Yellow River Oratorio 黃河大合唱|黄河大合唱[Huang2 He2 Da4 he2 chang4]",t:"冼星海"}],a=[],o={s:i,w:n,i:a};export{o as default,a as i,i as s,n as w};

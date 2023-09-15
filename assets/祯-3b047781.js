@@ -1,1 +1,0 @@
-const n=[{p:"zhēn",pp:"zhen1",d:"auspicious ☆ lucky",t:"禎"}],t=[{p:"chóng zhēn",w:"崇祯",d:"Chongzhen, reign name of last Ming emperor (1628-1644)",t:"崇禎"},{p:"xú zhēn qīng",w:"徐祯卿",d:"Xu Zhenqing (1479-1511), Ming writer, one of Four great southern talents of the Ming 江南四大才子",t:"徐禎卿"}],e=[],o={s:n,w:t,i:e};export{o as default,e as i,n as s,t as w};

@@ -1,1 +1,0 @@
-const t=[{p:"zhàn",pp:"zhan4",d:"to dip in (ink, sauce etc)",t:"蘸"}],n=[{p:"zhàn huǒ",w:"蘸火",d:"to quench (a metal workpiece)",t:"蘸火"},{p:"zhàn pò",w:"蘸破",d:"to wake up due to noise",t:"蘸破"},{p:"zhàn jiàng",w:"蘸酱",d:"dipping sauce ☆ to dip in sauce",t:"蘸醬"}],p=[],e={s:t,w:n,i:p};export{e as default,p as i,t as s,n as w};

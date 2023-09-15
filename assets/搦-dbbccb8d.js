@@ -1,1 +1,0 @@
-const t=[{p:"nuò",pp:"nuo4",d:"(literary) to hold (in the hand) ☆ to challenge ☆ to provoke",t:"搦"}],o=[{p:"nuò zhàn",w:"搦战",d:"to challenge to battle",t:"搦戰"}],n=[],e={s:t,w:o,i:n};export{e as default,n as i,t as s,o as w};

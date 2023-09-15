@@ -1,1 +1,0 @@
-const t=[{p:"qí",pp:"qi2",d:"god of the earth",t:"祇"}],s=[{p:"dì qí",w:"地祇",d:"earth spirit",t:"地祇"},{p:"shén qí",w:"神祇",d:"god ☆ deity",t:"神祇"}],d=[],o={s:t,w:s,i:d};export{o as default,d as i,t as s,s as w};

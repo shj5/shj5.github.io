@@ -1,1 +1,0 @@
-const t=[{p:"mò",pp:"mo4",d:"jasmine",t:"茉"}],m=[{p:"jiè mo",w:"芥茉",d:"variant of 芥末[jie4 mo5]",t:"芥茉"},{p:"mò lì",w:"茉莉",d:"jasmine",t:"茉莉"},{p:"mò li huā",w:"茉莉花",d:"jasmine",t:"茉莉花"},{p:"mò li huā chá",w:"茉莉花茶",d:"jasmine tea",t:"茉莉花茶"},{p:"mò lì jú zhǐ",w:"茉莉菊酯",d:"jasmolin",t:"茉莉菊酯"}],i=[],s={s:t,w:m,i};export{s as default,i,t as s,m as w};

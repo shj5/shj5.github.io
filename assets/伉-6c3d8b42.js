@@ -1,1 +1,0 @@
-const n=[{p:"kàng",pp:"kang4",d:"spouse ☆ big and tall ☆ strong ☆ robust ☆ upright and outspoken",t:"伉"}],t=[{p:"kàng lì",w:"伉俪",d:"husband and wife (literary)",t:"伉儷"}],o=[{p:"kàng lì qíng shēn",w:"伉俪情深",d:"married couple very much in love ☆ deep conjugal love",t:"伉儷情深"}],s={s:n,w:t,i:o};export{s as default,o as i,n as s,t as w};

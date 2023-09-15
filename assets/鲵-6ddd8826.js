@@ -1,1 +1,0 @@
-const n=[{p:"ní",pp:"ni2",d:"Cryptobranchus japonicus ☆ salamander",t:"鯢"}],a=[{p:"dà ní",w:"大鲵",d:"giant salamander (Andrias japonicus)",t:"大鯢"}],s=[],t={s:n,w:a,i:s};export{t as default,s as i,n as s,a as w};

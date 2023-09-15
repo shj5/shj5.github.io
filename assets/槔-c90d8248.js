@@ -1,1 +1,0 @@
-const e=[{p:"gāo",pp:"gao1",d:"water pulley",t:"槔"}],o=[{p:"jié gāo",w:"桔槔",d:"well sweep (device for raising and lowering a bucket in a well, using a pivoted pole)",t:"桔槔"}],t=[],i={s:e,w:o,i:t};export{i as default,t as i,e as s,o as w};

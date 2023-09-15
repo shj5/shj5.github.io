@@ -1,1 +1,0 @@
-const o=[{p:"hāo",pp:"hao1",d:"to weed ☆ to grip or clutch",t:"薅"}],t=[{p:"hāo yáng máo",w:"薅羊毛",d:"to seek out discount vouchers, cashback offers etc and use them in making purchases",t:"薅羊毛"}],s=[],c={s:o,w:t,i:s};export{c as default,s as i,o as s,t as w};

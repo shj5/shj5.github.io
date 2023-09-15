@@ -1,1 +1,0 @@
-const a=[{p:"fǎ",pp:"fa3",d:"used in 砝碼|砝码[fa3 ma3]",t:"砝"}],s=[{p:"fǎ mǎ",w:"砝码",d:"standard weight (used on a balance scale)",t:"砝碼"}],t=[],n={s:a,w:s,i:t};export{n as default,t as i,a as s,s as w};

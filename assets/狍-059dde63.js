@@ -1,1 +1,0 @@
-const e=[{p:"páo",pp:"pao2",d:"Siberian roe deer (Capreolus pygargus)",t:"狍"}],p=[{p:"dōng fāng páo",w:"东方狍",d:"Siberian roe deer (Capreolus pygargus)",t:"東方狍"},{p:"páo zi",w:"狍子",d:"Siberian roe deer (Capreolus pygargus)",t:"狍子"},{p:"xī fāng páo",w:"西方狍",d:"roe deer ☆ capreolus capreolus",t:"西方狍"}],r=[],o={s:e,w:p,i:r};export{o as default,r as i,e as s,p as w};

@@ -1,1 +1,0 @@
-const t=[{p:"yòu",pp:"you4",d:"(of divinity) to bless ☆ to protect",t:"祐"}],o=[{p:"bǎo yòu",w:"保祐",d:"to bless and protect ☆ blessing ☆ also written 保佑[bao3 you4]",t:"保祐"},{p:"bì yòu",w:"庇祐",d:"to bless ☆ to protect ☆ protection (esp. divine) ☆ also written 庇佑[bi4 you4]",t:"庇祐"}],s=[],e={s:t,w:o,i:s};export{e as default,s as i,t as s,o as w};

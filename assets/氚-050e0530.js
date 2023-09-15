@@ -1,1 +1,0 @@
-const t=[{p:"chuān",pp:"chuan1",d:"tritium 3H ☆ radioactive isotope of hydrogen having 2 neutrons in its nucleus, so atomic weight 3",t:"氚"}],o=[],i=[],n={s:t,w:o,i};export{n as default,i,t as s,o as w};

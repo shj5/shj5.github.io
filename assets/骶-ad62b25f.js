@@ -1,0 +1,1 @@
+const o=[{p:"dǐ",pp:"di3",d:"sacrum (anatomy) ☆ bone forming the base of the spinal column",t:"骶"}],s=[{w:"骶骨",p:"dǐ gǔ",d:"sacrum (anatomy) ☆ bone forming the base of the spinal column"}],n=[],t="骨",c="15",a=["吅","骨","氐"],e=[],d={s:o,w:s,i:n,r:t,sc:c,c:a,d:e};export{a as c,e as d,d as default,n as i,t as r,o as s,c as sc,s as w};

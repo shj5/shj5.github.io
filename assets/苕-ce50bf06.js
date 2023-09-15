@@ -1,1 +1,0 @@
-const o=[{p:"sháo",pp:"shao2",d:"see 紅苕|红苕[hong2 shao2]",t:"苕"},{p:"tiáo",pp:"tiao2",d:"reed grass ☆ Chinese trumpet vine (Campsis grandiflora) (old)",t:"苕"}],s=[{p:"diào tiáo",w:"椆苕",d:"species of tree (old)",t:"椆苕"},{p:"hóng sháo",w:"红苕",d:"(dialect) sweet potato or yam",t:"紅苕"}],t=[],e={s:o,w:s,i:t};export{e as default,t as i,o as s,s as w};

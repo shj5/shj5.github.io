@@ -1,1 +1,0 @@
-const t=[{p:"qì",pp:"qi4",d:"as yet ☆ until",t:"迄"}],n=[{p:"qǐ qì",w:"起迄",d:"start and end (dates) ☆ origin and destination",t:"起迄"},{p:"qì jīn",w:"迄今",d:"so far ☆ to date ☆ until now",t:"迄今"},{p:"qì jīn wéi zhǐ",w:"迄今为止",d:"so far ☆ up to now ☆ still (not)",t:"迄今為止"}],o=[],s={s:t,w:n,i:o};export{s as default,o as i,t as s,n as w};

@@ -1,0 +1,1 @@
+const t=[{p:"biāo",pp:"biao1",d:"(literary) to wave away ☆ to discard",t:"摽"},{p:"biào",pp:"biao4",d:"to bind tightly ☆ to link (arms) ☆ to hang around with ☆ to stick close to (sb) ☆ to compete ☆ (literary) to beat",t:"摽"}],o=[],s=[],c="手",a="14",i=["吅","扌","票"],n=[],r={s:t,w:o,i:s,r:c,sc:a,c:i,d:n};export{i as c,n as d,r as default,s as i,c as r,t as s,a as sc,o as w};

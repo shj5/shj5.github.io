@@ -1,1 +1,0 @@
-const n=[{p:"qiǎng",pp:"qiang3",d:"string of copper coins ☆ variant of 襁[qiang3]",t:"繦"},{p:"qiǎng",pp:"qiang3",d:"cloth for carrying baby on back",t:"襁"}],o=[{p:"qiǎng bǎo",w:"襁褓",d:"swaddling clothes ☆ fig. early stage of development ☆ infancy",t:"襁褓"}],i=[],t={s:n,w:o,i};export{t as default,i,n as s,o as w};

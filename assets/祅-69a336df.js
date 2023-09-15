@@ -1,1 +1,0 @@
-const o=[{p:"yāo",pp:"yao1",d:"evil spirit ☆ goblin ☆ witchcraft ☆ variant of 妖[yao1] ☆ common erroneous variant of 祆[Xian1] Ormazda",t:"祅"}],a=[],t=[],i={s:o,w:a,i:t};export{i as default,t as i,o as s,a as w};

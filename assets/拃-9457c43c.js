@@ -1,1 +1,0 @@
-const n=[{p:"zhǎ",pp:"zha3",d:"span (unit of length based on the width of the expanded human hand) ☆ to span (measure with one's hand)",t:"拃"}],t=[],s=[],a={s:n,w:t,i:s};export{a as default,s as i,n as s,t as w};

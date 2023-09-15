@@ -1,1 +1,0 @@
-const t=[{p:"jiā",pp:"jia1",d:"to sit cross-legged",t:"跏"}],s=[{p:"quán jiā zuò",w:"全跏坐",d:"crossed leg posture (usu. of Buddha)",t:"全跏坐"},{p:"bàn jiā zuò",w:"半跏坐",d:"sitting with one leg crossed (usu. of Bodhisattva)",t:"半跏坐"},{p:"jiā fū",w:"跏趺",d:"to sit in the lotus position",t:"跏趺"}],o=[],i={s:t,w:s,i:o};export{i as default,o as i,t as s,s as w};

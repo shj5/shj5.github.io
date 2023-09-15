@@ -1,1 +1,0 @@
-const i=[{p:"shì",pp:"shi4",d:"surname Shi",t:"奭"},{p:"shì",pp:"shi4",d:"(literary) majestic, magnificent ☆ (literary) rich, deep red ☆ (literary) angry, furious",t:"奭"}],s=[{p:"liú shì",w:"刘奭",d:"Liu Shi, personal name of Han Emperor Yuandi 漢元帝|汉元帝[Han4 Yuan2 di4]",t:"劉奭"}],a=[],r={s:i,w:s,i:a};export{r as default,a as i,i as s,s as w};

@@ -1,0 +1,1 @@
+const n=[{p:"háng",pp:"hang2",d:"see 筕篖[hang2 tang2]",t:"筕"}],s=[{w:"筕篖",p:"háng táng",d:"woven bamboo mat"}],t=[],c="竹",o="12",a=["吕","竹","行"],g=[],d={s:n,w:s,i:t,r:c,sc:o,c:a,d:g};export{a as c,g as d,d as default,t as i,c as r,n as s,o as sc,s as w};

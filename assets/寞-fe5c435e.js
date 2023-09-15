@@ -1,1 +1,0 @@
-const l=[{p:"mò",pp:"mo4",d:"lonesome",t:"寞"}],o=[{p:"jì mò",w:"寂寞",d:"lonely ☆ lonesome ☆ (of a place) quiet ☆ silent",t:"寂寞"},{p:"luò mò",w:"落寞",d:"lonely ☆ desolate",t:"落寞"}],e=[{p:"bù gān jì mò",w:"不甘寂寞",d:"unwilling to remain lonely or idle ☆ unwilling to be left out",t:"不甘寂寞"}],t={s:l,w:o,i:e};export{t as default,e as i,l as s,o as w};

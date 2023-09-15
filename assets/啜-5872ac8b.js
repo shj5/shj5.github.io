@@ -1,1 +1,0 @@
-const t=[{p:"chuò",pp:"chuo4",d:"(literary) to drink ☆ to sip ☆ to sob",t:"啜"}],o=[{p:"chuò qì",w:"啜泣",d:"to sob",t:"啜泣"},{p:"chuò yǐn",w:"啜饮",d:"to sip",t:"啜飲"}],s=[],c={s:t,w:o,i:s};export{c as default,s as i,t as s,o as w};

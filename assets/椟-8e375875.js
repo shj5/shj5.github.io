@@ -1,1 +1,0 @@
-const t=[{p:"dú",pp:"du2",d:"cabinet ☆ case ☆ casket",t:"櫝"}],o=[],s=[{p:"mǎi dú huán zhū",w:"买椟还珠",d:"to buy a wooden box and return the pearls inside ☆ to show poor judgment (idiom)",t:"買櫝還珠"}],d={s:t,w:o,i:s};export{d as default,s as i,t as s,o as w};

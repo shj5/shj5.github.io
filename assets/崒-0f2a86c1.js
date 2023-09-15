@@ -1,0 +1,1 @@
+const t=[{p:"cuì",pp:"cui4",d:"to come together, to bunch up, to concentrate",t:"崒"},{p:"zú",pp:"zu2",d:"rocky peaks ☆ lofty and dangerous",t:"崒"}],c=[],o=[],s="山",n="11",e=["吕","山","卒"],p=[],d={s:t,w:c,i:o,r:s,sc:n,c:e,d:p};export{e as c,p as d,d as default,o as i,s as r,t as s,n as sc,c as w};

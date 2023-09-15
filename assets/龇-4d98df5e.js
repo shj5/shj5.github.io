@@ -1,1 +1,0 @@
-const t=[{p:"zī",pp:"zi1",d:"projecting teeth ☆ to bare one's teeth",t:"齜"}],e=[],o=[{p:"zī yá liě zuǐ",w:"龇牙咧嘴",d:"to grimace (in pain) ☆ to show one's teeth ☆ to bare one's fangs",t:"齜牙咧嘴"}],s={s:t,w:e,i:o};export{s as default,o as i,t as s,e as w};

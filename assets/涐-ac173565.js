@@ -1,0 +1,1 @@
+const c=[{p:"é",pp:"e2",d:"old name for the Dadu River 大渡河[Da4 du4 He2] in Sichuan",t:"涐"}],s=[],t=[],n="水",o="10",d=["吅","氵","我"],e=[],a={s:c,w:s,i:t,r:n,sc:o,c:d,d:e};export{d as c,e as d,a as default,t as i,n as r,c as s,o as sc,s as w};

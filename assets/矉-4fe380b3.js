@@ -1,1 +1,0 @@
-const t=[{p:"pín",pp:"pin2",d:"to glare angrily ☆ to open the eyes with anger ☆ variant of 顰|颦, to scowl ☆ to knit the brows",t:"矉"}],o=[],n=[],s={s:t,w:o,i:n};export{s as default,n as i,t as s,o as w};

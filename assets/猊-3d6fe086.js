@@ -1,1 +1,0 @@
-const o=[{p:"ní",pp:"ni2",d:"(mythical animal) ☆ lion",t:"猊"},{p:"ní",pp:"ni2",d:"wild beast ☆ wild horse ☆ lion ☆ trad. form used erroneously for 貌 ☆ simplified form used erroneously for 狻",t:"貎"}],s=[],i=[],n={s:o,w:s,i};export{n as default,i,o as s,s as w};

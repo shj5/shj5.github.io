@@ -1,1 +1,0 @@
-const n=[{p:"quán",pp:"quan2",d:"cheek bones",t:"顴"}],e=[{p:"yǐn quán",w:"隐颧",d:"a skull with sunken cheek bone ☆ cryptozygous",t:"隱顴"},{p:"quán gōng",w:"颧弓",d:"cheek bone ☆ zygomatic arch (anatomy)",t:"顴弓"},{p:"quán gǔ",w:"颧骨",d:"zygomatic bone (cheek bone)",t:"顴骨"}],o=[],t={s:n,w:e,i:o};export{t as default,o as i,n as s,e as w};

@@ -1,1 +1,0 @@
-const i=[{p:"bèi",pp:"bei4",d:"(used in place names)",t:"碚"}],n=[{p:"běi bèi",w:"北碚",d:"Beibei district of central Chongqing municipality, formerly in Sichuan",t:"北碚"},{p:"běi bèi qū",w:"北碚区",d:"Beibei district of central Chongqing municipality, formerly in Sichuan",t:"北碚區"}],t=[],e={s:i,w:n,i:t};export{e as default,t as i,i as s,n as w};

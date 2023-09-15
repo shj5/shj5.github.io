@@ -1,1 +1,0 @@
-const t=[{p:"táng",pp:"tang2",d:"carbohydrate ☆ old variant of 糖[tang2]",t:"醣"}],n=[{p:"duō táng",w:"多醣",d:"polysaccharide",t:"多醣"},{p:"gān táng",w:"肝醣",d:"(Tw) glycogen",t:"肝醣"},{p:"táng gān",w:"醣苷",d:"(Tw) glycoside",t:"醣苷"},{p:"táng lèi",w:"醣类",d:"carbohydrate",t:"醣類"}],a=[],d={s:t,w:n,i:a};export{d as default,a as i,t as s,n as w};

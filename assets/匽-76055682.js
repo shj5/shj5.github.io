@@ -1,0 +1,1 @@
+const s=[{p:"yǎn",pp:"yan3",d:"to hide, to secrete, to repress ☆ to bend",t:"匽"}],t=[],c=[],o="匸",n="9",e=["回","匸","妟"],d=["偃","堰","愝","揠","椻","蝘","褗","躽","郾","隁","鰋","鶠","鼴"],r={s,w:t,i:c,r:o,sc:n,c:e,d};export{e as c,d,r as default,c as i,o as r,s,n as sc,t as w};

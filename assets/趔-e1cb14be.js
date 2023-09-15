@@ -1,1 +1,0 @@
-const t=[{p:"liè",pp:"lie4",d:"stumble",t:"趔"}],s=[{p:"dǎ liè qie",w:"打趔趄",d:"to trip ☆ to miss a step ☆ to slip",t:"打趔趄"},{p:"liè qie",w:"趔趄",d:"to stagger ☆ to stumble ☆ to reel",t:"趔趄"}],e=[],i={s:t,w:s,i:e};export{i as default,e as i,t as s,s as w};

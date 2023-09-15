@@ -1,1 +1,0 @@
-const n=[{p:"shāng",pp:"shang1",d:"entropy (character created in 1923)",t:"熵"}],s=[{p:"jiāo chā shāng",w:"交叉熵",d:"cross entropy (information theory)",t:"交叉熵"},{p:"nèi shāng",w:"内熵",d:"internal entropy (physics)",t:"內熵"},{p:"děng shāng xiàn",w:"等熵线",d:"isentropic curve (physics})",t:"等熵線"}],t=[],o={s:n,w:s,i:t};export{o as default,t as i,n as s,s as w};

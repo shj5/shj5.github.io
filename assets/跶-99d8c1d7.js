@@ -1,1 +1,0 @@
-const t=[{p:"dā",pp:"da1",d:"to stumble ☆ to slip ☆ variant of 達|达[da2]",t:"躂"}],o=[{p:"bèng da",w:"蹦跶",d:"(coll.) to jump about, to be active, to be lively ☆ (coll.) (fig.) to struggle (before succumbing), to be alive and kicking (esp. toward the end of one's life)",t:"蹦躂"}],e=[],s={s:t,w:o,i:e};export{s as default,e as i,t as s,o as w};

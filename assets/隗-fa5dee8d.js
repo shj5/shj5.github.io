@@ -1,1 +1,0 @@
-const t=[{p:"kuí",pp:"kui2",d:"surname Kui ☆ Zhou Dynasty vassal state",t:"隗"},{p:"wěi",pp:"wei3",d:"surname Wei",t:"隗"},{p:"wěi",pp:"wei3",d:"eminent ☆ lofty",t:"隗"}],s=[],e=[],i={s:t,w:s,i:e};export{i as default,e as i,t as s,s as w};

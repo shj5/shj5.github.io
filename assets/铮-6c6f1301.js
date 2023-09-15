@@ -1,1 +1,0 @@
-const n=[{p:"zhēng",pp:"zheng1",d:"clang of metals ☆ small gong",t:"錚"}],t=[],d=[{p:"zhēng zhēng tiě hàn",w:"铮铮铁汉",d:"a strong and determined man (idiom)",t:"錚錚鐵漢"},{p:"zhēng zhēng tiě hàn",w:"铮铮铁汉",d:"a strong and determined man (idiom)",t:"錚錚鐵漢"}],a={s:n,w:t,i:d};export{a as default,d as i,n as s,t as w};

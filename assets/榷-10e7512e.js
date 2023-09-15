@@ -1,1 +1,0 @@
-const o=[{p:"què",pp:"que4",d:"footbridge ☆ toll, levy ☆ monopoly",t:"榷"}],s=[{p:"shāng què",w:"商榷",d:"to discuss ☆ to bring up various ideas for discussion",t:"商榷"}],t=[],i={s:o,w:s,i:t};export{i as default,t as i,o as s,s as w};

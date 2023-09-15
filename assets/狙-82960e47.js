@@ -1,1 +1,0 @@
-const t=[{p:"jū",pp:"ju1",d:"macaque ☆ to spy ☆ to lie in ambush",t:"狙"}],s=[{p:"jū cì",w:"狙刺",d:"to stab from hiding",t:"狙刺"},{p:"jū jī",w:"狙击",d:"to snipe (shoot from hiding)",t:"狙擊"},{p:"jū jī shǒu",w:"狙击手",d:"sniper ☆ marksman",t:"狙擊手"},{p:"piàn jū",w:"猵狙",d:"mythical beast similar to an ape with dog's head",t:"猵狙"}],i=[],o={s:t,w:s,i};export{o as default,i,t as s,s as w};

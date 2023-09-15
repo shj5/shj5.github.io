@@ -1,0 +1,1 @@
+const c=[{p:"lěi",pp:"lei3",d:"variant of 累[lei3], to accumulate",t:"絫"}],t=[],s=[],o="糸",n="12",a=["吕","厽","糸"],i=[],e={s:c,w:t,i:s,r:o,sc:n,c:a,d:i};export{a as c,i as d,e as default,s as i,o as r,c as s,n as sc,t as w};

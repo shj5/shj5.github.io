@@ -1,0 +1,1 @@
+const s=[{p:"féng",pp:"feng2",d:"to butt (as horned animals)",t:"夆"}],t=[],c=[],n="夂",o="7",a=["吕","夂","丰"],d=["埄","峯","峰","捀","桻","浲","烽","琒","綘","艂","莑","蜂","逢","鋒","锋","韸"],e={s,w:t,i:c,r:n,sc:o,c:a,d};export{a as c,d,e as default,c as i,n as r,s,o as sc,t as w};

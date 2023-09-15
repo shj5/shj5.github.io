@@ -1,0 +1,1 @@
+const s=[{p:"duó",pp:"duo2",d:"surname Duo",t:"鈬"},{p:"duó",pp:"duo2",d:"Japanese variant of 鐸|铎, large ancient bell",t:"鈬"}],t=[],c=[],n="金",o="12",a=["吅","金","尺"],d=[],e={s,w:t,i:c,r:n,sc:o,c:a,d};export{a as c,d,e as default,c as i,n as r,s,o as sc,t as w};

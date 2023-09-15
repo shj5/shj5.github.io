@@ -1,1 +1,0 @@
-const t=[{p:"hé",pp:"he2",d:"to impeach",t:"劾"}],a=[{p:"cān hé",w:"参劾",d:"to accuse ☆ to impeach ☆ (in imperial China) to level charges against an official",t:"參劾"},{p:"tán hé",w:"弹劾",d:"to impeach (an official)",t:"彈劾"}],i=[],c={s:t,w:a,i};export{c as default,i,t as s,a as w};

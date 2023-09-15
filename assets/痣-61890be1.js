@@ -1,1 +1,0 @@
-const i=[{p:"zhì",pp:"zhi4",d:"birthmark ☆ mole",t:"痣"}],h=[{p:"máo zhì",w:"毛痣",d:"hairy nevus",t:"毛痣"},{p:"zhī zhū zhì",w:"蜘蛛痣",d:"arterial spider",t:"蜘蛛痣"},{p:"huáng zhì sǒu méi",w:"黄痣薮鹛",d:"(bird species of China) Steere's liocichla (Liocichla steerii)",t:"黃痣藪鶥"},{p:"hēi zhì",w:"黑痣",d:"mole",t:"黑痣"}],t=[],e={s:i,w:h,i:t};export{e as default,t as i,i as s,h as w};

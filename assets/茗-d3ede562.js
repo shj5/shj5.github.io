@@ -1,1 +1,0 @@
-const t=[{p:"míng",pp:"ming2",d:"Thea sinensis ☆ young leaves of tea",t:"茗"}],n=[{p:"pǐn míng",w:"品茗",d:"to taste tea ☆ to sip tea",t:"品茗"},{p:"kū míng",w:"枯茗",d:"cumin (loanword)",t:"枯茗"},{p:"hēi kū míng",w:"黑枯茗",d:"black cumin ☆ Nigella sativa",t:"黑枯茗"}],s=[],a={s:t,w:n,i:s};export{a as default,s as i,t as s,n as w};

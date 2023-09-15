@@ -1,1 +1,0 @@
-const t=[{p:"yóu",pp:"you2",d:"see 蚰蜒[you2 yan5]",t:"蚰"}],e=[{p:"yóu yan",w:"蚰蜒",d:"earwig ☆ house centipede",t:"蚰蜒"},{p:"yóu yan lù",w:"蚰蜒路",d:"lit. centipede's path ☆ fig. narrow winding road",t:"蚰蜒路"},{p:"yán yóu",w:"蜒蚰",d:"(dialect) a slug",t:"蜒蚰"}],n=[],a={s:t,w:e,i:n};export{a as default,n as i,t as s,e as w};

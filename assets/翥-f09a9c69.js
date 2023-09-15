@@ -1,1 +1,0 @@
-const o=[{p:"zhù",pp:"zhu4",d:"to soar",t:"翥"}],t=[],n=[{p:"luán xiáng fèng zhù",w:"鸾翔凤翥",d:"(of calligraphy) full of power and grace",t:"鸞翔鳳翥"}],s={s:o,w:t,i:n};export{s as default,n as i,o as s,t as w};

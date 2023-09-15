@@ -1,1 +1,0 @@
-const n=[{p:"zān",pp:"zan1",d:"hairpin",t:"簪"},{p:"zān",pp:"zan1",d:"old variant of 簪[zan1]",t:"簮"}],t=[{p:"fà zān",w:"发簪",d:"hairpin",t:"髮簪"}],a=[{p:"chí tuó zān bǐ",w:"持橐簪笔",d:"to serve as a counselor (idiom)",t:"持橐簪筆"}],o={s:n,w:t,i:a};export{o as default,a as i,n as s,t as w};

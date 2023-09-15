@@ -1,1 +1,0 @@
-const t=[{p:"dàn",pp:"dan4",d:"to eat ☆ to taste ☆ to entice (using bait)",t:"啖"},{p:"dàn",pp:"dan4",d:"variant of 啖[dan4]",t:"啗"},{p:"dàn",pp:"dan4",d:"variant of 啖[dan4]",t:"噉"}],a=[{p:"dà dàn yī fān",w:"大啖一番",d:"to have a square meal",t:"大啖一番"}],n=[],d={s:t,w:a,i:n};export{d as default,n as i,t as s,a as w};

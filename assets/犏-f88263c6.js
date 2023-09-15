@@ -1,1 +1,0 @@
-const n=[{p:"piān",pp:"pian1",d:"used in 犏牛[pian1 niu2]",t:"犏"}],i=[{p:"piān niú",w:"犏牛",d:"offspring of a bull and a female yak",t:"犏牛"}],p=[],a={s:n,w:i,i:p};export{a as default,p as i,n as s,i as w};

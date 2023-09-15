@@ -1,0 +1,1 @@
+const s=[{p:"jǐ",pp:"ji3",d:"(bound form) fish of genus Girella",t:"魢"}],c=[{w:"斑鱾",p:"bān jǐ",d:"Girella punctata (species of fish)"}],o=[],t="魚",n="11",i=["吅","鱼","己"],e=[],p={s,w:c,i:o,r:t,sc:n,c:i,d:e};export{i as c,e as d,p as default,o as i,t as r,s,n as sc,c as w};

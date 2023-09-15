@@ -1,0 +1,1 @@
+const o=[{p:"yōng",pp:"yong1",d:"see 臃腫|臃肿[yong1 zhong3]",t:"臃"}],s=[{w:"臃肿",p:"yōng zhǒng",d:"obese ☆ bloated ☆ swollen (style) ☆ (fig.) (of an organization) oversized or overstaffed"}],n=[],t="肉",e="17",c=["吅","月","雍"],d=[],g={s:o,w:s,i:n,r:t,sc:e,c,d};export{c,d,g as default,n as i,t as r,o as s,e as sc,s as w};

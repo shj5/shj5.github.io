@@ -1,0 +1,1 @@
+const t=[{p:"lüè",pp:"lu:e4",d:"(ancient unit of weight)",t:"鋝"}],c=[],s=[],n="金",o="12",e=["吅","钅","寽"],i=[],d={s:t,w:c,i:s,r:n,sc:o,c:e,d:i};export{e as c,i as d,d as default,s as i,n as r,t as s,o as sc,c as w};

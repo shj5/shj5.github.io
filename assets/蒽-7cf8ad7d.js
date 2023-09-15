@@ -1,0 +1,1 @@
+const n=[{p:"ēn",pp:"en1",d:"anthracene",t:"蒽"}],c=[{w:"蒽醌",p:"ēn kūn",d:"anthraquinone (chemistry)"}],s=[],t="艸",o="13",e=["吕","艹","恩"],a=[],r={s:n,w:c,i:s,r:t,sc:o,c:e,d:a};export{e as c,a as d,r as default,s as i,t as r,n as s,o as sc,c as w};

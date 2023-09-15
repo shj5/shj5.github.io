@@ -1,1 +1,0 @@
-const s=[{p:"shǐ",pp:"shi3",d:"hog ☆ swine",t:"豕"}],o=[{p:"shǐ hòu",w:"豕豞",d:"grunting of pigs",t:"豕豞"},{p:"yě shǐ",w:"野豕",d:"wild boar",t:"野豕"}],t=[{p:"láng bēn shǐ tū",w:"狼奔豕突",d:"the wolf runs and the wild boar rushes (idiom), crowds of evil-doers mill around like wild beasts",t:"狼奔豕突"}],i={s,w:o,i:t};export{i as default,t as i,s,o as w};

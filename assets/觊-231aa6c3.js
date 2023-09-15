@@ -1,1 +1,0 @@
-const t=[{p:"jì",pp:"ji4",d:"to covet ☆ to long for",t:"覬"}],o=[{p:"jì yú",w:"觊觎",d:"(literary) to covet, to cast greedy eyes on",t:"覬覦"}],e=[],s={s:t,w:o,i:e};export{s as default,e as i,t as s,o as w};

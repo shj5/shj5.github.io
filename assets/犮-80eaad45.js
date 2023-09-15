@@ -1,0 +1,1 @@
+const t=[{p:"bá",pp:"ba2",d:"old variant of 拔[ba2]",t:"犮"},{p:"quǎn",pp:"quan3",d:"old variant of 犬[quan3]",t:"犮"}],n=[],o=[],s="犬",c="4",a=["+","犬","丿"],d=["冹","坺","妭","帗","拔","柭","沷","炦","瞂","秡","紱","绂","翇","胈","蛂","袚","詙","跋","軷","鈸","钹","韍","韨","颰","馛","髮","魃","鮁","鲅","黻","鼥"],p={s:t,w:n,i:o,r:s,sc:c,c:a,d};export{a as c,d,p as default,o as i,s as r,t as s,c as sc,n as w};

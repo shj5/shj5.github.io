@@ -1,1 +1,0 @@
-const t=[{p:"jié",pp:"jie2",d:"archaic variant of 節|节[jie2]",t:"卪"},{p:"xx",pp:"xx5",d:"one of the characters used in kwukyel, an ancient Korean writing system",t:"卪"}],e=[],n=[],a={s:t,w:e,i:n};export{a as default,n as i,t as s,e as w};

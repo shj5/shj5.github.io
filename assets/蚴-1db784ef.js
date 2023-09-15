@@ -1,1 +1,0 @@
-const a=[{p:"yòu",pp:"you4",d:"larva",t:"蚴"}],i=[{p:"wěi yòu",w:"尾蚴",d:"tailed larva ☆ Cercaria (microscopic larva of parasitic Miracidium flatworm)",t:"尾蚴"}],t=[],c={s:a,w:i,i:t};export{c as default,t as i,a as s,i as w};

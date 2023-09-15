@@ -1,1 +1,0 @@
-const n=[{p:"miǎn",pp:"mian3",d:"drunk",t:"湎"}],i=[{p:"chén miǎn",w:"沉湎",d:"deeply immersed ☆ fig. wallowing in ☆ deeply engrossed in",t:"沉湎"}],e=[{p:"chén miǎn jiǔ sè",w:"沉湎酒色",d:"to wallow in alcohol and sex (idiom), overindulgence in wine and women ☆ an incorrigible drunkard and lecher",t:"沉湎酒色"}],d={s:n,w:i,i:e};export{d as default,e as i,n as s,i as w};

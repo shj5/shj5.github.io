@@ -1,0 +1,1 @@
+const n=[{p:"dīng",pp:"ding1",d:"see 耵聹|耵聍, earwax ☆ cerumen",t:"耵"}],c=[{w:"耵聍",p:"dīng níng",d:"earwax ☆ cerumen"}],s=[],t="耳",e="8",o=["吅","耳","丁"],d=[],r={s:n,w:c,i:s,r:t,sc:e,c:o,d};export{o as c,d,r as default,s as i,t as r,n as s,e as sc,c as w};

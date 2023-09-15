@@ -1,1 +1,0 @@
-const e=[{p:"jìn",pp:"jin4",d:"(history) to have an audience with the Emperor",t:"覲"}],t=[{p:"cháo jìn",w:"朝觐",d:"to give audience (of emperor) ☆ retainers' duty to pay respect to sovereign ☆ hajj (Islam)",t:"朝覲"},{p:"jìn jiàn",w:"觐见",d:"to have an audience (with the Emperor)",t:"覲見"}],o=[],n={s:e,w:t,i:o};export{n as default,o as i,e as s,t as w};

@@ -1,1 +1,0 @@
-const s=[{p:"sǎng",pp:"sang3",d:"to push forcefully ☆ to shove",t:"搡"}],t=[{p:"tuī tuī sǎng sǎng",w:"推推搡搡",d:"to push and shove",t:"推推搡搡"},{p:"tuī tuī sǎng sǎng",w:"推推搡搡",d:"to push and shove",t:"推推搡搡"},{p:"tuī sǎng",w:"推搡",d:"to shove ☆ to jostle",t:"推搡"}],o=[],n={s,w:t,i:o};export{n as default,o as i,s,t as w};

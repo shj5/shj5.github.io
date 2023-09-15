@@ -1,1 +1,0 @@
-const n=[{p:"fèn",pp:"fen4",d:"to sleep (Cantonese) ☆ Mandarin equivalent: 睡[shui4]",t:"瞓"}],e=[{p:"yǎn fèn",w:"眼瞓",d:"sleepy (Cantonese) ☆ Mandarin equivalent: 睏|困[kun4]",t:"眼瞓"},{p:"fèn jiào",w:"瞓觉",d:"to sleep (Cantonese) ☆ Mandarin equivalent: 睡覺|睡觉[shui4 jiao4]",t:"瞓覺"}],t=[],a={s:n,w:e,i:t};export{a as default,t as i,n as s,e as w};

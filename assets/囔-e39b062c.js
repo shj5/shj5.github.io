@@ -1,1 +1,0 @@
-const n=[{p:"nāng",pp:"nang1",d:"muttering, indistinct speech",t:"囔"}],t=[{p:"dū nang",w:"嘟囔",d:"to mumble to oneself",t:"嘟囔"},{p:"nāng nang",w:"囔囔",d:"to murmur ☆ to speak in a low voice",t:"囔囔"},{p:"nāng nang",w:"囔囔",d:"to murmur ☆ to speak in a low voice",t:"囔囔"}],o=[],e={s:n,w:t,i:o};export{e as default,o as i,n as s,t as w};

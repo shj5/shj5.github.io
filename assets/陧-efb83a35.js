@@ -1,1 +1,0 @@
-const n=[{p:"niè",pp:"nie4",d:"dangerous",t:"隉"}],t=[{p:"wù niè",w:"杌陧",d:"(literary) unsettled ☆ unstable ☆ uneasy",t:"杌隉"},{p:"wù niè",w:"阢陧",d:"variant of 杌隉|杌陧[wu4 nie4]",t:"阢隉"}],s=[],e={s:n,w:t,i:s};export{e as default,s as i,n as s,t as w};

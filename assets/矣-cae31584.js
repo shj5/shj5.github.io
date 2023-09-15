@@ -1,1 +1,0 @@
-const s=[{p:"yǐ",pp:"yi3",d:"classical final particle, similar to modern 了[le5]",t:"矣"}],t=[],i=[{p:"wǎng shì yǐ yǐ",w:"往事已矣",d:"the past is dead (idiom)",t:"往事已矣"}],a={s,w:t,i};export{a as default,i,s,t as w};

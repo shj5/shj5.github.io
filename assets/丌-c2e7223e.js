@@ -1,1 +1,0 @@
-const t=[{p:"jī",pp:"ji1",d:"surname Ji",t:"丌"},{p:"jī",pp:"ji1",d:'"pedestal" component in Chinese characters',t:"丌"},{p:"qí",pp:"qi2",d:"archaic variant of 其[qi2]",t:"丌"}],p=[],i=[],s={s:t,w:p,i};export{s as default,i,t as s,p as w};

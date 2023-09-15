@@ -1,1 +1,0 @@
-const s=[{p:"sì",pp:"si4",d:"team of 4 horses",t:"駟"}],n=[{p:"jūn zǐ yī yán , sì mǎ nán zhuī",w:"君子一言，驷马难追",d:"a nobleman's word is his bond (proverb)",t:"君子一言，駟馬難追"}],o=[{p:"yī yán jì chū , sì mǎ nán zhuī",w:"一言既出，驷马难追",d:"lit. once said, a team of horses cannot unsay it (idiom), a promise must be kept",t:"一言既出，駟馬難追"}],t={s,w:n,i:o};export{t as default,o as i,s,n as w};

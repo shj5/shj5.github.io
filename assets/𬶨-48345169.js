@@ -1,1 +1,0 @@
-const i=[{p:"jì",pp:"ji4",d:"see 白鱀豚|白𬶨豚[bai2 ji4 tun2]",t:"鱀"}],t=[{p:"bái jì tún",w:"白𬶨豚",d:"Chinese river dolphin (Lipotes vexillifer)",t:"白鱀豚"}],e=[],s={s:i,w:t,i:e};export{s as default,e as i,i as s,t as w};

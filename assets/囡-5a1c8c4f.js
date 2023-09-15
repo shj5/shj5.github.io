@@ -1,1 +1,0 @@
-const n=[{p:"nān",pp:"nan1",d:"child ☆ daughter",t:"囡"}],t=[{p:"nān nān",w:"囡囡",d:"little darling ☆ baby",t:"囡囡"},{p:"nān nān",w:"囡囡",d:"little darling ☆ baby",t:"囡囡"},{p:"ā nān",w:"阿囡",d:"honey (endearment in addressing a little girl)",t:"阿囡"}],d=[],a={s:n,w:t,i:d};export{a as default,d as i,n as s,t as w};

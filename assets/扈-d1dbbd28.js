@@ -1,1 +1,0 @@
-const n=[{p:"hù",pp:"hu4",d:"surname Hu",t:"扈"},{p:"hù",pp:"hu4",d:"retinue",t:"扈"}],t=[{p:"xiāo zhāng bá hù",w:"嚣张跋扈",d:"arrogant and despotic",t:"囂張跋扈"},{p:"bá hù",w:"跋扈",d:"domineering ☆ bossy",t:"跋扈"}],o=[{p:"fēi yáng bá hù",w:"飞扬跋扈",d:"bossy and domineering ☆ throwing one's weight about",t:"飛揚跋扈"}],s={s:n,w:t,i:o};export{s as default,o as i,n as s,t as w};

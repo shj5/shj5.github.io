@@ -1,1 +1,0 @@
-const e=[{p:"jiàn",pp:"jian4",d:"farewell dinner ☆ preserves",t:"餞"}],n=[{p:"mì jiàn",w:"蜜饯",d:"food preserved in sugar or honey",t:"蜜餞"},{p:"jiàn bié",w:"饯别",d:"to give a farewell dinner",t:"餞別"},{p:"jiàn xíng",w:"饯行",d:"to give a farewell dinner",t:"餞行"}],i=[],r={s:e,w:n,i};export{r as default,i,e as s,n as w};

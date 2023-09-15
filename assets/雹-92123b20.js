@@ -1,1 +1,0 @@
-const o=[{p:"báo",pp:"bao2",d:"hail",t:"雹"}],t=[{p:"bīng báo",w:"冰雹",d:"hail ☆ hailstone ☆ CL:場|场[chang2],粒[li4]",t:"冰雹"},{p:"báo kuài",w:"雹块",d:"hailstone",t:"雹塊"},{p:"báo zi",w:"雹子",d:"hail ☆ hailstone",t:"雹子"},{p:"báo bào",w:"雹暴",d:"hailstorm",t:"雹暴"},{p:"báo zāi",w:"雹灾",d:"disaster caused by hail",t:"雹災"}],i=[],a={s:o,w:t,i};export{a as default,i,o as s,t as w};

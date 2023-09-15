@@ -1,0 +1,1 @@
+const s=[{p:"wéi",pp:"wei2",d:"ancient yak of southeast China, also known as 犪牛[kui2 niu2]",t:"犩"}],n=[],t=[],c="牛",o="22",a=["吕","","牛"],i=[],e={s,w:n,i:t,r:c,sc:o,c:a,d:i};export{a as c,i as d,e as default,t as i,c as r,s,o as sc,n as w};

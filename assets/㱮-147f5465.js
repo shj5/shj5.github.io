@@ -1,0 +1,1 @@
+const t=[{p:"huì",pp:"hui4",d:"to fester, to ulcerate (old variant of 潰|溃[hui4])",t:"殨"}],s=[],c=[],o="",n="",e="",r=[],a={s:t,w:s,i:c,r:o,sc:n,c:e,d:r};export{e as c,r as d,a as default,c as i,o as r,t as s,n as sc,s as w};

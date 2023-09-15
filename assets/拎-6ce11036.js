@@ -1,1 +1,0 @@
-const n=[{p:"līn",pp:"lin1",d:"to lift up, to carry in one's hand",t:"拎"}],t=[{p:"līn bāo",w:"拎包",d:"handbag or shopping bag (dialect)",t:"拎包"},{p:"līn bāo dǎng",w:"拎包党",d:"(coll.) purse snatcher",t:"拎包黨"},{p:"līn qǐ",w:"拎起",d:"to pick up (from the ground with one's hands)",t:"拎起"}],o=[],p={s:n,w:t,i:o};export{p as default,o as i,n as s,t as w};

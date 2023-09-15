@@ -1,1 +1,0 @@
-const s=[{p:"niǎo",pp:"niao3",d:"parasitic mistletoe (Loranthus parasiticus), esp. on the mulberry",t:"蔦"}],t=[{p:"niǎo luó",w:"茑萝",d:"cypress vine",t:"蔦蘿"}],i=[],o={s,w:t,i};export{o as default,i,s,t as w};

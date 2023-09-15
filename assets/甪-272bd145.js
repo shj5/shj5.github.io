@@ -1,1 +1,0 @@
-const t=[{p:"lù",pp:"lu4",d:"surname Lu ☆ place name",t:"甪"}],e=[{p:"lù duān",w:"甪端",d:"Luduan, mythical Chinese beast able to detect the truth",t:"甪端"}],s=[],a={s:t,w:e,i:s};export{a as default,s as i,t as s,e as w};

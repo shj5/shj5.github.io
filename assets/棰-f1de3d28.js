@@ -1,1 +1,0 @@
-const t=[{p:"chuí",pp:"chui2",d:"to flog ☆ whip",t:"棰"},{p:"chuí",pp:"chui2",d:"variant of 棰[chui2]",t:"箠"}],c=[{p:"chī chuí",w:"笞棰",d:"to beat with a bamboo whip",t:"笞棰"}],o=[],h={s:t,w:c,i:o};export{h as default,o as i,t as s,c as w};

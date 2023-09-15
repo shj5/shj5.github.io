@@ -1,1 +1,0 @@
-const t=[{p:"jǐn",pp:"jin3",d:"clay ☆ old variant of 僅|仅[jin3] ☆ violet (plant)",t:"堇"}],n=[{p:"sān sè jǐn",w:"三色堇",d:"pansy",t:"三色堇"},{p:"jǐn sè",w:"堇色",d:"violet (color)",t:"堇色"},{p:"jǐn cài",w:"堇菜",d:"violet (botany)",t:"堇菜"}],o=[],s={s:t,w:n,i:o};export{s as default,o as i,t as s,n as w};

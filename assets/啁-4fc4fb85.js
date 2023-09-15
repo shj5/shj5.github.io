@@ -1,1 +1,0 @@
-const t=[{p:"zhāo",pp:"zhao1",d:"used in 啁哳[zhao1 zha1]",t:"啁"},{p:"zhōu",pp:"zhou1",d:"twittering of birds",t:"啁"}],i=[{p:"zhāo zhā",w:"啁哳",d:"(literary) (onom.) combined twittering and chirping of many birds",t:"啁哳"},{p:"zhōu jiū",w:"啁啾",d:"(bird) twitter ☆ chirp",t:"啁啾"}],o=[],n={s:t,w:i,i:o};export{n as default,o as i,t as s,i as w};

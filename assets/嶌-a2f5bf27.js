@@ -1,1 +1,0 @@
-const a=[{p:"dǎo",pp:"dao3",d:"variant of 島|岛[dao3], island ☆ used in Japanese names with reading -shima or -jima",t:"嶌"}],s=[{p:"shǒu dǎo kuí",w:"手嶌葵",d:"TESHIMA Aoi (1987-), Japanese female pop singer",t:"手嶌葵"}],o=[],e={s:a,w:s,i:o};export{e as default,o as i,a as s,s as w};

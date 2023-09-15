@@ -1,0 +1,1 @@
+const i=[{p:"bà",pp:"ba4",d:"name of a river",t:"灞"}],a=[{w:"灞桥",p:"bà qiáo",d:"Baqiao District of Xi’an 西安市[Xi1 an1 Shi4], Shaanxi"},{w:"灞桥区",p:"bà qiáo qū",d:"Baqiao District of Xi’an 西安市[Xi1 an1 Shi4], Shaanxi"}],o=[],n="水",s="24",t=["吅","氵","霸"],c=[],r={s:i,w:a,i:o,r:n,sc:s,c:t,d:c};export{t as c,c as d,r as default,o as i,n as r,i as s,s as sc,a as w};

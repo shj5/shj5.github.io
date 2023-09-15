@@ -1,1 +1,0 @@
-const t=[{p:"xūn",pp:"xun1",d:"helplessly intoxicated",t:"醺"}],n=[{p:"wēi xūn",w:"微醺",d:"tipsy",t:"微醺"},{p:"zuì xūn xūn",w:"醉醺醺",d:"drunk ☆ intoxicated",t:"醉醺醺"},{p:"zuì xūn xūn",w:"醉醺醺",d:"drunk ☆ intoxicated",t:"醉醺醺"}],x=[],d={s:t,w:n,i:x};export{d as default,x as i,t as s,n as w};

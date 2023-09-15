@@ -1,1 +1,0 @@
-const n=[{p:"rèn",pp:"ren4",d:"(literary) overlapping part of Chinese gown ☆ lapel ☆ sleeping mat",t:"衽"},{p:"rèn",pp:"ren4",d:"variant of 衽[ren4]",t:"袵"}],e=[{p:"liǎn rèn",w:"敛衽",d:"old-fashioned women's obeisance",t:"斂衽"},{p:"liǎn rèn",w:"裣衽",d:"variant of 斂衽|敛衽[lian3 ren4]",t:"襝衽"}],r=[],t={s:n,w:e,i:r};export{t as default,r as i,n as s,e as w};

@@ -1,1 +1,0 @@
-const o=[{p:"guà",pp:"gua4",d:"to hinder ☆ to offend ☆ to form ☆ unique",t:"絓"},{p:"kuā",pp:"kua1",d:"type of coarse silk ☆ bag used to wrap silk before washing",t:"絓"}],t=[],s=[],e={s:o,w:t,i:s};export{e as default,s as i,o as s,t as w};

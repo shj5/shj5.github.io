@@ -1,1 +1,0 @@
-const a=[{p:"xì",pp:"xi4",d:'"cover" or "conceal" radical in Chinese characters (Kangxi radical 23) (distinguished from 匚[fang1])',t:"匸"}],c=[],i=[],s={s:a,w:c,i};export{s as default,i,a as s,c as w};

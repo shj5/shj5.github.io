@@ -1,1 +1,0 @@
-const s=[{p:"jiǒng",pp:"jiong3",d:"(archaic) light, bright (variant of 冏[jiong3]) ☆ (since c. 2005) (slang) emoticon signifying embarrassment, shock, helplessness etc",t:"囧"}],n=[],i=[],t={s,w:n,i};export{t as default,i,s,n as w};

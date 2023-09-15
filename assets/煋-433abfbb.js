@@ -1,1 +1,0 @@
-const i=[{p:"xīng",pp:"xing1",d:"(literary) (of a fire) fierce, intense, blazing ☆ (literary) to radiate light in all directions",t:"煋"}],t=[],e=[],n={s:i,w:t,i:e};export{n as default,e as i,i as s,t as w};

@@ -1,1 +1,0 @@
-const n=[{p:"zhēn",pp:"zhen1",d:"river in Guangdong province",t:"湞"}],i=[{p:"zhēn jiāng",w:"浈江",d:"Zhenjiang district of Shaoguan City 韶關市|韶关市, Guangdong",t:"湞江"},{p:"zhēn jiāng qū",w:"浈江区",d:"Zhenjiang district of Shaoguan City 韶關市|韶关市, Guangdong",t:"湞江區"}],t=[],o={s:n,w:i,i:t};export{o as default,t as i,n as s,i as w};

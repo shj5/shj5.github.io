@@ -1,1 +1,0 @@
-const o=[{p:"hǎo",pp:"hao3",d:"ancient place name ☆ surname Hao",t:"郝"}],a=[{p:"hǎo hǎi dōng",w:"郝海东",d:"Hao Haidong (1970-), former Chinese soccer player",t:"郝海東"}],e=[],n={s:o,w:a,i:e};export{n as default,e as i,o as s,a as w};

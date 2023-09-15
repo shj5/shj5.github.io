@@ -1,1 +1,0 @@
-const n=[{p:"wén",pp:"wen2",d:"(Cantonese) to simmer ☆ to cook over a slow fire",t:"炆"}],o=[{p:"zhū yǔn wén",w:"朱允炆",d:"Zhu Yuanwen, personal name of second Ming Emperor Jianwen 建文[Jian4 Wen2]",t:"朱允炆"}],e=[],s={s:n,w:o,i:e};export{s as default,e as i,n as s,o as w};

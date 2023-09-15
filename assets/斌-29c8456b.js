@@ -1,1 +1,0 @@
-const n=[{p:"bīn",pp:"bin1",d:"variant of 彬[bin1]",t:"斌"}],s=[{p:"zhāng bīn",w:"张斌",d:"Zhang Bin (1979-), CCTV sports presenter",t:"張斌"},{p:"yáng bīn",w:"杨斌",d:"Yang Bin (1963-), Chinese-Dutch businessman",t:"楊斌"}],t=[],i={s:n,w:s,i:t};export{i as default,t as i,n as s,s as w};

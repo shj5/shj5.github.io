@@ -1,1 +1,0 @@
-const n=[{p:"fēn",pp:"fen1",d:"aromatic wood ☆ perfume ☆ fragrance",t:"棻"}],t=[{p:"líng hú dé fēn",w:"令狐德棻",d:"Linghu Defen (583-666), Tang dynasty historian, compiler of History of Zhou of the Northern dynasties 周書|周书",t:"令狐德棻"},{p:"fēn fāng",w:"棻芳",d:"perfume ☆ fragrant",t:"棻芳"}],o=[],e={s:n,w:t,i:o};export{e as default,o as i,n as s,t as w};

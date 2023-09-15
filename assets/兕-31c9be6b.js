@@ -1,0 +1,1 @@
+const s=[{p:"sì",pp:"si4",d:"animal cited in ancient texts, resembling a buffalo (some say rhinoceros or female rhinoceros)",t:"兕"}],n=[{w:"兕觥",p:"sì gōng",d:"ancient type of drinking vessel"}],c=[],o="儿",t="8",e=["吕","凹","儿"],i=[],a={s,w:n,i:c,r:o,sc:t,c:e,d:i};export{e as c,i as d,a as default,c as i,o as r,s,t as sc,n as w};

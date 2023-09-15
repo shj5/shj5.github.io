@@ -1,1 +1,0 @@
-const t=[{p:"huī",pp:"hui1",d:"sick ☆ with no ambition",t:"虺"},{p:"huǐ",pp:"hui3",d:"mythical venomous snake",t:"虺"}],u=[{p:"huǐ huǐ",w:"虺虺",d:"rumbling (of thunder etc)",t:"虺虺"},{p:"huǐ huǐ",w:"虺虺",d:"rumbling (of thunder etc)",t:"虺虺"},{p:"huǐ xī",w:"虺蜥",d:"venomous snake ☆ fig. vicious person",t:"虺蜥"}],n=[],o={s:t,w:u,i:n};export{o as default,n as i,t as s,u as w};

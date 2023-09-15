@@ -1,1 +1,0 @@
-const t=[{p:"cháng",pp:"chang2",d:"sit cross-legged ☆ walk back and forth",t:"徜"}],n=[{p:"cháng yáng",w:"徜徉",d:"to wander about unhurriedly, to linger, to loiter",t:"徜徉"}],o=[],s={s:t,w:n,i:o};export{s as default,o as i,t as s,n as w};

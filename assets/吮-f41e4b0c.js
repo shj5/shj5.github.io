@@ -1,1 +1,0 @@
-const s=[{p:"shǔn",pp:"shun3",d:"to suck",t:"吮"}],t=[{p:"shǔn xī",w:"吮吸",d:"to suck",t:"吮吸"},{p:"xī shǔn",w:"吸吮",d:"to suck on (sth) ☆ to suck in",t:"吸吮"},{p:"tiǎn shǔn",w:"舔吮",d:"to lick and suck",t:"舔吮"}],n=[],o={s,w:t,i:n};export{o as default,n as i,s,t as w};

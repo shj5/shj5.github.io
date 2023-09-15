@@ -1,1 +1,0 @@
-const t=[{p:"jū",pp:"ju1",d:"(the name of a river to the east of Beijing)",t:"泃"}],e=[{p:"jū hé",w:"泃河",d:"Ju River, to the east of Beijing",t:"泃河"}],o=[],s={s:t,w:e,i:o};export{s as default,o as i,t as s,e as w};

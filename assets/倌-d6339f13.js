@@ -1,1 +1,0 @@
-const e=[{p:"guān",pp:"guan1",d:"keeper of domestic animals ☆ herdsman ☆ (old) hired hand in certain trade",t:"倌"}],n=[{p:"táng guān",w:"堂倌",d:"(old) waiter ☆ attendant",t:"堂倌"},{p:"kàn guān",w:"看倌",d:"dear reader ☆ dear listener",t:"看倌"},{p:"zhū guān",w:"猪倌",d:"swineherd",t:"豬倌"}],t=[],d={s:e,w:n,i:t};export{d as default,t as i,e as s,n as w};

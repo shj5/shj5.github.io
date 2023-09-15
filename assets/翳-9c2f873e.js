@@ -1,1 +1,0 @@
-const t=[{p:"yì",pp:"yi4",d:"variant of 翳[yi4]",t:"瞖"},{p:"yì",pp:"yi4",d:"feather screen ☆ to screen ☆ to shade ☆ cataract",t:"翳"}],a=[{p:"bái yì",w:"白翳",d:"opacity of the cornea (in TCM) ☆ cataract",t:"白翳"},{p:"yì yǎn",w:"翳眼",d:"cataract",t:"翳眼"}],c=[],e={s:t,w:a,i:c};export{e as default,c as i,t as s,a as w};

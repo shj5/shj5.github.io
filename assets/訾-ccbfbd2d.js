@@ -1,1 +1,0 @@
-const t=[{p:"zī",pp:"zi1",d:"surname Zi",t:"訾"},{p:"zī",pp:"zi1",d:"to calculate ☆ to assess ☆ wealth",t:"訾"},{p:"zǐ",pp:"zi3",d:"to slander ☆ to detest",t:"訾"}],s=[{p:"qǐ zǐ",w:"跂訾",d:"opinionated",t:"跂訾"}],p=[],o={s:t,w:s,i:p};export{o as default,p as i,t as s,s as w};

@@ -1,1 +1,0 @@
-const p=[{p:"péi",pp:"pei2",d:"surname Pei",t:"裴"},{p:"péi",pp:"pei2",d:"(of a garment) long and flowing",t:"裴"},{p:"péi",pp:"pei2",d:"variant of 裴[pei2]",t:"裵"}],i=[{p:"péi huí",w:"裴回",d:"see 徘徊[pai2 huai2]",t:"裴回"}],t=[],e={s:p,w:i,i:t};export{e as default,t as i,p as s,i as w};

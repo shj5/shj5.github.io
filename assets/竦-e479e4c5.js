@@ -1,1 +1,0 @@
-const s=[{p:"sǒng",pp:"song3",d:"respectful ☆ horrified ☆ to raise (one's shoulders) ☆ to stand on tiptoe ☆ to crane",t:"竦"}],o=[{p:"sǒng rán",w:"竦然",d:"variant of 悚然[song3 ran2]",t:"竦然"}],t=[],n={s,w:o,i:t};export{n as default,t as i,s,o as w};

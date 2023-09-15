@@ -1,1 +1,0 @@
-const n=[{p:"xī",pp:"xi1",d:"(onom.) sound of rain, sleet etc",t:"淅"}],a=[{p:"xī chuān",w:"淅川",d:"Xichuan county in Nanyang 南陽|南阳[Nan2 yang2], Henan",t:"淅川"},{p:"xī chuān xiàn",w:"淅川县",d:"Xichuan county in Nanyang 南陽|南阳[Nan2 yang2], Henan",t:"淅川縣"},{p:"xī lì",w:"淅沥",d:"(onom.) patter of rain",t:"淅瀝"}],t=[],o={s:n,w:a,i:t};export{o as default,t as i,n as s,a as w};

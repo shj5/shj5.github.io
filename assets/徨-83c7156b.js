@@ -1,1 +1,0 @@
-const t=[{p:"huáng",pp:"huang2",d:"irresolute",t:"徨"}],e=[{p:"páng huáng",w:"彷徨",d:"to pace back and forth ☆ to hesitate ☆ to be indecisive",t:"彷徨"}],n=[],o={s:t,w:e,i:n};export{o as default,n as i,t as s,e as w};

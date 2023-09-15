@@ -1,1 +1,0 @@
-const a=[{p:"xiǎn",pp:"xian3",d:"basket clam (clam of family Corbiculidae), (esp.) Corbicula leana 真蜆|真蚬[zhen1 xian3]",t:"蜆"}],i=[{p:"zhēn xiǎn",w:"真蚬",d:"Corbicula leana, a species of clam",t:"真蜆"}],n=[],c={s:a,w:i,i:n};export{c as default,n as i,a as s,i as w};

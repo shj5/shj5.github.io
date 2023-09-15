@@ -1,1 +1,0 @@
-const n=[{p:"chān",pp:"chan1",d:"used in names, e.g. 龍王辿|龙王辿[Long2 wang2 Chan1] Longwang Chan, a place in Shaanxi Province ☆ (literary) (of one's walking pace) slow",t:"辿"}],a=[],o=[],s={s:n,w:a,i:o};export{s as default,o as i,n as s,a as w};

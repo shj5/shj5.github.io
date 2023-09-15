@@ -1,0 +1,1 @@
+const s=[{p:"yì",pp:"yi4",d:"see 虉草|𬟁草[yi4 cao3]",t:"虉"}],c=[{w:"𬟁草",p:"yì cǎo",d:"reed canary grass (Phalaris arundinacea)"}],a=[],n="",o="",t="",r=[],d={s,w:c,i:a,r:n,sc:o,c:t,d:r};export{t as c,r as d,d as default,a as i,n as r,s,o as sc,c as w};

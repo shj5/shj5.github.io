@@ -1,0 +1,1 @@
+const n=[{p:"yín",pp:"yin2",d:"heavy rain",t:"霪"}],s=[{w:"霪雨",p:"yín yǔ",d:"variant of 淫雨[yin2 yu3]"}],c=[],t="雨",o="19",y=["吕","雨","淫"],a=[],i={s:n,w:s,i:c,r:t,sc:o,c:y,d:a};export{y as c,a as d,i as default,c as i,t as r,n as s,o as sc,s as w};

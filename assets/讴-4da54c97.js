@@ -1,1 +1,0 @@
-const o=[{p:"ōu",pp:"ou1",d:"to sing ☆ ballad ☆ folk song",t:"謳"}],t=[{p:"ōu yín",w:"讴吟",d:"song ☆ chant ☆ rhythmic declamation",t:"謳吟"},{p:"ōu gē",w:"讴歌",d:"Acura (Honda car model)",t:"謳歌"}],n=[],a={s:o,w:t,i:n};export{a as default,n as i,o as s,t as w};

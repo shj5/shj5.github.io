@@ -1,1 +1,0 @@
-const n=[{p:"nǎi",pp:"nai3",d:"variant of 乃[nai3] (used as a surname, in given names or in place names)",t:"迺"}],a=[{p:"gān nǎi dí",w:"甘迺迪",d:"Kennedy (name) (Tw)",t:"甘迺迪"}],s=[],e={s:n,w:a,i:s};export{e as default,s as i,n as s,a as w};

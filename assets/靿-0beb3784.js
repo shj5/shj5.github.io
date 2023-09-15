@@ -1,1 +1,0 @@
-const o=[{p:"yào",pp:"yao4",d:"the leg of a boot or sock",t:"靿"}],t=[{p:"yào zi",w:"靿子",d:"leg (aka shaft) of a boot, leg of a sock",t:"靿子"},{p:"gāo yào",w:"高靿",d:"(of boots, socks etc) long, high, tall",t:"高靿"}],s=[],a={s:o,w:t,i:s};export{a as default,s as i,o as s,t as w};

@@ -1,1 +1,0 @@
-const o=[{p:"niào",pp:"niao4",d:"carbamide ☆ urea (NH2)2CO ☆ also written 尿素",t:"脲"}],t=[{p:"niào quán",w:"脲醛",d:"urea formaldehyde",t:"脲醛"}],a=[],n={s:o,w:t,i:a};export{n as default,a as i,o as s,t as w};

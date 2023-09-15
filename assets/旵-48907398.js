@@ -1,1 +1,0 @@
-const n=[{p:"chǎn",pp:"chan3",d:"(literary) (of sunlight) to beam down ☆ to illuminate ☆ (used in place names and given names)",t:"旵"}],t=[],s=[],a={s:n,w:t,i:s};export{a as default,s as i,n as s,t as w};

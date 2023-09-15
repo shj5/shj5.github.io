@@ -1,1 +1,0 @@
-const s=[{p:"xī",pp:"xi1",d:"(intestinal worm)",t:"螅"}],t=[{p:"shuǐ xī",w:"水螅",d:"Hydra (freshwater polyp)",t:"水螅"},{p:"shuǐ xī tǐ",w:"水螅体",d:"sessile polyp ☆ sea anemone",t:"水螅體"}],e=[],p={s,w:t,i:e};export{p as default,e as i,s,t as w};

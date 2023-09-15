@@ -1,1 +1,0 @@
-const o=[{p:"zā",pp:"za1",d:"to sip ☆ to smack one's lips ☆ to taste ☆ to savor",t:"咂"}],t=[{p:"zā mo",w:"咂摸",d:"(dialect) to savor ☆ to test the taste of ☆ (fig.) to ponder upon ☆ to mull over",t:"咂摸"}],s=[{p:"diǎn tóu zā zuǐ",w:"点头咂嘴",d:"to approve by nodding one's head and smacking one's lips (idiom)",t:"點頭咂嘴"}],e={s:o,w:t,i:s};export{e as default,s as i,o as s,t as w};

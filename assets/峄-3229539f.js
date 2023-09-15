@@ -1,1 +1,0 @@
-const n=[{p:"yì",pp:"yi4",d:"name of hills in Shandong",t:"嶧"}],i=[{p:"yì chéng",w:"峄城",d:"Yicheng district of Zaozhuang city 棗莊市|枣庄市[Zao3 zhuang1 shi4], Shandong",t:"嶧城"},{p:"yì chéng qū",w:"峄城区",d:"Yicheng district of Zaozhuang city 棗莊市|枣庄市[Zao3 zhuang1 shi4], Shandong",t:"嶧城區"}],o=[],t={s:n,w:i,i:o};export{t as default,o as i,n as s,i as w};

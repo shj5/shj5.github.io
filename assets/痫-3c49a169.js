@@ -1,0 +1,1 @@
+const n=[{p:"xián",pp:"xian2",d:"epilepsy ☆ insanity",t:"癇"}],i=[{w:"癫痫",p:"diān xián",d:"epilepsy"},{w:"癫痫发作",p:"diān xián fā zuò",d:"epileptic seizure"},{w:"羊痫风",p:"yáng xián fēng",d:"epilepsy"},{w:"惊痫",p:"jīng xián",d:"epilepsy"}],s=[],p="疒",e="12",c=["吕","疒","闲"],t=[],d={s:n,w:i,i:s,r:p,sc:e,c,d:t};export{c,t as d,d as default,s as i,p as r,n as s,e as sc,i as w};

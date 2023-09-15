@@ -1,1 +1,0 @@
-const t=[{p:"chān",pp:"chan1",d:"variant of 攙|搀[chan1] ☆ to mix",t:"摻"},{p:"shǎn",pp:"shan3",d:"to grasp",t:"摻"}],a=[{p:"chān jiǎ",w:"掺假",d:"to mix in fake material ☆ to adulterate",t:"摻假"},{p:"chān shuǐ",w:"掺水",d:"to dilute ☆ to water down ☆ watered down",t:"摻水"}],n=[],o={s:t,w:a,i:n};export{o as default,n as i,t as s,a as w};

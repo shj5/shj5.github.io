@@ -1,1 +1,0 @@
-const o=[{p:"qìn",pp:"qin4",d:"to vomit (of dogs and cats) ☆ to rail against ☆ to talk nonsense",t:"唚"}],t=[{p:"hùn qìn",w:"混吣",d:"vulgar ☆ foul-mouthed",t:"混唚"},{p:"hú qìn",w:"胡吣",d:"to talk provokingly or nonsensically",t:"胡唚"}],n=[],s={s:o,w:t,i:n};export{s as default,n as i,o as s,t as w};

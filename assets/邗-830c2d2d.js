@@ -1,1 +1,0 @@
-const n=[{p:"hán",pp:"han2",d:"name of an ancient river",t:"邗"}],i=[{p:"hán jiāng",w:"邗江",d:"Hanjiang district of Yangzhou city 揚州市|扬州市[Yang2 zhou1 shi4], Jiangsu",t:"邗江"},{p:"hán jiāng qū",w:"邗江区",d:"Hanjiang district of Yangzhou city 揚州市|扬州市[Yang2 zhou1 shi4], Jiangsu",t:"邗江區"}],a=[],t={s:n,w:i,i:a};export{t as default,a as i,n as s,i as w};

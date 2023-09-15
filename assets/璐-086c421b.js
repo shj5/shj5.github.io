@@ -1,1 +1,0 @@
-const l=[{p:"lù",pp:"lu4",d:"beautiful jade",t:"璐"}],o=[{p:"sài lù fēn",w:"赛璐玢",d:"cellophane (loanword)",t:"賽璐玢"},{p:"sài lù luò",w:"赛璐珞",d:"celluloid (loanword)",t:"賽璐珞"}],t=[],s={s:l,w:o,i:t};export{s as default,t as i,l as s,o as w};

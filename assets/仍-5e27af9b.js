@@ -1,1 +1,0 @@
-const t=[{p:"réng",pp:"reng2",d:"still, yet ☆ to remain ☆ (literary) frequently, often",t:"仍"}],e=[{p:"réng rán",w:"仍然",d:"still, as before, yet",t:"仍然"},{p:"réng jiù",w:"仍旧",d:"still (remaining) ☆ to remain (the same) ☆ yet",t:"仍舊"},{p:"pín réng",w:"频仍",d:"frequent",t:"頻仍"}],n=[],r={s:t,w:e,i:n};export{r as default,n as i,t as s,e as w};

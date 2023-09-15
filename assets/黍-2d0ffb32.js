@@ -1,1 +1,0 @@
-const s=[{p:"shǔ",pp:"shu3",d:"broomcorn millet ☆ glutinous millet",t:"黍"}],t=[{p:"guài shǔ shǔ",w:"怪蜀黍",d:"see 怪叔叔[guai4 shu1 shu5]",t:"怪蜀黍"},{p:"yù shǔ shǔ",w:"玉蜀黍",d:"corn",t:"玉蜀黍"},{p:"shǔ wú",w:"黍鹀",d:"(bird species of China) corn bunting (Emberiza calandra)",t:"黍鵐"}],i=[],n={s,w:t,i};export{n as default,i,s,t as w};

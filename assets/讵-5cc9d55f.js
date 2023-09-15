@@ -1,0 +1,1 @@
+const s=[{p:"jù",pp:"ju4",d:"how (interj. of surprise)",t:"詎"}],c=[],t=[],o="言",n="6",r=["吅","讠","巨"],p=[],d={s,w:c,i:t,r:o,sc:n,c:r,d:p};export{r as c,p as d,d as default,t as i,o as r,s,n as sc,c as w};

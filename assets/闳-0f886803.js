@@ -1,1 +1,0 @@
-const n=[{p:"hóng",pp:"hong2",d:"surname Hong",t:"閎"},{p:"hóng",pp:"hong2",d:"big ☆ gate",t:"閎"}],a=[],o=[{p:"miàn huáng jī hóng",w:"面黄肌闳",d:"yellow face, emaciated body (idiom), malnourished and sickly in appearance",t:"面黃肌閎"}],e={s:n,w:a,i:o};export{e as default,o as i,n as s,a as w};

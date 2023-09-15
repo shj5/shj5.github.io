@@ -1,1 +1,0 @@
-const t=[{p:"chāng",pp:"chang1",d:"see 鯧魚|鲳鱼[chang1 yu2]",t:"鯧"}],s=[{p:"wū chāng",w:"乌鲳",d:"black pomfret",t:"烏鯧"},{p:"yín chāng",w:"银鲳",d:"silvery pomfret ☆ dollarfish ☆ harvestfish",t:"銀鯧"},{p:"chāng yú",w:"鲳鱼",d:"silvery pomfret ☆ butterfish",t:"鯧魚"}],c=[],e={s:t,w:s,i:c};export{e as default,c as i,t as s,s as w};

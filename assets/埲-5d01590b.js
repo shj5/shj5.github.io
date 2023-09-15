@@ -1,1 +1,0 @@
-const s=[{p:"běng",pp:"beng3",d:"see 塕埲[weng3 beng3] ☆ classifier for walls (Cantonese)",t:"埲"}],n=[{p:"wěng běng",w:"塕埲",d:"dust storm",t:"塕埲"}],t=[],e={s,w:n,i:t};export{e as default,t as i,s,n as w};

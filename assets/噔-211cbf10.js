@@ -1,1 +1,0 @@
-const t=[{p:"dēng",pp:"deng1",d:"(onom.) thud, thump",t:"噔"}],d=[{p:"dēng dēng",w:"噔噔",d:"(onom.) thump ☆ thud",t:"噔噔"},{p:"dēng dēng",w:"噔噔",d:"(onom.) thump ☆ thud",t:"噔噔"}],n=[],o={s:t,w:d,i:n};export{o as default,n as i,t as s,d as w};

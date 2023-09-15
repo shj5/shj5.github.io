@@ -1,1 +1,0 @@
-const l=[{p:"jiū",pp:"jiu1",d:"see 赳赳[jiu1 jiu1]",t:"赳"}],i=[{p:"jiū jiū",w:"赳赳",d:"valiantly ☆ gallantly",t:"赳赳"},{p:"jiū jiū",w:"赳赳",d:"valiantly ☆ gallantly",t:"赳赳"},{p:"xióng jiū jiū",w:"雄赳赳",d:"valiantly ☆ gallantly",t:"雄赳赳"},{p:"xióng jiū jiū",w:"雄赳赳",d:"valiantly ☆ gallantly",t:"雄赳赳"}],t=[],a={s:l,w:i,i:t};export{a as default,t as i,l as s,i as w};

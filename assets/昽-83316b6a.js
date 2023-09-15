@@ -1,1 +1,0 @@
-const n=[{p:"lóng",pp:"long2",d:"used in 曚曨|曚昽[meng2 long2]",t:"曨"}],t=[{p:"méng lóng",w:"曚昽",d:"(literary) (of daylight) dim ☆ (literary) murky, indistinct",t:"曚曨"}],i=[],s={s:n,w:t,i};export{s as default,i,n as s,t as w};

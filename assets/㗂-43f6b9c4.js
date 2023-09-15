@@ -1,1 +1,0 @@
-const t=[{p:"shěng",pp:"sheng3",d:"variant of 省[sheng3] ☆ tight-lipped ☆ to examine ☆ to watch ☆ to scour (esp. Cantonese)",t:"㗂"}],s=[],n=[],o={s:t,w:s,i:n};export{o as default,n as i,t as s,s as w};

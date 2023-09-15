@@ -1,1 +1,0 @@
-const n=[{p:"jiōng",pp:"jiong1",d:"radical in Chinese characters (Kangxi radical 13), occurring in 用[yong4], 同[tong2], 網|网[wang3] etc, referred to as 同字框[tong2 zi4 kuang4]",t:"冂"}],a=[],i=[],t={s:n,w:a,i};export{t as default,i,n as s,a as w};

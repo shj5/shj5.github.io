@@ -1,1 +1,0 @@
-const n=[{p:"xiān",pp:"xian1",d:"to manner of dancing ☆ to walk around",t:"躚"}],o=[{p:"piān xiān",w:"翩跹",d:"spry and lively (of dancing and movements)",t:"翩躚"}],t=[],a={s:n,w:o,i:t};export{a as default,t as i,n as s,o as w};

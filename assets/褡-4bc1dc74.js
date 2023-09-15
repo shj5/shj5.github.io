@@ -1,1 +1,0 @@
-const e=[{p:"dā",pp:"da1",d:"pouch ☆ sleeveless jacket",t:"褡"}],t=[{p:"guà dā",w:"挂褡",d:"(of a monk) to take residence at a temple",t:"掛褡"},{p:"dā lian",w:"褡裢",d:"cloth pouch open in the middle, forming two bags ☆ jacket worn for Chinese wrestling",t:"褡褳"},{p:"mǎ dā zi",w:"马褡子",d:"saddle-bag",t:"馬褡子"}],o=[],d={s:e,w:t,i:o};export{d as default,o as i,e as s,t as w};

@@ -1,1 +1,0 @@
-const t=[{p:"zhù",pp:"zhu4",d:"variant of 箸[zhu4]",t:"筯"},{p:"zhù",pp:"zhu4",d:"(literary) chopsticks",t:"箸"}],o=[{p:"xià zhù",w:"下箸",d:"(literary) to eat",t:"下箸"},{p:"jiè zhù",w:"借箸",d:"lit. to borrow chopsticks ☆ to make plans for sb else",t:"借箸"}],s=[],p={s:t,w:o,i:s};export{p as default,s as i,t as s,o as w};

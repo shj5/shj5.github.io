@@ -1,1 +1,0 @@
-const t=[{p:"è",pp:"e4",d:"blade edge ☆ sharp",t:"鍔"}],o=[{p:"cài è",w:"蔡锷",d:"Cai E (1882-1916), originator of the National protection army of 1915",t:"蔡鍔"}],a=[],e={s:t,w:o,i:a};export{e as default,a as i,t as s,o as w};

@@ -1,1 +1,0 @@
-const t=[{p:"è",pp:"e4",d:"startled",t:"愕"}],s=[{p:"è rán",w:"愕然",d:"stunned ☆ amazed",t:"愕然"},{p:"cuò è",w:"错愕",d:"astonished, startled",t:"錯愕"},{p:"jīng è",w:"惊愕",d:"(literary) stunned, stupefied",t:"驚愕"}],d=[],e={s:t,w:s,i:d};export{e as default,d as i,t as s,s as w};

@@ -1,1 +1,0 @@
-const t=[{p:"háo",pp:"hao2",d:"oyster",t:"蠔"}],o=[{p:"háo yóu",w:"蚝油",d:"oyster sauce",t:"蠔油"},{p:"háo chǐ",w:"蚝豉",d:"dried oyster meat",t:"蠔豉"}],s=[],e={s:t,w:o,i:s};export{e as default,s as i,t as s,o as w};

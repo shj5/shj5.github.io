@@ -1,1 +1,0 @@
-const o=[{p:"yǒng",pp:"yong3",d:"raised path",t:"埇"}],i=[{p:"yǒng qiáo",w:"埇桥",d:"Yongqiao district of Suzhou city 宿州市[Su4 zhou1 shi4], Anhui",t:"埇橋"},{p:"yǒng qiáo qū",w:"埇桥区",d:"Yongqiao district of Suzhou city 宿州市[Su4 zhou1 shi4], Anhui",t:"埇橋區"}],t=[],n={s:o,w:i,i:t};export{n as default,t as i,o as s,i as w};

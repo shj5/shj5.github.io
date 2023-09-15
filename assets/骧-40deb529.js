@@ -1,0 +1,1 @@
+const o=[{p:"xiāng",pp:"xiang1",d:"(literary) to run friskily (of a horse) ☆ to raise ☆ to hold high",t:"驤"}],t=[{w:"腾骧",p:"téng xiāng",d:"(literary) to gallop ☆ to charge forward"}],s=[],r="馬",c="20",n=["吅","马","襄"],i=[],a={s:o,w:t,i:s,r,sc:c,c:n,d:i};export{n as c,i as d,a as default,s as i,r,o as s,c as sc,t as w};

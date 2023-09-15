@@ -1,1 +1,0 @@
-const r=[{p:"qiān",pp:"qian1",d:"a drill (for boring through rock)",t:"釺"}],i=[{p:"pào qiān",w:"炮钎",d:"a drill ☆ a hammer drill for boring through rock ☆ same as 釺子|钎子",t:"炮釺"},{p:"qiān zi",w:"钎子",d:"hammer drill for boring through rock",t:"釺子"},{p:"gāng qiān",w:"钢钎",d:"(mining) drill rod, drill steel",t:"鋼釺"}],o=[],n={s:r,w:i,i:o};export{n as default,o as i,r as s,i as w};

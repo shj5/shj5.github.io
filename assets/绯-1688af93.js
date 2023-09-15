@@ -1,1 +1,0 @@
-const s=[{p:"fēi",pp:"fei1",d:"dark red ☆ purple silk",t:"緋"}],e=[{p:"fēi hóng",w:"绯红",d:"crimson ☆ scarlet",t:"緋紅"},{p:"fēi wén",w:"绯闻",d:"sex scandal",t:"緋聞"},{p:"fēi xiōng yīng wǔ",w:"绯胸鹦鹉",d:"(bird species of China) red-breasted parakeet (Psittacula alexandri)",t:"緋胸鸚鵡"}],i=[],t={s,w:e,i};export{t as default,i,s,e as w};

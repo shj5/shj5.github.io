@@ -1,1 +1,0 @@
-const t=[{p:"huán",pp:"huan2",d:"circle ☆ encircle",t:"圜"},{p:"yuán",pp:"yuan2",d:"circle ☆ round",t:"圜"}],o=[{p:"zhuǎn huán",w:"转圜",d:"to save or redeem (a situation) ☆ to mediate ☆ to intercede",t:"轉圜"}],e=[{p:"zhuǎn huán yú dì",w:"转圜余地",d:"to have room to save a situation ☆ margin for error (idiom)",t:"轉圜餘地"}],n={s:t,w:o,i:e};export{n as default,e as i,t as s,o as w};

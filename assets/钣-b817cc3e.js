@@ -1,1 +1,0 @@
-const t=[{p:"bǎn",pp:"ban3",d:"metal plate ☆ sheet of metal",t:"鈑"}],e=[{p:"bǎn jīn",w:"钣金",d:"sheet metal working ☆ auto body repair work ☆ panel beating",t:"鈑金"}],a=[],n={s:t,w:e,i:a};export{n as default,a as i,t as s,e as w};

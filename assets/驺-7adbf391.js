@@ -1,1 +1,0 @@
-const o=[{p:"zōu",pp:"zou1",d:"surname Zou",t:"騶"},{p:"zōu",pp:"zou1",d:"groom or chariot driver employed by a noble (old)",t:"騶"}],a=[{p:"zōu cóng",w:"驺从",d:"mounted escort",t:"騶從"},{p:"zōu yú",w:"驺虞",d:"zouyu (mythical animal) ☆ official in charge of park animals ☆ name of an archaic ceremonial tune",t:"騶虞"}],n=[],t={s:o,w:a,i:n};export{t as default,n as i,o as s,a as w};

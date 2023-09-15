@@ -1,1 +1,0 @@
-const o=[{p:"gàn",pp:"gan4",d:"violet or purple",t:"紺"}],n=[{p:"fā gàn",w:"发绀",d:"cyanosis (blue skin due to lack of oxygen in blood)",t:"發紺"}],s=[],t={s:o,w:n,i:s};export{t as default,s as i,o as s,n as w};

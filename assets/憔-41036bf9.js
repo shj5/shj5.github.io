@@ -1,1 +1,0 @@
-const a=[{p:"qiáo",pp:"qiao2",d:"haggard",t:"憔"},{p:"qiáo",pp:"qiao2",d:"old variant of 憔[qiao2]",t:"癄"},{p:"qiáo",pp:"qiao2",d:"variant of 憔[qiao2]",t:"顦"}],o=[{p:"qiáo cuì",w:"憔悴",d:"wan and sallow ☆ thin and pallid ☆ haggard ☆ (of plants) withered",t:"憔悴"}],i=[],t={s:a,w:o,i};export{t as default,i,a as s,o as w};

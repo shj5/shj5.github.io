@@ -1,1 +1,0 @@
-const t=[{p:"è",pp:"e4",d:"to block ☆ to restrain ☆ to control",t:"閼"},{p:"yān",pp:"yan1",d:"see 閼氏|阏氏[yan1 zhi1]",t:"閼"}],n=[{p:"yān zhī",w:"阏氏",d:"formal wife of a Xiongnu chief during the Han Dynasty (206 BC-220 AD)",t:"閼氏"},{p:"yōng è",w:"雍阏",d:"to intercept, to prevent the arrival of sth",t:"雍閼"}],o=[],e={s:t,w:n,i:o};export{e as default,o as i,t as s,n as w};

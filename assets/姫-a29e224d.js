@@ -1,1 +1,0 @@
-const i=[{p:"jī",pp:"ji1",d:"Japanese variant of 姬 ☆ princess ☆ imperial concubine",t:"姫"}],e=[{p:"jī lù shì",w:"姫路市",d:"Himeji city in Hyōgo prefecture 兵庫縣|兵库县, Japan",t:"姫路市"}],n=[],s={s:i,w:e,i:n};export{s as default,n as i,i as s,e as w};

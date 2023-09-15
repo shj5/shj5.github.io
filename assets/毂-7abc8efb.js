@@ -1,1 +1,0 @@
-const p=[{p:"gū",pp:"gu1",d:"wheel",t:"轂"},{p:"gǔ",pp:"gu3",d:"hub of wheel",t:"轂"}],t=[{p:"huá gǔ",w:"华毂",d:"decorated carriage",t:"華轂"},{p:"luó jiǎng gū",w:"螺桨毂",d:"propeller hub",t:"螺槳轂"},{p:"lún gǔ",w:"轮毂",d:"wheel hub",t:"輪轂"},{p:"lún gǔ zhào",w:"轮毂罩",d:"hubcap",t:"輪轂罩"},{p:"gǔ gài",w:"毂盖",d:"hubcap",t:"轂蓋"}],e=[],g={s:p,w:t,i:e};export{g as default,e as i,p as s,t as w};

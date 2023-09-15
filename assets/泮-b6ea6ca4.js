@@ -1,0 +1,1 @@
+const o=[{p:"pàn",pp:"pan4",d:"(literary) to melt ☆ to dissolve",t:"泮"}],t=[{w:"劳拉西泮",p:"láo lā xī pàn",d:"lorazepam"},{w:"地西泮",p:"dì xī pàn",d:"diazepam (loanword) ☆ Valium"}],n=[{w:"瓦解冰泮",p:"wǎ jiě bīng pàn",d:"complete disintegration"}],s="水",p="8",c=["吅","氵","半"],d=[],a={s:o,w:t,i:n,r:s,sc:p,c,d};export{c,d,a as default,n as i,s as r,o as s,p as sc,t as w};

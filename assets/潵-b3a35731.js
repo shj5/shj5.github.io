@@ -1,1 +1,0 @@
-const s=[{p:"sǎ",pp:"sa3",d:"name of a river in Hebei Province",t:"潵"},{p:"sǎ",pp:"sa3",d:"old variant of 撒[sa3]",t:"潵"},{p:"sàn",pp:"san4",d:"to disperse water",t:"潵"}],t=[],a=[],p={s,w:t,i:a};export{p as default,a as i,s,t as w};

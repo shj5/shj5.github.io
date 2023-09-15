@@ -1,1 +1,0 @@
-const s=[{p:"suī",pp:"sui1",d:"coriander",t:"荽"}],n=[{p:"yáng yán sui",w:"洋芫荽",d:"parsley",t:"洋芫荽"},{p:"hú suī",w:"胡荽",d:"coriander",t:"胡荽"},{p:"yán sui",w:"芫荽",d:"coriander (Coriandrum sativum)",t:"芫荽"},{p:"yán sui yè",w:"芫荽叶",d:"coriander leaf",t:"芫荽葉"},{p:"xiāng suī",w:"香荽",d:"coriander",t:"香荽"}],i=[],r={s,w:n,i};export{r as default,i,s,n as w};

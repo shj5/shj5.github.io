@@ -1,1 +1,0 @@
-const n=[{p:"guàn",pp:"guan4",d:"(archaic) stork ☆ heron",t:"雚"},{p:"huán",pp:"huan2",d:"variant of 萑[huan2]",t:"雚"}],s=[{p:"huán jūn",w:"雚菌",d:"a type of poisonous fungus that grows on reeds, used in Chinese medicine to help cure patients suffering from ascaris (parasitic worms)",t:"雚菌"}],t=[],o={s:n,w:s,i:t};export{o as default,t as i,n as s,s as w};

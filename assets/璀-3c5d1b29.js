@@ -1,1 +1,0 @@
-const c=[{p:"cuǐ",pp:"cui3",d:"luster of gems",t:"璀"}],t=[{p:"cuǐ cuǐ",w:"璀璀",d:"bright and clear",t:"璀璀"},{p:"cuǐ cuǐ",w:"璀璀",d:"bright and clear",t:"璀璀"},{p:"cuǐ càn",w:"璀璨",d:"bright ☆ resplendent",t:"璀璨"},{p:"cuǐ cuò",w:"璀错",d:"many and varied",t:"璀錯"}],d=[{p:"cuǐ càn duó mù",w:"璀璨夺目",d:"dazzling (idiom)",t:"璀璨奪目"}],n={s:c,w:t,i:d};export{n as default,d as i,c as s,t as w};

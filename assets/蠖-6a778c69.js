@@ -1,1 +1,0 @@
-const o=[{p:"huò",pp:"huo4",d:"looper caterpillar",t:"蠖"}],t=[{p:"chǐ huò",w:"尺蠖",d:"looper caterpillar, larva of moth in family Geometridae ☆ inch worm",t:"尺蠖"},{p:"chǐ huò é",w:"尺蠖蛾",d:"moth in family Geometridae",t:"尺蠖蛾"}],a=[],e={s:o,w:t,i:a};export{e as default,a as i,o as s,t as w};

@@ -1,1 +1,0 @@
-const o=[{p:"zuò",pp:"zuo4",d:"to grant or bestow ☆ sacrificial flesh offered to the gods (old) ☆ blessing ☆ title of a sovereign (old)",t:"胙"}],s=[],t=[],e={s:o,w:s,i:t};export{e as default,t as i,o as s,s as w};

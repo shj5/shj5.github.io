@@ -1,0 +1,1 @@
+const s=[{p:"yì",pp:"yi4",d:"used in 解㑊[xie4 yi4]",t:"㑊"}],t=[{w:"解㑊",p:"xiè yì",d:"(TCM) fatigue, often associated with muscle atony and emaciation"}],c=[],n="",o="",i="",a=[],e={s,w:t,i:c,r:n,sc:o,c:i,d:a};export{i as c,a as d,e as default,c as i,n as r,s,o as sc,t as w};

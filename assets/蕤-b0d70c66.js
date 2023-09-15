@@ -1,0 +1,1 @@
+const o=[{p:"ruí",pp:"rui2",d:"fringe ☆ overladen with flowers",t:"蕤"}],s=[{w:"萎蕤",p:"wěi ruí",d:"angular Solomon's seal (Polygonatum odoratum)"},{w:"葳蕤",p:"wēi ruí",d:"lush (vegetation) ☆ lethargic"}],t=[],n="艸",c="15",r=["吕","艹",""],a=[],e={s:o,w:s,i:t,r:n,sc:c,c:r,d:a};export{r as c,a as d,e as default,t as i,n as r,o as s,c as sc,s as w};

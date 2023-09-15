@@ -1,1 +1,0 @@
-const s=[{p:"mào",pp:"mao4",d:"(jade)",t:"瑁"}],t=[{p:"dài mào",w:"玳瑁",d:"hawksbill turtle (Eretmochelys imbricata) ☆ tortoiseshell",t:"玳瑁"},{p:"dài mào ké",w:"玳瑁壳",d:"tortoise shell",t:"玳瑁殼"},{p:"dài mào yǎn jìng",w:"玳瑁眼镜",d:"hawksbill shell-rimmed eyeglasses ☆ CL:副[fu4]",t:"玳瑁眼鏡"}],e=[],o={s,w:t,i:e};export{o as default,e as i,s,t as w};

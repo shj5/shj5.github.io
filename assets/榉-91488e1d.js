@@ -1,1 +1,0 @@
-const t=[{p:"jǔ",pp:"ju3",d:"Zeikowa acuminata",t:"櫸"}],s=[{p:"shān máo jǔ",w:"山毛榉",d:"beech",t:"山毛櫸"},{p:"jǔ mù",w:"榉木",d:"beech",t:"櫸木"}],c=[],e={s:t,w:s,i:c};export{e as default,c as i,t as s,s as w};

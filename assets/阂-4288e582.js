@@ -1,1 +1,0 @@
-const t=[{p:"hé",pp:"he2",d:"obstruct",t:"閡"}],s=[{p:"gé hé",w:"隔阂",d:"misunderstanding ☆ estrangement ☆ (language etc) barrier",t:"隔閡"}],e=[],n={s:t,w:s,i:e};export{n as default,e as i,t as s,s as w};

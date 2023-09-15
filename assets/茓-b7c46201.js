@@ -1,1 +1,0 @@
-const n=[{p:"xué",pp:"xue2",d:"to store grain by enclosing it in a woven mat rolled into a vertical cylinder",t:"茓"}],t=[{p:"xué zi",w:"茓子",d:"long woven mat used to form a cylindrical grain bin",t:"茓子"}],o=[],i={s:n,w:t,i:o};export{i as default,o as i,n as s,t as w};

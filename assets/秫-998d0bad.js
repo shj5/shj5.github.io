@@ -1,1 +1,0 @@
-const i=[{p:"shú",pp:"shu2",d:"broomcorn millet (Panicum spp.) ☆ Panicum italicum ☆ glutinous millet",t:"秫"}],t=[{p:"shú mǐ",w:"秫米",d:"broomcorn millet (Panicum spp.) ☆ Panicum italicum ☆ glutinous millet",t:"秫米"}],s=[],l={s:i,w:t,i:s};export{l as default,s as i,i as s,t as w};

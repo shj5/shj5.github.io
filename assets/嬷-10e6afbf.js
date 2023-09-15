@@ -1,0 +1,1 @@
+const t=[{p:"mó",pp:"mo2",d:"dialectal or obsolete equivalent of 媽|妈[ma1]",t:"嬤"}],o=[{w:"嬷嬷",p:"mó mo",d:"(dialect) elderly lady ☆ wet nurse ☆ Catholic nun"},{w:"阿嬷",p:"ā mā",d:"grandma (Tw)"}],c=[],s="女",n="17",e=["吅","女","麽"],a=[],d={s:t,w:o,i:c,r:s,sc:n,c:e,d:a};export{e as c,a as d,d as default,c as i,s as r,t as s,n as sc,o as w};

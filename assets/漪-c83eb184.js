@@ -1,1 +1,0 @@
-const i=[{p:"yī",pp:"yi1",d:"ripple",t:"漪"}],p=[{p:"lián yī",w:"涟漪",d:"ripple",t:"漣漪"},{p:"lián yī wēi yàng",w:"涟漪微漾",d:"ripples ☆ riffles",t:"漣漪微漾"},{p:"zài yī",w:"载漪",d:"Zai Yi (1856-1922), Manchu imperial prince and politician, disgraced after supporting the Boxers",t:"載漪"}],t=[],e={s:i,w:p,i:t};export{e as default,t as i,i as s,p as w};

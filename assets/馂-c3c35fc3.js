@@ -1,1 +1,0 @@
-const i=[{p:"jùn",pp:"jun4",d:"remains of a sacrifice or a meal",t:"餕"}],n=[{p:"jùn xiàn",w:"馂馅",d:"stuffing, forcemeat, filling, e.g. in a bun 包子[bao3 zi5] or ravioli 餃子|饺子[jiao3 zi5]",t:"餕餡"}],a=[],o={s:i,w:n,i:a};export{o as default,a as i,i as s,n as w};

@@ -1,1 +1,0 @@
-const n=[{p:"mín",pp:"min2",d:"to encourage oneself",t:"忞"},{p:"mǐn",pp:"min3",d:"ancient variant of 暋[min3]",t:"忞"},{p:"wěn",pp:"wen3",d:"disorderly ☆ messy ☆ chaotic",t:"忞"}],o=[{p:"kē shào mín",w:"柯劭忞",d:"Ke Shaomin (1850-1933), scholar, author of New History of the Yuan Dynasty 新元史[Xin1 Yuan2 shi3]",t:"柯劭忞"}],t=[],s={s:n,w:o,i:t};export{s as default,t as i,n as s,o as w};

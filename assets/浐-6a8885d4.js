@@ -1,1 +1,0 @@
-const n=[{p:"chǎn",pp:"chan3",d:"name of a river in Shaanxi province ☆ see 滻河|浐河[Chan3 He2]",t:"滻"}],a=[{p:"chǎn hé",w:"浐河",d:"Chan River (in Shaanxi province)",t:"滻河"}],e=[],i={s:n,w:a,i:e};export{i as default,e as i,n as s,a as w};

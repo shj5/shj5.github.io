@@ -1,0 +1,1 @@
+const n=[{p:"zhàn",pp:"zhan4",d:"to dip in (ink, sauce etc)",t:"蘸"}],c=[{w:"蘸火",p:"zhàn huǒ",d:"to quench (a metal workpiece)"},{w:"蘸破",p:"zhàn pò",d:"to wake up due to noise"},{w:"蘸酱",p:"zhàn jiàng",d:"dipping sauce ☆ to dip in sauce"}],t=[],s="艸",o="22",p=["吕","艹","醮"],e=[],i={s:n,w:c,i:t,r:s,sc:o,c:p,d:e};export{p as c,e as d,i as default,t as i,s as r,n as s,o as sc,c as w};

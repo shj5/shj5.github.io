@@ -1,1 +1,0 @@
-const i=[{p:"jiě",pp:"jie3",d:"variant of 解[jie3]",t:"觧"},{p:"jiè",pp:"jie4",d:"variant of 解[jie4]",t:"觧"},{p:"xiè",pp:"xie4",d:"variant of 解[xie4]",t:"觧"}],t=[],p=[],a={s:i,w:t,i:p};export{a as default,p as i,i as s,t as w};

@@ -1,1 +1,0 @@
-const t=[{p:"piāo",pp:"piao1",d:"to rob ☆ swift ☆ nimble",t:"剽"}],i=[{p:"piāo hàn",w:"剽悍",d:"swift and fierce",t:"剽悍"},{p:"piāo qiè",w:"剽窃",d:"to plunder ☆ to plagiarize",t:"剽竊"}],o=[],p={s:t,w:i,i:o};export{p as default,o as i,t as s,i as w};

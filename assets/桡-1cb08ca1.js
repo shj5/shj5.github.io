@@ -1,1 +1,0 @@
-const o=[{p:"ráo",pp:"rao2",d:"radius (anatomy) ☆ bone of the forearm",t:"橈"}],t=[{p:"ráo gǔ",w:"桡骨",d:"radius (anatomy) ☆ bone of the forearm",t:"橈骨"},{p:"zǔ ráo",w:"阻桡",d:"thwart ☆ obstruct",t:"阻橈"}],r=[],a={s:o,w:t,i:r};export{a as default,r as i,o as s,t as w};

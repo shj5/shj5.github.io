@@ -1,1 +1,0 @@
-const i=[{p:"yè",pp:"ye4",d:"surname Ye ☆ ancient district in modern day Hebei Province 河北省[He2 bei3 Sheng3]",t:"鄴"}],n=[{p:"jiàn yè",w:"建邺",d:"Jianye district of Nanjing City 南京市 in Jiangsu 江蘇|江苏",t:"建鄴"},{p:"jiàn yè qū",w:"建邺区",d:"Jianye district of Nanjing City 南京市 in Jiangsu 江蘇|江苏",t:"建鄴區"}],t=[],e={s:i,w:n,i:t};export{e as default,t as i,i as s,n as w};

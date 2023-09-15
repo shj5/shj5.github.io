@@ -1,1 +1,0 @@
-const t=[{p:"shì",pp:"shi4",d:"posthumous name or title ☆ to confer a posthumous title",t:"諡"},{p:"shì",pp:"shi4",d:"variant of 諡|谥[shi4]",t:"謚"},{p:"yì",pp:"yi4",d:"smiling face",t:"謚"}],s=[{p:"shì hào",w:"谥号",d:"posthumous name and title",t:"諡號"}],o=[],p={s:t,w:s,i:o};export{p as default,o as i,t as s,s as w};

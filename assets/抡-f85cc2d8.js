@@ -1,1 +1,0 @@
-const t=[{p:"lūn",pp:"lun1",d:"to swing (one's arms, a heavy object) ☆ to wave (a sword, one's fists) ☆ to fling (money)",t:"掄"},{p:"lún",pp:"lun2",d:"to select",t:"掄"}],n=[{p:"lún yuán",w:"抡元",d:"to win the top award ☆ to come first in the examination rankings",t:"掄元"},{p:"hú lūn",w:"胡抡",d:"to act rashly",t:"胡掄"}],o=[],s={s:t,w:n,i:o};export{s as default,o as i,t as s,n as w};

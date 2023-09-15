@@ -1,1 +1,0 @@
-const u=[{p:"kuò",pp:"kuo4",d:"used in 蛞螻|蛞蝼[kuo4 lou2] ☆ used in 蛞蝓[kuo4 yu2]",t:"蛞"}],o=[{p:"hǎi kuò yú",w:"海蛞蝓",d:"sea slug",t:"海蛞蝓"},{p:"kuò yú",w:"蛞蝓",d:"(zoology) slug",t:"蛞蝓"},{p:"kuò lóu",w:"蛞蝼",d:"mole cricket (Gryllotalpa)",t:"蛞螻"}],s=[],t={s:u,w:o,i:s};export{t as default,s as i,u as s,o as w};

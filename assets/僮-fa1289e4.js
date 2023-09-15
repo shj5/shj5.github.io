@@ -1,1 +1,0 @@
-const t=[{p:"zhuàng",pp:"zhuang4",d:"old variant of 壯|壮, Zhuang ethnic group of Guangxi",t:"僮"},{p:"tóng",pp:"tong2",d:"servant boy",t:"僮"}],n=[{p:"tóng pú",w:"僮仆",d:"boy servant",t:"僮僕"},{p:"zhuàng zú",w:"僮族",d:"old term for 壯族|壮族, Zhuang ethnic group of Guangxi",t:"僮族"},{p:"jiā tóng",w:"家僮",d:"servant",t:"家僮"}],o=[],g={s:t,w:n,i:o};export{g as default,o as i,t as s,n as w};

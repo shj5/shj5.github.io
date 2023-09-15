@@ -1,1 +1,0 @@
-const t=[{p:"biǎo",pp:"biao3",d:"to hang (paper) ☆ to mount (painting)",t:"裱"}],o=[{p:"biǎo hú",w:"裱糊",d:"to wallpaper",t:"裱糊"},{p:"biǎo bèi",w:"裱背",d:"to mount a picture ☆ also written 裱褙[biao3 bei4]",t:"裱背"},{p:"biǎo huā dài",w:"裱花袋",d:"pastry bag",t:"裱花袋"},{p:"biǎo bèi",w:"裱褙",d:"to mount a picture",t:"裱褙"}],i=[],p={s:t,w:o,i};export{p as default,i,t as s,o as w};

@@ -1,1 +1,0 @@
-const n=[{p:"běng",pp:"beng3",d:"variant of 埲[beng3]",t:"埄"},{p:"fēng",pp:"feng1",d:"landmark used during the Song Dynasty (960-1279 AD)",t:"埄"}],t=[],s=[],a={s:n,w:t,i:s};export{a as default,s as i,n as s,t as w};

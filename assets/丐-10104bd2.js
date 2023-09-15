@@ -1,1 +1,0 @@
-const g=[{p:"gài",pp:"gai4",d:"to beg for alms ☆ beggar",t:"丐"},{p:"gài",pp:"gai4",d:"variant of 丐[gai4]",t:"匃"},{p:"gài",pp:"gai4",d:"variant of 丐[gai4]",t:"匄"}],a=[{p:"gài bāng",w:"丐帮",d:"beggars' union ☆ a group of beggars",t:"丐幫"},{p:"qǐ gài",w:"乞丐",d:"beggar",t:"乞丐"}],i=[],t={s:g,w:a,i};export{t as default,i,g as s,a as w};

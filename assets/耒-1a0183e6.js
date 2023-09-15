@@ -1,1 +1,0 @@
-const n=[{p:"lěi",pp:"lei3",d:"plow",t:"耒"}],t=[{p:"lěi sì",w:"耒耜",d:"plow",t:"耒耜"},{p:"lěi yáng",w:"耒阳",d:"Leiyang, county-level city in Hengyang 衡陽|衡阳[Heng2 yang2], Hunan",t:"耒陽"},{p:"lěi yáng shì",w:"耒阳市",d:"Leiyang, county-level city in Hengyang 衡陽|衡阳[Heng2 yang2], Hunan",t:"耒陽市"}],e=[],i={s:n,w:t,i:e};export{i as default,e as i,n as s,t as w};

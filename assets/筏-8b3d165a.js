@@ -1,1 +1,0 @@
-const t=[{p:"fá",pp:"fa2",d:"variant of 筏[fa2]",t:"栰"},{p:"fá",pp:"fa2",d:"raft (of logs)",t:"筏"}],f=[{p:"jiù shēng fá",w:"救生筏",d:"a life raft",t:"救生筏"},{p:"mù fá",w:"木筏",d:"wooden raft, log raft",t:"木筏"},{p:"pí fá",w:"皮筏",d:"leather float ☆ inflatable raft",t:"皮筏"},{p:"fá zi",w:"筏子",d:"raft",t:"筏子"}],a=[],o={s:t,w:f,i:a};export{o as default,a as i,t as s,f as w};

@@ -1,1 +1,0 @@
-const t=[{p:"yuè",pp:"yue4",d:"ancient unit of volume (half a 合[ge3], equivalent to 50ml) ☆ ancient flute",t:"龠"}],e=[{p:"tuó yuè",w:"橐龠",d:"bellows for blowing up the fire in a furnace etc",t:"橐龠"},{p:"guǎn yuè",w:"管龠",d:"flute ☆ pipe ☆ key ☆ CL:把[ba3]",t:"管龠"}],n=[],u={s:t,w:e,i:n};export{u as default,n as i,t as s,e as w};

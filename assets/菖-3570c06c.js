@@ -1,1 +1,0 @@
-const s=[{p:"chāng",pp:"chang1",d:"see 菖蒲[chang1 pu2]",t:"菖"}],e=[{p:"shuǐ chāng pú",w:"水菖蒲",d:"Acorus calamus ☆ sweet sedge or sweet flag",t:"水菖蒲"},{p:"chāng pú",w:"菖蒲",d:"Acorus calamus ☆ sweet sedge or sweet flag",t:"菖蒲"}],c=[],t={s,w:e,i:c};export{t as default,c as i,s,e as w};

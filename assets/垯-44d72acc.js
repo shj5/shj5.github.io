@@ -1,1 +1,0 @@
-const p=[{p:"da",pp:"da5",d:"see 圪垯, lump ☆ pimple ☆ mound",t:"垯"}],s=[{p:"gē da",w:"圪垯",d:"lump ☆ pimple ☆ mound ☆ same as 疙瘩",t:"圪垯"}],d=[],t={s:p,w:s,i:d};export{t as default,d as i,p as s,s as w};

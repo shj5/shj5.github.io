@@ -1,1 +1,0 @@
-const n=[{p:"chǎng",pp:"chang3",d:"disappointed ☆ listless ☆ frightened ☆ also pr. [tang3]",t:"惝"}],t=[{p:"chǎng huǎng",w:"惝恍",d:"hurt and disappointed ☆ blurry and unclear",t:"惝恍"}],i=[{p:"mí lí chǎng huǎng",w:"迷离惝恍",d:"indistinct ☆ blurred ☆ bewildering ☆ confusing to the eye (idiom)",t:"迷離惝恍"}],d={s:n,w:t,i};export{d as default,i,n as s,t as w};

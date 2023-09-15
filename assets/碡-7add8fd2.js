@@ -1,0 +1,1 @@
+const o=[{p:"zhóu",pp:"zhou2",d:"stone roller (for threshing grain, leveling ground etc)",t:"碡"}],n=[{w:"碌碡",p:"liù zhou",d:"stone roller (for threshing grain, leveling ground etc)"}],s=[],t="石",r="14",c=["吅","石","毒"],e=[],l={s:o,w:n,i:s,r:t,sc:r,c,d:e};export{c,e as d,l as default,s as i,t as r,o as s,r as sc,n as w};

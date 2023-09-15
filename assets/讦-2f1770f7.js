@@ -1,1 +1,0 @@
-const t=[{p:"jié",pp:"jie2",d:"to accuse ☆ to pry",t:"訐"}],o=[{p:"gōng jié",w:"攻讦",d:"to attack sb by exposing faults ☆ to denounce",t:"攻訐"}],s=[],c={s:t,w:o,i:s};export{c as default,s as i,t as s,o as w};

@@ -1,1 +1,0 @@
-const n=[{p:"pèi",pp:"pei4",d:"pennant ☆ streamer",t:"旆"}],t=[{p:"zhēng pèi",w:"征旆",d:"pennant used on expedition ☆ war pennant",t:"征旆"}],p=[],e={s:n,w:t,i:p};export{e as default,p as i,n as s,t as w};

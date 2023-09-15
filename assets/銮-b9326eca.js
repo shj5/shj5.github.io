@@ -1,1 +1,0 @@
-const n=[{p:"luán",pp:"luan2",d:"imperial",t:"鑾"}],t=[{p:"huí luán",w:"回銮",d:"return of the emperor",t:"回鑾"},{p:"jīn luán diàn",w:"金銮殿",d:"throne room",t:"金鑾殿"},{p:"luán jià",w:"銮驾",d:"imperial chariot",t:"鑾駕"},{p:"é luán bí",w:"鹅銮鼻",d:"Cape Eluanpi or Eluanbi, southernmost point of Taiwan Island",t:"鵝鑾鼻"}],o=[],p={s:n,w:t,i:o};export{p as default,o as i,n as s,t as w};

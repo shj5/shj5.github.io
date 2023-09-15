@@ -1,1 +1,0 @@
-const s=[{p:"yì",pp:"yi4",d:"to talk in one's sleep",t:"囈"}],e=[{p:"yì yǔ",w:"呓语",d:"to talk in one's sleep ☆ crazy talk",t:"囈語"},{p:"mèng yì",w:"梦呓",d:"talking in one's sleep ☆ delirious ravings ☆ nonsense ☆ sheer fantasy",t:"夢囈"},{p:"sā yì zheng",w:"撒呓挣",d:"(coll.) to talk in one's sleep, to sleepwalk",t:"撒囈掙"}],n=[],t={s,w:e,i:n};export{t as default,n as i,s,e as w};

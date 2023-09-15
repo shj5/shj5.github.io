@@ -1,0 +1,1 @@
+const s=[{p:"jué",pp:"jue2",d:"deceitful",t:"譎"}],c=[{w:"奇谲",p:"qí jué",d:"strange and deceitful ☆ sly ☆ treacherous"},{w:"诡谲",p:"guǐ jué",d:"weird ☆ sly ☆ treacherous"}],t=[],e="言",o="14",d=["吅","讠","矞"],n=[],u={s,w:c,i:t,r:e,sc:o,c:d,d:n};export{d as c,n as d,u as default,t as i,e as r,s,o as sc,c as w};

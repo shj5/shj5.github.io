@@ -1,1 +1,0 @@
-const r=[{p:"rú",pp:"ru2",d:"surname Ru",t:"孺"},{p:"rú",pp:"ru2",d:"child",t:"孺"}],o=[{p:"rú rén",w:"孺人",d:"(old) wife ☆ mother",t:"孺人"},{p:"rú zǐ",w:"孺子",d:"(literary) child",t:"孺子"}],t=[{p:"fù rú jiē zhī",w:"妇孺皆知",d:"understood by everyone (idiom), well known ☆ a household name",t:"婦孺皆知"}],d={s:r,w:o,i:t};export{d as default,t as i,r as s,o as w};

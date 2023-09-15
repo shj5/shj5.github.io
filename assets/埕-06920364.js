@@ -1,1 +1,0 @@
-const n=[{p:"chéng",pp:"cheng2",d:"earthen jar",t:"埕"}],t=[{p:"yán chéng",w:"盐埕",d:"Yancheng district of Kaohsiung city 高雄市[Gao1 xiong2 shi4], south Taiwan",t:"鹽埕"},{p:"yán chéng qū",w:"盐埕区",d:"Yancheng district of Kaohsiung city 高雄市[Gao1 xiong2 shi4], south Taiwan",t:"鹽埕區"}],i=[],o={s:n,w:t,i};export{o as default,i,n as s,t as w};

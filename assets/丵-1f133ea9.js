@@ -1,0 +1,1 @@
+const s=[{p:"zhuó",pp:"zhuo2",d:'thick grass ☆ "bush" component in Chinese characters',t:"丵"}],c=[],t=[],n="丨",o="10",e=["吕","业","𢆉"],h=["凿","業","菐"],r={s,w:c,i:t,r:n,sc:o,c:e,d:h};export{e as c,h as d,r as default,t as i,n as r,s,o as sc,c as w};

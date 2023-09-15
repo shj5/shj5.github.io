@@ -1,1 +1,0 @@
-const t=[{p:"lài",pp:"lai4",d:"a sound ☆ a noise ☆ musical pipe with 3 reeds",t:"籟"}],i=[{p:"tiān lài",w:"天籁",d:"sounds of nature",t:"天籟"}],n=[{p:"wàn lài jù jì",w:"万籁俱寂",d:"not a sound to be heard (idiom)",t:"萬籟俱寂"},{p:"wàn lài wú shēng",w:"万籁无声",d:"not a sound to be heard (idiom) ☆ dead silent",t:"萬籟無聲"}],o={s:t,w:i,i:n};export{o as default,n as i,t as s,i as w};

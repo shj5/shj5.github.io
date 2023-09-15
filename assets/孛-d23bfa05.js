@@ -1,1 +1,0 @@
-const t=[{p:"bèi",pp:"bei4",d:"comet",t:"孛"}],e=[{p:"bèi xīng",w:"孛星",d:"comet (arch.)",t:"孛星"},{p:"yuè bèi",w:"月孛",d:"(ancient Chinese astrology) Yuebei, a heavenly body postulated to exist at the apogee of the Moon's orbit, hindering the Moon's progress",t:"月孛"}],o=[],s={s:t,w:e,i:o};export{s as default,o as i,t as s,e as w};

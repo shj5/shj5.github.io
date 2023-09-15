@@ -1,1 +1,0 @@
-const t=[{p:"wǔ",pp:"wu3",d:"disobedient ☆ unfilial",t:"忤"}],i=[{p:"guāi wǔ",w:"乖忤",d:"stubborn ☆ contrary ☆ disobedient",t:"乖忤"},{p:"wǔ nì",w:"忤逆",d:"disobedient to parents",t:"忤逆"},{p:"wéi wǔ",w:"违忤",d:"to disobey",t:"違忤"}],o=[],s={s:t,w:i,i:o};export{s as default,o as i,t as s,i as w};

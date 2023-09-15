@@ -1,1 +1,0 @@
-const t=[{p:"xù",pp:"xu4",d:"drunk",t:"酗"}],n=[{p:"xù sòng",w:"酗讼",d:"to be drunk and rowdy",t:"酗訟"},{p:"xù jiǔ",w:"酗酒",d:"heavy drinking ☆ to get drunk ☆ to drink to excess",t:"酗酒"}],d=[{p:"xù jiǔ zī shì",w:"酗酒滋事",d:"drunken fighting ☆ to get drunk and quarrel",t:"酗酒滋事"}],o={s:t,w:n,i:d};export{o as default,d as i,t as s,n as w};

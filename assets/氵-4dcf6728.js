@@ -1,1 +1,0 @@
-const s=[{p:"shuǐ",pp:"shui3",d:'"water" radical in Chinese characters (Kangxi radical 85), occurring in 沒|没[mei2], 法[fa3], 流[liu2] etc ☆ see also 三點水|三点水[san1 dian3 shui3]',t:"氵"}],a=[],i=[],c={s,w:a,i};export{c as default,i,s,a as w};

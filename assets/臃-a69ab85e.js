@@ -1,1 +1,0 @@
-const o=[{p:"yōng",pp:"yong1",d:"see 臃腫|臃肿[yong1 zhong3]",t:"臃"}],n=[{p:"yōng zhǒng",w:"臃肿",d:"obese ☆ bloated ☆ swollen (style) ☆ (fig.) (of an organization) oversized or overstaffed",t:"臃腫"}],e=[],s={s:o,w:n,i:e};export{s as default,e as i,o as s,n as w};

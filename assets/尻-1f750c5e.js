@@ -1,1 +1,0 @@
-const o=[{p:"kāo",pp:"kao1",d:"(literary) buttocks, rump, coccyx, sacrum",t:"尻"}],t=[{p:"kāo mén zi",w:"尻门子",d:"anus (rural coll.)",t:"尻門子"},{p:"kāo gǔ",w:"尻骨",d:"coccyx ☆ tailbone at end of spine",t:"尻骨"}],c=[],s={s:o,w:t,i:c};export{s as default,c as i,o as s,t as w};

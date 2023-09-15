@@ -1,1 +1,0 @@
-const n=[{p:"xīn",pp:"xin1",d:"(used in names of people and shops, symbolizing prosperity)",t:"鑫"}],o=[{p:"tán xīn péi",w:"谭鑫培",d:"Tan Xinpei (1847-1917), noted opera actor",t:"譚鑫培"}],p=[],s={s:n,w:o,i:p};export{s as default,p as i,n as s,o as w};

@@ -1,1 +1,0 @@
-const o=[{p:"yǒu",pp:"you3",d:"to enlighten ☆ lattice window",t:"牖"}],t=[{p:"hù yǒu",w:"户牖",d:"door and window ☆ the home",t:"戶牖"}],n=[{p:"péng hù wèng yǒu",w:"蓬户瓮牖",d:"thatched house, broken urn windows (idiom), poor person's house ☆ humble home",t:"蓬戶甕牖"}],e={s:o,w:t,i:n};export{e as default,n as i,o as s,t as w};

@@ -1,1 +1,0 @@
-const n=[{p:"dìng",pp:"ding4",d:"buttocks ☆ butt",t:"腚"}],t=[{p:"guāng dìng zhǒng jú",w:"光腚肿菊",d:"(Internet slang) punning reference to 廣電總局|广电总局[Guang3 dian4 Zong3 ju2], the National Radio and Television Administration (NRTA)",t:"光腚腫菊"},{p:"cā dìng zhǐ",w:"擦腚纸",d:"toilet paper",t:"擦腚紙"}],e=[],i={s:n,w:t,i:e};export{i as default,e as i,n as s,t as w};

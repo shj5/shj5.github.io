@@ -1,1 +1,0 @@
-const o=[{p:"ǎi",pp:"ai3",d:"see historical character Lao Ai 嫪毐 ☆ by extension, person of reprehensible morals ☆ immoral ☆ adulterer",t:"毐"}],i=[{p:"lào ǎi",w:"嫪毐",d:"Lao Ai (-238 BC), man of Qin famous for his giant penis ☆ in fiction, bogus eunuch and the consort of king Ying Zheng's mother lady Zhao",t:"嫪毐"}],n=[],e={s:o,w:i,i:n};export{e as default,n as i,o as s,i as w};

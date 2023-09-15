@@ -1,1 +1,0 @@
-const n=[{p:"shèn",pp:"shen4",d:"arsine",t:"胂"}],s=[{p:"èr jiǎ jī shèn suān",w:"二甲基胂酸",d:"dimethylarsenic acid (CH3)2AsO2H ☆ cacodylic acid",t:"二甲基胂酸"},{p:"èr běn lǜ shèn",w:"二苯氯胂",d:"diphenylchloroarsine",t:"二苯氯胂"},{p:"shèn fán nà míng",w:"胂凡纳明",d:"arsphenamine",t:"胂凡納明"}],i=[],c={s:n,w:s,i};export{c as default,i,n as s,s as w};

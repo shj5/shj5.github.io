@@ -1,1 +1,0 @@
-const o=[{p:"pī",pp:"pi1",d:"grand",t:"丕"}],a=[{p:"pī biàn",w:"丕变",d:"radical change",t:"丕變"},{p:"cáo pī",w:"曹丕",d:"Cao Pi (187-226), second son of Cao Cao 曹操, king then emperor of Cao Wei 曹魏 from 220, ruled as Emperor Wen 魏文帝, also a noted calligrapher",t:"曹丕"}],e=[],n={s:o,w:a,i:e};export{n as default,e as i,o as s,a as w};

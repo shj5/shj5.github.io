@@ -1,0 +1,1 @@
+const s=[{p:"guǐ",pp:"gui3",d:"(literary) dilapidated, collapsed, damaged",t:"垝"}],c=[{w:"垝垣",p:"guǐ yuán",d:"collapsed wall ☆ ruined wall"}],d=[],t="土",a="9",l=["吅","土","危"],o=[],n={s,w:c,i:d,r:t,sc:a,c:l,d:o};export{l as c,o as d,n as default,d as i,t as r,s,a as sc,c as w};

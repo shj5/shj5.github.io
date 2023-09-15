@@ -1,1 +1,0 @@
-const s=[{p:"zhēng",pp:"zheng1",d:"multitudinous ☆ the masses ☆ to present (to sb) ☆ to rise ☆ to advance ☆ to progress ☆ archaic variant of 蒸[zheng1]",t:"烝"}],t=[{p:"zhēng mín",w:"烝民",d:"people ☆ the masses",t:"烝民"},{p:"zhēng lí",w:"烝黎",d:"people ☆ the masses",t:"烝黎"}],e=[],o={s,w:t,i:e};export{o as default,e as i,s,t as w};

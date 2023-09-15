@@ -1,1 +1,0 @@
-const t=[{p:"zhì",pp:"zhi4",d:"a stallion ☆ to rise ☆ to arrange ☆ to stabilize ☆ to differentiate ☆ to judge",t:"騭"}],e=[{p:"píng zhì",w:"评骘",d:"to evaluate ☆ to appraise",t:"評騭"},{p:"yīn zhì",w:"阴骘",d:"charitable acts performed in secret ☆ hidden good deeds",t:"陰騭"}],o=[],a={s:t,w:e,i:o};export{a as default,o as i,t as s,e as w};

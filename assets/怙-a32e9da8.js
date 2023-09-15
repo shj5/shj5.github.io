@@ -1,1 +1,0 @@
-const t=[{p:"hù",pp:"hu4",d:"to rely on ☆ father (formal)",t:"怙"}],o=[{p:"shī hù",w:"失怙",d:"to be orphaned of one's father",t:"失怙"},{p:"hù shì",w:"怙恃",d:"to rely on ☆ father and mother (classical)",t:"怙恃"}],e=[{p:"hù è bù quān",w:"怙恶不悛",d:"to keep doing evil without a sense of repentance (idiom)",t:"怙惡不悛"}],n={s:t,w:o,i:e};export{n as default,e as i,t as s,o as w};

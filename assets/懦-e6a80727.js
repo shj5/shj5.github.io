@@ -1,1 +1,0 @@
-const t=[{p:"nuò",pp:"nuo4",d:"imbecile ☆ timid",t:"懦"}],n=[{p:"qiè nuò",w:"怯懦",d:"timid ☆ gutless ☆ weakling",t:"怯懦"},{p:"yú nuò",w:"愚懦",d:"ignorant and timid",t:"愚懦"},{p:"nuò fū",w:"懦夫",d:"coward",t:"懦夫"},{p:"nuò ruò",w:"懦弱",d:"cowardly ☆ weak",t:"懦弱"}],i=[],d={s:t,w:n,i};export{d as default,i,t as s,n as w};

@@ -1,1 +1,0 @@
-const t=[{p:"xù",pp:"xu4",d:"beguile ☆ suddenly",t:"魆"}],e=[{p:"xù xù",w:"魆魆",d:"quietly, secretly",t:"魆魆"},{p:"xù xù",w:"魆魆",d:"quietly, secretly",t:"魆魆"},{p:"hēi xū xū",w:"黑魆魆",d:"pitch dark",t:"黑魆魆"},{p:"hēi xū xū",w:"黑魆魆",d:"pitch dark",t:"黑魆魆"}],x=[],d={s:t,w:e,i:x};export{d as default,x as i,t as s,e as w};

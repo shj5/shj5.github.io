@@ -1,1 +1,0 @@
-const a=[{p:"dǎn",pp:"dan3",d:"to brush away ☆ to dust off ☆ brush ☆ duster ☆ CL:把[ba3]",t:"撣"}],t=[{p:"dǎn zi",w:"掸子",d:"duster ☆ CL:把[ba3]",t:"撣子"},{p:"shàn bāng",w:"掸邦",d:"Shan state of east Myanmar (Burma)",t:"撣邦"},{p:"shàn bāng gāo yuán",w:"掸邦高原",d:"Shan plateau of east Myanmar (Burma)",t:"撣邦高原"}],s=[],n={s:a,w:t,i:s};export{n as default,s as i,a as s,t as w};

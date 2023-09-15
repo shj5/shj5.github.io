@@ -1,1 +1,0 @@
-const a=[{p:"huì",pp:"hui4",d:"(cicada) ☆ Platypleura kaempferi",t:"蟪"}],e=[{p:"huì gū",w:"蟪蛄",d:"Platypleura kaempferi, a kind of cicada",t:"蟪蛄"},{p:"huì gū bù zhī chūn qiū",w:"蟪蛄不知春秋",d:"lit. short-lived cicada does not know the seasons, fig. to see only a small piece of the big picture",t:"蟪蛄不知春秋"}],t=[],i={s:a,w:e,i:t};export{i as default,t as i,a as s,e as w};

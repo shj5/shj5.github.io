@@ -1,1 +1,0 @@
-const t=[{p:"hū",pp:"hu1",d:"to whistle (with fingers in one's mouth) ☆ (onom.) for the sound of the wind",t:"唿"}],o=[{p:"hū shào",w:"唿哨",d:"to whistle (with fingers in one's mouth) ☆ nowadays written 呼哨",t:"唿哨"},{p:"hū lǎ",w:"唿喇",d:"whoosh",t:"唿喇"},{p:"hū là là",w:"唿喇喇",d:"roar of the wind",t:"唿喇喇"}],h=[],s={s:t,w:o,i:h};export{s as default,h as i,t as s,o as w};

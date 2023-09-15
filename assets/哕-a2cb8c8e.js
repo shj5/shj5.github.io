@@ -1,0 +1,1 @@
+const t=[{p:"huì",pp:"hui4",d:"used in 噦噦|哕哕[hui4 hui4]",t:"噦"},{p:"yuě",pp:"yue3",d:"to puke ☆ to hiccup",t:"噦"}],c=[{w:"干哕",p:"gān yue",d:"to dry-heave ☆ to retch"},{w:"哕哕",p:"huì huì",d:"rhythmical sound of a bell or a birdcall"}],o=[],s="口",u="9",d=["吅","口","岁"],h=[],n={s:t,w:c,i:o,r:s,sc:u,c:d,d:h};export{d as c,h as d,n as default,o as i,s as r,t as s,u as sc,c as w};

@@ -1,1 +1,0 @@
-const t=[{p:"kuí",pp:"kui2",d:"crossroads ☆ thoroughfare",t:"逵"}],a=[{p:"lǐ kuí",w:"李逵",d:"Li Kui, character in the novel Water Margin 水滸全傳|水浒全传[Shui3 hu3 quan2 zhuan4]",t:"李逵"}],o=[],s={s:t,w:a,i:o};export{s as default,o as i,t as s,a as w};

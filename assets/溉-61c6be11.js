@@ -1,1 +1,0 @@
-const i=[{p:"gài",pp:"gai4",d:"to irrigate",t:"溉"}],t=[{p:"dì miàn guàn gài",w:"地面灌溉",d:"surface irrigation",t:"地面灌溉"},{p:"gài dí",w:"溉涤",d:"to wash",t:"溉滌"},{p:"guàn gài",w:"灌溉",d:"to irrigate",t:"灌溉"},{p:"guàn gài qú",w:"灌溉渠",d:"irrigation channel",t:"灌溉渠"}],g=[],n={s:i,w:t,i:g};export{n as default,g as i,i as s,t as w};

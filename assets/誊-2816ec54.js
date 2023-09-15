@@ -1,1 +1,0 @@
-const t=[{p:"téng",pp:"teng2",d:"to transcribe ☆ to copy out ☆ (free word)",t:"謄"}],o=[{p:"téng xiě",w:"誊写",d:"to transcribe ☆ to make a fair copy",t:"謄寫"},{p:"téng lù",w:"誊录",d:"to copy out",t:"謄錄"}],n=[],c={s:t,w:o,i:n};export{c as default,n as i,t as s,o as w};

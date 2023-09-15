@@ -1,1 +1,0 @@
-const o=[{p:"dǒu",pp:"dou3",d:"square base for Chinese flagstaff",t:"枓"}],t=[{p:"dǒu gǒng",w:"枓拱",d:"variant of 斗拱[dou3 gong3]",t:"枓拱"},{p:"dǒu gǒng",w:"枓栱",d:"variant of 斗拱[dou3 gong3]",t:"枓栱"}],n=[],s={s:o,w:t,i:n};export{s as default,n as i,o as s,t as w};

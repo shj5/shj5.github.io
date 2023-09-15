@@ -1,1 +1,0 @@
-const e=[{p:"yē",pp:"ye1",d:'used to represent phonetic "ya" in Korean names',t:"倻"}],t=[{p:"jiā yē",w:"伽倻",d:"Gaya, a Korean confederacy of territorial polities in the Nakdong River basin of southern Korea (42-532 AD)",t:"伽倻"},{p:"jiā yē qín",w:"伽倻琴",d:"gayageum (Korean 12-stringed zither)",t:"伽倻琴"}],n=[],o={s:e,w:t,i:n};export{o as default,n as i,e as s,t as w};

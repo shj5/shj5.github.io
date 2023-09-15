@@ -1,1 +1,0 @@
-const e=[{p:"niè",pp:"nie4",d:"tweezers ☆ forceps ☆ nippers ☆ pliers ☆ to nip ☆ to pick up with tweezers ☆ to pluck out",t:"鑷"}],p=[{p:"niè zi",w:"镊子",d:"tweezers ☆ nippers ☆ pliers",t:"鑷子"}],t=[],s={s:e,w:p,i:t};export{s as default,t as i,e as s,p as w};

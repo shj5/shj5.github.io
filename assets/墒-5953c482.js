@@ -1,1 +1,0 @@
-const t=[{p:"shāng",pp:"shang1",d:"plowed earth ☆ soil moisture ☆ furrow",t:"墒"}],s=[{p:"bǎo shāng",w:"保墒",d:"preservation of soil moisture",t:"保墒"},{p:"shāng tǔ",w:"墒土",d:"plowed earth ☆ moist soil",t:"墒土"},{p:"shāng qíng",w:"墒情",d:"the state of moisture in the soil (and whether it can support a crop)",t:"墒情"}],o=[],e={s:t,w:s,i:o};export{e as default,o as i,t as s,s as w};

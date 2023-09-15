@@ -1,0 +1,1 @@
+const s=[{p:"suō",pp:"suo1",d:"variant of 挲[suo1]",t:"挱"},{p:"suō",pp:"suo1",d:"feel ☆ to fondle",t:"挲"}],o=[{w:"摩挲",p:"mā sa",d:"(coll.) to remove (crinkles, dirt) with the palm of the hand"}],t=[],c="手",n="11",e=["吕","沙","手"],d=[],p={s,w:o,i:t,r:c,sc:n,c:e,d};export{e as c,d,p as default,t as i,c as r,s,n as sc,o as w};

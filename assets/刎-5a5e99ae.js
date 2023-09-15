@@ -1,1 +1,0 @@
-const t=[{p:"wěn",pp:"wen3",d:"cut across (throat)",t:"刎"}],o=[{p:"zì wěn",w:"自刎",d:"to commit suicide by cutting one's own throat",t:"自刎"}],s=[],n={s:t,w:o,i:s};export{n as default,s as i,t as s,o as w};

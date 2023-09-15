@@ -1,0 +1,1 @@
+const o=[{p:"áo",pp:"ao2",d:"Ao, Shang Dynasty capital (northeast part of modern day Zhengzhou, Henan)",t:"隞"}],t=[],n=[],s="阜",c="14",a=["吅","阝",""],d=[],e={s:o,w:t,i:n,r:s,sc:c,c:a,d};export{a as c,d,e as default,n as i,s as r,o as s,c as sc,t as w};

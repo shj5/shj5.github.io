@@ -1,0 +1,1 @@
+const s=[{p:"lú",pp:"lu2",d:"forehead ☆ skull",t:"顱"}],l=[{w:"头颅",p:"tóu lú",d:"head ☆ skull"},{w:"颅底",p:"lú dǐ",d:"base of the skull"},{w:"颅测量",p:"lú cè liáng",d:"craniometry"},{w:"颅骨",p:"lú gǔ",d:"skull (of a dead body)"}],c=[],d="頁",o="11",t=["吅","卢","页"],n=[],e={s,w:l,i:c,r:d,sc:o,c:t,d:n};export{t as c,n as d,e as default,c as i,d as r,s,o as sc,l as w};

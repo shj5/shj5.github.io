@@ -1,1 +1,0 @@
-const t=[{p:"nuò",pp:"nuo4",d:"(indicating agreement) yes ☆ all right ☆ (drawing attention to) look! ☆ here! ☆ variant of 諾|诺[nuo4]",t:"喏"},{p:"rě",pp:"re3",d:"to salute ☆ make one's curtsy",t:"喏"}],n=[{p:"chàng nuò",w:"唱喏",d:'to answer respectfully "yes"',t:"唱喏"}],e=[],o={s:t,w:n,i:e};export{o as default,e as i,t as s,n as w};

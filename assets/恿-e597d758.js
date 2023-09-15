@@ -1,1 +1,0 @@
-const t=[{p:"yǒng",pp:"yong3",d:"to urge ☆ to incite",t:"恿"},{p:"yǒng",pp:"yong3",d:"old variant of 恿[yong3]",t:"惥"},{p:"yǒng",pp:"yong3",d:"old variant of 恿[yong3]",t:"慂"}],o=[{p:"sǒng yǒng",w:"怂恿",d:"to instigate ☆ to incite ☆ to urge ☆ to encourage",t:"慫恿"}],n=[],g={s:t,w:o,i:n};export{g as default,n as i,t as s,o as w};

@@ -1,1 +1,0 @@
-const d=[{p:"duó",pp:"duo2",d:"surname Duo",t:"鐸"},{p:"duó",pp:"duo2",d:"large ancient bell",t:"鐸"}],t=[{p:"sī duó",w:"司铎",d:"priest",t:"司鐸"},{p:"dū duó wáng cháo",w:"都铎王朝",d:"Tudor Dynasty, ruled England 1485-1603",t:"都鐸王朝"}],n=[],s={s:d,w:t,i:n};export{s as default,n as i,d as s,t as w};

@@ -1,1 +1,0 @@
-const s=[{p:"zuì",pp:"zui4",d:"1st birthday of a child",t:"晬"}],t=[{p:"zhōu zuì",w:"周晬",d:"one full year (e.g. on child's first birthday) ☆ same as 週歲|周岁[zhou1 sui4]",t:"周晬"}],i=[],o={s,w:t,i};export{o as default,i,s,t as w};

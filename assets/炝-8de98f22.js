@@ -1,1 +1,0 @@
-const t=[{p:"qiàng",pp:"qiang4",d:"to stir-fry then cook with sauce and water ☆ to boil food briefly then dress with soy etc ☆ to choke, to irritate (throat etc)",t:"熗"}],o=[],e=[],s={s:t,w:o,i:e};export{s as default,e as i,t as s,o as w};

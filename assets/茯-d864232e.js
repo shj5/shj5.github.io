@@ -1,1 +1,0 @@
-const n=[{p:"fú",pp:"fu2",d:"used in 茯苓[fu2 ling2]",t:"茯"}],o=[{p:"fú líng",w:"茯苓",d:"Wolfiporia extensa (a wood-decay fungus), fu ling, tuckahoe",t:"茯苓"}],s=[],t={s:n,w:o,i:s};export{t as default,s as i,n as s,o as w};

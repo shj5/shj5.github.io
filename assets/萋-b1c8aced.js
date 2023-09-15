@@ -1,1 +1,0 @@
-const t=[{p:"qī",pp:"qi1",d:"Celosia argentea ☆ luxuriant",t:"萋"}],a=[{p:"qī qī",w:"萋萋",d:"luxuriant ☆ lavish ☆ abundant",t:"萋萋"},{p:"qī qī",w:"萋萋",d:"luxuriant ☆ lavish ☆ abundant",t:"萋萋"}],n=[],s={s:t,w:a,i:n};export{s as default,n as i,t as s,a as w};

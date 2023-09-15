@@ -1,1 +1,0 @@
-const t=[{p:"zhù",pp:"zhu4",d:"to stand for a long time ☆ to wait ☆ to look forward to ☆ to accumulate",t:"佇"},{p:"zhù",pp:"zhu4",d:"to stand for a long time (variant of 佇|伫[zhu4])",t:"竚"}],o=[{p:"zhù liè",w:"伫列",d:"queue (computing)",t:"佇列"},{p:"zhù lì",w:"伫立",d:"to stand for a long time",t:"佇立"}],a=[],n={s:t,w:o,i:a};export{n as default,a as i,t as s,o as w};
