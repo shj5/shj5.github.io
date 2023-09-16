@@ -1,1 +1,0 @@
-const c=[{p:"qī",pp:"qi1",d:"whispering sound",t:"嘁"}],s=[],t=[{w:"嘁嘁喳喳",p:"qī qi chā chā",d:"chattering"}],n="口",o="14",i=["吅","口","戚"],d=[],p={s:c,w:s,i:t,r:n,sc:o,c:i,d};export{i as c,d,p as default,t as i,n as r,c as s,o as sc,s as w};

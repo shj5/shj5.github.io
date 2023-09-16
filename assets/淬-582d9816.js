@@ -1,0 +1,1 @@
+const t=[{p:"cuì",pp:"cui4",d:"dip into water ☆ to temper",t:"淬"}],c=[{w:"淬火",p:"cuì huǒ",d:"to quench ☆ to temper ☆ to harden by quenching"}],o=[],n="水",s="11",e=["氵","卒"],p=[],d={s:t,w:c,i:o,r:n,sc:s,c:e,d:p};export{e as c,p as d,d as default,o as i,n as r,t as s,s as sc,c as w};

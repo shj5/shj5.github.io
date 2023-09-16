@@ -1,0 +1,1 @@
+const s=[{p:"jié",pp:"jie2",d:"careful ☆ diligent ☆ firm",t:"劼"}],c=[{w:"李劼人",p:"lǐ jié rén",d:"Li Jieren (1891-1962), novelist"}],t=[],n="力",i="8",o=["吉","力"],e=[],r={s,w:c,i:t,r:n,sc:i,c:o,d:e};export{o as c,e as d,r as default,t as i,n as r,s,i as sc,c as w};

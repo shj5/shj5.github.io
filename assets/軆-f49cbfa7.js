@@ -1,1 +1,0 @@
-const t=[{p:"tǐ",pp:"ti3",d:"old variant of 體|体[ti3]",t:"軆"}],s=[],c=[],o="身",n="20",d=["吅","身","豊"],i=[],a={s:t,w:s,i:c,r:o,sc:n,c:d,d:i};export{d as c,i as d,a as default,c as i,o as r,t as s,n as sc,s as w};

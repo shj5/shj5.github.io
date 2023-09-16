@@ -1,1 +1,0 @@
-const n=[{p:"lián",pp:"lian2",d:"name of a river in Hunan",t:"濂"}],s=[{w:"宋濂",p:"sòng lián",d:"Song Lian (1310-1381), Ming dynasty writer, historian and politician"}],i=[],t="水",c="16",o=["吅","氵","廉"],a=[],r={s:n,w:s,i,r:t,sc:c,c:o,d:a};export{o as c,a as d,r as default,i,t as r,n as s,c as sc,s as w};

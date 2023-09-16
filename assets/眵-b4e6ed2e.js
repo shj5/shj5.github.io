@@ -1,1 +1,0 @@
-const s=[{p:"chī",pp:"chi1",d:"discharge (rheum) from the mucous membranes of the eyes",t:"眵"}],c=[{w:"眵目糊",p:"chī mu hū",d:"(dialect) gum (in one's eyes)"},{w:"眼眵",p:"yǎn chī",d:"mucus in the eyes"}],e=[],t="目",n="11",o=["吅","目","多"],h=[],d={s,w:c,i:e,r:t,sc:n,c:o,d:h};export{o as c,h as d,d as default,e as i,t as r,s,n as sc,c as w};

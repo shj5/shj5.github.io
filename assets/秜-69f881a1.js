@@ -1,0 +1,1 @@
+const s=[{p:"ní",pp:"ni2",d:"self-sown rice",t:"秜"},{p:"nì",pp:"ni4",d:"early-maturing rice",t:"秜"}],c=[],n=[],t="禾",o="10",i=["禾","尼"],p=[],r={s,w:c,i:n,r:t,sc:o,c:i,d:p};export{i as c,p as d,r as default,n as i,t as r,s,o as sc,c as w};

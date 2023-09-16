@@ -1,0 +1,1 @@
+const s=[{p:"xǐ",pp:"xi3",d:"variant of 璽|玺 ruler's seal",t:"鉨"}],c=[],t=[],o="金",n="13",r=["金","尔"],a=[],d={s,w:c,i:t,r:o,sc:n,c:r,d:a};export{r as c,a as d,d as default,t as i,o as r,s,n as sc,c as w};

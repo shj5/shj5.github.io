@@ -1,1 +1,0 @@
-const t=[{p:"zī",pp:"zi1",d:"projecting teeth ☆ to bare one's teeth",t:"齜"}],o=[],s=[{w:"龇牙咧嘴",p:"zī yá liě zuǐ",d:"to grimace (in pain) ☆ to show one's teeth ☆ to bare one's fangs"}],e="齒",n="14",c=["吅","齿","此"],i=[],a={s:t,w:o,i:s,r:e,sc:n,c,d:i};export{c,i as d,a as default,s as i,e as r,t as s,n as sc,o as w};

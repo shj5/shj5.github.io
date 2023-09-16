@@ -1,0 +1,1 @@
+const o=[{p:"dǒu",pp:"dou3",d:"square base for Chinese flagstaff",t:"枓"}],s=[{w:"枓拱",p:"dǒu gǒng",d:"variant of 斗拱[dou3 gong3]"},{w:"枓栱",p:"dǒu gǒng",d:"variant of 斗拱[dou3 gong3]"}],n=[],t="木",c="8",d=["木","斗"],a=[],g={s:o,w:s,i:n,r:t,sc:c,c:d,d:a};export{d as c,a as d,g as default,n as i,t as r,o as s,c as sc,s as w};

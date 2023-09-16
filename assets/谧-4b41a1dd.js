@@ -1,1 +1,0 @@
-const t=[{p:"mì",pp:"mi4",d:"quiet",t:"謐"}],c=[{w:"安谧",p:"ān mì",d:"tranquil ☆ peaceful"},{w:"恬谧",p:"tián mì",d:"quiet ☆ peaceful"},{w:"静谧",p:"jìng mì",d:"quiet ☆ still ☆ tranquil"}],s=[],n="言",i="12",e=["吅","讠","必皿"],o=[],p={s:t,w:c,i:s,r:n,sc:i,c:e,d:o};export{e as c,o as d,p as default,s as i,n as r,t as s,i as sc,c as w};

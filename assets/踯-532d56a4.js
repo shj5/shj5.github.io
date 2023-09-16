@@ -1,1 +1,0 @@
-const t=[{p:"zhí",pp:"zhi2",d:"hesitating ☆ to stop",t:"躑"}],o=[{w:"踯躅",p:"zhí zhú",d:"to tread ☆ to tramp ☆ to loiter ☆ to hover around"}],s=[],c="足",n="15",r=["吅","足","郑"],d=[],p={s:t,w:o,i:s,r:c,sc:n,c:r,d};export{r as c,d,p as default,s as i,c as r,t as s,n as sc,o as w};

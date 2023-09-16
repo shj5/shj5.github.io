@@ -1,1 +1,0 @@
-const o=[{p:"xǐng",pp:"xing3",d:"to blow (one's nose)",t:"擤"}],s=[{w:"擤鼻涕",p:"xǐng bí tì",d:"to blow one's nose"}],n=[],t="手",c="17",e=["吅","扌","鼻"],d=[],p={s:o,w:s,i:n,r:t,sc:c,c:e,d};export{e as c,d,p as default,n as i,t as r,o as s,c as sc,s as w};

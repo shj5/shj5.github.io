@@ -1,0 +1,1 @@
+const t=[{p:"téng",pp:"teng2",d:"bind ☆ cord ☆ tie up",t:"縢"}],c=[],s=[],n="糸",o="16",d=["月"],p=[],e={s:t,w:c,i:s,r:n,sc:o,c:d,d:p};export{d as c,p as d,e as default,s as i,n as r,t as s,o as sc,c as w};

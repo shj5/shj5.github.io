@@ -1,0 +1,1 @@
+const s=[{p:"hé",pp:"he2",d:"see 餄餎|饸饹[he2 le5]",t:"餄"}],o=[{w:"饸饹",p:"hé le",d:"noodles either made of buckwheat or sorghum"}],c=[],e="食",t="9",n=["饣","合"],d=[],h={s,w:o,i:c,r:e,sc:t,c:n,d};export{n as c,d,h as default,c as i,e as r,s,t as sc,o as w};

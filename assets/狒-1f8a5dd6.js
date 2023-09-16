@@ -1,0 +1,1 @@
+const o=[{p:"fèi",pp:"fei4",d:"hamadryad baboon",t:"狒"}],s=[{w:"狒狒",p:"fèi fèi",d:"baboon"},{w:"狮尾狒",p:"shī wěi fèi",d:"gelada (Theropithecus gelada), Ethiopian herbivorous monkey similar to baboon ☆ also written 吉爾達|吉尔达[ji2 er3 da2]"}],a=[],i="犬",t="8",n=["犭","弗"],c=[],d={s:o,w:s,i:a,r:i,sc:t,c:n,d:c};export{n as c,c as d,d as default,a as i,i as r,o as s,t as sc,s as w};

@@ -1,1 +1,0 @@
-const s=[{p:"léi",pp:"lei2",d:"used in 礌石[lei2 shi2]",t:"礌"}],t=[{w:"礌石",p:"léi shí",d:"(old) rocks that can be dropped from a height onto an attacking enemy"}],c=[],o="石",n="18",e=["吅","石","雷"],i=[],d={s,w:t,i:c,r:o,sc:n,c:e,d:i};export{e as c,i as d,d as default,c as i,o as r,s,n as sc,t as w};

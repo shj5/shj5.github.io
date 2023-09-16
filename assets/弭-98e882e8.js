@@ -1,0 +1,1 @@
+const t=[{p:"mǐ",pp:"mi3",d:"to stop ☆ repress",t:"弭"}],s=[{w:"消弭",p:"xiāo mǐ",d:"(literary) to eliminate ☆ to put an end to"}],o=[],c="弓",n="9",e=["弓","耳"],p=["麛"],i={s:t,w:s,i:o,r:c,sc:n,c:e,d:p};export{e as c,p as d,i as default,o as i,c as r,t as s,n as sc,s as w};

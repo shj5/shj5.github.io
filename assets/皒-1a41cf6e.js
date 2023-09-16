@@ -1,1 +1,0 @@
-const s=[{p:"é",pp:"e2",d:"see 皒皒[e2 e2]",t:"皒"}],c=[{w:"皒皒",p:"é é",d:"white"}],t=[],o="白",e="12",n=["吅","白","我"],d=[],p={s,w:c,i:t,r:o,sc:e,c:n,d};export{n as c,d,p as default,t as i,o as r,s,e as sc,c as w};

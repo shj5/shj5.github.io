@@ -1,0 +1,1 @@
+const n=[{p:"xù",pp:"xu4",d:"name of a river",t:"漵"}],u=[{w:"溆浦",p:"xù pǔ",d:"Xupu county in Huaihua 懷化|怀化[Huai2 hua4], Hunan"},{w:"溆浦县",p:"xù pǔ xiàn",d:"Xupu county in Huaihua 懷化|怀化[Huai2 hua4], Hunan"}],a=[],c="水",s="12",t=["氵","叙"],o=[],i={s:n,w:u,i:a,r:c,sc:s,c:t,d:o};export{t as c,o as d,i as default,a as i,c as r,n as s,s as sc,u as w};

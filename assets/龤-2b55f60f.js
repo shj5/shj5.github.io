@@ -1,0 +1,1 @@
+const t=[{p:"xié",pp:"xie2",d:"to harmonize ☆ to accord with ☆ to agree",t:"龤"}],c=[],o=[],s="龠",n="26",e=["龠","皆"],i=[],r={s:t,w:c,i:o,r:s,sc:n,c:e,d:i};export{e as c,i as d,r as default,o as i,s as r,t as s,n as sc,c as w};

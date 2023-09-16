@@ -1,1 +1,0 @@
-const n=[{p:"mǐng",pp:"ming3",d:"used in 酩酊[ming3 ding3]",t:"酩"}],d=[{w:"酩酊",p:"mǐng dǐng",d:"blind drunk"}],s=[{w:"酩酊大醉",p:"mǐng dǐng dà zuì",d:"dead drunk, plastered, as drunk as a lord"}],c="酉",t="13",o=["吅","酉","名"],g=[],r={s:n,w:d,i:s,r:c,sc:t,c:o,d:g};export{o as c,g as d,r as default,s as i,c as r,n as s,t as sc,d as w};

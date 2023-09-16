@@ -1,1 +1,0 @@
-const c=[{p:"zhěn",pp:"zhen3",d:"bushy black hair",t:"鬒"}],s=[{w:"鬒发",p:"zhěn fà",d:"luxuriant black hair"}],n=[],t="髟",o="20",a=["吕","髟","真"],h=[],r={s:c,w:s,i:n,r:t,sc:o,c:a,d:h};export{a as c,h as d,r as default,n as i,t as r,c as s,o as sc,s as w};

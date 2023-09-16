@@ -1,0 +1,1 @@
+const s=[{p:"mǔ",pp:"mu3",d:"see 鈷鉧|钴𬭁[gu3 mu3]",t:"鉧"}],c=[{w:"钴𬭁",p:"gǔ mǔ",d:"(literary) clothes iron"}],t=[],o="",n="",e=[],r=[],d={s,w:c,i:t,r:o,sc:n,c:e,d:r};export{e as c,r as d,d as default,t as i,o as r,s,n as sc,c as w};

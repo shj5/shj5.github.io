@@ -1,0 +1,1 @@
+const o=[{p:"biāo",pp:"biao1",d:"copious (of rain or snow)",t:"瀌"}],s=[],c=[],t="水",n="18",i=["氵","麃"],p=[],r={s:o,w:s,i:c,r:t,sc:n,c:i,d:p};export{i as c,p as d,r as default,c as i,t as r,o as s,n as sc,s as w};

@@ -1,1 +1,0 @@
-const o=[{p:"biāo",pp:"biao1",d:"variant of 飆|飙[biao1]",t:"飈"}],s=[],c=[],t="風",n="16",a=["吅","风","焱"],i=[],d={s:o,w:s,i:c,r:t,sc:n,c:a,d:i};export{a as c,i as d,d as default,c as i,t as r,o as s,n as sc,s as w};

@@ -1,0 +1,1 @@
+const o=[{p:"dā",pp:"da1",d:"ears hanging down",t:"耷"}],d=[{w:"滴里耷拉",p:"dī lǐ dā lā",d:"sagging ☆ drooping"},{w:"耷拉",p:"dā la",d:"to droop ☆ to dangle"}],s=[],n="耳",t="9",c=["大","耳"],a=[],p={s:o,w:d,i:s,r:n,sc:t,c,d:a};export{c,a as d,p as default,s as i,n as r,o as s,t as sc,d as w};

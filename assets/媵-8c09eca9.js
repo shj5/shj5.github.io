@@ -1,1 +1,0 @@
-const c=[{p:"yìng",pp:"ying4",d:"maid escorting bride to new home ☆ concubine",t:"媵"}],n=[{w:"媵侍",p:"yìng shì",d:"concubine (old)"}],o=[],s="女",t="13",d=["吅","月","飬"],e=[],i={s:c,w:n,i:o,r:s,sc:t,c:d,d:e};export{d as c,e as d,i as default,o as i,s as r,c as s,t as sc,n as w};

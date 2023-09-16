@@ -1,0 +1,1 @@
+const o=[{p:"jí",pp:"ji2",d:"trunks (for books)",t:"笈"}],s=[{w:"秘笈",p:"mì jí",d:"secret book or collection of books"}],c=[],t="竹",n="10",r=["竹","及"],d=[],e={s:o,w:s,i:c,r:t,sc:n,c:r,d};export{r as c,d,e as default,c as i,t as r,o as s,n as sc,s as w};

@@ -1,0 +1,1 @@
+const t=[{p:"lóng",pp:"long2",d:"throat",t:"嚨"}],s=[{w:"喉咙",p:"hóu lóng",d:"the throat"}],c=[],o="口",n="8",d=["口","龙"],p=[],r={s:t,w:s,i:c,r:o,sc:n,c:d,d:p};export{d as c,p as d,r as default,c as i,o as r,t as s,n as sc,s as w};

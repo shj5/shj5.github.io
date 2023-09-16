@@ -1,1 +1,0 @@
-const t=[{p:"tán",pp:"tan2",d:"bitter taste in wine ☆ rich ☆ full flavored",t:"醰"}],s=[],c=[],n="酉",o="19",e=["吅","酉","覃"],i=[],r={s:t,w:s,i:c,r:n,sc:o,c:e,d:i};export{e as c,i as d,r as default,c as i,n as r,t as s,o as sc,s as w};

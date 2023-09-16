@@ -1,1 +1,0 @@
-const n=[{p:"yīn",pp:"yin1",d:"generative force ☆ magic emanation",t:"絪"}],c=[{w:"𬘡缊",p:"yīn yūn",d:"variant of 氤氳|氤氲[yin1 yun1]"}],t=[],s="",o="",a="",i=[],e={s:n,w:c,i:t,r:s,sc:o,c:a,d:i};export{a as c,i as d,e as default,t as i,s as r,n as s,o as sc,c as w};

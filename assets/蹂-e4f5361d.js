@@ -1,1 +1,0 @@
-const t=[{p:"róu",pp:"rou2",d:"trample",t:"蹂"}],o=[{w:"蹂躏",p:"róu lìn",d:"to ravage ☆ to devastate ☆ to trample on ☆ to violate"}],s=[],c="足",n="16",a=["吅","足","柔"],r=[],e={s:t,w:o,i:s,r:c,sc:n,c:a,d:r};export{a as c,r as d,e as default,s as i,c as r,t as s,n as sc,o as w};

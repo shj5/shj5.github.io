@@ -1,1 +1,0 @@
-const s=[{p:"wū",pp:"wu1",d:"tungsten (chemistry)",t:"鎢"}],t=[{w:"白钨矿",p:"bái wū kuàng",d:"scheelite"}],c=[],n="金",o="9",e=["吅","钅","乌"],w=[],d={s,w:t,i:c,r:n,sc:o,c:e,d:w};export{e as c,w as d,d as default,c as i,n as r,s,o as sc,t as w};

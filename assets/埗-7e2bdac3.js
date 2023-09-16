@@ -1,0 +1,1 @@
+const o=[{p:"bù",pp:"bu4",d:"wharf ☆ dock ☆ jetty ☆ trading center ☆ port ☆ place name",t:"埗"}],t=[{w:"深水埗",p:"shēn shuǐ bù",d:"Sham Shui Po district of Kowloon, Hong Kong"}],c=[],s="土",n="10",d=["土","步"],r=[],a={s:o,w:t,i:c,r:s,sc:n,c:d,d:r};export{d as c,r as d,a as default,c as i,s as r,o as s,n as sc,t as w};

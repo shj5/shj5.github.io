@@ -1,1 +1,0 @@
-const s=[{p:"gǒng",pp:"gong3",d:"hands joined",t:"廾"}],c=[],n=[],o="*",t="3",d=["一","廾","*"],g=["冊","卉","廾","开","弁","异","弄","弅","弆","弇","弈","弉","弊","戒","灷","竎","羿","舁","馵","龏"],p={s,w:c,i:n,r:o,sc:t,c:d,d:g};export{d as c,g as d,p as default,n as i,o as r,s,t as sc,c as w};

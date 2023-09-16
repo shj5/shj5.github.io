@@ -1,1 +1,0 @@
-const c=[{p:"xián",pp:"xian2",d:"to bring into accord ☆ sincerity",t:"諴"}],s=[],t=[],n="",o="",i="",r=[],d={s:c,w:s,i:t,r:n,sc:o,c:i,d:r};export{i as c,r as d,d as default,t as i,n as r,c as s,o as sc,s as w};

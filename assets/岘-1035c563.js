@@ -1,0 +1,1 @@
+const n=[{p:"xiàn",pp:"xian4",d:"abbr. for 峴首山|岘首山[Xian4 shou3 shan1] ☆ Mt Xianshou in Hubei ☆ steep hill ☆ used in place names",t:"峴"}],s=[{w:"岘港",p:"xiàn gǎng",d:"Da Nang or Danang, Vietnam"},{w:"岘首山",p:"xiàn shǒu shān",d:"Mt Xianshou in Hubei"}],i=[],a="山",t="7",o=["山","见"],c=[],e={s:n,w:s,i,r:a,sc:t,c:o,d:c};export{o as c,c as d,e as default,i,a as r,n as s,t as sc,s as w};

@@ -1,1 +1,0 @@
-const s=[{p:"jiá",pp:"jia2",d:"lined",t:"袷"}],c=[{w:"袷袄",p:"jiá ǎo",d:"variant of 夾襖|夹袄[jia2 ao3]"}],o=[],t="衣",n="12",i=["吅","衤","合"],a=[],d={s,w:c,i:o,r:t,sc:n,c:i,d:a};export{i as c,a as d,d as default,o as i,t as r,s,n as sc,c as w};

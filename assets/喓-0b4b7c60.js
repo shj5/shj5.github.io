@@ -1,1 +1,0 @@
-const s=[{p:"yāo",pp:"yao1",d:"grasshopper chirp ☆ mosquito buzz",t:"喓"}],o=[],c=[],t="口",n="12",p=["吅","口","要"],r=[],a={s,w:o,i:c,r:t,sc:n,c:p,d:r};export{p as c,r as d,a as default,c as i,t as r,s,n as sc,o as w};

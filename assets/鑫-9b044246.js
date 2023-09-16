@@ -1,0 +1,1 @@
+const n=[{p:"xīn",pp:"xin1",d:"(used in names of people and shops, symbolizing prosperity)",t:"鑫"}],s=[{w:"谭鑫培",p:"tán xīn péi",d:"Tan Xinpei (1847-1917), noted opera actor"}],o=[],t="金",c="24",p=["金"],e=[],i={s:n,w:s,i:o,r:t,sc:c,c:p,d:e};export{p as c,e as d,i as default,o as i,t as r,n as s,c as sc,s as w};

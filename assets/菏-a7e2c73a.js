@@ -1,0 +1,1 @@
+const e=[{p:"hé",pp:"he2",d:"He river in Shandong",t:"菏"}],n=[{w:"菏泽",p:"hé zé",d:"Heze prefecture-level city in Shandong"},{w:"菏泽市",p:"hé zé shì",d:"Heze prefecture-level city in Shandong"},{w:"菏兰",p:"hé lán",d:"Holland"}],c=[],t="艸",s="11",o=["艹","河"],d=[],h={s:e,w:n,i:c,r:t,sc:s,c:o,d};export{o as c,d,h as default,c as i,t as r,e as s,s as sc,n as w};

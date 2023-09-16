@@ -1,1 +1,0 @@
-const s=[{p:"lái",pp:"lai2",d:"used in 招徠|招徕[zhao1 lai2]",t:"徠"}],o=[{w:"招徕",p:"zhāo lái",d:"to canvass (for customers) ☆ to solicit ☆ to recruit"}],t=[],c="彳",i="10",n=["吅","彳","来"],a=[],r={s,w:o,i:t,r:c,sc:i,c:n,d:a};export{n as c,a as d,r as default,t as i,c as r,s,i as sc,o as w};

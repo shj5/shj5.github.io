@@ -1,0 +1,1 @@
+const s=[{p:"zhù",pp:"zhu4",d:"percussion instrument, a tapering wooden box struck on the inside with a wooden stick",t:"柷"}],t=[],n=[],o="木",c="9",e=["木","兄"],i=[],d={s,w:t,i:n,r:o,sc:c,c:e,d:i};export{e as c,i as d,d as default,n as i,o as r,s,c as sc,t as w};

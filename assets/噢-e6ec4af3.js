@@ -1,1 +1,0 @@
-const s=[{p:"ō",pp:"o1",d:"Oh!",t:"噢"}],c=[{w:"噢运会",p:"ō yùn huì",d:"see 奧運會|奥运会[Ao4 yun4 hui4]"}],o=[],t="口",n="16",d=["吅","口","奧"],p=[],e={s,w:c,i:o,r:t,sc:n,c:d,d:p};export{d as c,p as d,e as default,o as i,t as r,s,n as sc,c as w};

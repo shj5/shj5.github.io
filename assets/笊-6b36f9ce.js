@@ -1,0 +1,1 @@
+const o=[{p:"zhào",pp:"zhao4",d:"loosely woven bamboo ladle",t:"笊"}],s=[{w:"笊篱",p:"zhào li",d:"strainer (made of bamboo, wicker, or wire)"}],c=[],t="竹",n="10",e=["竹","爪"],a=[],r={s:o,w:s,i:c,r:t,sc:n,c:e,d:a};export{e as c,a as d,r as default,c as i,t as r,o as s,n as sc,s as w};

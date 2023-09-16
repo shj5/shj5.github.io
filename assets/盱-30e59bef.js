@@ -1,1 +1,0 @@
-const n=[{p:"xū",pp:"xu1",d:"surname Xu",t:"盱"},{p:"xū",pp:"xu1",d:"anxious ☆ stare",t:"盱"}],s=[{w:"盱眙",p:"xū yí",d:"Xuyi county in Huai'an 淮安[Huai2 an1], Jiangsu"},{w:"盱眙县",p:"xū yí xiàn",d:"Xuyi county in Huai'an 淮安[Huai2 an1], Jiangsu"}],u=[],a="目",t="8",c=["吅","目","于"],i=[],o={s:n,w:s,i:u,r:a,sc:t,c,d:i};export{c,i as d,o as default,u as i,a as r,n as s,t as sc,s as w};

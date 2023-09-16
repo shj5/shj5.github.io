@@ -1,1 +1,0 @@
-const t=[{p:"pū",pp:"pu1",d:"to tap ☆ to knock lightly ☆ old variant of 撲|扑[pu1]",t:"攴"}],o=[],c=[],s="支",n="4",p=["吕","卜","又"],a=["敁","敆","敊","敍","敠","敡","敤","敥","敧","敮","敯","敱","敲","敺","敼","敽","斀","斅","軙","鈙","鼔"],d={s:t,w:o,i:c,r:s,sc:n,c:p,d:a};export{p as c,a as d,d as default,c as i,s as r,t as s,n as sc,o as w};

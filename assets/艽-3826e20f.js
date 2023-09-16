@@ -1,1 +1,0 @@
-const n=[{p:"jiāo",pp:"jiao1",d:"see 秦艽[qin2 jiao1]",t:"艽"}],o=[{w:"秦艽",p:"qín jiāo",d:"large leaf gentian (Gentiana macrophylla)"}],s=[],c="艸",t="6",a=["吕","艹","九"],i=[],e={s:n,w:o,i:s,r:c,sc:t,c:a,d:i};export{a as c,i as d,e as default,s as i,c as r,n as s,t as sc,o as w};

@@ -1,0 +1,1 @@
+const t=[{p:"yà",pp:"ya4",d:"dented ☆ chipped ☆ gap-toothed ☆ toothless",t:"齾"}],s=[],c=[],o="齒",n="35",d=[],e=[],p={s:t,w:s,i:c,r:o,sc:n,c:d,d:e};export{d as c,e as d,p as default,c as i,o as r,t as s,n as sc,s as w};

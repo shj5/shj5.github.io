@@ -1,0 +1,1 @@
+const o=[{p:"huō",pp:"huo1",d:"(metalwork) to ream ☆ to countersink ☆ to counterbore",t:"鍃"}],t=[{w:"锪孔",p:"huō kǒng",d:"an enlargement at the outer end of a drilled hole, either funnel-shaped (a countersink) or cylindrical (a counterbore)"}],e=[],n="金",c="13",r=["忽"],s=[],a={s:o,w:t,i:e,r:n,sc:c,c:r,d:s};export{r as c,s as d,a as default,e as i,n as r,o as s,c as sc,t as w};

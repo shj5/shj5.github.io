@@ -1,0 +1,1 @@
+const n=[{p:"tán",pp:"tan2",d:"surname Tan ☆ name of an ancient city",t:"郯"}],c=[{w:"郯城",p:"tán chéng",d:"Tancheng county in Linyi 臨沂|临沂[Lin2 yi2], Shandong"},{w:"郯城县",p:"tán chéng xiàn",d:"Tancheng county in Linyi 臨沂|临沂[Lin2 yi2], Shandong"}],t=[],i="邑",o="11",s=["炎"],a=[],d={s:n,w:c,i:t,r:i,sc:o,c:s,d:a};export{s as c,a as d,d as default,t as i,i as r,n as s,o as sc,c as w};

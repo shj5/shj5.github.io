@@ -1,1 +1,0 @@
-const n=[{p:"shǎng",pp:"shang3",d:"unit of land area (equivalent to 10 or 15 mǔ 畝|亩[mu3] in parts of northeast China, but only 3 or 5 mǔ in northwest China)",t:"垧"}],t=[],s=[],o="土",c="9",a=["吅","土","向"],r=[],i={s:n,w:t,i:s,r:o,sc:c,c:a,d:r};export{a as c,r as d,i as default,s as i,o as r,n as s,c as sc,t as w};

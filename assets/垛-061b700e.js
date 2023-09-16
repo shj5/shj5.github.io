@@ -1,1 +1,0 @@
-const t=[{p:"duǒ",pp:"duo3",d:"battlement ☆ target",t:"垛"},{p:"duò",pp:"duo4",d:"pile",t:"垛"},{p:"duǒ",pp:"duo3",d:"variant of 垛[duo3]",t:"垜"}],d=[{w:"垛口",p:"duǒ kǒu",d:"crenel"}],o=[],c="土",s="9",p=["吅","土","朵"],n=[],u={s:t,w:d,i:o,r:c,sc:s,c:p,d:n};export{p as c,n as d,u as default,o as i,c as r,t as s,s as sc,d as w};

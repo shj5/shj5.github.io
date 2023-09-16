@@ -1,0 +1,1 @@
+const s=[{p:"hù",pp:"hu4",d:"a species of freshwater catfish",t:"鱯"}],c=[],t=[],o="魚",n="21",e=["鱼","蒦"],a=[],p={s,w:c,i:t,r:o,sc:n,c:e,d:a};export{e as c,a as d,p as default,t as i,o as r,s,n as sc,c as w};

@@ -1,0 +1,1 @@
+const o=[{p:"dǐ",pp:"di3",d:"foundation ☆ root",t:"柢"}],n=[{w:"根柢",p:"gēn dǐ",d:"root ☆ foundation"}],t=[{w:"归根结柢",p:"guī gēn jié dǐ",d:"variant of 歸根結底|归根结底[gui1 gen1 jie2 di3]"}],d="木",s="9",c=["木","氐"],i=[],a={s:o,w:n,i:t,r:d,sc:s,c,d:i};export{c,i as d,a as default,t as i,d as r,o as s,s as sc,n as w};

@@ -1,1 +1,0 @@
-const t=[{p:"xiè",pp:"xie4",d:"variant of 紲|绁[xie4] ☆ to tie ☆ to bind",t:"緤"}],s=[],c=[],o="糸",n="15",i=["吅","糸","枼"],d=[],e={s:t,w:s,i:c,r:o,sc:n,c:i,d};export{i as c,d,e as default,c as i,o as r,t as s,n as sc,s as w};

@@ -1,1 +1,0 @@
-const s=[{p:"liáo",pp:"liao2",d:"(literary) hip bone ☆ (TCM) space between two joints",t:"髎"}],t=[],o=[],c="骨",n="21",e=["吅","骨","翏"],i=[],p={s,w:t,i:o,r:c,sc:n,c:e,d:i};export{e as c,i as d,p as default,o as i,c as r,s,n as sc,t as w};

@@ -1,0 +1,1 @@
+const s=[{p:"niè",pp:"nie4",d:"new shoot growing from cut branch or stump",t:"櫱"}],t=[{w:"分蘖",p:"fēn niè",d:"tiller (stem at the base of grass plants)"},{w:"蘖枝",p:"niè zhī",d:"branch stem"}],n=[],c="艸",o="20",r=["艹"],e=[],a={s,w:t,i:n,r:c,sc:o,c:r,d:e};export{r as c,e as d,a as default,n as i,c as r,s,o as sc,t as w};

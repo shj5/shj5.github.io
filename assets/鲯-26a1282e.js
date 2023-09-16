@@ -1,0 +1,1 @@
+const o=[{p:"qí",pp:"qi2",d:"mahi-mahi (Coryphaena hippurus) ☆ dorado",t:"鯕"}],s=[{w:"鲯鳅",p:"qí qiū",d:"mahi-mahi (Coryphaena hippurus) ☆ dorado"}],a=[],c="魚",p="16",t=["鱼","其"],i=[],n={s:o,w:s,i:a,r:c,sc:p,c:t,d:i};export{t as c,i as d,n as default,a as i,c as r,o as s,p as sc,s as w};

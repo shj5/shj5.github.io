@@ -1,1 +1,0 @@
-const s=[{p:"fú",pp:"fu2",d:"heavy rope ☆ ropes of a bier",t:"綍"}],c=[],o=[],t="糸",n="13",e=["吅","糸","孛"],p=[],r={s,w:c,i:o,r:t,sc:n,c:e,d:p};export{e as c,p as d,r as default,o as i,t as r,s,n as sc,c as w};

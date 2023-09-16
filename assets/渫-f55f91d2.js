@@ -1,1 +1,0 @@
-const t=[{p:"xiè",pp:"xie4",d:"surname Xie",t:"渫"},{p:"xiè",pp:"xie4",d:"to get rid of ☆ to discharge ☆ to dredge",t:"渫"}],s=[{w:"浚渫",p:"jùn xiè",d:"to dredge"}],o=[],c="水",d="12",e=["吅","氵","枼"],i=[],n={s:t,w:s,i:o,r:c,sc:d,c:e,d:i};export{e as c,i as d,n as default,o as i,c as r,t as s,d as sc,s as w};

@@ -1,1 +1,0 @@
-const t=[{p:"huàn",pp:"huan4",d:"(of writing, pictures etc) indistinct due to deterioration (water damage etc) ☆ blurry ☆ eroded",t:"漶"}],n=[{w:"漫漶",p:"màn huàn",d:"(of writing etc) indistinct (due to water damage or wear)"}],c=[],e="水",o="14",s=["吅","氵","患"],i=[],r={s:t,w:n,i:c,r:e,sc:o,c:s,d:i};export{s as c,i as d,r as default,c as i,e as r,t as s,o as sc,n as w};

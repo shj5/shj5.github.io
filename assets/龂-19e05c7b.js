@@ -1,0 +1,1 @@
+const s=[{p:"yín",pp:"yin2",d:"old variant of 齦|龈[yin2]",t:"齗"}],c=[],n=[],t="齒",o="12",d=["齿","斤"],i=[],a={s,w:c,i:n,r:t,sc:o,c:d,d:i};export{d as c,i as d,a as default,n as i,t as r,s,o as sc,c as w};

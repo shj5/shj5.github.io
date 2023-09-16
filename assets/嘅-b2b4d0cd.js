@@ -1,0 +1,1 @@
+const s=[{p:"gě",pp:"ge3",d:"possessive particle (Cantonese) ☆ Mandarin equivalent: 的[de5]",t:"嘅"}],t=[],c=[],n="口",e="14",o=["口","既"],a=[],d={s,w:t,i:c,r:n,sc:e,c:o,d:a};export{o as c,a as d,d as default,c as i,n as r,s,e as sc,t as w};

@@ -1,0 +1,1 @@
+const s=[{p:"jì",pp:"ji4",d:"pig snout (Kangxi radical 58)",t:"彐"}],c=[],t=[],n="*",o="3",i=["彐"],a=["刍","妇","寻","尹","帚","彐","归","当","录","彗","彛","扫","灵","雪"],d={s,w:c,i:t,r:n,sc:o,c:i,d:a};export{i as c,a as d,d as default,t as i,n as r,s,o as sc,c as w};

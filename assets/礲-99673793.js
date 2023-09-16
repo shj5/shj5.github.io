@@ -1,1 +1,0 @@
-const t=[{p:"lóng",pp:"long2",d:"variant of 礱|砻, to grind ☆ to mill",t:"礲"}],o=[],s=[],c="石",n="21",d=["吅","石","龍"],i=[],l={s:t,w:o,i:s,r:c,sc:n,c:d,d:i};export{d as c,i as d,l as default,s as i,c as r,t as s,n as sc,o as w};

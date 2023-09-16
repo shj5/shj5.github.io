@@ -1,0 +1,1 @@
+const t=[{p:"chí",pp:"chi2",d:"hesitating ☆ undecided ☆ hesitant",t:"踟"}],c=[{w:"踟躇",p:"chí chú",d:"variant of 踟躕|踟蹰[chi2 chu2]"},{w:"踟蹰",p:"chí chú",d:"to waver ☆ to hesitate"}],s=[{w:"踟蹰不前",p:"chí chú bu qián",d:"hesitant to take action"}],n="足",h="15",o=["足","知"],i=[],a={s:t,w:c,i:s,r:n,sc:h,c:o,d:i};export{o as c,i as d,a as default,s as i,n as r,t as s,h as sc,c as w};

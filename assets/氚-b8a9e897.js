@@ -1,0 +1,1 @@
+const t=[{p:"chuān",pp:"chuan1",d:"tritium 3H ☆ radioactive isotope of hydrogen having 2 neutrons in its nucleus, so atomic weight 3",t:"氚"}],s=[],c=[],o="气",n="7",i=["气","川"],e=[],a={s:t,w:s,i:c,r:o,sc:n,c:i,d:e};export{i as c,e as d,a as default,c as i,o as r,t as s,n as sc,s as w};

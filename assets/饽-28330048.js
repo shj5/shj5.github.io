@@ -1,1 +1,0 @@
-const s=[{p:"bō",pp:"bo1",d:"cake ☆ biscuit",t:"餑"}],c=[{w:"饽饽",p:"bō bo",d:"pastry ☆ steamed bun ☆ cake"},{w:"香饽饽",p:"xiāng bō bo",d:"delicious cakes ☆ popular person ☆ sth that is in high demand"}],t=[],o="食",n="10",a=["吅","饣","孛"],d=[],e={s,w:c,i:t,r:o,sc:n,c:a,d};export{a as c,d,e as default,t as i,o as r,s,n as sc,c as w};

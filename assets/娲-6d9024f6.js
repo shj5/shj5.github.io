@@ -1,1 +1,0 @@
-const s=[{p:"wā",pp:"wa1",d:"surname Wa ☆ sister of legendary emperor Fu Xi 伏羲",t:"媧"}],o=[{w:"女娲",p:"nǚ wā",d:"Nüwa (creator of humans in Chinese mythology)"},{w:"女娲氏",p:"nǚ wā shì",d:"Nüwa (creator of humans in Chinese mythology)"}],n=[],t="女",c="10",e=["吅","女","呙"],a=[],r={s,w:o,i:n,r:t,sc:c,c:e,d:a};export{e as c,a as d,r as default,n as i,t as r,s,c as sc,o as w};

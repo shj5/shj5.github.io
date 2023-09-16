@@ -1,1 +1,0 @@
-const n=[{p:"xūn",pp:"xun1",d:"see 獯鬻[Xun1 yu4]",t:"獯"}],t=[{w:"獯鬻",p:"xūn yù",d:"an ethnic group in ancient northern China ☆ also written 葷粥|荤粥[Xun1 yu4]"}],s=[],c="犬",o="17",e=["吅","犭","熏"],i=[],r={s:n,w:t,i:s,r:c,sc:o,c:e,d:i};export{e as c,i as d,r as default,s as i,c as r,n as s,o as sc,t as w};

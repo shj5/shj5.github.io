@@ -1,0 +1,1 @@
+const o=[{p:"huò",pp:"huo4",d:"(onom.) expressing admiration or surprise ☆ (onom.) sound of a laugh",t:"嚯"}],s=[],n=[],c="口",t="19",r=["口","霍"],a=[],d={s:o,w:s,i:n,r:c,sc:t,c:r,d:a};export{r as c,a as d,d as default,n as i,c as r,o as s,t as sc,s as w};

@@ -1,1 +1,0 @@
-const t=[{p:"pī",pp:"pi1",d:"child's buttocks (esp. Cantonese) ☆ (onom.) crack, slap, clap, clatter etc",t:"噼"}],c=[{w:"噼啪",p:"pī pā",d:"see 劈啪[pi1 pa1]"},{w:"噼里啪啦",p:"pī li pā lā",d:"(onom.) to crackle and rattle ☆ to pitter-patter"}],p=[],s="口",o="16",e=["吅","口","辟"],n=[],a={s:t,w:c,i:p,r:s,sc:o,c:e,d:n};export{e as c,n as d,a as default,p as i,s as r,t as s,o as sc,c as w};

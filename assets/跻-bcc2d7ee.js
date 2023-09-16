@@ -1,1 +1,0 @@
-const s=[{p:"jī",pp:"ji1",d:"to go up (esp. in rank) ☆ to rise ☆ to ascend",t:"躋"}],t=[{w:"跻身",p:"jī shēn",d:"to rise (in society)"}],o=[],c="足",n="13",i=["吅","足","齐"],e=[],p={s,w:t,i:o,r:c,sc:n,c:i,d:e};export{i as c,e as d,p as default,o as i,c as r,s,n as sc,t as w};

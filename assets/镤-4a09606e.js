@@ -1,1 +1,0 @@
-const c=[{p:"pú",pp:"pu2",d:"protactinium (chemistry)",t:"鏷"}],s=[],t=[],o="金",n="17",p=["吅","钅",""],i=[],r={s:c,w:s,i:t,r:o,sc:n,c:p,d:i};export{p as c,i as d,r as default,t as i,o as r,c as s,n as sc,s as w};

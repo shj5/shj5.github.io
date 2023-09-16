@@ -1,1 +1,0 @@
-const s=[{p:"mèi",pp:"mei4",d:"a grass that gives red dye",t:"韎"}],t=[],c=[],o="韋",n="14",d=["吅","韋","末"],e=[],a={s,w:t,i:c,r:o,sc:n,c:d,d:e};export{d as c,e as d,a as default,c as i,o as r,s,n as sc,t as w};

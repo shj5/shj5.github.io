@@ -1,0 +1,1 @@
+const t=[{p:"fú",pp:"fu2",d:"beam ☆ rafter",t:"桴"}],e=[],s=[{w:"桴鼓相应",p:"fú gǔ xiāng yìng",d:"lit. the hammer fits the drum (idiom), appropriate relation between the different parts ☆ closely interrelated"}],n="木",r="11",c=["木","孚"],o=[],i={s:t,w:e,i:s,r:n,sc:r,c,d:o};export{c,o as d,i as default,s as i,n as r,t as s,r as sc,e as w};

@@ -1,1 +1,0 @@
-const c=[{p:"chī",pp:"chi1",d:"surname Chi",t:"蚩"},{p:"chī",pp:"chi1",d:"ignorant ☆ worm",t:"蚩"}],t=[{w:"蚩尤",p:"chī yóu",d:"Chiyou, legendary tribal leader who was defeated and killed by the Yellow Emperor 黃帝|黄帝[Huang2 di4]"}],o=[],s="虫",e="10",n=["吕","屮一","虫"],d=["嗤","媸","滍"],a={s:c,w:t,i:o,r:s,sc:e,c:n,d};export{n as c,d,a as default,o as i,s as r,c as s,e as sc,t as w};

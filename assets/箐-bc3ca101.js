@@ -1,0 +1,1 @@
+const n=[{p:"qìng",pp:"qing4",d:"to draw a bamboo bow or crossbow",t:"箐"}],o=[{w:"大箐山",p:"dà qìng shān",d:"Daqingshan County in Heilongjiang province"}],s=[],c="竹",t="14",a=["竹","青"],i=[],d={s:n,w:o,i:s,r:c,sc:t,c:a,d:i};export{a as c,i as d,d as default,s as i,c as r,n as s,t as sc,o as w};

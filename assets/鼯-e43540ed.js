@@ -1,0 +1,1 @@
+const s=[{p:"wú",pp:"wu2",d:"flying squirrel",t:"鼯"}],t=[{w:"羽尾袋鼯",p:"yǔ wěi dài wú",d:"feathertail glider (Acrobates pygmaeus)"},{w:"蜜袋鼯",p:"mì dài wú",d:"sugar glider (Petaurus breviceps)"},{w:"鼯鼠",p:"wú shǔ",d:"flying squirrel"}],c=[],r="鼠",e="20",i=["鼠","吾"],d=[],w={s,w:t,i:c,r,sc:e,c:i,d};export{i as c,d,w as default,c as i,r,s,e as sc,t as w};

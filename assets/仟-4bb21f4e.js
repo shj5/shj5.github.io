@@ -1,1 +1,0 @@
-const s=[{p:"qiān",pp:"qian1",d:"thousand (banker's anti-fraud numeral)",t:"仟"}],n=[],t=[],c="人",o="5",a=["吅","亻","千"],d=[],r={s,w:n,i:t,r:c,sc:o,c:a,d};export{a as c,d,r as default,t as i,c as r,s,o as sc,n as w};

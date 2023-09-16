@@ -1,0 +1,1 @@
+const c=[{p:"fū",pp:"fu1",d:"(literary) fodder chopper ☆ (chemistry) flerovium",t:"鈇"}],s=[],t=[],o="",r="",n=[],e=[],d={s:c,w:s,i:t,r:o,sc:r,c:n,d:e};export{n as c,e as d,d as default,t as i,o as r,c as s,r as sc,s as w};

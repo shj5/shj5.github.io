@@ -1,1 +1,0 @@
-const n=[{p:"gàng",pp:"gang4",d:"hill ☆ long and narrow highland ☆ (used in place names)",t:"鿍"}],s=[],c=[],o="",t="",a="",d=[],g={s:n,w:s,i:c,r:o,sc:t,c:a,d};export{a as c,d,g as default,c as i,o as r,n as s,t as sc,s as w};

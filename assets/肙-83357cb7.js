@@ -1,1 +1,0 @@
-const s=[{p:"yuān",pp:"yuan1",d:"a small worm ☆ to twist ☆ to surround ☆ empty",t:"肙"}],t=[],o=[],c="肉",n="7",r=["吕","口","月"],a=["剈","埍","娟","弲","悁","捐","梋","涓","焆","狷","琄","瓹","睊","絹","绢","罥","蜎","裐","鋗","鞙","駽","鵑","鹃"],d={s,w:t,i:o,r:c,sc:n,c:r,d:a};export{r as c,a as d,d as default,o as i,c as r,s,n as sc,t as w};

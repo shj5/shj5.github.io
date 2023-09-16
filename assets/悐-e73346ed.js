@@ -1,1 +1,0 @@
-const t=[{p:"tì",pp:"ti4",d:"respect, regard ☆ to stand in awe of, to be alarmed",t:"悐"}],s=[],c=[],o="心",n="11",e=["吕","狄","心"],a=[],d={s:t,w:s,i:c,r:o,sc:n,c:e,d:a};export{e as c,a as d,d as default,c as i,o as r,t as s,n as sc,s as w};

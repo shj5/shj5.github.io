@@ -1,1 +1,0 @@
-const s=[{p:"shú",pp:"shu2",d:"private school",t:"塾"}],o=[{w:"村塾",p:"cūn shú",d:"(old) village school ☆ rural school"},{w:"私塾",p:"sī shú",d:"private school (in former times)"},{w:"蒙塾",p:"méng shú",d:"primary school"}],c=[],t="土",n="14",r=["吕","孰","土"],h=[],l={s,w:o,i:c,r:t,sc:n,c:r,d:h};export{r as c,h as d,l as default,c as i,t as r,s,n as sc,o as w};

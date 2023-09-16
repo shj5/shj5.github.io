@@ -1,1 +1,0 @@
-const s=[{p:"pǐ",pp:"pi3",d:"destroyed ☆ injure",t:"圮"}],t=[{w:"颓圮",p:"tuí pǐ",d:"to collapse ☆ dilapidated"}],c=[],o="土",d="6",p=["吅","土","己"],n=[],e={s,w:t,i:c,r:o,sc:d,c:p,d:n};export{p as c,n as d,e as default,c as i,o as r,s,d as sc,t as w};

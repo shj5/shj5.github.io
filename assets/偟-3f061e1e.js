@@ -1,0 +1,1 @@
+const t=[{p:"huáng",pp:"huang2",d:"(literary) free time, leisure ☆ agitated, alarmed (variant of 惶[huang2])",t:"偟"}],s=[],c=[],n="人",a="11",e=["亻","皇"],o=[],r={s:t,w:s,i:c,r:n,sc:a,c:e,d:o};export{e as c,o as d,r as default,c as i,n as r,t as s,a as sc,s as w};

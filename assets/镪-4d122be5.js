@@ -1,1 +1,0 @@
-const s=[{p:"qiāng",pp:"qiang1",d:"sulfuric acid",t:"鏹"},{p:"qiǎng",pp:"qiang3",d:"money ☆ string of coins",t:"鏹"}],c=[{w:"镪水",p:"qiāng shuǐ",d:"(coll.) strong acid"}],n=[],o="金",t="17",i=["吅","钅","强"],d=[],p={s,w:c,i:n,r:o,sc:t,c:i,d};export{i as c,d,p as default,n as i,o as r,s,t as sc,c as w};

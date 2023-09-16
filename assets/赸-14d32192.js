@@ -1,0 +1,1 @@
+const s=[{p:"shàn",pp:"shan4",d:"to jump ☆ to leave",t:"赸"}],t=[{w:"搭赸",p:"dā shàn",d:"variant of 搭訕|搭讪[da1 shan4]"}],n=[],c="走",o="10",a=["走","山"],d=[],p={s,w:t,i:n,r:c,sc:o,c:a,d};export{a as c,d,p as default,n as i,c as r,s,o as sc,t as w};

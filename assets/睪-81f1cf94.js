@@ -1,0 +1,1 @@
+const o=[{p:"yì",pp:"yi4",d:"to spy out",t:"睪"}],s=[{w:"睪丸",p:"gāo wán",d:"Taiwan variant of 睾丸[gao1 wan2]"}],t=[],c="目",n="13",a=["罒","幸"],p=["睾"],w={s:o,w:s,i:t,r:c,sc:n,c:a,d:p};export{a as c,p as d,w as default,t as i,c as r,o as s,n as sc,s as w};

@@ -1,0 +1,1 @@
+const s=[{p:"nuó",pp:"nuo2",d:"to exorcise demons",t:"儺"}],o=[{w:"傩戏",p:"nuó xì",d:"Anhui local opera"},{w:"傩神",p:"nuó shén",d:"exorcising God ☆ God who drives away plague and evil spirits"}],n=[],c="人",t="12",d=["亻","难"],e=[],i={s,w:o,i:n,r:c,sc:t,c:d,d:e};export{d as c,e as d,i as default,n as i,c as r,s,t as sc,o as w};

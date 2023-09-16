@@ -1,1 +1,0 @@
-const n=[{p:"lái",pp:"lai2",d:"name of a country in Spring and Autumn period in modern Shandong, destroyed by Qi 齊|齐",t:"郲"}],o=[],s=[],t="邑",c="11",d=["吅","來","阝"],i=[],r={s:n,w:o,i:s,r:t,sc:c,c:d,d:i};export{d as c,i as d,r as default,s as i,t as r,n as s,c as sc,o as w};

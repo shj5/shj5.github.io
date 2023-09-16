@@ -1,0 +1,1 @@
+const s=[{p:"jiǎo",pp:"jiao3",d:"scissors ☆ to cut (with scissors)",t:"鉸"}],o=[{w:"蝴蝶铰",p:"hú dié jiǎo",d:"hinge"},{w:"铰刀",p:"jiǎo dāo",d:"reamer ☆ scissors"},{w:"铰链",p:"jiǎo liàn",d:"hinge"},{w:"门铰",p:"mén jiǎo",d:"door hinge"}],i=[],c="金",t="11",n=["交"],d=[],r={s,w:o,i,r:c,sc:t,c:n,d};export{n as c,d,r as default,i,c as r,s,t as sc,o as w};

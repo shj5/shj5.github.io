@@ -1,1 +1,0 @@
-const s=[{p:"bèi",pp:"bei4",d:"to disobey ☆ to stand back-to-back",t:"偝"}],t=[],c=[],o="人",n="11",d=["吅","亻","背"],a=[],b={s,w:t,i:c,r:o,sc:n,c:d,d:a};export{d as c,a as d,b as default,c as i,o as r,s,n as sc,t as w};

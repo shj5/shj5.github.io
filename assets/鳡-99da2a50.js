@@ -1,1 +1,0 @@
-const s=[{p:"gǎn",pp:"gan3",d:"yellowcheek (Elopichthys bambusa)",t:"鱤"}],c=[],t=[],o="魚",n="21",a=["吅","鱼","感"],e=[],p={s,w:c,i:t,r:o,sc:n,c:a,d:e};export{a as c,e as d,p as default,t as i,o as r,s,n as sc,c as w};

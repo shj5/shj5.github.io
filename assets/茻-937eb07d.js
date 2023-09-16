@@ -1,0 +1,1 @@
+const s=[{p:"mǎng",pp:"mang3",d:"rank grass ☆ overgrown weeds",t:"茻"}],c=[],n=[],o="艸",t="12",r=["屮"],a=[],d={s,w:c,i:n,r:o,sc:t,c:r,d:a};export{r as c,a as d,d as default,n as i,o as r,s,t as sc,c as w};

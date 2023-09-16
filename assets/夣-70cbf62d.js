@@ -1,0 +1,1 @@
+const s=[{p:"mèng",pp:"meng4",d:"old variant of 夢|梦[meng4]",t:"夣"}],c=[],n=[],t="夕",o="14",d=["夕"],a=[],e={s,w:c,i:n,r:t,sc:o,c:d,d:a};export{d as c,a as d,e as default,n as i,t as r,s,o as sc,c as w};

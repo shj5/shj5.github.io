@@ -1,1 +1,0 @@
-const s=[{p:"wù",pp:"wu4",d:"low stool",t:"杌"}],t=[{w:"杌陧",p:"wù niè",d:"(literary) unsettled ☆ unstable ☆ uneasy"},{w:"梼杌",p:"táo wù",d:"legendary beast"}],n=[],o="木",c="7",e=["吅","木","兀"],w=[],d={s,w:t,i:n,r:o,sc:c,c:e,d:w};export{e as c,w as d,d as default,n as i,o as r,s,c as sc,t as w};

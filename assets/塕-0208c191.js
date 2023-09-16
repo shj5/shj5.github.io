@@ -1,1 +1,0 @@
-const s=[{p:"wěng",pp:"weng3",d:"flying dust (dialect) ☆ dust",t:"塕"}],t=[{w:"塕埲",p:"wěng běng",d:"dust storm"}],c=[],n="土",o="13",d=["吅","土","翁"],w=[],g={s,w:t,i:c,r:n,sc:o,c:d,d:w};export{d as c,w as d,g as default,c as i,n as r,s,o as sc,t as w};

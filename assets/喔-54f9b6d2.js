@@ -1,1 +1,0 @@
-const s=[{p:"ō",pp:"o1",d:"I see ☆ oh",t:"喔"},{p:"wo",pp:"wo5",d:"(particle) marker of surprise, sudden realization, reminder",t:"喔"}],o=[],t=[],c="口",e="12",n=["吅","口","屋"],r=[],p={s,w:o,i:t,r:c,sc:e,c:n,d:r};export{n as c,r as d,p as default,t as i,c as r,s,e as sc,o as w};

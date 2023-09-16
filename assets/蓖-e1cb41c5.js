@@ -1,0 +1,1 @@
+const s=[{p:"bì",pp:"bi4",d:"the castor-oil plant",t:"蓖"}],c=[{w:"蓖麻",p:"bì má",d:"castor-oil plant"},{w:"蓖麻毒素",p:"bì má dú sù",d:"ricin (biochemistry)"},{w:"蓖麻毒蛋白",p:"bì má dú dàn bái",d:"ricin (biochemistry)"},{w:"蓖麻籽",p:"bì má zǐ",d:"castor beans"}],t=[],o="艸",i="13",n=["艹"],d=[],b={s,w:c,i:t,r:o,sc:i,c:n,d};export{n as c,d,b as default,t as i,o as r,s,i as sc,c as w};

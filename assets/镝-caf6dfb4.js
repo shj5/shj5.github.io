@@ -1,0 +1,1 @@
+const s=[{p:"dī",pp:"di1",d:"dysprosium (chemistry)",t:"鏑"},{p:"dí",pp:"di2",d:"arrow or arrowhead (old)",t:"鏑"}],o=[],c=[],t="金",d="16",r=[],n=[],p={s,w:o,i:c,r:t,sc:d,c:r,d:n};export{r as c,n as d,p as default,c as i,t as r,s,d as sc,o as w};

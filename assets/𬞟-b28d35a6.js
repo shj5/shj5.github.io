@@ -1,1 +1,0 @@
-const c=[{p:"pín",pp:"pin2",d:"marsiliaceae ☆ clover fern",t:"蘋"}],s=[],n=[],t="",o="",e="",p=[],r={s:c,w:s,i:n,r:t,sc:o,c:e,d:p};export{e as c,p as d,r as default,n as i,t as r,c as s,o as sc,s as w};

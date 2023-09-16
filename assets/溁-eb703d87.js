@@ -1,1 +1,0 @@
-const s=[{p:"yíng",pp:"ying2",d:"(archaic) (of water) to swirl, to eddy ☆ (used in place names)",t:"濚"}],c=[],t=[],n="水",o="12",a=["吅","氵","荣"],d=[],e={s,w:c,i:t,r:n,sc:o,c:a,d};export{a as c,d,e as default,t as i,n as r,s,o as sc,c as w};

@@ -1,1 +1,0 @@
-const s=[{p:"qiáng",pp:"qiang2",d:"wild rose",t:"薔"}],o=[{w:"蔷薇",p:"qiáng wēi",d:"Japanese rose (Rosa multiflora)"},{w:"蔷薇十字团",p:"qiáng wēi shí zì tuán",d:"the Rosicrucian order (masonic order)"},{w:"蔷薇花蕾",p:"qiáng wēi huā lěi",d:"rosebud"}],n=[],i="艸",c="14",t=["吕","艹","啬"],r=[],d={s,w:o,i:n,r:i,sc:c,c:t,d:r};export{t as c,r as d,d as default,n as i,i as r,s,c as sc,o as w};

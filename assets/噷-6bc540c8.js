@@ -1,1 +1,0 @@
-const s=[{p:"hèn",pp:"hen4",d:"interjection expressing disagreement, reproach or dissatisfaction",t:"噷"}],t=[],c=[],n="口",o="16",e=["吅","口","歆"],i=[],r={s,w:t,i:c,r:n,sc:o,c:e,d:i};export{e as c,i as d,r as default,c as i,n as r,s,o as sc,t as w};

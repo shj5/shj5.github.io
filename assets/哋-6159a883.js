@@ -1,1 +1,0 @@
-const s=[{p:"dì",pp:"di4",d:"(Cant.) plural for pronouns",t:"哋"}],c=[],o=[],t="口",n="9",d=["吅","口","地"],p=[],r={s,w:c,i:o,r:t,sc:n,c:d,d:p};export{d as c,p as d,r as default,o as i,t as r,s,n as sc,c as w};

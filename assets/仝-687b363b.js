@@ -1,0 +1,1 @@
+const n=[{p:"tóng",pp:"tong2",d:"variant of 同[tong2] (used as a surname and in given names)",t:"仝"}],s=[],t=[],c="人",o="5",a=["人","工"],d=["砼"],e={s:n,w:s,i:t,r:c,sc:o,c:a,d};export{a as c,d,e as default,t as i,c as r,n as s,o as sc,s as w};

@@ -1,0 +1,1 @@
+const s=[{p:"juē",pp:"jue1",d:"to pout ☆ (dialect) to scold",t:"噘"}],t=[{w:"噘嘴",p:"juē zuǐ",d:"to pout (to express anger or displeasure)"}],o=[],c="口",e="15",n=["口","厥"],p=[],d={s,w:t,i:o,r:c,sc:e,c:n,d:p};export{n as c,p as d,d as default,o as i,c as r,s,e as sc,t as w};

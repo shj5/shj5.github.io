@@ -1,0 +1,1 @@
+const t=[{p:"lǎn",pp:"lan3",d:"to soak (fruits) in hot water or limewater to remove astringent taste ☆ to marinate in salt etc ☆ to pickle",t:"漤"}],s=[],o=[],n="水",c="14",e=["氵","婪"],a=[],r={s:t,w:s,i:o,r:n,sc:c,c:e,d:a};export{e as c,a as d,r as default,o as i,n as r,t as s,c as sc,s as w};

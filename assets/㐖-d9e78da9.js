@@ -1,1 +1,0 @@
-const c=[{p:"xié",pp:"xie2",d:"used in 㐖毒[Xie2 du2]",t:"㐖"}],s=[{w:"㐖毒",p:"xié dú",d:"India (archaic)"}],t=[],n="",d="",i="",o=[],a={s:c,w:s,i:t,r:n,sc:d,c:i,d:o};export{i as c,o as d,a as default,t as i,n as r,c as s,d as sc,s as w};

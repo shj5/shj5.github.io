@@ -1,0 +1,1 @@
+const t=[{p:"líng",pp:"ling2",d:"to dawdle ☆ the name of the father of the Emperor Yao",t:"夌"}],o=[],s=[],c="夊",n="8",e=["夂"],a=["凌","堎","崚","庱","棱","淩","睖","绫","菱","踜","陵","鲮"],d={s:t,w:o,i:s,r:c,sc:n,c:e,d:a};export{e as c,a as d,d as default,s as i,c as r,t as s,n as sc,o as w};

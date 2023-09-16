@@ -1,0 +1,1 @@
+const n=[{p:"è",pp:"e4",d:"variant of 惡|恶[e4], used in names of chemical compounds",t:"噁"}],s=[{w:"二𫫇英",p:"èr è yīng",d:"dioxin"},{w:"𫫇嗪",p:"è qín",d:"oxazine C4H5NO"}],c=[],o="",t="",d=[],e=[],i={s:n,w:s,i:c,r:o,sc:t,c:d,d:e};export{d as c,e as d,i as default,c as i,o as r,n as s,t as sc,s as w};

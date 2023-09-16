@@ -1,1 +1,0 @@
-const i=[{p:"tiáo",pp:"tiao2",d:"(literary) hair hanging down in front (children's hairstyle)",t:"髫"}],n=[{w:"垂髫",p:"chuí tiáo",d:"hair hanging down (child's hairstyle) ☆ (fig.) young child, early childhood"}],o=[],t="髟",c="15",s=["吕","髟","召"],d=[],h={s:i,w:n,i:o,r:t,sc:c,c:s,d};export{s as c,d,h as default,o as i,t as r,i as s,c as sc,n as w};

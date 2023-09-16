@@ -1,1 +1,0 @@
-const t=[{p:"pí",pp:"pi2",d:"see 枇杷[pi2 pa5]",t:"枇"}],o=[{w:"枇杷",p:"pí pa",d:"loquat tree (Eriobotrya japonica) ☆ loquat fruit"},{w:"枇杷膏",p:"pí pá gāo",d:"Pei Pa Koa, proprietary cough syrup made with traditional Chinese herbs"}],p=[],s="木",a="8",c=["吅","木","比"],i=[],r={s:t,w:o,i:p,r:s,sc:a,c,d:i};export{c,i as d,r as default,p as i,s as r,t as s,a as sc,o as w};

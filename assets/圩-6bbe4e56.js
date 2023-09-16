@@ -1,1 +1,0 @@
-const t=[{p:"wéi",pp:"wei2",d:"dike",t:"圩"},{p:"xū",pp:"xu1",d:"(dialect) country fair ☆ country market",t:"圩"}],c=[],s=[],o="土",n="6",d=["吅","土","于"],i=[],p={s:t,w:c,i:s,r:o,sc:n,c:d,d:i};export{d as c,i as d,p as default,s as i,o as r,t as s,n as sc,c as w};

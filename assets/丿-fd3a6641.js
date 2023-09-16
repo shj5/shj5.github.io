@@ -1,1 +1,0 @@
-const c=[{p:"piě",pp:"pie3",d:"radical in Chinese characters (Kangxi radical 4), aka 撇[pie3]",t:"丿"}],s=[],t=[],a="*",n="1",i=["一","丿","*"],o=["丢","丿","么","乏","乐","乒","乔","兎","刁","千","叐","壬","夭","少","尹","屲","币","必","戈","戊","戶","朱","氕","犮","玍","禾","系","耂","耒","釆","閁"],e={s:c,w:s,i:t,r:a,sc:n,c:i,d:o};export{i as c,o as d,e as default,t as i,a as r,c as s,n as sc,s as w};

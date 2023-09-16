@@ -1,0 +1,1 @@
+const n=[{p:"niè",pp:"nie4",d:"surname Nie",t:"乜"},{p:"miē",pp:"mie1",d:"used in 乜斜[mie1 xie5] ☆ (Cantonese) what?",t:"乜"}],s=[{w:"乜嘢",p:"miē yě",d:"what? (Cantonese) (Mandarin equivalent: 什麼|什么[shen2 me5])"},{w:"乜斜",p:"miē xie",d:"to squint"}],t=[],e="乙",i="2",c=["乚","乛"],o=["也"],a={s:n,w:s,i:t,r:e,sc:i,c,d:o};export{c,o as d,a as default,t as i,e as r,n as s,i as sc,s as w};

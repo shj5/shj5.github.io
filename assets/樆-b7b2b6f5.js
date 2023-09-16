@@ -1,0 +1,1 @@
+const s=[{p:"chī",pp:"chi1",d:"manjack or cordia (genus Cordia)",t:"樆"},{p:"lí",pp:"li2",d:"rowan or mountain ash (genus Sorbus)",t:"樆"}],c=[],o=[],n="木",t="15",a=["木","离"],r=[],d={s,w:c,i:o,r:n,sc:t,c:a,d:r};export{a as c,r as d,d as default,o as i,n as r,s,t as sc,c as w};

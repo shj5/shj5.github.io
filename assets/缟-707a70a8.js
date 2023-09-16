@@ -1,1 +1,0 @@
-const s=[{p:"gǎo",pp:"gao3",d:"plain white silk",t:"縞"}],o=[{w:"缟玛瑙",p:"gǎo mǎ nǎo",d:"onyx ☆ white agate"},{w:"缟素",p:"gǎo sù",d:"white silk mourning dress"}],t=[],n="糸",c="13",i=["吅","纟","高"],d=[],e={s,w:o,i:t,r:n,sc:c,c:i,d};export{i as c,d,e as default,t as i,n as r,s,c as sc,o as w};

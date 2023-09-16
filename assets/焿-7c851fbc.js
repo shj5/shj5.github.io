@@ -1,1 +1,0 @@
-const n=[{p:"gēng",pp:"geng1",d:"variant of 羹[geng1], used in restaurants and night markets in Taiwan",t:"焿"}],s=[],t=[],c="火",a="12",o=["吅","火",""],e=[],g={s:n,w:s,i:t,r:c,sc:a,c:o,d:e};export{o as c,e as d,g as default,t as i,c as r,n as s,a as sc,s as w};

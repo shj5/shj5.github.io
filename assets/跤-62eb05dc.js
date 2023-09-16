@@ -1,1 +1,0 @@
-const t=[{p:"jiāo",pp:"jiao1",d:"a tumble ☆ a fall",t:"跤"}],o=[{w:"摔跤",p:"shuāi jiāo",d:"to trip and fall ☆ to wrestle ☆ wrestling (sports)"},{w:"绊跤",p:"bàn jiāo",d:"to trip ☆ to stumble"},{w:"跌跤",p:"diē jiāo",d:"to fall down ☆ to take a fall"}],s=[],l="足",a="13",c=["吅","足","交"],i=[],n={s:t,w:o,i:s,r:l,sc:a,c,d:i};export{c,i as d,n as default,s as i,l as r,t as s,a as sc,o as w};

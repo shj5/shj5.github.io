@@ -1,0 +1,1 @@
+const s=[{p:"sǎn",pp:"san3",d:"to mix (of powders)",t:"糝"}],c=[{w:"玉米糁",p:"yù mǐ sǎn",d:"corn grits"}],o=[],t="米",n="14",d=["米","参"],p=[],r={s,w:c,i:o,r:t,sc:n,c:d,d:p};export{d as c,p as d,r as default,o as i,t as r,s,n as sc,c as w};

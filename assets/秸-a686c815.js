@@ -1,1 +1,0 @@
-const t=[{p:"jiē",pp:"jie1",d:"grain stalks left after threshing",t:"秸"},{p:"jiē",pp:"jie1",d:"variant of 秸[jie1]",t:"稭"}],s=[{w:"秸秆",p:"jiē gǎn",d:"straw"},{w:"麦秸",p:"mài jiē",d:"straw from barley or wheat"}],i=[],c="禾",n="11",o=["吅","禾","吉"],r=[],a={s:t,w:s,i,r:c,sc:n,c:o,d:r};export{o as c,r as d,a as default,i,c as r,t as s,n as sc,s as w};

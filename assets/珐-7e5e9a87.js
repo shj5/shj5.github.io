@@ -1,1 +1,0 @@
-const n=[{p:"fà",pp:"fa4",d:"enamel ware ☆ cloisonne ware",t:"琺"}],s=[{w:"珐琅",p:"fà láng",d:"enamel"},{w:"珐琅质",p:"fà láng zhì",d:"tooth enamel"}],c=[],o="玉",t="9",e=["吅","王","去"],a=[],l={s:n,w:s,i:c,r:o,sc:t,c:e,d:a};export{e as c,a as d,l as default,c as i,o as r,n as s,t as sc,s as w};

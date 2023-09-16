@@ -1,0 +1,1 @@
+const t=[{p:"tǐ",pp:"ti3",d:"variant of 體|体[ti3]",t:"躰"}],s=[],c=[],o="身",n="12",i=["身","本"],a=[],d={s:t,w:s,i:c,r:o,sc:n,c:i,d:a};export{i as c,a as d,d as default,c as i,o as r,t as s,n as sc,s as w};

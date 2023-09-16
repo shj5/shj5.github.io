@@ -1,0 +1,1 @@
+const n=[{p:"fán",pp:"fan2",d:"vanadium (chemistry)",t:"釩"}],c=[{w:"五氧化二钒",p:"wǔ yǎng huà èr fán",d:"Vanadium pentoxide V2O5 ☆ vanadic anhydride"},{w:"钒钾铀矿石",p:"fán jiǎ yóu kuàng shí",d:"carnotite"}],s=[],t="金",d="8",a=["凡"],o=[],i={s:n,w:c,i:s,r:t,sc:d,c:a,d:o};export{a as c,o as d,i as default,s as i,t as r,n as s,d as sc,c as w};

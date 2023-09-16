@@ -1,1 +1,0 @@
-const c=[{p:"ráo",pp:"rao2",d:"graceful",t:"嬈"}],o=[{w:"妖娆",p:"yāo ráo",d:"enchanting ☆ alluring (of a girl)"}],s=[],n="女",t="9",r=["吅","女","尧"],a=[],d={s:c,w:o,i:s,r:n,sc:t,c:r,d:a};export{r as c,a as d,d as default,s as i,n as r,c as s,t as sc,o as w};

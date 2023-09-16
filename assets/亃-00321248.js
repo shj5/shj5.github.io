@@ -1,0 +1,1 @@
+const t=[{p:"lín",pp:"lin2",d:"mythical animal, said to have yellow body and white tail",t:"亃"}],s=[],c=[],n="乙",o="13",a=["乚"],i=[],l={s:t,w:s,i:c,r:n,sc:o,c:a,d:i};export{a as c,i as d,l as default,c as i,n as r,t as s,o as sc,s as w};

@@ -1,1 +1,0 @@
-const t=[{p:"fú",pp:"fu2",d:"to fall prostrate",t:"匐"}],o=[{w:"匍匐",p:"pú fú",d:"to crawl ☆ to creep"},{w:"匍匐前进",p:"pú fú qián jìn",d:"to crawl forward"},{w:"匍匐茎",p:"pú fú jīng",d:"(botany) stolon"}],c=[],s="勹",n="11",p=["回","勹","畐"],r=[],a={s:t,w:o,i:c,r:s,sc:n,c:p,d:r};export{p as c,r as d,a as default,c as i,s as r,t as s,n as sc,o as w};

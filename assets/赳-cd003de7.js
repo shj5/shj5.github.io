@@ -1,1 +1,0 @@
-const t=[{p:"jiū",pp:"jiu1",d:"see 赳赳[jiu1 jiu1]",t:"赳"}],s=[{w:"赳赳",p:"jiū jiū",d:"valiantly ☆ gallantly"},{w:"雄赳赳",p:"xióng jiū jiū",d:"valiantly ☆ gallantly"}],i=[],n="走",c="9",l=["吅","走","丩"],a=[],o={s:t,w:s,i,r:n,sc:c,c:l,d:a};export{l as c,a as d,o as default,i,n as r,t as s,c as sc,s as w};

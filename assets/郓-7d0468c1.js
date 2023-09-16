@@ -1,1 +1,0 @@
-const n=[{p:"yùn",pp:"yun4",d:"place name",t:"鄆"}],c=[{w:"郓城",p:"yùn chéng",d:"Yuncheng county in Heze 菏澤|菏泽[He2 ze2], Shandong"},{w:"郓城县",p:"yùn chéng xiàn",d:"Yuncheng county in Heze 菏澤|菏泽[He2 ze2], Shandong"}],e=[],o="邑",s="9",t=["吅","军","阝"],d=[],p={s:n,w:c,i:e,r:o,sc:s,c:t,d};export{t as c,d,p as default,e as i,o as r,n as s,s as sc,c as w};

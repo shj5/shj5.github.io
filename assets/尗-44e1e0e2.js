@@ -1,1 +1,0 @@
-const s=[{p:"shū",pp:"shu1",d:"archaic variant of 菽[shu1] ☆ archaic variant of 叔[shu1]",t:"尗"}],c=[],t=[],o="小",a="6",n=["吕","上","小"],r=["叔","戚","敊","茮","鮛"],h={s,w:c,i:t,r:o,sc:a,c:n,d:r};export{n as c,r as d,h as default,t as i,o as r,s,a as sc,c as w};

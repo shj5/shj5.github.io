@@ -1,1 +1,0 @@
-const o=[{p:"bì",pp:"bi4",d:"fine-toothed comb ☆ to comb",t:"篦"}],t=[{w:"竹篦",p:"zhú bì",d:"bamboo comb"},{w:"篦子",p:"bì zi",d:"double-edged fine-toothed comb ☆ grate"},{w:"篦头",p:"bì tóu",d:"to comb one's hair"}],c=[],s="竹",b="16",d=["吕","竹",""],e=[],n={s:o,w:t,i:c,r:s,sc:b,c:d,d:e};export{d as c,e as d,n as default,c as i,s as r,o as s,b as sc,t as w};

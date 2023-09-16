@@ -1,1 +1,0 @@
-const o=[{p:"qiāo",pp:"qiao1",d:"old variant of 鍬|锹[qiao1]",t:"橾"},{p:"shū",pp:"shu1",d:"the hole in the center of a wheel accommodating the axle (archaic)",t:"橾"}],t=[],c=[],s="木",a="17",n=["吅","木","喿"],e=[],i={s:o,w:t,i:c,r:s,sc:a,c:n,d:e};export{n as c,e as d,i as default,c as i,s as r,o as s,a as sc,t as w};

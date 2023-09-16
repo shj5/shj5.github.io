@@ -1,1 +1,0 @@
-const n=[{p:"líng",pp:"ling2",d:"concave channels of tiling",t:"瓴"}],s=[],t=[{w:"破竹建瓴",p:"pò zhú jiàn líng",d:"lit. smash bamboo, overturn water tank (idiom), fig. irresistible force"}],c="瓦",o="10",i=["吅","令","瓦"],e=[],r={s:n,w:s,i:t,r:c,sc:o,c:i,d:e};export{i as c,e as d,r as default,t as i,c as r,n as s,o as sc,s as w};

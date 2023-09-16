@@ -1,0 +1,1 @@
+const t=[{p:"tū",pp:"tu1",d:"old variant of 禿|秃[tu1] ☆ bald",t:"痜"}],s=[],c=[],o="疒",n="12",d=["疒"],a=[],p={s:t,w:s,i:c,r:o,sc:n,c:d,d:a};export{d as c,a as d,p as default,c as i,o as r,t as s,n as sc,s as w};

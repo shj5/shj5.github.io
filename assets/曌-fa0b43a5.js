@@ -1,1 +1,0 @@
-const s=[{p:"zhào",pp:"zhao4",d:"name invented for herself by Tang empress Wu Zetian 武則天|武则天[Wu3 Ze2 tian1]",t:"曌"}],n=[],t=[],c="日",o="16",e=["吕","日月","空"],a=[],r={s,w:n,i:t,r:c,sc:o,c:e,d:a};export{e as c,a as d,r as default,t as i,c as r,s,o as sc,n as w};

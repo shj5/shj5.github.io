@@ -1,0 +1,1 @@
+const t=[{p:"kāi",pp:"kai1",d:"to wipe",t:"揩"}],o=[{w:"揩拭",p:"kāi shì",d:"to wipe off ☆ to wipe clean"},{w:"揩擦",p:"kāi cā",d:"to wipe"},{w:"揩油",p:"kāi yóu",d:"to take advantage of sb ☆ to freeload"}],s=[],c="手",e="12",i=["扌","皆"],p=[],n={s:t,w:o,i:s,r:c,sc:e,c:i,d:p};export{i as c,p as d,n as default,s as i,c as r,t as s,e as sc,o as w};

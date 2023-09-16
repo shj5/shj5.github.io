@@ -1,1 +1,0 @@
-const o=[{p:"xiāo",pp:"xiao1",d:"good horse ☆ valiant",t:"驍"}],n=[{w:"骁将",p:"xiāo jiàng",d:"valiant general"}],t=[{w:"骁勇善战",p:"xiāo yǒng shàn zhàn",d:"to be brave and good at fighting (idiom)"}],s="馬",i="9",c=["吅","马","尧"],a=[],d={s:o,w:n,i:t,r:s,sc:i,c,d:a};export{c,a as d,d as default,t as i,s as r,o as s,i as sc,n as w};

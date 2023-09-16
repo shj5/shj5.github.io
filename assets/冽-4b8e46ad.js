@@ -1,0 +1,1 @@
+const c=[{p:"liè",pp:"lie4",d:"cold and raw",t:"冽"}],n=[{w:"冷冽",p:"lěng liè",d:"chilly"},{w:"凛冽",p:"lǐn liè",d:"biting cold"},{w:"朔风凛冽",p:"shuò fēng lǐn liè",d:"The north wind is icy cold."}],s=[],l="冫",i="8",o=["冫","列"],t=[],d={s:c,w:n,i:s,r:l,sc:i,c:o,d:t};export{o as c,t as d,d as default,s as i,l as r,c as s,i as sc,n as w};

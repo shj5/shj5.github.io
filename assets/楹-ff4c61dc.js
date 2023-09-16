@@ -1,1 +1,0 @@
-const n=[{p:"yíng",pp:"ying2",d:"pillar",t:"楹"}],o=[{w:"楹联",p:"yíng lián",d:"couplet (hung on the columns of a hall)"}],c=[{w:"雕楹碧槛",p:"diāo yíng bì kǎn",d:"carved pillar, jade doorsill (idiom), heavily decorated environment"}],s="木",t="13",d=["吅","木","盈"],l=[],i={s:n,w:o,i:c,r:s,sc:t,c:d,d:l};export{d as c,l as d,i as default,c as i,s as r,n as s,t as sc,o as w};

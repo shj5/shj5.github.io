@@ -1,1 +1,0 @@
-const t=[{p:"lì",pp:"li4",d:"bamboo rain hat",t:"笠"}],c=[{w:"床笠",p:"chuáng lì",d:"fitted bed sheet"},{w:"斗笠",p:"dǒu lì",d:"conical bamboo hat"}],o=[],s="竹",n="11",d=["吕","竹","立"],a=[],e={s:t,w:c,i:o,r:s,sc:n,c:d,d:a};export{d as c,a as d,e as default,o as i,s as r,t as s,n as sc,c as w};

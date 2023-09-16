@@ -1,1 +1,0 @@
-const n=[{p:"mǐ",pp:"mi3",d:"Mi river in Hunan, tributary of Xiangjiang 湘江",t:"洣"}],i=[{w:"洣水",p:"mǐ shuǐ",d:"Mi river in Hunan, tributary of Xiangjiang 湘江"}],t=[],s="水",c="9",o=["吅","氵","米"],r=[],a={s:n,w:i,i:t,r:s,sc:c,c:o,d:r};export{o as c,r as d,a as default,t as i,s as r,n as s,c as sc,i as w};

@@ -1,0 +1,1 @@
+const s=[{p:"bǐ",pp:"bi3",d:"deceased mother",t:"妣"}],c=[{w:"先妣",p:"xiān bǐ",d:"deceased mother ☆ mother of an ancestor"}],t=[],o="女",e="7",n=["女","比"],d=[],r={s,w:c,i:t,r:o,sc:e,c:n,d};export{n as c,d,r as default,t as i,o as r,s,e as sc,c as w};

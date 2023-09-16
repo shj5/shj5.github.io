@@ -1,0 +1,1 @@
+const s=[{p:"dài",pp:"dai4",d:"see 蝳蝐[dai4 mao4]",t:"蝳"}],t=[{w:"蝳蝐",p:"dài mào",d:"variant of 玳瑁[dai4 mao4] ☆ hawksbill turtle"}],o=[],c="虫",a="15",d=["虫","毒"],i=[],n={s,w:t,i:o,r:c,sc:a,c:d,d:i};export{d as c,i as d,n as default,o as i,c as r,s,a as sc,t as w};

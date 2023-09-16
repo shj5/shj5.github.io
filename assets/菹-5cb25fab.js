@@ -1,0 +1,1 @@
+const s=[{p:"zū",pp:"zu1",d:"marshland ☆ swamp ☆ salted or pickled vegetables ☆ to mince ☆ to shred ☆ to mince human flesh and bones",t:"菹"}],t=[{w:"菹醢",p:"zū hǎi",d:"to execute sb and mince his flesh and bones (archaic form of retribution)"}],c=[],e="艸",n="11",o=["艹","沮"],a=[],d={s,w:t,i:c,r:e,sc:n,c:o,d:a};export{o as c,a as d,d as default,c as i,e as r,s,n as sc,t as w};

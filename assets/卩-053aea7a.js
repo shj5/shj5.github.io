@@ -1,1 +1,0 @@
-const c=[{p:"jié",pp:"jie2",d:'"seal" radical in Chinese characters (Kangxi radical 26)',t:"卩"}],s=[],t=[],n="*",a="2",i=["一","卩","*"],o=["乕","仓","兯","卩","卪","卬","卭","卮","卯","印","危","卲","即","却","卶","卷","卸","卹","卺","卻","卽","卾","厀","厁","厄","叩","壭","夗","夘","爷","犯","缷","节"],e={s:c,w:s,i:t,r:n,sc:a,c:i,d:o};export{i as c,o as d,e as default,t as i,n as r,c as s,a as sc,s as w};

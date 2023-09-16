@@ -1,1 +1,0 @@
-const c=[{p:"tóu",pp:"tou2",d:'"lid" radical in Chinese characters (Kangxi radical 8)',t:"亠"}],s=[],t=[],n="*",o="2",a=["一","亠","*"],i=["亠","亡","亢","亣","交","亥","亩","亰","亱","亶","亹","充","六","卞","夜","市","弃","恴","椉","玄","离","雍"],d={s:c,w:s,i:t,r:n,sc:o,c:a,d:i};export{a as c,i as d,d as default,t as i,n as r,c as s,o as sc,s as w};

@@ -1,1 +1,0 @@
-const n=[{p:"jiǎn",pp:"jian3",d:"surname Jian",t:"翦"},{p:"jiǎn",pp:"jian3",d:"variant of 剪[jian3]",t:"翦"}],i=[{w:"翦伯赞",p:"jiǎn bó zàn",d:"Jian Bozan (1898-1968), Chinese Marxist historian and vice-president of Bejing University 1952-1968"}],s=[],t="羽",a="15",c=["吕","前","羽"],o=[],e={s:n,w:i,i:s,r:t,sc:a,c,d:o};export{c,o as d,e as default,s as i,t as r,n as s,a as sc,i as w};

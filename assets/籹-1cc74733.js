@@ -1,1 +1,0 @@
-const c=[{p:"nǚ",pp:"nu:3",d:"cakes of rice-flour and honey",t:"籹"}],s=[],n=[],o="米",t="9",d=["吅","米","女"],e=[],r={s:c,w:s,i:n,r:o,sc:t,c:d,d:e};export{d as c,e as d,r as default,n as i,o as r,c as s,t as sc,s as w};

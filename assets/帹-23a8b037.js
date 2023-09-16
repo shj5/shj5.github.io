@@ -1,0 +1,1 @@
+const c=[{p:"qiè",pp:"qie4",d:"man's headband (arch.)",t:"帹"},{p:"shà",pp:"sha4",d:"kerchief covering head (arch.)",t:"帹"}],s=[{w:"帹暆",p:"shà yí",d:"kerchief covering head (arch.)"}],e=[],n="巾",t="11",a=["巾","妾"],h=[],o={s:c,w:s,i:e,r:n,sc:t,c:a,d:h};export{a as c,h as d,o as default,e as i,n as r,c as s,t as sc,s as w};

@@ -1,1 +1,0 @@
-const n=[{p:"jìn",pp:"jin4",d:"red silk",t:"縉"}],i=[{w:"缙云",p:"jìn yún",d:"Jinyun county in Lishui 麗水|丽水[Li2 shui3], Zhejiang"},{w:"缙云县",p:"jìn yún xiàn",d:"Jinyun county in Lishui 麗水|丽水[Li2 shui3], Zhejiang"}],s=[],c="糸",t="13",o=["吅","纟","晋"],u=[],d={s:n,w:i,i:s,r:c,sc:t,c:o,d:u};export{o as c,u as d,d as default,s as i,c as r,n as s,t as sc,i as w};

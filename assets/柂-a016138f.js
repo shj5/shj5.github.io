@@ -1,0 +1,1 @@
+const s=[{p:"yí",pp:"yi2",d:"(literary) (botany) (a species of linden whose timber was used to make coffins in ancient times)",t:"柂"}],t=[],c=[],n="木",o="9",e=["木"],i=[],a={s,w:t,i:c,r:n,sc:o,c:e,d:i};export{e as c,i as d,a as default,c as i,n as r,s,o as sc,t as w};

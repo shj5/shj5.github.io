@@ -1,1 +1,0 @@
-const t=[{p:"yǔ",pp:"yu3",d:"irregular teeth",t:"齬"}],s=[{w:"龃龉",p:"jǔ yǔ",d:"lit. unaligned teeth ☆ fig. disagreement"}],c=[],e="齒",n="15",o=["吅","齿","吾"],d=[],i={s:t,w:s,i:c,r:e,sc:n,c:o,d};export{o as c,d,i as default,c as i,e as r,t as s,n as sc,s as w};

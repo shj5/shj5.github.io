@@ -1,1 +1,0 @@
-const s=[{p:"mí",pp:"mi2",d:"macaque",t:"獼"}],c=[{w:"猕猴",p:"mí hóu",d:"macaque"},{w:"猕猴桃",p:"mí hóu táo",d:"kiwi fruit ☆ Chinese gooseberry"}],t=[],o="犬",n="11",e=["吅","犭","弥"],i=[],a={s,w:c,i:t,r:o,sc:n,c:e,d:i};export{e as c,i as d,a as default,t as i,o as r,s,n as sc,c as w};

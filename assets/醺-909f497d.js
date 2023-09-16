@@ -1,0 +1,1 @@
+const n=[{p:"xūn",pp:"xun1",d:"helplessly intoxicated",t:"醺"}],s=[{w:"微醺",p:"wēi xūn",d:"tipsy"},{w:"醉醺醺",p:"zuì xūn xūn",d:"drunk ☆ intoxicated"}],t=[],c="酉",o="21",d=["酉","熏"],i=[],p={s:n,w:s,i:t,r:c,sc:o,c:d,d:i};export{d as c,i as d,p as default,t as i,c as r,n as s,o as sc,s as w};

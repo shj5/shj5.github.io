@@ -1,0 +1,1 @@
+const s=[{p:"zhě",pp:"zhe3",d:"particle used for interjection (Cantonese) ☆ see also 啫哩[zhe3 li1]",t:"啫"}],o=[{w:"啫哩",p:"zhě lí",d:"variant of 啫喱[zhe3 li2]"},{w:"啫喱",p:"zhě lí",d:"(loanword) jelly ☆ gel"}],t=[],e="口",c="12",n=["口","者"],l=[],a={s,w:o,i:t,r:e,sc:c,c:n,d:l};export{n as c,l as d,a as default,t as i,e as r,s,c as sc,o as w};

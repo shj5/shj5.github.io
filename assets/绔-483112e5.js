@@ -1,1 +1,0 @@
-const s=[{p:"kù",pp:"ku4",d:"variant of 褲|裤[ku4]",t:"絝"}],c=[],t=[{w:"纨绔子弟",p:"wán kù zǐ dì",d:"hedonistic son of rich parents"}],n="糸",o="9",d=["吅","纟","夸"],i=[],p={s,w:c,i:t,r:n,sc:o,c:d,d:i};export{d as c,i as d,p as default,t as i,n as r,s,o as sc,c as w};

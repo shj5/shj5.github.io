@@ -1,1 +1,0 @@
-const s=[{p:"dèng",pp:"deng4",d:"stirrup",t:"鐙"}],n=[{w:"镫骨",p:"dèng gǔ",d:"stapes or stirrup bone of middle ear, passing sound vibration to the inner ear"},{w:"马镫",p:"mǎ dèng",d:"stirrup"}],t=[],o="金",r="17",d=["吅","钅","登"],c=[],p={s,w:n,i:t,r:o,sc:r,c:d,d:c};export{d as c,c as d,p as default,t as i,o as r,s,r as sc,n as w};

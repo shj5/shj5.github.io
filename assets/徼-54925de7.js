@@ -1,0 +1,1 @@
+const o=[{p:"jiǎo",pp:"jiao3",d:"by mere luck",t:"徼"},{p:"jiào",pp:"jiao4",d:"boundary ☆ to go around",t:"徼"}],t=[{w:"徼幸",p:"jiǎo xìng",d:"variant of 僥倖|侥幸[jiao3 xing4]"}],c=[],n="彳",s="16",i=[],a=[],d={s:o,w:t,i:c,r:n,sc:s,c:i,d:a};export{i as c,a as d,d as default,c as i,n as r,o as s,s as sc,t as w};

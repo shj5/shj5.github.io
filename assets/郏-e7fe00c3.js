@@ -1,1 +1,0 @@
-const n=[{p:"jiá",pp:"jia2",d:"name of a district in Henan",t:"郟"}],s=[{w:"郏县",p:"jiá xiàn",d:"Jia county in Pingdingshan 平頂山|平顶山[Ping2 ding3 shan1], Henan"}],i=[],c="邑",t="9",o=["吅","夹","阝"],a=[],d={s:n,w:s,i,r:c,sc:t,c:o,d:a};export{o as c,a as d,d as default,i,c as r,n as s,t as sc,s as w};
