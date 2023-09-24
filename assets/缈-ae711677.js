@@ -1,1 +1,0 @@
-const o=[{p:"miǎo",pp:"miao3",d:"indistinct",t:"緲"}],i=[{w:"缥缈",p:"piǎo miǎo",d:"see 飄渺|飘渺[piao1 miao3]"},{w:"飘缈",p:"piāo miǎo",d:"variant of 飄渺|飘渺[piao1 miao3]"}],s=[{w:"虚无缥缈",p:"xū wú piāo miǎo",d:"illusory, imaginary, fanciful"}],c="糸",t="12",n=["纟","眇"],a=[],p={s:o,w:i,i:s,r:c,sc:t,c:n,d:a};export{n as c,a as d,p as default,s as i,c as r,o as s,t as sc,i as w};
