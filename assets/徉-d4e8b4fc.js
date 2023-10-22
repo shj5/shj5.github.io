@@ -1,0 +1,1 @@
+const t=[{p:"yáng",pp:"yang2",d:"to walk back and forth",t:"徉"}],o=[{w:"彷徉",p:"páng yáng",d:"unsettled ☆ doubtful ☆ to roam about"},{w:"徜徉",p:"cháng yáng",d:"to wander about unhurriedly; to linger; to loiter"}],n=[],c="彳",s="9",d=["彳","羊"],a=[],r={s:t,w:o,i:n,r:c,sc:s,c:d,d:a};export{d as c,a as d,r as default,n as i,c as r,t as s,s as sc,o as w};

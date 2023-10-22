@@ -1,0 +1,1 @@
+const s=[{p:"chī",pp:"chi1",d:"mountain demon",t:"魑"}],c=[{w:"魑魅",p:"chī mèi",d:"spirits and devils (usually harmful) ☆ demon"}],i=[{w:"魑魅魍魉",p:"chī mèi wǎng liǎng",d:"(idiom) all kinds of malevolent or mischievous spirits"}],n="鬼",o="21",t=["鬼","离"],d=[],l={s,w:c,i,r:n,sc:o,c:t,d};export{t as c,d,l as default,i,n as r,s,o as sc,c as w};

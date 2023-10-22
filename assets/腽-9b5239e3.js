@@ -1,0 +1,1 @@
+const s=[{p:"wà",pp:"wa4",d:"used in 膃肭|腽肭[wa4 na4]",t:"膃"}],n=[{w:"腽肭",p:"wà nà",d:"fur seal ☆ (literary) fat; obese"},{w:"腽肭兽",p:"wà nà shòu",d:"fur seal (Callorhinus ursinus Linnaeus)"},{w:"腽肭脐",p:"wà nà qí",d:"penis and testes of fur seal (used in TCM)"}],t=[],e="肉",a="13",c=["月"],o=[],u={s,w:n,i:t,r:e,sc:a,c,d:o};export{c,o as d,u as default,t as i,e as r,s,a as sc,n as w};

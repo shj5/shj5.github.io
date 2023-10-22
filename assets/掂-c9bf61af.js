@@ -1,0 +1,1 @@
+const t=[{p:"diān",pp:"dian1",d:"to weigh in the hand ☆ to estimate",t:"掂"}],n=[{w:"掂量",p:"diān liang",d:"to weigh in the hand ☆ to consider; to weigh up"}],o=[],s="手",c="11",i=["扌","店"],d=[],e={s:t,w:n,i:o,r:s,sc:c,c:i,d};export{i as c,d,e as default,o as i,s as r,t as s,c as sc,n as w};

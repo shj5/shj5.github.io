@@ -1,1 +1,0 @@
-const n=[{p:"yān",pp:"yan1",d:"used in 懨懨|恹恹[yan1 yan1]",t:"懨"}],s=[{w:"恹恹",p:"yān yān",d:"weak, worried, sickly, wan"},{w:"病恹恹",p:"bìng yān yān",d:"looking or feeling sickly, weak and dispirited through illness"}],c=[],o="心",t="9",i=["忄","厌"],d=[],e={s:n,w:s,i:c,r:o,sc:t,c:i,d};export{i as c,d,e as default,c as i,o as r,n as s,t as sc,s as w};

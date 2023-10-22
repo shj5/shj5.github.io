@@ -1,0 +1,1 @@
+const c=[{p:"càn",pp:"can4",d:"used in 孱頭|孱头[can4 tou5]",t:"孱"},{p:"chán",pp:"chan2",d:"weak; feeble",t:"孱"}],n=[{w:"孱弱",p:"chán ruò",d:"delicate; frail; impotent; weak"},{w:"孱头",p:"càn tou",d:"(dialect) weakling; coward"}],t=[],s="子",e="12",o=["尸","孨"],a=["僝","潺","轏","骣"],d={s:c,w:n,i:t,r:s,sc:e,c:o,d:a};export{o as c,a as d,d as default,t as i,s as r,c as s,e as sc,n as w};

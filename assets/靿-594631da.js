@@ -1,0 +1,1 @@
+const o=[{p:"yào",pp:"yao4",d:"the leg of a boot or sock",t:"靿"}],s=[{w:"靿子",p:"yào zi",d:"leg (aka shaft) of a boot; leg of a sock"},{w:"高靿",p:"gāo yào",d:"(of boots, socks etc) long; high; tall"}],t=[],c="革",a="14",n=["革","幼"],e=[],l={s:o,w:s,i:t,r:c,sc:a,c:n,d:e};export{n as c,e as d,l as default,t as i,c as r,o as s,a as sc,s as w};

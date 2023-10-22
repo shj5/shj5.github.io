@@ -1,0 +1,1 @@
+const o=[{p:"piǎo",pp:"piao3",d:"die of starvation",t:"殍"}],s=[{w:"饿殍",p:"è piǎo",d:"starving people"}],t=[{w:"饿殍载道",p:"è piǎo zài dào",d:"starved corpses fill the roads (idiom); state of famine"}],i="歹",c="11",p=["歹","孚"],d=[],n={s:o,w:s,i:t,r:i,sc:c,c:p,d};export{p as c,d,n as default,t as i,i as r,o as s,c as sc,s as w};

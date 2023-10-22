@@ -1,0 +1,1 @@
+const o=[{p:"zào",pp:"zao4",d:"variant of 唣[zao4]",t:"唕"},{p:"zào",pp:"zao4",d:"used in 羅唣|罗唣[luo2 zao4]",t:"唣"}],t=[{w:"罗唣",p:"luó zào",d:"to create a disturbance; to make trouble; to harass"}],s=[],a="口",c="10",n=["口","皂"],d=[],e={s:o,w:t,i:s,r:a,sc:c,c:n,d};export{n as c,d,e as default,s as i,a as r,o as s,c as sc,t as w};

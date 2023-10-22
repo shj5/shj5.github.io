@@ -1,0 +1,1 @@
+const t=[{p:"rèn",pp:"ren4",d:"to thread (a needle) ☆ to sew; to stitch ☆ (literary) very grateful",t:"紉"}],n=[{w:"缝纫",p:"féng rèn",d:"to sew ☆ tailoring"},{w:"缝纫机",p:"féng rèn jī",d:"sewing machine ☆ CL:架[jia4]"}],s=[],c="糸",e="6",o=["纟","刃"],r=[],a={s:t,w:n,i:s,r:c,sc:e,c:o,d:r};export{o as c,r as d,a as default,s as i,c as r,t as s,e as sc,n as w};
