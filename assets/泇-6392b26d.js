@@ -1,1 +1,0 @@
-const n=[{p:"jiā",pp:"jia1",d:"the name of a river that flows through Shandong and Jiangsu",t:"泇"}],t=[{w:"泇河",p:"jiā hé",d:"Jia River, originating in Shandong and flowing through Jiangsu into the Grand Canal"}],o=[],a="水",i="8",s=["氵","加"],c=[],d={s:n,w:t,i:o,r:a,sc:i,c:s,d:c};export{s as c,c as d,d as default,o as i,a as r,n as s,i as sc,t as w};

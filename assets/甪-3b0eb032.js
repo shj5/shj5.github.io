@@ -1,1 +1,0 @@
-const t=[{p:"lù",pp:"lu4",d:"surname Lu ☆ place name",t:"甪"}],s=[{w:"甪端",p:"lù duān",d:"Luduan, mythical Chinese beast able to detect the truth"}],c=[],n="用",e="6",o=["用","丶"],a=[],d={s:t,w:s,i:c,r:n,sc:e,c:o,d:a};export{o as c,a as d,d as default,c as i,n as r,t as s,e as sc,s as w};

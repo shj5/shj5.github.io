@@ -1,0 +1,1 @@
+const s=[{p:"gē",pp:"ge1",d:"knot",t:"紇"},{p:"hé",pp:"he2",d:"tassels",t:"紇"}],o=[{w:"回纥",p:"Huí hé",d:"Huihe, pre-Tang name of ethnic group corresponding to modern Uighur"}],t=[],n="糸",c="6",e=["纟","乞"],p=[],r={s,w:o,i:t,r:n,sc:c,c:e,d:p};export{e as c,p as d,r as default,t as i,n as r,s,c as sc,o as w};

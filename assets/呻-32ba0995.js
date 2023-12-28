@@ -1,1 +1,0 @@
-const n=[{p:"shēn",pp:"shen1",d:"groan",t:"呻"}],s=[{w:"呻吟",p:"shēn yín",d:"to moan ☆ to groan"}],o=[{w:"无病呻吟",p:"wú bìng shēn yín",d:"to moan about imaginary illness ☆ fussing like a hypochondriac ☆ fig. sentimental nonsense"}],t="口",c="8",a=["口","申"],i=[],e={s:n,w:s,i:o,r:t,sc:c,c:a,d:i};export{a as c,i as d,e as default,o as i,t as r,n as s,c as sc,s as w};

@@ -1,1 +1,0 @@
-const s=[{p:"hù",pp:"hu4",d:"mountain covered with vegetation ☆ the residence of one's father ☆ see also 屺[qi3]",t:"岵"}],t=[],o=[],c="山",e="8",n=["山","古"],i=[],a={s,w:t,i:o,r:c,sc:e,c:n,d:i};export{n as c,i as d,a as default,o as i,c as r,s,e as sc,t as w};

@@ -1,1 +1,0 @@
-const c=[{p:"yù",pp:"yu4",d:"surname Yu",t:"遹"},{p:"yù",pp:"yu4",d:"follow ☆ in accordance with",t:"遹"}],s=[],t=[],o="辵",n="16",p=["辶","矞"],d=[],a={s:c,w:s,i:t,r:o,sc:n,c:p,d};export{p as c,d,a as default,t as i,o as r,c as s,n as sc,s as w};

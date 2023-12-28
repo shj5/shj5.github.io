@@ -1,1 +1,0 @@
-const n=[{p:"jí",pp:"ji2",d:"barren ☆ lean",t:"瘠"}],o=[{w:"瘠薄",p:"jí bó",d:"(of land) infertile ☆ barren"},{w:"荒瘠",p:"huāng jí",d:"desolate and poor ☆ infertile"},{w:"贫瘠",p:"pín jí",d:"barren ☆ infertile ☆ poor"}],t=[],e="疒",r="15",s=["疒","脊"],c=[],d={s:n,w:o,i:t,r:e,sc:r,c:s,d:c};export{s as c,c as d,d as default,t as i,e as r,n as s,r as sc,o as w};

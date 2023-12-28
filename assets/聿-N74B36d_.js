@@ -1,0 +1,1 @@
+const c=[{p:"yù",pp:"yu4",d:"(arch. introductory particle) ☆ then ☆ and then",t:"聿"}],t=[{w:"贝聿铭",p:"Bèi Yù míng",d:"Pei Ieoh Ming or I.M. Pei (1917-2019), Chinese-American architect"}],n=[],s="*",o="6",e=["二"],i=["垏","建","律","津","珒","畵","肄","肆","肇","衋"],r={s:c,w:t,i:n,r:s,sc:o,c:e,d:i};export{e as c,i as d,r as default,n as i,s as r,c as s,o as sc,t as w};

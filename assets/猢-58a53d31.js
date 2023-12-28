@@ -1,1 +1,0 @@
-const s=[{p:"hú",pp:"hu2",d:"monkey",t:"猢"}],n=[{w:"猢狲",p:"hú sūn",d:"macaque"}],t=[{w:"树倒猢狲散",p:"shù dǎo hú sūn sàn",d:"When the tree topples the monkeys scatter. (idiom); fig. an opportunist abandons an unfavorable cause ☆ Rats leave a sinking ship."}],o="犬",e="12",a=["犭","胡"],c=[],p={s,w:n,i:t,r:o,sc:e,c:a,d:c};export{a as c,c as d,p as default,t as i,o as r,s,e as sc,n as w};

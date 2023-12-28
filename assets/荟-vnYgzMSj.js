@@ -1,0 +1,1 @@
+const s=[{p:"huì",pp:"hui4",d:"to flourish ☆ luxuriant growth",t:"薈"}],t=[{w:"荟萃",p:"huì cuì",d:"(of distinguished people or exquisite objects) to gather; to assemble"},{w:"芦荟",p:"lú huì",d:"aloe vera"}],o=[],c="艸",e="9",u=["艹","会"],i=[],n={s,w:t,i:o,r:c,sc:e,c:u,d:i};export{u as c,i as d,n as default,o as i,c as r,s,e as sc,t as w};

@@ -1,1 +1,0 @@
-const t=[{p:"yáo",pp:"yao2",d:"variant of 遙|遥, distant ☆ remote ☆ far ☆ far away",t:"邎"}],s=[],o=[],c="辵",a="21",n=["辶"],r=[],d={s:t,w:s,i:o,r:c,sc:a,c:n,d:r};export{n as c,r as d,d as default,o as i,c as r,t as s,a as sc,s as w};

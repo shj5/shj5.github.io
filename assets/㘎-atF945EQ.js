@@ -1,0 +1,1 @@
+const t=[{p:"hǎn",pp:"han3",d:"(literary) (of a tiger) to growl; to roar",t:"㘚"}],o=[],s=[],c="",n="",r=[],a=[],d={s:t,w:o,i:s,r:c,sc:n,c:r,d:a};export{r as c,a as d,d as default,s as i,c as r,t as s,n as sc,o as w};

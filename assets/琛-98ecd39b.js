@@ -1,1 +1,0 @@
-const n=[{p:"chēn",pp:"chen1",d:"precious stone ☆ gem",t:"琛"}],c=[{w:"亚琛",p:"yà chēn",d:"Aachen, city in Nordrhein-Westfalen, Germany ☆ Aix-la-Chapelle"},{w:"钱其琛",p:"qián qí chēn",d:"Qian Qichen (1928-2017), former Chinese vice premier"}],e=[],s="玉",t="12",i=["王"],o=[],r={s:n,w:c,i:e,r:s,sc:t,c:i,d:o};export{i as c,o as d,r as default,e as i,s as r,n as s,t as sc,c as w};

@@ -1,0 +1,1 @@
+const o=[{p:"chōng",pp:"chong1",d:"irresolute ☆ unsettled",t:"憧"}],t=[{w:"憧憬",p:"chōng jǐng",d:"to long for; to look forward to ☆ vision for the future"}],s=[],c="心",n="15",r=["忄","童"],e=[],d={s:o,w:t,i:s,r:c,sc:n,c:r,d:e};export{r as c,e as d,d as default,s as i,c as r,o as s,n as sc,t as w};

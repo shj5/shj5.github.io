@@ -1,0 +1,1 @@
+const s=[{p:"yǐ",pp:"yi3",d:"pleasing ☆ respectful manner",t:"顗"}],t=[{w:"智𫖮",p:"Zhì yǐ",d:"Zhiyi (538-597), founder of the Tiantai sect of Buddhism"}],c=[],n="",o="",e=[],i=[],d={s,w:t,i:c,r:n,sc:o,c:e,d:i};export{e as c,i as d,d as default,c as i,n as r,s,o as sc,t as w};

@@ -1,0 +1,1 @@
+const c=[{p:"qí",pp:"qi2",d:"headland",t:"埼"}],t=[{w:"埼玉",p:"Qí yù",d:"Saitama (city and prefecture in Japan)"}],s=[],n="土",a="11",o=["土","奇"],d=[],p={s:c,w:t,i:s,r:n,sc:a,c:o,d};export{o as c,d,p as default,s as i,n as r,c as s,a as sc,t as w};

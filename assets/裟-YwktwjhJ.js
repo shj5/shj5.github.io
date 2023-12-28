@@ -1,0 +1,1 @@
+const s=[{p:"shā",pp:"sha1",d:"used in 袈裟[jia1 sha1]",t:"裟"}],o=[{w:"袈裟",p:"jiā shā",d:"kasaya (robe of a Buddhist monk or nun) (loanword from Sanskrit)"}],n=[],t="衣",c="13",a=["沙","衣"],d=[],r={s,w:o,i:n,r:t,sc:c,c:a,d};export{a as c,d,r as default,n as i,t as r,s,c as sc,o as w};

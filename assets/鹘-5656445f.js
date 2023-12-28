@@ -1,1 +1,0 @@
-const o=[{p:"hú",pp:"hu2",d:"falcon ☆ migratory bird",t:"鶻"}],n=[{w:"回鹘",p:"huí hú",d:"Huihu, Tang dynasty name of ethnic group corresponding to modern Uighur 維吾爾|维吾尔[Wei2 wu2 er3]"}],c=[],s="鳥",t="15",r=["骨","鸟"],d=[],i={s:o,w:n,i:c,r:s,sc:t,c:r,d};export{r as c,d,i as default,c as i,s as r,o as s,t as sc,n as w};

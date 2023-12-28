@@ -1,0 +1,1 @@
+const s=[{p:"Zuò",pp:"Zuo4",d:"(used in place names) ☆ variant of 岝[Zuo4]",t:"岞"}],c=[],o=[],t="山",n="8",a=["山","乍"],d=[],e={s,w:c,i:o,r:t,sc:n,c:a,d};export{a as c,d,e as default,o as i,t as r,s,n as sc,c as w};

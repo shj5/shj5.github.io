@@ -1,0 +1,1 @@
+const s=[{p:"qiáng",pp:"qiang2",d:"used in 薔薇|蔷薇[qiang2 wei1]",t:"薔"}],n=[{w:"蔷薇",p:"qiáng wēi",d:"Japanese rose (Rosa multiflora)"},{w:"蔷薇十字团",p:"qiáng wēi shí zì tuán",d:"the Rosicrucian order (masonic order)"},{w:"蔷薇花蕾",p:"qiáng wēi huā lěi",d:"rosebud"}],i=[],o="艸",c="14",t=["艹","啬"],d=[],e={s,w:n,i,r:o,sc:c,c:t,d};export{t as c,d,e as default,i,o as r,s,c as sc,n as w};

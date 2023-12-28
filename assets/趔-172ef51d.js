@@ -1,1 +1,0 @@
-const t=[{p:"liè",pp:"lie4",d:"stumble",t:"趔"}],s=[{w:"打趔趄",p:"dǎ liè qie",d:"to trip ☆ to miss a step ☆ to slip"},{w:"趔趄",p:"liè qie",d:"to stagger ☆ to stumble ☆ to reel"}],o=[],c="走",e="13",i=["走","列"],l=[],p={s:t,w:s,i:o,r:c,sc:e,c:i,d:l};export{i as c,l as d,p as default,o as i,c as r,t as s,e as sc,s as w};

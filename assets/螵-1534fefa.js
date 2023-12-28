@@ -1,1 +1,0 @@
-const o=[{p:"piāo",pp:"piao1",d:"nest of eggs of mantis",t:"螵"}],s=[{w:"海螵蛸",p:"hǎi piāo xiāo",d:"cuttlebone (used in TCM)"},{w:"螵蛸",p:"piāo xiāo",d:"egg case of a praying mantis (used in TCM) ☆ cuttlebone"}],t=[],n="虫",c="17",i=["虫","票"],e=[],p={s:o,w:s,i:t,r:n,sc:c,c:i,d:e};export{i as c,e as d,p as default,t as i,n as r,o as s,c as sc,s as w};

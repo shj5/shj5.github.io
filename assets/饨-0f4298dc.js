@@ -1,1 +1,0 @@
-const n=[{p:"tún",pp:"tun2",d:"Chinese ravioli",t:"飩"}],t=[{w:"馄饨",p:"hún tun",d:"wonton"}],s=[],c="食",o="7",d=["饣","屯"],i=[],p={s:n,w:t,i:s,r:c,sc:o,c:d,d:i};export{d as c,i as d,p as default,s as i,c as r,n as s,o as sc,t as w};

@@ -1,1 +1,0 @@
-const t=[{p:"fù",pp:"fu4",d:"to order",t:"咐"}],o=[{w:"吩咐",p:"fēn fù",d:"to tell ☆ to instruct ☆ to command"},{w:"嘱咐",p:"zhǔ fù",d:"to tell ☆ to exhort ☆ injunction"}],c=[],n="口",s="8",d=["口","付"],r=[],e={s:t,w:o,i:c,r:n,sc:s,c:d,d:r};export{d as c,r as d,e as default,c as i,n as r,t as s,s as sc,o as w};
