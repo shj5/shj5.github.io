@@ -1,1 +1,0 @@
-const i=[{p:"qià",pp:"qia4",d:"ilium ☆ outermost bone of the pelvic girdle",t:"髂"}],t=[{w:"髂窝",p:"qià wō",d:"iliac fossa (anatomy) ☆ pelvic basin internal to ilium"},{w:"髂骨",p:"qià gǔ",d:"ilium (the large flat bone of the pelvic girdle)"}],o=[],s="骨",c="19",e=["骨","客"],n=[],l={s:i,w:t,i:o,r:s,sc:c,c:e,d:n};export{e as c,n as d,l as default,o as i,s as r,i as s,c as sc,t as w};

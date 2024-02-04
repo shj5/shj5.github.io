@@ -1,0 +1,1 @@
+const s=[{p:"jié",pp:"jie2",d:"variant of 潔|洁[jie2] (mostly used in given names)",t:"㛃"}],t=[],c=[],n="",o="",i=[],e=[],a={s,w:t,i:c,r:n,sc:o,c:i,d:e};export{i as c,e as d,a as default,c as i,n as r,s,o as sc,t as w};

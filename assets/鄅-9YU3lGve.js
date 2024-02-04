@@ -1,1 +1,0 @@
-const s=[{p:"Yǔ",pp:"Yu3",d:"Yu, Zhou Dynasty vassal state, in present-day Linyi 臨沂|临沂[Lin2 yi2], Shandong ☆ surname Yu",t:"鄅"}],n=[],t=[],c="邑",o="12",a=[],i=[],d={s,w:n,i:t,r:c,sc:o,c:a,d:i};export{a as c,i as d,d as default,t as i,c as r,s,o as sc,n as w};

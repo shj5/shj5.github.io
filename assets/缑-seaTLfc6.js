@@ -1,1 +1,0 @@
-const o=[{p:"Gōu",pp:"Gou1",d:"surname Gou ☆ Gou Mountain in Henan",t:"緱"},{p:"gōu",pp:"gou1",d:"rope attached to a sword hilt ☆ (archaic) hilt ☆ sword",t:"緱"}],t=[],s=[],c="糸",n="12",a=["纟","侯"],u=[],d={s:o,w:t,i:s,r:c,sc:n,c:a,d:u};export{a as c,u as d,d as default,s as i,c as r,o as s,n as sc,t as w};

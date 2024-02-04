@@ -1,1 +1,0 @@
-const o=[{p:"jiē",pp:"jie1",d:"pimple ☆ sore ☆ boil",t:"癤"}],c=[{w:"疖子",p:"jiē zi",d:"(medicine) boil ☆ furuncle ☆ knot (in wood)"}],s=[],i="疒",n="7",t=["疒"],e=[],d={s:o,w:c,i:s,r:i,sc:n,c:t,d:e};export{t as c,e as d,d as default,s as i,i as r,o as s,n as sc,c as w};

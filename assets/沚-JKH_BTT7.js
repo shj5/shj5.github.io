@@ -1,0 +1,1 @@
+const i=[{p:"zhǐ",pp:"zhi3",d:"islet",t:"沚"}],t=[{w:"湾沚",p:"Wān zhǐ",d:"Wanzhi, a district in Wuhu City 蕪湖市|芜湖市[Wu2hu2 Shi4], Anhui"},{w:"湾沚区",p:"Wān zhǐ Qū",d:"Wanzhi, a district in Wuhu City 蕪湖市|芜湖市[Wu2hu2 Shi4], Anhui"}],n=[],s="水",c="7",h=["氵","止"],u=[],o={s:i,w:t,i:n,r:s,sc:c,c:h,d:u};export{h as c,u as d,o as default,n as i,s as r,i as s,c as sc,t as w};

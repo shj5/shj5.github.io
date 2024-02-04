@@ -1,0 +1,1 @@
+const t=[{p:"lóu",pp:"lou2",d:"(dialect) an opening at the bottom of a dike for letting water in or out ☆ small channel across a river embankment ☆ (used in place names) ☆ Taiwan pr. [dou1]",t:"剅"}],n=[],o=[],s="刀",a="9",c=["豆","刂"],e=[],i={s:t,w:n,i:o,r:s,sc:a,c,d:e};export{c,e as d,i as default,o as i,s as r,t as s,a as sc,n as w};

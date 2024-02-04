@@ -1,1 +1,0 @@
-const o=[{p:"kào",pp:"kao4",d:"to reward or comfort with presents of food, drink etc",t:"犒"}],t=[{w:"犒劳",p:"kào láo",d:"to reward with food and drink ☆ to feast (sb) ☆ presents of food etc made to troops"},{w:"犒赏",p:"kào shǎng",d:"reward ☆ to reward"}],s=[],r="牛",d="14",c=["高"],e=[],n={s:o,w:t,i:s,r,sc:d,c,d:e};export{c,e as d,n as default,s as i,r,o as s,d as sc,t as w};

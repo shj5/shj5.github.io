@@ -1,1 +1,0 @@
-const s=[{p:"jué",pp:"jue2",d:"loud laughter",t:"噱"}],c=[{w:"噱头",p:"xué tóu",d:"amusing speech or act ☆ jokes ☆ antics ☆ funny ☆ amusing"}],t=[],n="口",o="16",u=["口","豦"],a=[],e={s,w:c,i:t,r:n,sc:o,c:u,d:a};export{u as c,a as d,e as default,t as i,n as r,s,o as sc,c as w};

@@ -1,1 +1,0 @@
-const o=[{p:"fú",pp:"fu2",d:"old form of turban ☆ variant of 袱, cloth wrapper for bundles",t:"幞"}],s=[],t=[],c="巾",n="15",r=["巾","善"],f=[],a={s:o,w:s,i:t,r:c,sc:n,c:r,d:f};export{r as c,f as d,a as default,t as i,c as r,o as s,n as sc,s as w};

@@ -1,1 +1,0 @@
-const s=[{p:"jiàng",pp:"jiang4",d:"(of soup, paste etc) thick",t:"糨"}],t=[{w:"糨子",p:"jiàng zi",d:"(coll.) paste"},{w:"糨糊",p:"jiàng hu",d:"paste ☆ also written 漿糊|浆糊[jiang4 hu5]"}],c=[],n="米",o="17",i=["米","强"],p=[],a={s,w:t,i:c,r:n,sc:o,c:i,d:p};export{i as c,p as d,a as default,c as i,n as r,s,o as sc,t as w};

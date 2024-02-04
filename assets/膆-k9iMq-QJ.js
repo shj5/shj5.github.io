@@ -1,1 +1,0 @@
-const s=[{p:"sù",pp:"su4",d:"(literary) fat ☆ variant of 嗉[su4]",t:"膆"}],t=[],c=[],o="肉",n="14",a=["月","素"],r=[],d={s,w:t,i:c,r:o,sc:n,c:a,d:r};export{a as c,r as d,d as default,c as i,o as r,s,n as sc,t as w};

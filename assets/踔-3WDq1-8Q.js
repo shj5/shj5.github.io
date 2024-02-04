@@ -1,0 +1,1 @@
+const o=[{p:"chuō",pp:"chuo1",d:"to get ahead ☆ to stride ☆ to excel ☆ Taiwan pr. [zhuo2]",t:"踔"}],t=[],c=[{w:"发扬踔厉",p:"fā yáng chuō lì",d:"to be full of vigor (idiom)"}],s="足",n="15",d=["足","卓"],e=[],i={s:o,w:t,i:c,r:s,sc:n,c:d,d:e};export{d as c,e as d,i as default,c as i,s as r,o as s,n as sc,t as w};

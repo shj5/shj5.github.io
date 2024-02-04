@@ -1,0 +1,1 @@
+const n=[{p:"hòng",pp:"hong4",d:"strife ☆ disorder ☆ rioting ☆ fighting ☆ Taiwan pr. [hong2]",t:"訌"}],s=[{w:"内讧",p:"nèi hòng",d:"internal strife"}],t=[],o="言",c="5",i=["讠","工"],r=[],d={s:n,w:s,i:t,r:o,sc:c,c:i,d:r};export{i as c,r as d,d as default,t as i,o as r,n as s,c as sc,s as w};
