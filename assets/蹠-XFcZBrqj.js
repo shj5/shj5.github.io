@@ -1,1 +1,0 @@
-const s=[{p:"zhí",pp:"zhi2",d:"metatarsus ☆ sole of foot ☆ to tread on",t:"蹠"}],t=[],o=[],c="足",n="18",a=["足","庶"],d=[],e={s,w:t,i:o,r:c,sc:n,c:a,d};export{a as c,d,e as default,o as i,c as r,s,n as sc,t as w};
