@@ -1,0 +1,1 @@
+const n=[{p:"mán",pp:"man2",d:"(of woman's hair) beautiful/flower garland worn as an ornament",t:"鬘"}],s=[],o=[],t="髟",c="21",a=["髟","曼"],r=[],d={s:n,w:s,i:o,r:t,sc:c,c:a,d:r};export{a as c,r as d,d as default,o as i,t as r,n as s,c as sc,s as w};

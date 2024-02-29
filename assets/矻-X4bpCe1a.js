@@ -1,1 +1,0 @@
-const s=[{p:"kū",pp:"ku1",d:"used in 矻矻[ku1 ku1] ☆ Taiwan pr. [ku4]",t:"矻"}],c=[{w:"矻矻",p:"kū kū",d:"assiduously"}],t=[{w:"孜孜矻矻",p:"zī zī kū kū",d:"diligently"}],n="石",o="8",d=["石","乞"],k=[],u={s,w:c,i:t,r:n,sc:o,c:d,d:k};export{d as c,k as d,u as default,t as i,n as r,s,o as sc,c as w};

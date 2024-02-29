@@ -1,0 +1,1 @@
+const t=[{p:"biàn",pp:"bian4",d:"(literary) (of sunlight) bright/(literary) happy; delighted (old variant of 忭[bian4])",t:"昪"}],s=[],n=[],c="日",o="9",i=["日","弁"],a=[],r={s:t,w:s,i:n,r:c,sc:o,c:i,d:a};export{i as c,a as d,r as default,n as i,c as r,t as s,o as sc,s as w};

@@ -1,0 +1,1 @@
+const o=[{p:"gē",pp:"ge1",d:"(phonetic)",t:"圪"}],n=[{w:"圪垯",p:"gē da",d:"mound; knoll/swelling or lump on skin; pimple/knot; lump/preoccupation; problem"}],c=[],s="土",t="6",p=["土","乞"],l=[],e={s:o,w:n,i:c,r:s,sc:t,c:p,d:l};export{p as c,l as d,e as default,c as i,s as r,o as s,t as sc,n as w};

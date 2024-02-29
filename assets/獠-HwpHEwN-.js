@@ -1,1 +1,0 @@
-const o=[{p:"liáo",pp:"liao2",d:"fierce ☆ hunt ☆ name of a tribe",t:"獠"}],s=[{w:"獠牙",p:"liáo yá",d:"tusk; fang"}],c=[{w:"青面獠牙",p:"qīng miàn liáo yá",d:"ferocious-looking (idiom)"}],n="犬",t="15",i=["犭"],d=[],e={s:o,w:s,i:c,r:n,sc:t,c:i,d};export{i as c,d,e as default,c as i,n as r,o as s,t as sc,s as w};

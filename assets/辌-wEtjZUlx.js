@@ -1,1 +1,0 @@
-const s=[{p:"liáng",pp:"liang2",d:"see 轀輬|辒辌[wen1 liang2]",t:"輬"}],n=[{w:"辒辌",p:"wēn liáng",d:"(sleeping) carriage ☆ hearse"}],c=[],t="車",e="12",o=["车","京"],i=[],a={s,w:n,i:c,r:t,sc:e,c:o,d:i};export{o as c,i as d,a as default,c as i,t as r,s,e as sc,n as w};

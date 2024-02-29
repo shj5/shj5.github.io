@@ -1,0 +1,1 @@
+const s=[{p:"yáng",pp:"yang2",d:"ulcers/sores",t:"瘍"}],c=[{w:"溃疡",p:"kuì yáng",d:"ulcer/to ulcerate"},{w:"疮疡",p:"chuāng yáng",d:"sore; skin ulcer"}],n=[],t="疒",o="9",e=["疒"],r=[],u={s,w:c,i:n,r:t,sc:o,c:e,d:r};export{e as c,r as d,u as default,n as i,t as r,s,o as sc,c as w};

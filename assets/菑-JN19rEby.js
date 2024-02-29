@@ -1,1 +1,0 @@
-const t=[{p:"Zī",pp:"Zi1",d:"surname Zi",t:"菑"},{p:"zī",pp:"zi1",d:"(archaic) field recently opened for cultivation ☆ (literary) to weed",t:"菑"}],c=[],s=[],o="艸",n="11",e=["艹","甾"],i=[],r={s:t,w:c,i:s,r:o,sc:n,c:e,d:i};export{e as c,i as d,r as default,s as i,o as r,t as s,n as sc,c as w};

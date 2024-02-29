@@ -1,1 +1,0 @@
-const t=[{p:"ái",pp:"ai2",d:"variant of 挨[ai2]",t:"捱"}],c=[{w:"难捱",p:"nán ái",d:"trying ☆ difficult"}],s=[],n="手",i="11",o=["扌","厓"],a=[],d={s:t,w:c,i:s,r:n,sc:i,c:o,d:a};export{o as c,a as d,d as default,s as i,n as r,t as s,i as sc,c as w};

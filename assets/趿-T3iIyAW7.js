@@ -1,1 +1,0 @@
-const s=[{p:"tā",pp:"ta1",d:"see 趿拉[ta1 la5]",t:"趿"}],o=[{w:"趿拉",p:"tā la",d:"to wear (one's shoes) like babouche slippers ☆ (onom.) shuffling sound"},{w:"趿拉儿",p:"tā la r",d:"heelless slipper; babouche"}],t=[],e="足",c="11",n=["足","及"],a=[],l={s,w:o,i:t,r:e,sc:c,c:n,d:a};export{n as c,a as d,l as default,t as i,e as r,s,c as sc,o as w};

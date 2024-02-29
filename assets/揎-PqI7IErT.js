@@ -1,0 +1,1 @@
+const s=[{p:"xuān",pp:"xuan1",d:"to roll up one's sleeves/to slap with the palm",t:"揎"}],t=[{w:"捋臂揎拳",p:"luō bì xuān quán",d:"lit. to push up one's sleeves and bare one's fists/to be eager to get started"}],e=[],o="手",n="12",c=["扌","宣"],p=[],a={s,w:t,i:e,r:o,sc:n,c,d:p};export{c,p as d,a as default,e as i,o as r,s,n as sc,t as w};

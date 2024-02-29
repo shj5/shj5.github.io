@@ -1,1 +1,0 @@
-const o=[{p:"mào",pp:"mao4",d:"see 蝳蝐[dai4 mao4]",t:"蝐"}],s=[{w:"蝳蝐",p:"dài mào",d:"variant of 玳瑁[dai4 mao4] ☆ hawksbill turtle"}],t=[],c="虫",a="15",n=["虫","冒"],d=[],i={s:o,w:s,i:t,r:c,sc:a,c:n,d};export{n as c,d,i as default,t as i,c as r,o as s,a as sc,s as w};

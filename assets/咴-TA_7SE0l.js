@@ -1,1 +1,0 @@
-const s=[{p:"huī",pp:"hui1",d:"neigh ☆ whinny (sound made by a horse)",t:"咴"}],c=[],n=[],o="口",t="9",d=["口","灰"],e=[],h={s,w:c,i:n,r:o,sc:t,c:d,d:e};export{d as c,e as d,h as default,n as i,o as r,s,t as sc,c as w};

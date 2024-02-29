@@ -1,0 +1,1 @@
+const s=[{p:"bèi",pp:"bei4",d:"horse tack (articles of harness such as saddle and bridle)/variant of 鞴[bei4]",t:"鞁"}],c=[],t=[],o="革",n="14",a=["革","皮"],e=[],d={s,w:c,i:t,r:o,sc:n,c:a,d:e};export{a as c,e as d,d as default,t as i,o as r,s,n as sc,c as w};

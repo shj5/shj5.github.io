@@ -1,1 +1,0 @@
-const s=[{p:"gù",pp:"gu4",d:"dried up ☆ dry ☆ exhausted ☆ tired",t:"凅"}],t=[],c=[],d="冫",o="10",n=["冫","固"],e=[],r={s,w:t,i:c,r:d,sc:o,c:n,d:e};export{n as c,e as d,r as default,c as i,d as r,s,o as sc,t as w};

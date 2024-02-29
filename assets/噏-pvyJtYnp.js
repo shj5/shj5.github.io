@@ -1,1 +1,0 @@
-const s=[{p:"xī",pp:"xi1",d:"to gossip ☆ to babble (Cantonese)",t:"噏"}],o=[{w:"噏动",p:"xī dòng",d:"variant of 翕動|翕动[xi1 dong4]"}],t=[],n="口",c="15",d=["口","翕"],a=[],i={s,w:o,i:t,r:n,sc:c,c:d,d:a};export{d as c,a as d,i as default,t as i,n as r,s,c as sc,o as w};

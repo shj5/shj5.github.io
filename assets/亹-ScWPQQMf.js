@@ -1,1 +1,0 @@
-const s=[{p:"mén",pp:"men2",d:"mountain pass ☆ defile (archaic)",t:"亹"},{p:"wěi",pp:"wei3",d:"resolute",t:"亹"}],n=[{w:"亹亹",p:"wěi wěi",d:"diligently ☆ relentlessly ☆ pressing forward"},{w:"亹亹不倦",p:"wěi wěi bù juàn",d:"on and on ☆ relentlessly"}],t=[],e="亠",c="21",i=["亠","舋"],o=[],d={s,w:n,i:t,r:e,sc:c,c:i,d:o};export{i as c,o as d,d as default,t as i,e as r,s,c as sc,n as w};

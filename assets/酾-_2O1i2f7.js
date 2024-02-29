@@ -1,1 +1,0 @@
-const s=[{p:"shī",pp:"shi1",d:"(literary) to filter (wine) ☆ to pour (wine or tea) ☆ to dredge ☆ also pr. [shai1] ☆ Taiwan pr. [si1]",t:"釃"}],t=[],o=[],c="酉",n="14",r=["酉","丽"],i=[],e={s,w:t,i:o,r:c,sc:n,c:r,d:i};export{r as c,i as d,e as default,o as i,c as r,s,n as sc,t as w};

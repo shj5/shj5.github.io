@@ -1,1 +1,0 @@
-const n=[{p:"qí",pp:"qi2",d:"piebald horse ☆ used for 麒[qi2], mythical unicorn",t:"騏"}],i=[{w:"骐麟",p:"qí lín",d:"variant of 麒麟[qi2 lin2] ☆ qilin (mythical Chinese animal) ☆ kylin ☆ Chinese unicorn ☆ commonly mistranslated as giraffe"}],s=[],c="馬",o="11",t=["马","其"],a=[],e={s:n,w:i,i:s,r:c,sc:o,c:t,d:a};export{t as c,a as d,e as default,s as i,c as r,n as s,o as sc,i as w};

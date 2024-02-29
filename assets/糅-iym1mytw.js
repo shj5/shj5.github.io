@@ -1,1 +1,0 @@
-const t=[{p:"róu",pp:"rou2",d:"mix",t:"糅"}],o=[{w:"糅合",p:"róu hé",d:"mix together ☆ put together (usu. things that do not blend well together)"},{w:"杂糅",p:"zá róu",d:"a blend ☆ a mix"}],s=[],c="米",n="15",e=["米","柔"],r=[],d={s:t,w:o,i:s,r:c,sc:n,c:e,d:r};export{e as c,r as d,d as default,s as i,c as r,t as s,n as sc,o as w};

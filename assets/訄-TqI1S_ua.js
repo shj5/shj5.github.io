@@ -1,1 +1,0 @@
-const c=[{p:"qiú",pp:"qiu2",d:"(literary) to coerce sb ☆ to compel sb",t:"訄"}],s=[],t=[],o="言",n="9",e=["九","言"],r=[],i={s:c,w:s,i:t,r:o,sc:n,c:e,d:r};export{e as c,r as d,i as default,t as i,o as r,c as s,n as sc,s as w};

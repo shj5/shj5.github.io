@@ -1,0 +1,1 @@
+const s=[{p:"cāi",pp:"cai1",d:"(literary) learned; erudite/(literary) gifted; highly talented/Taiwan pr. [sai1]",t:"偲"},{p:"sī",pp:"si1",d:"used in 偲偲[si1si1]",t:"偲"}],t=[{w:"偲偲",p:"sī sī",d:"(literary) to learn from and encourage each other"}],e=[],c="人",i="11",r=["亻","思"],a=[],n={s,w:t,i:e,r:c,sc:i,c:r,d:a};export{r as c,a as d,n as default,e as i,c as r,s,i as sc,t as w};

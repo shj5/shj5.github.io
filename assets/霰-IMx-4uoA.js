@@ -1,1 +1,0 @@
-const n=[{p:"xiàn",pp:"xian4",d:"graupel ☆ snow pellet ☆ soft hail",t:"霰"}],s=[{w:"榴霰弹",p:"liú xiàn dàn",d:"shrapnel shell ☆ shrapnel ☆ also pr. [liu2 san3 dan4]"},{w:"霰弹枪",p:"xiàn dàn qiāng",d:"shotgun"},{w:"霰粒肿",p:"xiàn lì zhǒng",d:"chalazion"}],l=[],o="雨",t="20",c=["雨","散"],a=[],i={s:n,w:s,i:l,r:o,sc:t,c,d:a};export{c,a as d,i as default,l as i,o as r,n as s,t as sc,s as w};

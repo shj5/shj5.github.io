@@ -1,1 +1,0 @@
-const t=[{p:"qūn",pp:"qun1",d:"to shrink back (from sth)",t:"逡"}],o=[{w:"逡巡",p:"qūn xún",d:"to draw back ☆ to move back and forth ☆ to hesitate ☆ in an instant"},{w:"逡巡不前",p:"qūn xún bù qián",d:"to hesitate to move forward ☆ to balk ☆ to jib"}],n=[],s="辵",c="11",a=["辶"],d=[],i={s:t,w:o,i:n,r:s,sc:c,c:a,d};export{a as c,d,i as default,n as i,s as r,t as s,c as sc,o as w};

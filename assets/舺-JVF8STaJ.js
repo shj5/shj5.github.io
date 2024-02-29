@@ -1,0 +1,1 @@
+const a=[{p:"xiá",pp:"xia2",d:"boat/Taiwan pr. [jia3]",t:"舺"}],n=[{w:"艋舺",p:"Měng jiǎ",d:"Mengjia (also written Monga, Monka or Bangka), the pre-Japanese-era name for Wanhua 萬華|万华[Wan4 hua2], the oldest district of Taipei"}],t=[],o="舟",s="11",c=["舟","甲"],e=[],i={s:a,w:n,i:t,r:o,sc:s,c,d:e};export{c,e as d,i as default,t as i,o as r,a as s,s as sc,n as w};

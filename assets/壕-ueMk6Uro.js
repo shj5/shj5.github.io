@@ -1,0 +1,1 @@
+const t=[{p:"háo",pp:"hao2",d:"moat/(military) trench",t:"壕"}],c=[{w:"壕沟",p:"háo gōu",d:"trench/moat"},{w:"战壕",p:"zhàn háo",d:"trench/entrenchment"},{w:"战壕热",p:"zhàn háo rè",d:"trench fever"}],n=[],o="土",s="17",h=["土","豪"],e=[],r={s:t,w:c,i:n,r:o,sc:s,c:h,d:e};export{h as c,e as d,r as default,n as i,o as r,t as s,s as sc,c as w};

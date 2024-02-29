@@ -1,1 +1,0 @@
-const o=[{p:"chì",pp:"chi4",d:"walk with one leg",t:"踅"},{p:"xué",pp:"xue2",d:"to walk around ☆ turn back midway",t:"踅"}],t=[{w:"踅子",p:"xué zi",d:"variant of 茓子[xue2 zi5]"},{w:"踅摸",p:"xué mo",d:"to look for ☆ to seek (colloq.)"}],c=[],s="足",n="14",a=["折","足"],d=[],p={s:o,w:t,i:c,r:s,sc:n,c:a,d};export{a as c,d,p as default,c as i,s as r,o as s,n as sc,t as w};

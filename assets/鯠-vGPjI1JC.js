@@ -1,1 +1,0 @@
-const o=[{p:"lái",pp:"lai2",d:"to confer ☆ to bestow on an inferior ☆ to reward",t:"鯠"}],t=[],s=[],c="魚",n="19",r=[],e=[],i={s:o,w:t,i:s,r:c,sc:n,c:r,d:e};export{r as c,e as d,i as default,s as i,c as r,o as s,n as sc,t as w};

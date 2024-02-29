@@ -1,1 +1,0 @@
-const s=[{p:"lóng",pp:"long2",d:"(literary) window ☆ (literary) cage for animals",t:"櫳"}],c=[],t=[],n="木",o="9",r=["木","龙"],a=[],i={s,w:c,i:t,r:n,sc:o,c:r,d:a};export{r as c,a as d,i as default,t as i,n as r,s,o as sc,c as w};

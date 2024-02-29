@@ -1,1 +1,0 @@
-const s=[{p:"miè",pp:"mie4",d:"bamboo splints for baskets",t:"篾"}],t=[{w:"竹篾",p:"zhú miè",d:"thin bamboo strips used for basket weaving"}],o=[],c="竹",n="17",i=["竹"],a=[],e={s,w:t,i:o,r:c,sc:n,c:i,d:a};export{i as c,a as d,e as default,o as i,c as r,s,n as sc,t as w};

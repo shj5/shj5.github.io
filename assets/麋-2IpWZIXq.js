@@ -1,0 +1,1 @@
+const s=[{p:"Mí",pp:"Mi2",d:"surname Mi",t:"麋"},{p:"mí",pp:"mi2",d:"moose/river bank",t:"麋"}],t=[{w:"麋鹿",p:"mí lù",d:"Père David's deer (Elaphurus davidianus), species of deer native to China that is critically endangered"}],e=[],c="鹿",i="17",n=["鹿","米"],a=[],d={s,w:t,i:e,r:c,sc:i,c:n,d:a};export{n as c,a as d,d as default,e as i,c as r,s,i as sc,t as w};

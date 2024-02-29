@@ -1,1 +1,0 @@
-const n=[{p:"méng",pp:"meng2",d:"horsefly ☆ gadfly",t:"虻"},{p:"méng",pp:"meng2",d:"old variant of 虻[meng2]",t:"蝱"}],s=[{w:"牛虻",p:"niú méng",d:"gadfly (Tabanus bovinus)"}],o=[],t="虫",c="9",d=["虫","亡"],a=[],g={s:n,w:s,i:o,r:t,sc:c,c:d,d:a};export{d as c,a as d,g as default,o as i,t as r,n as s,c as sc,s as w};

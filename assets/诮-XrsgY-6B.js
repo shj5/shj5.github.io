@@ -1,1 +1,0 @@
-const o=[{p:"qiào",pp:"qiao4",d:"ridicule ☆ to blame",t:"誚"}],c=[{w:"讥诮",p:"jī qiào",d:"to deride ☆ to mock"}],t=[],s="言",d="9",i=["讠","肖"],n=[],e={s:o,w:c,i:t,r:s,sc:d,c:i,d:n};export{i as c,n as d,e as default,t as i,s as r,o as s,d as sc,c as w};

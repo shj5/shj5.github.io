@@ -1,0 +1,1 @@
+const s=[{p:"gē",pp:"ge1",d:"knot",t:"紇"},{p:"hé",pp:"he2",d:"tassels",t:"紇"}],t=[{w:"回纥",p:"Huí hé",d:"Huihe, ancient name of an ethnic group who were the ancestors of the Uyghurs 維吾爾族|维吾尔族[Wei2wu2er3zu2] and the Yugurs 裕固族[Yu4gu4zu2]"}],e=[],n="糸",c="6",o=["纟","乞"],u=[],h={s,w:t,i:e,r:n,sc:c,c:o,d:u};export{o as c,u as d,h as default,e as i,n as r,s,c as sc,t as w};

@@ -1,0 +1,1 @@
+const a=[{p:"bǎ",pp:"ba3",d:"palladium (chemistry)/Taiwan pr. [ba1]",t:"鈀"},{p:"pá",pp:"pa2",d:"archaic variant of 耙[pa2]",t:"鈀"}],c=[{w:"钉钯",p:"dīng bǎ",d:"rake"}],s=[],t="金",p="9",n=["巴"],o=[],d={s:a,w:c,i:s,r:t,sc:p,c:n,d:o};export{n as c,o as d,d as default,s as i,t as r,a as s,p as sc,c as w};

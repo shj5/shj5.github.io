@@ -1,0 +1,1 @@
+const c=[{p:"tán",pp:"tan2",d:"black, dark/unclear/private",t:"黮"}],t=[],s=[],n="黑",o="21",a=["黑","甚"],r=[],d={s:c,w:t,i:s,r:n,sc:o,c:a,d:r};export{a as c,r as d,d as default,s as i,n as r,c as s,o as sc,t as w};

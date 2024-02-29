@@ -1,0 +1,1 @@
+const s=[{p:"dài",pp:"dai4",d:"(Cantonese) steering wheel/(Cantonese) tire (car, bicycle)",t:"軚"}],c=[],t=[],n="車",e="11",o=["太"],i=[],a={s,w:c,i:t,r:n,sc:e,c:o,d:i};export{o as c,i as d,a as default,t as i,n as r,s,e as sc,c as w};

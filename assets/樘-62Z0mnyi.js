@@ -1,0 +1,1 @@
+const o=[{p:"chěng",pp:"cheng3",d:"a pillar",t:"樘"},{p:"táng",pp:"tang2",d:"pillar/door post/door or window frame/classifier for doors or windows",t:"樘"}],s=[],c=[],t="木",n="15",r=["木","堂"],d=[],p={s:o,w:s,i:c,r:t,sc:n,c:r,d};export{r as c,d,p as default,c as i,t as r,o as s,n as sc,s as w};

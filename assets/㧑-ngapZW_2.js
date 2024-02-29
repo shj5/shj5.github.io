@@ -1,1 +1,0 @@
-const t=[{p:"huī",pp:"hui1",d:"to split ☆ to direct ☆ to brandish ☆ humble",t:"撝"}],s=[{w:"㧑挹",p:"huī yì",d:"to be extremely modest and polite"},{w:"㧑损",p:"huī sǔn",d:"to humble"}],o=[],c="",e="",n=[],d=[],p={s:t,w:s,i:o,r:c,sc:e,c:n,d};export{n as c,d,p as default,o as i,c as r,t as s,e as sc,s as w};

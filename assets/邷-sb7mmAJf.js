@@ -1,0 +1,1 @@
+const c=[{p:"Wǎ",pp:"Wa3",d:"old place name",t:"邷"},{p:"wǎ",pp:"wa3",d:"to grab/see 邷麼兒|邷么儿[wa3 mo2 r5]",t:"邷"}],s=[{w:"邷么儿",p:"wǎ mó r",d:"to play knucklebones (dialect)"}],t=[],o="邑",n="8",a=["瓦"],p=[],e={s:c,w:s,i:t,r:o,sc:n,c:a,d:p};export{a as c,p as d,e as default,t as i,o as r,c as s,n as sc,s as w};

@@ -1,0 +1,1 @@
+const o=[{p:"diāo",pp:"diao1",d:"rock cave (archaic)",t:"碉"}],c=[{w:"碉堡",p:"diāo bǎo",d:"(military) pillbox; blockhouse/humorous way of writing 屌爆[diao3 bao4]"}],s=[],t="石",i="13",a=["石","周"],d=[],n={s:o,w:c,i:s,r:t,sc:i,c:a,d};export{a as c,d,n as default,s as i,t as r,o as s,i as sc,c as w};

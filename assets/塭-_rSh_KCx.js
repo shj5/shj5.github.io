@@ -1,0 +1,1 @@
+const s=[{p:"wēn",pp:"wen1",d:"(bound form) used in 魚塭|鱼塭[yu2 wen1]/used in place names",t:"塭"}],n=[{w:"鱼塭",p:"yú wēn",d:"(Tw) fishpond/fish farm"}],c=[],o="土",t="13",d=["土"],e=[],w={s,w:n,i:c,r:o,sc:t,c:d,d:e};export{d as c,e as d,w as default,c as i,o as r,s,t as sc,n as w};

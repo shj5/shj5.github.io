@@ -1,1 +1,0 @@
-const t=[{p:"tiàn",pp:"tian4",d:"(literary) jade pendants attached to an official hat and hanging beside each ear, symbolizing refusal to listen to malicious talk ☆ (literary) to fill up",t:"瑱"},{p:"zhèn",pp:"zhen4",d:"jade weight",t:"瑱"}],a=[],n=[],s="玉",i="14",c=["王","真"],e=[],o={s:t,w:a,i:n,r:s,sc:i,c,d:e};export{c,e as d,o as default,n as i,s as r,t as s,i as sc,a as w};

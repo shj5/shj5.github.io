@@ -1,1 +1,0 @@
-const s=[{p:"xī",pp:"xi1",d:"(intestinal worm)",t:"螅"}],t=[{w:"水螅",p:"shuǐ xī",d:"Hydra (freshwater polyp)"},{w:"水螅体",p:"shuǐ xī tǐ",d:"sessile polyp ☆ sea anemone"}],o=[],c="虫",n="16",e=["虫","息"],p=[],a={s,w:t,i:o,r:c,sc:n,c:e,d:p};export{e as c,p as d,a as default,o as i,c as r,s,n as sc,t as w};

@@ -1,1 +1,0 @@
-const o=[{p:"liào",pp:"liao4",d:"to give a backward kick (e.g. of a horse)",t:"尥"}],c=[{w:"尥蹶子",p:"liào juě zi",d:"(of mules, horses etc) to kick backward ☆ to kick with the hind legs ☆ fig. to flare up in anger ☆ to display defiance"}],s=[],t="尢",i="6",e=["尢","勺"],a=[],n={s:o,w:c,i:s,r:t,sc:i,c:e,d:a};export{e as c,a as d,n as default,s as i,t as r,o as s,i as sc,c as w};

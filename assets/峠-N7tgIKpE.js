@@ -1,1 +1,0 @@
-const s=[{p:"xx",pp:"xx5",d:"(Japanese kokuji) mountain pass ☆ (fig.) crisis point ☆ pr. tōge",t:"峠"}],t=[],c=[],n="山",o="9",i=["山"],p=[],a={s,w:t,i:c,r:n,sc:o,c:i,d:p};export{i as c,p as d,a as default,c as i,n as r,s,o as sc,t as w};

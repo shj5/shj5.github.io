@@ -1,0 +1,1 @@
+const t=[{p:"liè",pp:"lie4",d:"used in 趔趄|趔趄[lie4 qie5]",t:"趔"}],s=[{w:"打趔趄",p:"dǎ liè qie",d:"to trip/to miss a step/to slip"},{w:"趔趄",p:"liè qie",d:"to stagger; to stumble; to reel/Taiwan pr. [lie4 ju1]"}],i=[],o="走",e="13",c=["走","列"],l=[],n={s:t,w:s,i,r:o,sc:e,c,d:l};export{c,l as d,n as default,i,o as r,t as s,e as sc,s as w};

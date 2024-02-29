@@ -1,0 +1,1 @@
+const n=[{p:"shǎn",pp:"shan3",d:"furtively glance/glittering",t:"睒"}],s=[{w:"钟睒睒",p:"Zhōng Shǎn shǎn",d:"Zhong Shanshan (1954-), Chinese billionaire businessman, the founder and chairperson of Nongfu Spring 農夫山泉|农夫山泉[Nong2 fu1 Shan1 quan2]"}],o=[],t="目",c="13",a=["目","炎"],e=[],h={s:n,w:s,i:o,r:t,sc:c,c:a,d:e};export{a as c,e as d,h as default,o as i,t as r,n as s,c as sc,s as w};

@@ -1,0 +1,1 @@
+const n=[{p:"kǎn",pp:"kan3",d:"to be unable to reach one's aim/to be full of misfortune",t:"轗"}],o=[{w:"轗轲",p:"kǎn kě",d:"variant of 坎坷[kan3 ke3]"}],t=[],s="車",c="20",a=[],e=[],k={s:n,w:o,i:t,r:s,sc:c,c:a,d:e};export{a as c,e as d,k as default,t as i,s as r,n as s,c as sc,o as w};

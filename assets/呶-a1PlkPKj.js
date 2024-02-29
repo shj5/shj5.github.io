@@ -1,0 +1,1 @@
+const o=[{p:"náo",pp:"nao2",d:'clamor/(onom.) "look!"',t:"呶"},{p:"nǔ",pp:"nu3",d:"to pout",t:"呶"}],n=[{w:"呶呶",p:"náo náo",d:"to talk endlessly, annoying everyone"}],t=[],s="口",c="8",p=["口","奴"],d=[],e={s:o,w:n,i:t,r:s,sc:c,c:p,d};export{p as c,d,e as default,t as i,s as r,o as s,c as sc,n as w};

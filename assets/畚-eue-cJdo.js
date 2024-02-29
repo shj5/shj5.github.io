@@ -1,1 +1,0 @@
-const s=[{p:"běn",pp:"ben3",d:"a basket or pan used for earth, manure etc",t:"畚"}],n=[{w:"畚斗",p:"běn dǒu",d:"dustpan"},{w:"畚箕",p:"běn jī",d:"a bamboo or wicker scoop ☆ dustpan"}],o=[],t="田",c="10",a=["厶","奋"],d=[],p={s,w:n,i:o,r:t,sc:c,c:a,d};export{a as c,d,p as default,o as i,t as r,s,c as sc,n as w};

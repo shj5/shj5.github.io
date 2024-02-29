@@ -1,1 +1,0 @@
-const t=[{p:"wǔ",pp:"wu3",d:"to oppose ☆ to gore",t:"牾"}],o=[{w:"抵牾",p:"dǐ wǔ",d:"to conflict with ☆ to contradict ☆ contradiction"},{w:"牴牾",p:"dǐ wǔ",d:"variant of 抵牾[di3 wu3]"}],c=[],s="牛",n="11",d=["吾"],w=[],i={s:t,w:o,i:c,r:s,sc:n,c:d,d:w};export{d as c,w as d,i as default,c as i,s as r,t as s,n as sc,o as w};

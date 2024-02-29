@@ -1,1 +1,0 @@
-const l=[{p:"lù",pp:"lu4",d:"windlass",t:"轆"}],s=[{w:"轱辘",p:"gū lù",d:"wheel ☆ to roll ☆ also pr. [gu1 lu5]"},{w:"辘轳",p:"lù lu",d:"well pulley ☆ windlass ☆ potter's wheel"}],t=[{w:"饥肠辘辘",p:"jī cháng lù lù",d:"stomach rumbling with hunger"}],c="車",o="15",n=["车","鹿"],w=[],e={s:l,w:s,i:t,r:c,sc:o,c:n,d:w};export{n as c,w as d,e as default,t as i,c as r,l as s,o as sc,s as w};

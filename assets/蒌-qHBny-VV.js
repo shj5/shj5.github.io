@@ -1,1 +1,0 @@
-const s=[{p:"lóu",pp:"lou2",d:"Arthemisia vulgaris ☆ piper betel",t:"蔞"}],t=[],c=[],o="艸",n="12",e=["艹","娄"],i=[],p={s,w:t,i:c,r:o,sc:n,c:e,d:i};export{e as c,i as d,p as default,c as i,o as r,s,n as sc,t as w};

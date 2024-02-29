@@ -1,1 +1,0 @@
-const n=[{p:"huáng",pp:"huang2",d:"semicircular jade ornament",t:"璜"}],a=[{w:"唐璜",p:"táng huáng",d:"a dandy ☆ a fop ☆ Don Juan ☆ a ladies man"},{w:"装璜",p:"zhuāng huáng",d:"variant of 裝潢|装潢[zhuang1 huang2]"}],s=[],c="玉",t="16",o=["王","黄"],d=[],u={s:n,w:a,i:s,r:c,sc:t,c:o,d};export{o as c,d,u as default,s as i,c as r,n as s,t as sc,a as w};

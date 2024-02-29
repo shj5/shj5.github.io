@@ -1,0 +1,1 @@
+const o=[{p:"pì",pp:"pi4",d:"used in 睥睨[pi4 ni4]/Taiwan pr. [bi4]",t:"睥"}],s=[{w:"睥睨",p:"pì nì",d:"(literary) to look disdainfully out of the corner of one's eye; to look askance at"}],t=[],n="目",c="13",i=["目","卑"],e=[],p={s:o,w:s,i:t,r:n,sc:c,c:i,d:e};export{i as c,e as d,p as default,t as i,n as r,o as s,c as sc,s as w};

@@ -1,1 +1,0 @@
-const s=[{p:"zhī",pp:"zhi1",d:"gardenia ☆ cape jasmine (Gardenia jasminoides) ☆ same as 梔子|栀子[zhi1 zi5]",t:"梔"}],a=[{w:"栀子",p:"zhī zi",d:"cape jasmine (Gardenia jasminoides)"},{w:"栀子花",p:"zhī zi huā",d:"cape jasmine (Gardenia jasminoides)"}],i=[],n="木",e="9",c=["木","卮"],d=[],o={s,w:a,i,r:n,sc:e,c,d};export{c,d,o as default,i,n as r,s,e as sc,a as w};

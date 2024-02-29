@@ -1,0 +1,1 @@
+const s=[{p:"fù",pp:"fu4",d:"scales on the belly of a snake, aiding locomotion/snail/to crawl",t:"蚹"}],o=[],c=[],t="虫",n="11",a=["虫","付"],l=[],e={s,w:o,i:c,r:t,sc:n,c:a,d:l};export{a as c,l as d,e as default,c as i,t as r,s,n as sc,o as w};

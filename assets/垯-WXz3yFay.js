@@ -1,0 +1,1 @@
+const o=[{p:"da",pp:"da5",d:"used in 圪墶|圪垯[ge1da5]",t:"墶"}],n=[{w:"圪垯",p:"gē da",d:"mound; knoll/swelling or lump on skin; pimple/knot; lump/preoccupation; problem"}],s=[],c="土",t="9",p=["土","达"],d=[],l={s:o,w:n,i:s,r:c,sc:t,c:p,d};export{p as c,d,l as default,s as i,c as r,o as s,t as sc,n as w};

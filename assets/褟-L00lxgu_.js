@@ -1,1 +1,0 @@
-const t=[{p:"tā",pp:"ta1",d:"inner shirt ☆ to sew onto clothing ☆ see also 禢[Ta4]",t:"褟"}],s=[{w:"汗褟儿",p:"hàn tā r",d:"undershirt (dialect)"},{w:"褟绦子",p:"tā tāo zi",d:"lace hemming"}],c=[],n="衣",o="16",e=["衤"],i=[],d={s:t,w:s,i:c,r:n,sc:o,c:e,d:i};export{e as c,i as d,d as default,c as i,n as r,t as s,o as sc,s as w};

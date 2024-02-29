@@ -1,1 +1,0 @@
-const c=[{p:"ruó",pp:"ruo2",d:"to rub ☆ to crumple ☆ Taiwan pr. [nuo2]",t:"挼"}],o=[],s=[],t="手",n="10",r=["扌","妥"],p=[],u={s:c,w:o,i:s,r:t,sc:n,c:r,d:p};export{r as c,p as d,u as default,s as i,t as r,c as s,n as sc,o as w};

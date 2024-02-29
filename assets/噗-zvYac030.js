@@ -1,1 +1,0 @@
-const o=[{p:"pū",pp:"pu1",d:"(onom.) pop ☆ plop ☆ pfff ☆ putt-putt of a motor",t:"噗"}],t=[{w:"噗浪",p:"Pū làng",d:"Plurk (Taiwanese social networking and microblogging service)"}],s=[],c="口",n="15",p=["口","菐"],i=[],r={s:o,w:t,i:s,r:c,sc:n,c:p,d:i};export{p as c,i as d,r as default,s as i,c as r,o as s,n as sc,t as w};

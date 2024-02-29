@@ -1,0 +1,1 @@
+const n=[{p:"xī",pp:"xi1",d:"used in 肸肸[xi1xi1]/used in 肸蠁|肸蚃[xi1xiang3]/Taiwan pr. [xi4]",t:"肸"}],s=[{w:"肸肸",p:"xī xī",d:"(literary) (onom.) sound of laughter"},{w:"肸蚃",p:"xī xiǎng",d:"(literary) (of a sound, fragrance etc) to fill the air"}],t=[],i="肉",o="8",c=["月"],a=[],r={s:n,w:s,i:t,r:i,sc:o,c,d:a};export{c,a as d,r as default,t as i,i as r,n as s,o as sc,s as w};

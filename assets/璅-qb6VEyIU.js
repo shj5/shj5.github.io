@@ -1,1 +1,0 @@
-const s=[{p:"suǒ",pp:"suo3",d:"fragmentary ☆ trifling",t:"璅"}],t=[],c=[],n="玉",o="15",r=["王","巢"],a=[],d={s,w:t,i:c,r:n,sc:o,c:r,d:a};export{r as c,a as d,d as default,c as i,n as r,s,o as sc,t as w};

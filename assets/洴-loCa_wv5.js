@@ -1,1 +1,0 @@
-const c=[{p:"píng",pp:"ping2",d:"wash ☆ bleach (fabric)",t:"洴"}],s=[],t=[],n="水",o="9",p=["氵","并"],a=["蓱"],d={s:c,w:s,i:t,r:n,sc:o,c:p,d:a};export{p as c,a as d,d as default,t as i,n as r,c as s,o as sc,s as w};

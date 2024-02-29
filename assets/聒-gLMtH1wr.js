@@ -1,0 +1,1 @@
+const o=[{p:"guō",pp:"guo1",d:"raucous/clamor/unpleasantly noisy",t:"聒"}],s=[{w:"絮聒",p:"xù guō",d:"noisy prattle/to chatter loudly"},{w:"聒噪",p:"guō zào",d:"a clamor/noisy"},{w:"聒耳",p:"guō ěr",d:"raucous/ear-splitting"}],t=[],c="耳",n="12",a=["耳","舌"],u=[],r={s:o,w:s,i:t,r:c,sc:n,c:a,d:u};export{a as c,u as d,r as default,t as i,c as r,o as s,n as sc,s as w};

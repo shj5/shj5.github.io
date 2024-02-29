@@ -1,1 +1,0 @@
-const s=[{p:"dìng",pp:"ding4",d:"display food for show only ☆ sacrifice",t:"飣"}],c=[],o=[],n="食",t="5",d=["饣","丁"],i=[],p={s,w:c,i:o,r:n,sc:t,c:d,d:i};export{d as c,i as d,p as default,o as i,n as r,s,t as sc,c as w};

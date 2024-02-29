@@ -1,1 +1,0 @@
-const s=[{p:"āi",pp:"ai1",d:"see 娭姐[ai1 jie3], father's mother ☆ granny (dialect) ☆ respectful form of address for older lady",t:"娭"}],e=[{w:"娭姐",p:"āi jiě",d:"father's mother ☆ granny (dialect) ☆ respectful form of address for older lady"}],o=[],r="女",t="10",c=["女","矣"],d=[],a={s,w:e,i:o,r,sc:t,c,d};export{c,d,a as default,o as i,r,s,t as sc,e as w};

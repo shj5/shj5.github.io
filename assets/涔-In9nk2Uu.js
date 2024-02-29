@@ -1,1 +1,0 @@
-const c=[{p:"cén",pp:"cen2",d:"overflow ☆ rainwater ☆ tearful",t:"涔"}],s=[],t=[],n="水",o="10",r=["氵","岑"],e=[],a={s:c,w:s,i:t,r:n,sc:o,c:r,d:e};export{r as c,e as d,a as default,t as i,n as r,c as s,o as sc,s as w};

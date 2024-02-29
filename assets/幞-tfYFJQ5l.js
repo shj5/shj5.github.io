@@ -1,1 +1,0 @@
-const n=[{p:"fú",pp:"fu2",d:"used in 幞頭|幞头[fu2tou2] ☆ variant of 袱[fu2] ☆ Taiwan pr. [pu2]",t:"幞"}],s=[{w:"幞头",p:"fú tóu",d:"a kind of headscarf worn by men in ancient China"}],t=[],c="巾",o="15",a=["巾","善"],f=[],i={s:n,w:s,i:t,r:c,sc:o,c:a,d:f};export{a as c,f as d,i as default,t as i,c as r,n as s,o as sc,s as w};

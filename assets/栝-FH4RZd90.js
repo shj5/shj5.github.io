@@ -1,0 +1,1 @@
+const s=[{p:"guā",pp:"gua1",d:"Juniperus chinensis/measuring-frame",t:"栝"}],n=[{w:"檃栝",p:"yǐn kuò",d:"straightening machine/also pr. [yin3 gua1]"}],c=[],t="木",i="10",o=["木","舌"],a=[],e={s,w:n,i:c,r:t,sc:i,c:o,d:a};export{o as c,a as d,e as default,c as i,t as r,s,i as sc,n as w};

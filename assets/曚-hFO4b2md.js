@@ -1,0 +1,1 @@
+const t=[{p:"méng",pp:"meng2",d:"twilight before dawn",t:"曚"}],n=[{w:"暡曚",p:"wěng méng",d:"(literary) (of daylight) dim"},{w:"曚昽",p:"méng lóng",d:"(literary) (of daylight) dim/(literary) murky; indistinct"}],i=[],s="日",c="17",d=["日","蒙"],o=[],r={s:t,w:n,i,r:s,sc:c,c:d,d:o};export{d as c,o as d,r as default,i,s as r,t as s,c as sc,n as w};

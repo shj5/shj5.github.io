@@ -1,0 +1,1 @@
+const n=[{p:"yuān",pp:"yuan1",d:"used in 箢箕[yuan1 ji1] and 箢篼[yuan1 dou1]/Taiwan pr. [wan3]",t:"箢"}],o=[{w:"箢箕",p:"yuān jī",d:"(dialect) scoop-shaped woven bamboo basket"},{w:"箢篼",p:"yuān dōu",d:"(dialect) scoop-shaped woven bamboo basket"}],s=[],a="竹",c="14",t=["竹","宛"],d=[],e={s:n,w:o,i:s,r:a,sc:c,c:t,d};export{t as c,d,e as default,s as i,a as r,n as s,c as sc,o as w};

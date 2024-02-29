@@ -1,1 +1,0 @@
-const s=[{p:"fěi",pp:"fei3",d:"slander",t:"誹"}],n=[{w:"腹诽",p:"fù fěi",d:"silent curse or disagreement ☆ unspoken criticism"},{w:"诽闻",p:"fěi wén",d:"scandal ☆ gossip"},{w:"诽谤",p:"fěi bàng",d:"to slander ☆ to libel"}],c=[],t="言",i="10",o=["讠","非"],e=[],d={s,w:n,i:c,r:t,sc:i,c:o,d:e};export{o as c,e as d,d as default,c as i,t as r,s,i as sc,n as w};

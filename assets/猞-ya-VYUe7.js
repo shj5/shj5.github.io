@@ -1,0 +1,1 @@
+const s=[{p:"shē",pp:"she1",d:"used in 猞猁[she1li4]/Taiwan pr. [she4]",t:"猞"}],c=[{w:"猞猁",p:"shē lì",d:"lynx"}],n=[],t="犬",o="11",d=["犭","舍"],e=[],p={s,w:c,i:n,r:t,sc:o,c:d,d:e};export{d as c,e as d,p as default,n as i,t as r,s,o as sc,c as w};

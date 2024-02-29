@@ -1,1 +1,0 @@
-const s=[{p:"luó",pp:"luo2",d:"see 桫欏|桫椤[suo1 luo2]",t:"欏"}],o=[{w:"桫椤",p:"suō luó",d:"spinulose tree fern ☆ Cyathea spinulosa (botany)"}],t=[],c="木",n="12",e=["木","罗"],u=[],l={s,w:o,i:t,r:c,sc:n,c:e,d:u};export{e as c,u as d,l as default,t as i,c as r,s,n as sc,o as w};

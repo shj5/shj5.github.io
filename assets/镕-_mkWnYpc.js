@@ -1,1 +1,0 @@
-const n=[{p:"róng",pp:"rong2",d:"to smelt ☆ to fuse ☆ variant of 熔[rong2]",t:"鎔"}],o=[{w:"朱镕基",p:"Zhū Róng jī",d:"Zhu Rongji (1928-), PRC politician, premier 1998-2003"},{w:"镕炉",p:"róng lú",d:"variant of 熔爐|熔炉, smelting furnace ☆ forge"}],t=[],s="金",c="15",r=["容"],i=[],e={s:n,w:o,i:t,r:s,sc:c,c:r,d:i};export{r as c,i as d,e as default,t as i,s as r,n as s,c as sc,o as w};

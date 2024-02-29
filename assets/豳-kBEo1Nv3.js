@@ -1,1 +1,0 @@
-const n=[{p:"Bīn",pp:"Bin1",d:"name of an ancient county in Shaanxi ☆ variant of 彬[bin1]",t:"豳"}],c=[],t=[],s="豕",o="17",a=["山"],i=[],d={s:n,w:c,i:t,r:s,sc:o,c:a,d:i};export{a as c,i as d,d as default,t as i,s as r,n as s,o as sc,c as w};

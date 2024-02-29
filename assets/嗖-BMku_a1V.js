@@ -1,0 +1,1 @@
+const s=[{p:"sōu",pp:"sou1",d:"(onom.) whooshing/swishing/rustle of skirts",t:"嗖"}],o=[{w:"嗖嗖",p:"sōu sōu",d:"(onom.) whooshing/swishing/rustle of skirts/laughingly"},{w:"麻嗖嗖",p:"má sōu sōu",d:"to feel cold and numb"}],n=[],t="口",c="13",i=["口","叟"],u=[],d={s,w:o,i:n,r:t,sc:c,c:i,d:u};export{i as c,u as d,d as default,n as i,t as r,s,c as sc,o as w};

@@ -1,1 +1,0 @@
-const o=[{p:"yǐn",pp:"yin3",d:"tool used for shaping wood (old) ☆ old variant of 檃[yin3]",t:"櫽"}],s=[],n=[],t="木",c="21",d=["木"],i=[],a={s:o,w:s,i:n,r:t,sc:c,c:d,d:i};export{d as c,i as d,a as default,n as i,t as r,o as s,c as sc,s as w};

@@ -1,0 +1,1 @@
+const n=[{p:"diàn",pp:"dian4",d:"to inlay with gold, silver etc/ancient inlaid ornament shaped as a flower",t:"鈿"},{p:"tián",pp:"tian2",d:"(dialect) coin; money",t:"鈿"}],t=[],c=[],s="金",o="10",i=["田"],a=[],d={s:n,w:t,i:c,r:s,sc:o,c:i,d:a};export{i as c,a as d,d as default,c as i,s as r,n as s,o as sc,t as w};

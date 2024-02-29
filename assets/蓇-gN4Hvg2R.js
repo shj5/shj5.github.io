@@ -1,0 +1,1 @@
+const s=[{p:"gǔ",pp:"gu3",d:"used in 蓇葖[gu1tu1]",t:"蓇"}],t=[{w:"蓇葖",p:"gū tū",d:"(botany) follicle/flower bud"}],c=[],o="艸",n="13",d=["艹","骨"],u=[],e={s,w:t,i:c,r:o,sc:n,c:d,d:u};export{d as c,u as d,e as default,c as i,o as r,s,n as sc,t as w};

@@ -1,0 +1,1 @@
+const t=[{p:"wǎn",pp:"wan3",d:"bound form used in 紫菀[zi3 wan3]",t:"菀"},{p:"yù",pp:"yu4",d:"luxuriance of growth",t:"菀"}],s=[{w:"紫菀",p:"zǐ wǎn",d:"(botany) aster (Aster tataricus)"},{w:"阿尔泰紫菀",p:"Ā ěr tài zǐ wǎn",d:"(botany) Aster altaicus"}],n=[],c="艸",o="11",a=["艹","宛"],r=[],w={s:t,w:s,i:n,r:c,sc:o,c:a,d:r};export{a as c,r as d,w as default,n as i,c as r,t as s,o as sc,s as w};

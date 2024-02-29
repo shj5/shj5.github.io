@@ -1,0 +1,1 @@
+const t=[{p:"dá",pp:"da2",d:"arrive at/reach/intelligent/variant of 達|达[da2]",t:"逹"}],c=[],s=[],n="辵",o="12",a=["辶","幸"],d=["繨"],r={s:t,w:c,i:s,r:n,sc:o,c:a,d};export{a as c,d,r as default,s as i,n as r,t as s,o as sc,c as w};

@@ -1,1 +1,0 @@
-const c=[{p:"zhōng",pp:"zhong1",d:"handleless cup ☆ goblet",t:"盅"}],t=[{w:"色盅",p:"shǎi zhōng",d:"dice cup"},{w:"酒盅",p:"jiǔ zhōng",d:"wine cup ☆ goblet"},{w:"陶盅",p:"táo zhōng",d:"pottery bowl"},{w:"骰盅",p:"tóu zhōng",d:"dice cup"}],n=[],s="皿",o="9",p=["中","皿"],d=[],e={s:c,w:t,i:n,r:s,sc:o,c:p,d};export{p as c,d,e as default,n as i,s as r,c as s,o as sc,t as w};
