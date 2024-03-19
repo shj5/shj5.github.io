@@ -1,1 +1,0 @@
-const n=[{p:"tūn",pp:"tun1",d:"sun above the horizon",t:"暾"}],s=[{w:"暾欲谷",p:"Tūn yù gǔ",d:"Tonyukuk (died c. 724 AD)"}],t=[],c="日",o="16",d=["日","敦"],e=[],p={s:n,w:s,i:t,r:c,sc:o,c:d,d:e};export{d as c,e as d,p as default,t as i,c as r,n as s,o as sc,s as w};

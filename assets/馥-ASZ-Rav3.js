@@ -1,1 +1,0 @@
-const t=[{p:"fù",pp:"fu4",d:"fragrance/scent/aroma",t:"馥"}],s=[{w:"香馥馥",p:"xiāng fù fù",d:"richly scented/strongly perfumed"},{w:"馥郁",p:"fù yù",d:"strongly fragrant"},{w:"馥馥",p:"fù fù",d:"(literary) highly fragrant"}],c=[],n="香",r="18",f=["香","复"],o=[],a={s:t,w:s,i:c,r:n,sc:r,c:f,d:o};export{f as c,o as d,a as default,c as i,n as r,t as s,r as sc,s as w};

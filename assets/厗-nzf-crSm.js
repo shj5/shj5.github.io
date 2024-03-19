@@ -1,0 +1,1 @@
+const t=[{p:"tí",pp:"ti2",d:"old stone or mineral, possibly related to antimony Sb 銻|锑[ti1]",t:"厗",w:"厗"}],n=[{w:"厗奚",p:"Tí xī",d:"old place name (in Yan of Warring states, in modern Beijing city)",t:"厗奚"}],o=[],s="厂",c="9",i=["厂","辛"],e=[],a={s:t,w:n,i:o,r:s,sc:c,c:i,d:e};export{i as c,e as d,a as default,o as i,s as r,t as s,c as sc,n as w};

@@ -1,0 +1,1 @@
+const s=[{p:"gǔn",pp:"gun3",d:"cord/embroidered sash/to sew",t:"緄",w:"绲"}],c=[{w:"绲边",p:"gǔn biān",d:"(of a dress etc) border, edging",t:"緄邊"}],o=[],t="糸",n="11",d=["纟","昆"],e=[],r={s,w:c,i:o,r:t,sc:n,c:d,d:e};export{d as c,e as d,r as default,o as i,t as r,s,n as sc,c as w};

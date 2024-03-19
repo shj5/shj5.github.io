@@ -1,1 +1,0 @@
-const c=[{p:"xiāng",pp:"xiang1",d:"see 青葙, feather cockscomb (Celosia argentea)",t:"葙"}],s=[{w:"青葙",p:"qīng xiāng",d:"feather cockscomb (Celosia argentea)"},{w:"青葙子",p:"qīng xiāng zi",d:"feather cockscomb (Celosia argentea)"}],e=[],o="艸",n="12",t=["艹","相"],a=[],i={s:c,w:s,i:e,r:o,sc:n,c:t,d:a};export{t as c,a as d,i as default,e as i,o as r,c as s,n as sc,s as w};

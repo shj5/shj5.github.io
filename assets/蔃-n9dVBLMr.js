@@ -1,1 +1,0 @@
-const s=[{p:"qiáng",pp:"qiang2",d:"cigarette (slang) (Cantonese)",t:"蔃"}],t=[],c=[],n="艸",o="15",a=["艹","强"],e=[],i={s,w:t,i:c,r:n,sc:o,c:a,d:e};export{a as c,e as d,i as default,c as i,n as r,s,o as sc,t as w};

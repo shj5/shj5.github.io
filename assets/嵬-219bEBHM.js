@@ -1,0 +1,1 @@
+const t=[{p:"wéi",pp:"wei2",d:"rocky",t:"嵬",w:"嵬"}],o=[{w:"崔嵬",p:"Cuī Wéi",d:"Cui Wei (1912-1979), actor, dramatist and movie director",t:"崔嵬"},{w:"崔嵬",p:"cuī wéi",d:"stony mound/rocky mountain/lofty/towering",t:"崔嵬"}],c=[],s="山",n="13",i=["山","鬼"],d=[],r={s:t,w:o,i:c,r:s,sc:n,c:i,d};export{i as c,d,r as default,c as i,s as r,t as s,n as sc,o as w};

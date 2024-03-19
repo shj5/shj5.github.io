@@ -1,1 +1,0 @@
-const s=[{p:"zhù",pp:"zhu4",d:"Japanese variant of 鑄|铸",t:"鋳"}],c=[],t=[],n="金",o="15",a=["金","寿"],p=[],d={s,w:c,i:t,r:n,sc:o,c:a,d:p};export{a as c,p as d,d as default,t as i,n as r,s,o as sc,c as w};

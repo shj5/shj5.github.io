@@ -1,1 +1,0 @@
-const o=[{p:"sǎng",pp:"sang3",d:"(literary) forehead",t:"顙"}],t=[{w:"稽颡",p:"qǐ sǎng",d:"to kowtow (touch the forehead to the floor)"}],s=[],c="頁",n="16",e=["桑","页"],r=[],d={s:o,w:t,i:s,r:c,sc:n,c:e,d:r};export{e as c,r as d,d as default,s as i,c as r,o as s,n as sc,t as w};

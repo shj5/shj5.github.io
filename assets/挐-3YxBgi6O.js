@@ -1,1 +1,0 @@
-const t=[{p:"ná",pp:"na2",d:"to apprehend/to take",t:"挐"}],s=[],c=[],n="手",o="10",p=["如","手"],a=[],d={s:t,w:s,i:c,r:n,sc:o,c:p,d:a};export{p as c,a as d,d as default,c as i,n as r,t as s,o as sc,s as w};

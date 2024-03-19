@@ -1,1 +1,0 @@
-const s=[{p:"hán",pp:"han2",d:"gems or pearls formerly put into the mouth of a corpse",t:"琀"}],o=[],t=[],c="玉",n="11",r=["王","含"],e=[],p={s,w:o,i:t,r:c,sc:n,c:r,d:e};export{r as c,e as d,p as default,t as i,c as r,s,n as sc,o as w};

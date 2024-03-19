@@ -1,1 +1,0 @@
-const t=[{p:"chǎn",pp:"chan3",d:"to flatter/to cajole",t:"諂"}],n=[{w:"谄媚",p:"chǎn mèi",d:"to flatter"},{w:"谄媚者",p:"chǎn mèi zhě",d:"flatterer"},{w:"谗谄",p:"chán chǎn",d:"to defame one person while flattering another/a slandering toady"}],c=[],o="言",e="10",s=["讠","臽"],a=[],r={s:t,w:n,i:c,r:o,sc:e,c:s,d:a};export{s as c,a as d,r as default,c as i,o as r,t as s,e as sc,n as w};

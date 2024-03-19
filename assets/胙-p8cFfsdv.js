@@ -1,0 +1,1 @@
+const o=[{p:"zuò",pp:"zuo4",d:"to grant or bestow/sacrificial flesh offered to the gods (old)/blessing/title of a sovereign (old)",t:"胙",w:"胙"}],s=[],t=[],c="肉",e="9",n=["月","乍"],d=["葄"],i={s:o,w:s,i:t,r:c,sc:e,c:n,d};export{n as c,d,i as default,t as i,c as r,o as s,e as sc,s as w};

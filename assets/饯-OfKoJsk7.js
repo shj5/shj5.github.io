@@ -1,1 +1,0 @@
-const n=[{p:"jiàn",pp:"jian4",d:"farewell dinner/preserves",t:"餞"}],e=[{w:"蜜饯",p:"mì jiàn",d:"food preserved in sugar or honey"},{w:"饯别",p:"jiàn bié",d:"to give a farewell dinner"},{w:"饯行",p:"jiàn xíng",d:"to give a farewell dinner"}],s=[],o="食",r="8",i=["饣"],t=[],c={s:n,w:e,i:s,r:o,sc:r,c:i,d:t};export{i as c,t as d,c as default,s as i,o as r,n as s,r as sc,e as w};

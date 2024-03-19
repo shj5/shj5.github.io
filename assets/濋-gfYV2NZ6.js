@@ -1,0 +1,1 @@
+const n=[{p:"Chǔ",pp:"Chu3",d:"name of an ancient river (in present-day Dingtao County 定陶縣|定陶县[Ding4 tao2 Xian4], Shandong)",t:"濋",w:"濋"}],t=[],o=[],s="水",c="16",a=["氵","楚"],i=[],e={s:n,w:t,i:o,r:s,sc:c,c:a,d:i};export{a as c,i as d,e as default,o as i,s as r,n as s,c as sc,t as w};

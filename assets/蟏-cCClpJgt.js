@@ -1,1 +1,0 @@
-const o=[{p:"xiāo",pp:"xiao1",d:"long-legged spider",t:"蠨"}],s=[{w:"蟏蛸",p:"xiāo shāo",d:"long-jawed orb weaver, aka long-jawed spider (family Tetragnathidae)"}],e=[{w:"蟏蛸满室",p:"xiāo shāo mǎn shì",d:"The room is filled with cobwebs. (idiom)"}],i="虫",d="17",t=["虫","萧"],c=[],n={s:o,w:s,i:e,r:i,sc:d,c:t,d:c};export{t as c,c as d,n as default,e as i,i as r,o as s,d as sc,s as w};

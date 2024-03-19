@@ -1,0 +1,1 @@
+const s=[{p:"èr",pp:"er4",d:"the blood of a sacrificial fowl which was sprinkled on doors and vessels",t:"衈",w:"衈"}],o=[],c=[],t="血",n="12",d=["血","耳"],r=[],a={s,w:o,i:c,r:t,sc:n,c:d,d:r};export{d as c,r as d,a as default,c as i,t as r,s,n as sc,o as w};

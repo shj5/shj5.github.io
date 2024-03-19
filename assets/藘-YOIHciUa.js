@@ -1,1 +1,0 @@
-const o=[{p:"lǘ",pp:"lu:2",d:"madder",t:"藘"}],s=[{w:"茹藘",p:"rú lǘ",d:"Rubia cordifolia/Indian madder/munjit/also written 茜草"},{w:"蕠藘",p:"rú lǘ",d:"variant of 茹藘, Rubia cordifolia or Rubia akane, roots used as red dye"}],a=[],d="艸",t="18",c=["艹"],n=[],r={s:o,w:s,i:a,r:d,sc:t,c,d:n};export{c,n as d,r as default,a as i,d as r,o as s,t as sc,s as w};

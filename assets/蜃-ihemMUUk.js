@@ -1,0 +1,1 @@
+const s=[{p:"shèn",pp:"shen4",d:"giant clam/(mythology) clam-monster said to breathe out a vapor that forms a mirage of buildings",t:"蜃",w:"蜃"}],t=[{w:"蜃景",p:"shèn jǐng",d:"mirage",t:"蜃景"}],o=[{w:"海市蜃楼",p:"hǎi shì shèn lóu",d:"mirage (lit. or fig.)",t:"海市蜃樓"}],n="虫",a="13",c=["辰","虫"],i=[],r={s,w:t,i:o,r:n,sc:a,c,d:i};export{c,i as d,r as default,o as i,n as r,s,a as sc,t as w};

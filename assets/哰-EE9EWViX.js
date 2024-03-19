@@ -1,1 +1,0 @@
-const n=[{p:"láo",pp:"lao2",d:"used in 囒哰[lan2 lao2]",t:"哰"}],o=[{w:"囒哰",p:"lán láo",d:"incoherent; unintelligible"}],s=[],c="口",t="10",l=["口","牢"],e=[],i={s:n,w:o,i:s,r:c,sc:t,c:l,d:e};export{l as c,e as d,i as default,s as i,c as r,n as s,t as sc,o as w};

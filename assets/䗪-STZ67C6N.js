@@ -1,1 +1,0 @@
-const s=[{p:"zhè",pp:"zhe4",d:"Chinese ground beetle (Eupolyphaga sinensis)",t:"䗪"}],c=[],n=[],t="",o="",e=[],p=[],d={s,w:c,i:n,r:t,sc:o,c:e,d:p};export{e as c,p as d,d as default,n as i,t as r,s,o as sc,c as w};

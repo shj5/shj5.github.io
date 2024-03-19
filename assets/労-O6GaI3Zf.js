@@ -1,1 +1,0 @@
-const s=[{p:"láo",pp:"lao2",d:"Japanese variant of 勞|劳",t:"労"}],c=[],o=[],t="力",n="7",a=["小","力"],p=[],d={s,w:c,i:o,r:t,sc:n,c:a,d:p};export{a as c,p as d,d as default,o as i,t as r,s,n as sc,c as w};

@@ -1,0 +1,1 @@
+const o=[{p:"rǎn",pp:"ran3",d:"(ornithology) down",t:"䎃",w:"䎃"}],n=[{w:"粉䎃",p:"fěn rǎn",d:"(ornithology) powder down",t:"粉䎃"}],t=[],s="",c="",r=[],d=[],w={s:o,w:n,i:t,r:s,sc:c,c:r,d};export{r as c,d,w as default,t as i,s as r,o as s,c as sc,n as w};

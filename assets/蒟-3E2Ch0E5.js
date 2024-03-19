@@ -1,1 +1,0 @@
-const o=[{p:"jǔ",pp:"ju3",d:"betel",t:"蒟"}],s=[{w:"蒟蒻",p:"jǔ ruò",d:"konjac, konnyaku or devil's tongue (Amorphophallus konjac), plant whose corms are used to make a stiff jelly (as a food)"}],t=[],c="艸",n="13",a=["艹"],e=[],d={s:o,w:s,i:t,r:c,sc:n,c:a,d:e};export{a as c,e as d,d as default,t as i,c as r,o as s,n as sc,s as w};

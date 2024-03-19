@@ -1,0 +1,1 @@
+const s=[{p:"bō",pp:"bo1",d:"cake/biscuit",t:"餑",w:"饽"}],t=[{w:"饽饽",p:"bō bo",d:"pastry/steamed bun/cake",t:"餑餑"},{w:"香饽饽",p:"xiāng bō bo",d:"delicious cakes/popular person/sth that is in high demand",t:"香餑餑"}],c=[],o="食",n="10",a=["饣","孛"],d=[],e={s,w:t,i:c,r:o,sc:n,c:a,d};export{a as c,d,e as default,c as i,o as r,s,n as sc,t as w};

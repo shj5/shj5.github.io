@@ -1,1 +1,0 @@
-const t=[{p:"chuáng",pp:"chuang2",d:"(dialect) to eat or drink extravagantly",t:"噇"}],c=[],s=[],n="口",o="15",a=["口","童"],d=[],r={s:t,w:c,i:s,r:n,sc:o,c:a,d};export{a as c,d,r as default,s as i,n as r,t as s,o as sc,c as w};

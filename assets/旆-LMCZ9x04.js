@@ -1,0 +1,1 @@
+const n=[{p:"pèi",pp:"pei4",d:"pennant/streamer",t:"旆",w:"旆"}],t=[{w:"征旆",p:"zhēng pèi",d:"pennant used on expedition/war pennant",t:"征旆"}],s=[],c="方",p="10",e=["方","市"],o=[],a={s:n,w:t,i:s,r:c,sc:p,c:e,d:o};export{e as c,o as d,a as default,s as i,c as r,n as s,p as sc,t as w};

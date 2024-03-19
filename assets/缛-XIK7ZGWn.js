@@ -1,1 +1,0 @@
-const n=[{p:"rù",pp:"ru4",d:"adorned/beautiful",t:"縟"}],o=[{w:"繁缛",p:"fán rù",d:"many and elaborate"}],t=[{w:"繁文缛节",p:"fán wén rù jié",d:"convoluted and overelaborate (document)/unnecessarily elaborate writing/mumbo-jumbo"}],c="糸",e="13",s=["纟","辱"],a=[],r={s:n,w:o,i:t,r:c,sc:e,c:s,d:a};export{s as c,a as d,r as default,t as i,c as r,n as s,e as sc,o as w};

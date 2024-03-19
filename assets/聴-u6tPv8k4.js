@@ -1,1 +1,0 @@
-const t=[{p:"tīng",pp:"ting1",d:"Japanese variant of 聽|听[ting1]",t:"聴"}],s=[],n=[],c="耳",o="18",a=["耳"],i=[],p={s:t,w:s,i:n,r:c,sc:o,c:a,d:i};export{a as c,i as d,p as default,n as i,c as r,t as s,o as sc,s as w};

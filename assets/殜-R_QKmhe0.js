@@ -1,0 +1,1 @@
+const t=[{p:"dié",pp:"die2",d:"unwell/Taiwan pr. [ye4]",t:"殜",w:"殜"}],s=[{w:"殗殜",p:"yè dié",d:"somewhat ill, but still able to sit up",t:"殗殜"},{w:"殜殜",p:"dié dié",d:"(of one's breathing) weak",t:"殜殜"}],o=[],c="歹",i="13",n=["歹"],d=[],e={s:t,w:s,i:o,r:c,sc:i,c:n,d};export{n as c,d,e as default,o as i,c as r,t as s,i as sc,s as w};

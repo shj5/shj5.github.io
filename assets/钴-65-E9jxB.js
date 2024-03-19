@@ -1,0 +1,1 @@
+const t=[{p:"gǔ",pp:"gu3",d:"cobalt (chemistry)/Taiwan pr. [gu1]",t:"鈷",w:"钴"}],c=[{w:"依地酸二钴",p:"yī dì suān èr gǔ",d:"kelocyanor",t:"依地酸二鈷"},{w:"钴𬭁",p:"gǔ mǔ",d:"(literary) clothes iron",t:"鈷鉧"}],s=[],o="金",n="10",r=["古"],a=[],d={s:t,w:c,i:s,r:o,sc:n,c:r,d:a};export{r as c,a as d,d as default,s as i,o as r,t as s,n as sc,c as w};

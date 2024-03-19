@@ -1,1 +1,0 @@
-const s=[{p:"zuò",pp:"zuo4",d:"ashamed",t:"怍"}],o=[{w:"愧怍",p:"kuì zuò",d:"ashamed"}],t=[{w:"不愧不怍",p:"bù kuì bù zuò",d:"no shame, no subterfuge (idiom); just and honorable/upright and above board"}],n="心",a="8",c=["忄","乍"],d=[],u={s,w:o,i:t,r:n,sc:a,c,d};export{c,d,u as default,t as i,n as r,s,a as sc,o as w};

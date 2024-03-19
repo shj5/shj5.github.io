@@ -1,1 +1,0 @@
-const c=[{p:"chún",pp:"chun2",d:"edible water plant/Brasenia schreberi",t:"蒓"},{p:"chún",pp:"chun2",d:"edible water plant/Brasenia schreberi",t:"蓴"}],s=[{w:"莼菜",p:"chún cài",d:"Brasenia schreberi"}],n=[],e="艸",t="10",r=["艹","纯"],a=[],i={s:c,w:s,i:n,r:e,sc:t,c:r,d:a};export{r as c,a as d,i as default,n as i,e as r,c as s,t as sc,s as w};

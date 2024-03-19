@@ -1,0 +1,1 @@
+const c=[{p:"cháng",pp:"chang2",d:'"long" or "to grow" radical in Chinese characters (Kangxi radical 168)',t:"镸",w:"镸"}],s=[],n=[],o="長",t="8",a=["镸"],r=["套","镸","镻"],i={s:c,w:s,i:n,r:o,sc:t,c:a,d:r};export{a as c,r as d,i as default,n as i,o as r,c as s,t as sc,s as w};

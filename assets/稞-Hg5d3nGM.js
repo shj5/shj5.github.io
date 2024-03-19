@@ -1,0 +1,1 @@
+const n=[{p:"kē",pp:"ke1",d:"(wheat)",t:"稞",w:"稞"}],t=[{w:"青稞",p:"qīng kē",d:"highland barley (grown in Tibet and Qinghai)/qingke barley",t:"青稞"}],s=[],c="禾",o="13",a=["禾","果"],e=[],i={s:n,w:t,i:s,r:c,sc:o,c:a,d:e};export{a as c,e as d,i as default,s as i,c as r,n as s,o as sc,t as w};

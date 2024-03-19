@@ -1,0 +1,1 @@
+const s=[{p:"Zēng",pp:"Zeng1",d:"surname Zeng/Zhou vassal state/also pr. [Ceng2]",t:"鄫",w:"鄫"}],n=[],t=[],c="邑",o="15",a=["曽"],e=[],p={s,w:n,i:t,r:c,sc:o,c:a,d:e};export{a as c,e as d,p as default,t as i,c as r,s,o as sc,n as w};

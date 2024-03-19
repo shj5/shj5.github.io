@@ -1,0 +1,1 @@
+const o=[{p:"gǔ",pp:"gu3",d:"confused/extinguished/(onom.) used in 汩汩[gu3 gu3]",t:"汩",w:"汩"}],s=[{w:"汩汩",p:"gǔ gǔ",d:"(onom.) gurgling sound of flowing water",t:"汩汩"}],n=[],t="水",c="7",g=["氵","曰"],d=[],u={s:o,w:s,i:n,r:t,sc:c,c:g,d};export{g as c,d,u as default,n as i,t as r,o as s,c as sc,s as w};

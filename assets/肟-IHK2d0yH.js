@@ -1,1 +1,0 @@
-const s=[{p:"wò",pp:"wo4",d:"oxime/oximide/-oxil (chemistry)",t:"肟"}],c=[],o=[],t="肉",n="7",i=["月","亏"],d=[],e={s,w:c,i:o,r:t,sc:n,c:i,d};export{i as c,d,e as default,o as i,t as r,s,n as sc,c as w};

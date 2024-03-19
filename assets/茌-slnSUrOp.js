@@ -1,1 +1,0 @@
-const n=[{p:"Chí",pp:"Chi2",d:"name of a district in Shandong",t:"茌"}],c=[{w:"茌平",p:"Chí píng",d:"Chiping county in Liaocheng 聊城[Liao2 cheng2], Shandong"},{w:"茌平县",p:"Chí píng xiàn",d:"Chiping county in Liaocheng 聊城[Liao2 cheng2], Shandong"}],o=[],i="艸",t="8",s=["艹","仕"],h=[],a={s:n,w:c,i:o,r:i,sc:t,c:s,d:h};export{s as c,h as d,a as default,o as i,i as r,n as s,t as sc,c as w};

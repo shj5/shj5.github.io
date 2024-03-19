@@ -1,1 +1,0 @@
-const s=[{p:"méng",pp:"meng2",d:"old variant of 蒙[meng2]",t:"冡"}],c=[],n=[],t="冖",o="10",d=["豕"],a=["蒙"],e={s,w:c,i:n,r:t,sc:o,c:d,d:a};export{d as c,a as d,e as default,n as i,t as r,s,o as sc,c as w};

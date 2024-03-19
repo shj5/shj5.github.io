@@ -1,1 +1,0 @@
-const o=[{p:"zhì",pp:"zhi4",d:"to advance/to ascend/to promote",t:"陟"}],n=[{w:"武陟",p:"Wǔ zhì",d:"Wuzhi county in Jiaozuo, Henan"},{w:"武陟县",p:"Wǔ zhì xiàn",d:"Wuzhi county in Jiaozuo, Henan"}],t=[],c="阜",s="10",i=["步"],a=["骘"],d={s:o,w:n,i:t,r:c,sc:s,c:i,d:a};export{i as c,a as d,d as default,t as i,c as r,o as s,s as sc,n as w};

@@ -1,1 +1,0 @@
-const n=[{p:"yún",pp:"yun2",d:"skin of bamboo",t:"筠"}],i=[{w:"筠连",p:"Yún lián",d:"Yunlian county in Yibin 宜賓|宜宾[Yi2 bin1], Sichuan"},{w:"筠连县",p:"Yún lián xiàn",d:"Yunlian county in Yibin 宜賓|宜宾[Yi2 bin1], Sichuan"}],c=[],o="竹",s="13",t=["竹","均"],u=[],Y={s:n,w:i,i:c,r:o,sc:s,c:t,d:u};export{t as c,u as d,Y as default,c as i,o as r,n as s,s as sc,i as w};

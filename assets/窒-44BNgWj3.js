@@ -1,1 +1,0 @@
-const t=[{p:"zhì",pp:"zhi4",d:"to obstruct/to stop up",t:"窒"}],o=[{w:"窒息",p:"zhì xī",d:"to choke/to stifle/to suffocate"},{w:"窒息性毒剂",p:"zhì xī xìng dú jì",d:"choking agent"}],s=[],c="穴",n="11",p=["穴","至"],d=["漥","膣"],e={s:t,w:o,i:s,r:c,sc:n,c:p,d};export{p as c,d,e as default,s as i,c as r,t as s,n as sc,o as w};

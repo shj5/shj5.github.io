@@ -1,0 +1,1 @@
+const o=[{p:"gāo",pp:"gao1",d:"water pulley",t:"槔",w:"槔"}],s=[{w:"桔槔",p:"jié gāo",d:"well sweep (device for raising and lowering a bucket in a well, using a pivoted pole)",t:"桔槔"}],t=[],c="木",e="14",n=["木","皋"],i=[],a={s:o,w:s,i:t,r:c,sc:e,c:n,d:i};export{n as c,i as d,a as default,t as i,c as r,o as s,e as sc,s as w};

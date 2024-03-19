@@ -1,0 +1,1 @@
+const c=[{p:"xx",pp:"xx5",d:'first character in place name 乤浦 "Halpho" (Korean gugja)',t:"乤",w:"乤"}],s=[],t=[],n="乙",o="4",a=["下","乙"],r=[],e={s:c,w:s,i:t,r:n,sc:o,c:a,d:r};export{a as c,r as d,e as default,t as i,n as r,c as s,o as sc,s as w};

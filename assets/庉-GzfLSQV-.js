@@ -1,0 +1,1 @@
+const t=[{p:"dùn",pp:"dun4",d:"a village/to dwell together",t:"庉",w:"庉"}],s=[],c=[],o="广",n="7",d=["广","屯"],e=[],l={s:t,w:s,i:c,r:o,sc:n,c:d,d:e};export{d as c,e as d,l as default,c as i,o as r,t as s,n as sc,s as w};

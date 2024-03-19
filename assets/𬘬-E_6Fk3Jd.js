@@ -1,1 +1,0 @@
-const c=[{p:"qiàn",pp:"qian4",d:"dark red color (of silk product)",t:"綪"}],s=[],o=[],t="",n="",d=[],r=[],i={s:c,w:s,i:o,r:t,sc:n,c:d,d:r};export{d as c,r as d,i as default,o as i,t as r,c as s,n as sc,s as w};

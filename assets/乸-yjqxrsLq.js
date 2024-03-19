@@ -1,1 +1,0 @@
-const n=[{p:"nǎ",pp:"na3",d:"feminine suffix (Cantonese)/postfix indicating feminine",t:"乸"}],s=[],t=[],c="乙",i="8",o=["也","毋"],e=[],f={s:n,w:s,i:t,r:c,sc:i,c:o,d:e};export{o as c,e as d,f as default,t as i,c as r,n as s,i as sc,s as w};

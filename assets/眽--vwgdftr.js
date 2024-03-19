@@ -1,1 +1,0 @@
-const o=[{p:"mò",pp:"mo4",d:"to gaze/to ogle to look at",t:"眽"}],t=[{w:"眽眽",p:"mò mò",d:"variant of 脈脈|脉脉[mo4 mo4]"}],s=[],c="目",n="11",a=["目"],m=[],d={s:o,w:t,i:s,r:c,sc:n,c:a,d:m};export{a as c,m as d,d as default,s as i,c as r,o as s,n as sc,t as w};

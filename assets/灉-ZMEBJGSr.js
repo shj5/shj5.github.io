@@ -1,0 +1,1 @@
+const s=[{p:"yōng",pp:"yong1",d:"name of a river/sluice",t:"灉",w:"灉"}],c=[],n=[],o="水",t="21",e=["氵"],r=[],a={s,w:c,i:n,r:o,sc:t,c:e,d:r};export{e as c,r as d,a as default,n as i,o as r,s,t as sc,c as w};

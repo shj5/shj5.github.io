@@ -1,1 +1,0 @@
-const s=[{p:"xiǎng",pp:"xiang3",d:"dried fish",t:"鯗"}],c=[{w:"鲞鱼",p:"xiǎng yú",d:"dried fish"}],n=[],t="魚",d="14",i=["关","鱼"],o=[],p={s,w:c,i:n,r:t,sc:d,c:i,d:o};export{i as c,o as d,p as default,n as i,t as r,s,d as sc,c as w};

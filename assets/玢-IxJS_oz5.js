@@ -1,0 +1,1 @@
+const n=[{p:"bīn",pp:"bin1",d:"(literary) a kind of jade",t:"玢",w:"玢"},{p:"fēn",pp:"fen1",d:"porphyrites",t:"玢",w:"玢"}],s=[{w:"赛璐玢",p:"sài lù fēn",d:"cellophane (loanword)",t:"賽璐玢"}],t=[],o="玉",c="8",p=["王","分"],d=[],e={s:n,w:s,i:t,r:o,sc:c,c:p,d};export{p as c,d,e as default,t as i,o as r,n as s,c as sc,s as w};

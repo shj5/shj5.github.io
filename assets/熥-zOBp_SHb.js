@@ -1,0 +1,1 @@
+const t=[{p:"tēng",pp:"teng1",d:"to heat up (cooked food) by baking or steaming/Taiwan pr. [tong1]",t:"熥",w:"熥"}],o=[],n=[],s="火",c="15",a=["火","通"],d=[],e={s:t,w:o,i:n,r:s,sc:c,c:a,d};export{a as c,d,e as default,n as i,s as r,t as s,c as sc,o as w};

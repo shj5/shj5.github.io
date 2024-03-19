@@ -1,1 +1,0 @@
-const t=[{p:"tài",pp:"tai4",d:"phthalein (chemistry)",t:"酞"}],s=[{w:"酚酞",p:"fēn tài",d:"phenolphthalein"}],c=[],n="酉",o="11",i=["酉","太"],p=[],e={s:t,w:s,i:c,r:n,sc:o,c:i,d:p};export{i as c,p as d,e as default,c as i,n as r,t as s,o as sc,s as w};

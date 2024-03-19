@@ -1,1 +1,0 @@
-const o=[{p:"dāo",pp:"dao1",d:"deuterium 2H/heavy hydrogen, isotope of hydrogen having 1 neutron in its nucleus, so atomic weight 2",t:"氘"}],t=[{w:"氘核",p:"dāo hé",d:"deuteron"}],s=[],n="气",c="6",e=["气"],d=[],i={s:o,w:t,i:s,r:n,sc:c,c:e,d};export{e as c,d,i as default,s as i,n as r,o as s,c as sc,t as w};

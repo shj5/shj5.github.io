@@ -1,0 +1,1 @@
+const t=[{p:"qī",pp:"qi1",d:"Celosia argentea/luxuriant",t:"萋",w:"萋"}],s=[{w:"萋萋",p:"qī qī",d:"luxuriant/lavish/abundant",t:"萋萋"}],n=[],c="艸",a="11",o=["艹","妻"],i=[],d={s:t,w:s,i:n,r:c,sc:a,c:o,d:i};export{o as c,i as d,d as default,n as i,c as r,t as s,a as sc,s as w};

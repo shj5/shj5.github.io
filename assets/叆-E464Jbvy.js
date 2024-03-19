@@ -1,0 +1,1 @@
+const s=[{p:"ài",pp:"ai4",d:"misty/cloudy sky/dark/obscure",t:"靉",w:"叆"}],t=[{w:"叆叇",p:"ài dài",d:"(literary) heavy (clouds)/(literary) eyeglasses",t:"靉靆"},{w:"叆叆",p:"ài ài",d:"misty",t:"靉靉"}],c=[],i="厶",o="14",d=["云","爱"],e=[],r={s,w:t,i:c,r:i,sc:o,c:d,d:e};export{d as c,e as d,r as default,c as i,i as r,s,o as sc,t as w};

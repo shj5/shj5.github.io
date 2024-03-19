@@ -1,1 +1,0 @@
-const s=[{p:"huī",pp:"hui1",d:"sick/with no ambition",t:"虺"},{p:"huǐ",pp:"hui3",d:"mythical venomous snake",t:"虺"}],o=[{w:"虺虺",p:"huǐ huǐ",d:"rumbling (of thunder etc)"},{w:"虺蜥",p:"huǐ xī",d:"venomous snake/fig. vicious person"}],n=[],t="虫",c="9",i=["兀","虫"],u=[],h={s,w:o,i:n,r:t,sc:c,c:i,d:u};export{i as c,u as d,h as default,n as i,t as r,s,c as sc,o as w};

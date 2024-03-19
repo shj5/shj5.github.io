@@ -1,1 +1,0 @@
-const t=[{p:"hòu",pp:"hou4",d:"to meet unexpectedly",t:"逅"}],c=[{w:"邂逅",p:"xiè hòu",d:"to meet by chance/to run into sb/chance encounter"}],n=[],o="辵",s="10",e=["辶","后"],u=[],d={s:t,w:c,i:n,r:o,sc:s,c:e,d:u};export{e as c,u as d,d as default,n as i,o as r,t as s,s as sc,c as w};

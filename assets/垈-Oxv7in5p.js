@@ -1,1 +1,0 @@
-const s=[{p:"dài",pp:"dai4",d:"used in place names/Japanese -nuta/Korean -dae",t:"垈"}],c=[],n=[],t="土",a="8",o=["代","土"],e=[],d={s,w:c,i:n,r:t,sc:a,c:o,d:e};export{o as c,e as d,d as default,n as i,t as r,s,a as sc,c as w};

@@ -1,1 +1,0 @@
-const s=[{p:"sū",pp:"su1",d:"used in 窸窣[xi1 su1]/Taiwan pr. [su4]",t:"窣"}],n=[{w:"窸窣",p:"xī sū",d:"(onom.) a rustling noise"}],c=[],o="穴",t="13",i=["穴"],d=[],p={s,w:n,i:c,r:o,sc:t,c:i,d};export{i as c,d,p as default,c as i,o as r,s,t as sc,n as w};

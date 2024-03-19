@@ -1,1 +1,0 @@
-const n=[{p:"qiān",pp:"qian1",d:"stingy",t:"慳"}],s=[{w:"悭俭",p:"qiān jiǎn",d:"miserly; stingy"},{w:"悭吝",p:"qiān lìn",d:"(literary) miserly; stingy"}],i=[{w:"知悭识俭",p:"zhī qiān shí jiǎn",d:"(idiom) to know how to be economical"}],t="心",o="10",c=["忄","坚"],d=[],e={s:n,w:s,i,r:t,sc:o,c,d};export{c,d,e as default,i,t as r,n as s,o as sc,s as w};

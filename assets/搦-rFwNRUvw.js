@@ -1,0 +1,1 @@
+const t=[{p:"nuò",pp:"nuo4",d:"(literary) to hold (in the hand)/to challenge/to provoke",t:"搦",w:"搦"}],o=[{w:"搦战",p:"nuò zhàn",d:"to challenge to battle",t:"搦戰"}],n=[],c="手",s="13",e=["扌","弱"],l=[],a={s:t,w:o,i:n,r:c,sc:s,c:e,d:l};export{e as c,l as d,a as default,n as i,c as r,t as s,s as sc,o as w};

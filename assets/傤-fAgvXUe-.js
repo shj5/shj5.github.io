@@ -1,0 +1,1 @@
+const o=[{p:"zài",pp:"zai4",d:"load/cargo/old variant of 載|载[zai4]/to transport/to deliver/to bear/to support",t:"儎",w:"傤"}],t=[],s=[],c="人",a="12",n=["亻","载"],r=[],d={s:o,w:t,i:s,r:c,sc:a,c:n,d:r};export{n as c,r as d,d as default,s as i,c as r,o as s,a as sc,t as w};

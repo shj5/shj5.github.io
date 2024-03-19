@@ -1,0 +1,1 @@
+const c=[{p:"xì",pp:"xi4",d:"to engrave or carve, as a block for printing",t:"鑴",w:"鑴"}],s=[],o=[],t="金",n="26",r=["金","巂"],a=[],e={s:c,w:s,i:o,r:t,sc:n,c:r,d:a};export{r as c,a as d,e as default,o as i,t as r,c as s,n as sc,s as w};

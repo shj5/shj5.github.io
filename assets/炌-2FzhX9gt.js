@@ -1,0 +1,1 @@
+const s=[{p:"kài",pp:"kai4",d:"flaming fire/old variant of 烗[kai4]",t:"炌",w:"炌"}],c=[],t=[],o="火",n="8",i=["火","介"],a=[],d={s,w:c,i:t,r:o,sc:n,c:i,d:a};export{i as c,a as d,d as default,t as i,o as r,s,n as sc,c as w};

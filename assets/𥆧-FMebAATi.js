@@ -1,0 +1,1 @@
+const t=[{p:"rún",pp:"run2",d:"twitch (muscle or eyelid)",t:"瞤",w:"𥆧"},{p:"shùn",pp:"shun4",d:"wink/twinkle/very short time",t:"瞤",w:"𥆧"}],n=[{w:"目𥆧",p:"mù rún",d:"eyelid twitch",t:"目瞤"},{w:"𥆧息",p:"shùn xī",d:"in a flash/twinkling/ephemeral",t:"瞤息"}],s=[],c="",e="",i=[],o=[],w={s:t,w:n,i:s,r:c,sc:e,c:i,d:o};export{i as c,o as d,w as default,s as i,c as r,t as s,e as sc,n as w};

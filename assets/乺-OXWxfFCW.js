@@ -1,1 +1,0 @@
-const s=[{p:"xx",pp:"xx5",d:'phonetic "sol" used in place names (Korean gugja)',t:"乺"}],c=[],n=[],o="乙",t="9",e=["所","乙"],a=[],p={s,w:c,i:n,r:o,sc:t,c:e,d:a};export{e as c,a as d,p as default,n as i,o as r,s,t as sc,c as w};

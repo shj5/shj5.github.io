@@ -1,1 +1,0 @@
-const c=[{p:"duì",pp:"dui4",d:"dislike/hate",t:"憝"}],d=[{w:"大憝",p:"dà duì",d:"archenemy/chief enemy"}],n=[{w:"元恶大憝",p:"yuán è dà duì",d:"arch-criminal and archenemy (idiom)"}],s="心",t="16",e=["敦","心"],i=[],o={s:c,w:d,i:n,r:s,sc:t,c:e,d:i};export{e as c,i as d,o as default,n as i,s as r,c as s,t as sc,d as w};

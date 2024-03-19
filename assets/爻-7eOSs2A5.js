@@ -1,1 +1,0 @@
-const s=[{p:"yáo",pp:"yao2",d:"the solid and broken lines of the eight trigrams 八卦[ba1 gua4], e.g. ☶",t:"爻"}],t=[],o=[],c="*",n="4",e=[],a=["爽","覐","驳"],d={s,w:t,i:o,r:c,sc:n,c:e,d:a};export{e as c,a as d,d as default,o as i,c as r,s,n as sc,t as w};

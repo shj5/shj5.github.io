@@ -1,1 +1,0 @@
-const o=[{p:"dòng",pp:"dong4",d:'(Tw) bowl of steamed rice with other food on top (loanword from Japanese "donburi")',t:"丼"},{p:"jǐng",pp:"jing3",d:"old variant of 井[jing3]",t:"丼"}],n=[],t=[],s="丶",c="5",d=["井","丶"],p=[],r={s:o,w:n,i:t,r:s,sc:c,c:d,d:p};export{d as c,p as d,r as default,t as i,s as r,o as s,c as sc,n as w};

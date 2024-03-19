@@ -1,1 +1,0 @@
-const s=[{p:"xiù",pp:"xiu4",d:"to smell/to sniff/to nose",t:"嗅"}],o=[{w:"嗅探",p:"xiù tàn",d:"to sniff (in order to find sth)"},{w:"嗅探犬",p:"xiù tàn quǎn",d:"sniffer dog"},{w:"嗅球",p:"xiù qiú",d:"olfactory bulb (anatomy)"},{w:"嗅觉",p:"xiù jué",d:"sense of smell"}],t=[],n="口",i="13",c=["口","臭"],d=[],f={s,w:o,i:t,r:n,sc:i,c,d};export{c,d,f as default,t as i,n as r,s,i as sc,o as w};

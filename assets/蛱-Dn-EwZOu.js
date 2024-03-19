@@ -1,1 +1,0 @@
-const s=[{p:"jiá",pp:"jia2",d:"see 蛺蝶|蛱蝶[jia2 die2]",t:"蛺"}],t=[{w:"蛱蝶",p:"jiá dié",d:"nymphalid/butterfly"}],c=[],i="虫",n="12",o=["虫","夹"],d=[],e={s,w:t,i:c,r:i,sc:n,c:o,d};export{o as c,d,e as default,c as i,i as r,s,n as sc,t as w};

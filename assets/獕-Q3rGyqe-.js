@@ -1,1 +1,0 @@
-const c=[{p:"cuī",pp:"cui1",d:"used in 猥獕[wei3 cui1]",t:"獕"}],s=[{w:"猥獕",p:"wěi cuī",d:"vulgar/despicable/abject"}],t=[],n="犬",o="14",i=["犭","崔"],d=[],e={s:c,w:s,i:t,r:n,sc:o,c:i,d};export{i as c,d,e as default,t as i,n as r,c as s,o as sc,s as w};

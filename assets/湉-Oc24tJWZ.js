@@ -1,1 +1,0 @@
-const t=[{p:"tián",pp:"tian2",d:"(literary) smoothly flowing, placid (water)",t:"湉"}],n=[{w:"湉湉",p:"tián tián",d:"(literary) smoothly flowing, placid (water)"},{w:"载湉",p:"Zǎi tián",d:"birth name of Qing emperor Guangxu 光緒|光绪[Guang1 xu4]"}],o=[],i="水",s="12",c=["氵"],a=[],r={s:t,w:n,i:o,r:i,sc:s,c,d:a};export{c,a as d,r as default,o as i,i as r,t as s,s as sc,n as w};

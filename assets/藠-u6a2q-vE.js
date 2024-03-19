@@ -1,0 +1,1 @@
+const o=[{p:"jiào",pp:"jiao4",d:"see 藠頭|藠头[jiao4 tou5]",t:"藠",w:"藠"}],s=[{w:"藠头",p:"jiào tou",d:"Chinese onion (Allium chinense)",t:"藠頭"}],t=[],c="艸",n="18",i=["艹"],e=[],d={s:o,w:s,i:t,r:c,sc:n,c:i,d:e};export{i as c,e as d,d as default,t as i,c as r,o as s,n as sc,s as w};

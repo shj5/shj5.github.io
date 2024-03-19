@@ -1,0 +1,1 @@
+const s=[{p:"bǎn",pp:"ban3",d:"slope/hillside",t:"阪",w:"阪"}],t=[{w:"大阪",p:"Dà bǎn",d:"Ōsaka, a city and prefecture in Japan",t:"大阪"},{w:"大阪府",p:"Dà bǎn fǔ",d:"Ōsaka prefecture",t:"大阪府"}],c=[],n="阜",a="7",e=["反"],o=[],p={s,w:t,i:c,r:n,sc:a,c:e,d:o};export{e as c,o as d,p as default,c as i,n as r,s,a as sc,t as w};

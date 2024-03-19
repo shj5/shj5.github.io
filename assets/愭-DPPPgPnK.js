@@ -1,1 +1,0 @@
-const t=[{p:"qí",pp:"qi2",d:"(literary) deferential/to revere",t:"愭"}],s=[],c=[],o="心",e="13",n=["忄","耆"],r=[],d={s:t,w:s,i:c,r:o,sc:e,c:n,d:r};export{n as c,r as d,d as default,c as i,o as r,t as s,e as sc,s as w};

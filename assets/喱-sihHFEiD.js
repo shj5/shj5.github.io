@@ -1,1 +1,0 @@
-const o=[{p:"lí",pp:"li2",d:"grain (unit of weight, approx. 0.065 grams)/Taiwan pr. [li3]",t:"喱"}],c=[{w:"咖喱",p:"gā lí",d:"curry (loanword)"},{w:"咖喱粉",p:"gā lí fěn",d:"curry powder"},{w:"啫喱",p:"zhě lí",d:"(loanword) jelly/gel"}],n=[],r="口",s="12",t=["口","厘"],l=[],p={s:o,w:c,i:n,r,sc:s,c:t,d:l};export{t as c,l as d,p as default,n as i,r,o as s,s as sc,c as w};

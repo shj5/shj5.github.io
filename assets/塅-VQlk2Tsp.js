@@ -1,1 +1,0 @@
-const s=[{p:"duàn",pp:"duan4",d:"large area of flat terrain (used in place names)",t:"塅"}],c=[],n=[],t="土",a="12",o=["土","段"],e=[],d={s,w:c,i:n,r:t,sc:a,c:o,d:e};export{o as c,e as d,d as default,n as i,t as r,s,a as sc,c as w};

@@ -1,1 +1,0 @@
-const n=[{p:"Yān",pp:"Yan1",d:"name of an immortal/ancient place name/surname Yan",t:"傿"},{p:"yàn",pp:"yan4",d:"fraudulent price",t:"傿"}],c=[],t=[],s="人",a="13",o=["亻","焉"],e=[],p={s:n,w:c,i:t,r:s,sc:a,c:o,d:e};export{o as c,e as d,p as default,t as i,s as r,n as s,a as sc,c as w};

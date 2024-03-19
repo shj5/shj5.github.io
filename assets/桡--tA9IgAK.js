@@ -1,0 +1,1 @@
+const o=[{p:"ráo",pp:"rao2",d:"radius (anatomy)/bone of the forearm",t:"橈",w:"桡"}],t=[{w:"桡骨",p:"ráo gǔ",d:"radius (anatomy)/bone of the forearm",t:"橈骨"},{w:"阻桡",p:"zǔ ráo",d:"thwart/obstruct",t:"阻橈"}],s=[],r="木",c="10",a=["木","尧"],n=[],d={s:o,w:t,i:s,r,sc:c,c:a,d:n};export{a as c,n as d,d as default,s as i,r,o as s,c as sc,t as w};

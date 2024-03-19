@@ -1,0 +1,1 @@
+const s=[{p:"jiǔ",pp:"jiu3",d:"army (used during the Liao, Jin and Yuan dynasties)",t:"糺",w:"糺"}],n=[],t=[],c="糸",o="7",d=["糸","乚"],i=[],a={s,w:n,i:t,r:c,sc:o,c:d,d:i};export{d as c,i as d,a as default,t as i,c as r,s,o as sc,n as w};

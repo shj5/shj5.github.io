@@ -1,1 +1,0 @@
-const s=[{p:"zhuǎi",pp:"zhuai3",d:"to waddle/to swagger/(coll.) strutting/self-satisfied",t:"跩"}],t=[{w:"跩文",p:"zhuǎi wén",d:"see 轉文|转文[zhuai3 wen2] (Tw)"}],c=[],o="足",n="13",e=["足","曳"],i=[],d={s,w:t,i:c,r:o,sc:n,c:e,d:i};export{e as c,i as d,d as default,c as i,o as r,s,n as sc,t as w};

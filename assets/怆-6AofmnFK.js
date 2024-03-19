@@ -1,1 +1,0 @@
-const n=[{p:"chuàng",pp:"chuang4",d:"mournful/sad/grieved/sorry",t:"愴"}],c=[{w:"悲怆",p:"bēi chuàng",d:"sorrow/tragic"},{w:"凄怆",p:"qī chuàng",d:"pitiful; painful; heartrending"},{w:"目怆有天",p:"mù chuàng yǒu tiān",d:"to look at the sky in sorrow"}],o=[],s="心",t="7",r=["忄","仓"],i=[],u={s:n,w:c,i:o,r:s,sc:t,c:r,d:i};export{r as c,i as d,u as default,o as i,s as r,n as s,t as sc,c as w};

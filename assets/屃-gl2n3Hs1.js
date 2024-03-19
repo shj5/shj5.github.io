@@ -1,0 +1,1 @@
+const o=[{p:"xì",pp:"xi4",d:"variant of 屭|屃[xi4]",t:"屓",w:"屃"},{p:"xì",pp:"xi4",d:"see 贔屭|赑屃[Bi4 xi4]",t:"屭",w:"屃"}],s=[{w:"赑屃",p:"Bì xì",d:"Bixi, one of the nine sons of a dragon with the form of a tortoise, also known as 龜趺|龟趺[gui1 fu1]",t:"贔屭"}],t=[],n="尸",i="7",c=["尸","贝"],a=[],e={s:o,w:s,i:t,r:n,sc:i,c,d:a};export{c,a as d,e as default,t as i,n as r,o as s,i as sc,s as w};

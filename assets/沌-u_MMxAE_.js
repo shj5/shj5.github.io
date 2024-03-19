@@ -1,0 +1,1 @@
+const s=[{p:"dùn",pp:"dun4",d:"confused/turbid",t:"沌",w:"沌"}],n=[{w:"混沌",p:"hùn dùn",d:"primal chaos/formless mass before creation in Chinese mythology/muddled/innocent as a baby",t:"混沌"},{w:"混沌学",p:"hùn dùn xué",d:"chaos theory (math.)",t:"混沌學"}],o=[],t="水",c="7",d=["氵","屯"],e=[],a={s,w:n,i:o,r:t,sc:c,c:d,d:e};export{d as c,e as d,a as default,o as i,t as r,s,c as sc,n as w};

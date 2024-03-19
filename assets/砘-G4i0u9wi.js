@@ -1,0 +1,1 @@
+const s=[{p:"dùn",pp:"dun4",d:"(agriculture) to compact loose soil with a stone roller after sowing seeds/stone roller used for this purpose",t:"砘",w:"砘"}],o=[{w:"砘子",p:"dùn zi",d:"stone roller used to compact loose soil after sowing seeds",t:"砘子"}],t=[],e="石",c="9",n=["石","屯"],r=[],d={s,w:o,i:t,r:e,sc:c,c:n,d:r};export{n as c,r as d,d as default,t as i,e as r,s,c as sc,o as w};

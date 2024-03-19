@@ -1,1 +1,0 @@
-const o=[{p:"duǒ",pp:"duo3",d:"used in 吲哚[yin3 duo3]",t:"哚"}],c=[{w:"吲哚",p:"yǐn duǒ",d:"indole C8H7N (heterocyclic organic compound) (loanword)"}],n=[],s="口",d="9",t=["口","朵"],i=[],u={s:o,w:c,i:n,r:s,sc:d,c:t,d:i};export{t as c,i as d,u as default,n as i,s as r,o as s,d as sc,c as w};

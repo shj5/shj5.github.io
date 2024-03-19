@@ -1,0 +1,1 @@
+const s=[{p:"jiāo",pp:"jiao1",d:"see 三膲[san1 jiao1]",t:"膲",w:"膲"}],o=[{w:"三膲",p:"sān jiāo",d:"variant of 三焦[san1 jiao1]",t:"三膲"}],t=[],c="肉",n="16",a=["月","焦"],i=[],d={s,w:o,i:t,r:c,sc:n,c:a,d:i};export{a as c,i as d,d as default,t as i,c as r,s,n as sc,o as w};

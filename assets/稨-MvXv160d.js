@@ -1,0 +1,1 @@
+const n=[{p:"biǎn",pp:"bian3",d:"see 稨豆[bian3 dou4]",t:"稨",w:"稨"}],s=[{w:"稨豆",p:"biǎn dòu",d:"variant of 扁豆[bian3 dou4]",t:"稨豆"}],t=[],c="禾",o="14",d=["禾","扁"],i=["藊"],a={s:n,w:s,i:t,r:c,sc:o,c:d,d:i};export{d as c,i as d,a as default,t as i,c as r,n as s,o as sc,s as w};

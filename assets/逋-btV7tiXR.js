@@ -1,0 +1,1 @@
+const t=[{p:"bū",pp:"bu1",d:"to flee/to abscond/to owe",t:"逋",w:"逋"}],o=[{w:"林逋",p:"Lín Bū",d:"Lin Bu (967-1028), Northern Song poet",t:"林逋"},{w:"逋逃薮",p:"bū táo sǒu",d:"refuge for fugitives",t:"逋逃藪"}],s=[],c="辵",n="11",e=["辶","甫"],d=[],p={s:t,w:o,i:s,r:c,sc:n,c:e,d};export{e as c,d,p as default,s as i,c as r,t as s,n as sc,o as w};

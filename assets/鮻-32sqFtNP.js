@@ -1,0 +1,1 @@
+const s=[{p:"suō",pp:"suo1",d:"redlip mullet (Planiliza haematocheilus)",t:"鮻",w:"鮻"}],c=[],t=[],o="魚",n="18",l=[],a=[],e={s,w:c,i:t,r:o,sc:n,c:l,d:a};export{l as c,a as d,e as default,t as i,o as r,s,n as sc,c as w};

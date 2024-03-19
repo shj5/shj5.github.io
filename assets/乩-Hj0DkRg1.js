@@ -1,1 +1,0 @@
-const t=[{p:"jī",pp:"ji1",d:"to divine",t:"乩"}],i=[{w:"乩童",p:"jī tóng",d:"spirit medium"},{w:"扶乩",p:"fú jī",d:"planchette writing/to do planchette writing"},{w:"童乩",p:"tóng jī",d:"spirit medium"}],n=[],s="乙",c="6",o=["占","乚"],d=[],p={s:t,w:i,i:n,r:s,sc:c,c:o,d};export{o as c,d,p as default,n as i,s as r,t as s,c as sc,i as w};

@@ -1,1 +1,0 @@
-const n=[{p:"bīn",pp:"bin1",d:"best man/to entertain",t:"儐"}],t=[{w:"傧相",p:"bīn xiàng",d:"attendant of the bride or bridegroom at a wedding"},{w:"女傧相",p:"nǚ bīn xiàng",d:"bridesmaid"},{w:"男傧相",p:"nán bīn xiàng",d:"best man (in a marriage)"}],s=[],d="人",i="12",o=["亻","宾"],a=[],e={s:n,w:t,i:s,r:d,sc:i,c:o,d:a};export{o as c,a as d,e as default,s as i,d as r,n as s,i as sc,t as w};

@@ -1,1 +1,0 @@
-const s=[{p:"bèi",pp:"bei4",d:"barium (chemistry)",t:"鋇"}],c=[{w:"硫酸钡",p:"liú suān bèi",d:"barium sulfate"}],t=[],i="金",n="9",o=["贝"],r=[],a={s,w:c,i:t,r:i,sc:n,c:o,d:r};export{o as c,r as d,a as default,t as i,i as r,s,n as sc,c as w};

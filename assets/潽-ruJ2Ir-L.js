@@ -1,1 +1,0 @@
-const o=[{p:"pū",pp:"pu1",d:"to boil over",t:"潽"}],t=[{w:"尹潽善",p:"Yǐn Pǔ shàn",d:"Yun Poseon (1897-1990), South Korean Democratic party politician, mayor of Seoul from 1948, president 1960-1962"}],s=[],c="水",n="15",p=["氵","普"],r=[],e={s:o,w:t,i:s,r:c,sc:n,c:p,d:r};export{p as c,r as d,e as default,s as i,c as r,o as s,n as sc,t as w};

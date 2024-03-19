@@ -1,1 +1,0 @@
-const t=[{p:"juàn",pp:"juan4",d:"bird catching net/to bind/to hang",t:"罥"}],c=[],n=[],s="网",o="12",d=["罒","肙"],a=[],i={s:t,w:c,i:n,r:s,sc:o,c:d,d:a};export{d as c,a as d,i as default,n as i,s as r,t as s,o as sc,c as w};

@@ -1,1 +1,0 @@
-const s=[{p:"huán",pp:"huan2",d:"to return (of waves)",t:"澴"}],t=[],c=[],n="水",o="16",r=["氵","睘"],a=[],d={s,w:t,i:c,r:n,sc:o,c:r,d:a};export{r as c,a as d,d as default,c as i,n as r,s,o as sc,t as w};

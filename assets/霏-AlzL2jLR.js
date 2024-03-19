@@ -1,1 +1,0 @@
-const o=[{p:"fēi",pp:"fei1",d:"fall of snow",t:"霏"}],s=[{w:"噶霏",p:"gá fēi",d:"coffee (loanword) (old)"}],c=[],t="雨",n="16",f=["雨","非"],d=[],e={s:o,w:s,i:c,r:t,sc:n,c:f,d};export{f as c,d,e as default,c as i,t as r,o as s,n as sc,s as w};

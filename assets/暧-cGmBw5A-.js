@@ -1,0 +1,1 @@
+const s=[{p:"ài",pp:"ai4",d:"(of daylight) dim/obscure/clandestine/dubious",t:"曖",w:"暧"}],i=[{w:"暧昧",p:"ài mèi",d:"vague/ambiguous/equivocal/dubious",t:"曖昧"},{w:"暧昧关系",p:"ài mèi guān xì",d:"shady relationship/affair/adulterous relationship",t:"曖昧關係"}],o=[],t="日",c="14",a=["日","爱"],d=[],n={s,w:i,i:o,r:t,sc:c,c:a,d};export{a as c,d,n as default,o as i,t as r,s,c as sc,i as w};

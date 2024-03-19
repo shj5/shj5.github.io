@@ -1,1 +1,0 @@
-const s=[{p:"tí",pp:"ti2",d:"a kind of hawk",t:"鶗"}],c=[{w:"鶗鴂",p:"tí jué",d:"large hawk-cuckoo (Cuculus sparverioides)"},{w:"鶗鴃",p:"tí jué",d:"large hawk-cuckoo (Cuculus sparverioides)"}],o=[],t="鳥",u="20",a=["是"],d=[],n={s,w:c,i:o,r:t,sc:u,c:a,d};export{a as c,d,n as default,o as i,t as r,s,u as sc,c as w};

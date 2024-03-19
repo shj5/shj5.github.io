@@ -1,0 +1,1 @@
+const s=[{p:"mó",pp:"mo2",d:"blurred",t:"糢",w:"糢"}],t=[{w:"糢糊",p:"mó hu",d:"variant of 模糊[mo2 hu5]",t:"糢糊"}],c=[],o="米",n="17",d=["米","莫"],r=[],p={s,w:t,i:c,r:o,sc:n,c:d,d:r};export{d as c,r as d,p as default,c as i,o as r,s,n as sc,t as w};

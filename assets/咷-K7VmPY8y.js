@@ -1,1 +1,0 @@
-const o=[{p:"táo",pp:"tao2",d:"wail",t:"咷"}],t=[{w:"号咷",p:"háo táo",d:"variant of 號啕|号啕[hao2 tao2]"}],s=[],c="口",n="9",a=["口","兆"],d=[],p={s:o,w:t,i:s,r:c,sc:n,c:a,d};export{a as c,d,p as default,s as i,c as r,o as s,n as sc,t as w};

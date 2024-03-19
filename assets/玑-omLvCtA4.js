@@ -1,1 +1,0 @@
-const s=[{p:"jī",pp:"ji1",d:"irregular pearl",t:"璣"}],t=[{w:"天玑",p:"tiān jī",d:"gamma Ursae Majoris in the Big Dipper"}],c=[],n="玉",o="6",r=["王","几"],i=[],a={s,w:t,i:c,r:n,sc:o,c:r,d:i};export{r as c,i as d,a as default,c as i,n as r,s,o as sc,t as w};

@@ -1,1 +1,0 @@
-const o=[{p:"dā",pp:"da1",d:"da! (sound used to move animals along)",t:"咑"}],s=[{w:"窝咑",p:"wō dā",d:"otak, a Malay food"}],t=[],c="口",d="8",a=["口","打"],n=[],p={s:o,w:s,i:t,r:c,sc:d,c:a,d:n};export{a as c,n as d,p as default,t as i,c as r,o as s,d as sc,s as w};

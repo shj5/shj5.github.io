@@ -1,1 +1,0 @@
-const c=[{p:"yáng",pp:"yang2",d:"a weevil found in rice etc",t:"蛘"}],s=[],n=[],t="虫",o="12",e=["虫","羊"],d=[],i={s:c,w:s,i:n,r:t,sc:o,c:e,d};export{e as c,d,i as default,n as i,t as r,c as s,o as sc,s as w};

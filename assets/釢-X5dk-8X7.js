@@ -1,0 +1,1 @@
+const s=[{p:"nǎi",pp:"nai3",d:"(old) neodymium/neptunium (chemistry)",t:"釢",w:"釢"}],c=[],n=[],t="金",o="10",i=["金","乃"],d=[],e={s,w:c,i:n,r:t,sc:o,c:i,d};export{i as c,d,e as default,n as i,t as r,s,o as sc,c as w};

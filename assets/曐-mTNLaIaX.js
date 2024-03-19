@@ -1,1 +1,0 @@
-const s=[{p:"xīng",pp:"xing1",d:"old variant of 星[xing1]",t:"曐"}],c=[],n=[],t="日",o="17",d=["晶","生"],i=[],a={s,w:c,i:n,r:t,sc:o,c:d,d:i};export{d as c,i as d,a as default,n as i,t as r,s,o as sc,c as w};

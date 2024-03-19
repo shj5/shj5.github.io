@@ -1,1 +1,0 @@
-const c=[{p:"yòu",pp:"you4",d:"glaze (of porcelain)",t:"釉"}],o=[{w:"牙釉质",p:"yá yòu zhì",d:"tooth enamel"},{w:"瓷釉",p:"cí yòu",d:"porcelain glaze"},{w:"青釉",p:"qīng yòu",d:"celadon, classic Chinese style of ceramic glaze"}],s=[],e="釆",n="12",t=["釆","由"],a=[],l={s:c,w:o,i:s,r:e,sc:n,c:t,d:a};export{t as c,a as d,l as default,s as i,e as r,c as s,n as sc,o as w};

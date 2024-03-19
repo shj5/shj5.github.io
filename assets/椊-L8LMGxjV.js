@@ -1,1 +1,0 @@
-const o=[{p:"zuó",pp:"zuo2",d:"to fit a handle into a socket/a plug or cork",t:"椊"}],t=[],c=[],s="木",n="12",a=["木","卒"],d=[],p={s:o,w:t,i:c,r:s,sc:n,c:a,d};export{a as c,d,p as default,c as i,s as r,o as s,n as sc,t as w};

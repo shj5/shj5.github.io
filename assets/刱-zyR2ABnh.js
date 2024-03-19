@@ -1,1 +1,0 @@
-const c=[{p:"chuāng",pp:"chuang1",d:"variant of 創|创[chuang1]",t:"刱"},{p:"chuàng",pp:"chuang4",d:"variant of 創|创[chuang4]",t:"刱"}],n=[],t=[],s="刀",o="8",a=["井"],p=[],u={s:c,w:n,i:t,r:s,sc:o,c:a,d:p};export{a as c,p as d,u as default,t as i,s as r,c as s,o as sc,n as w};

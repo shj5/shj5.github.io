@@ -1,1 +1,0 @@
-const t=[{p:"zhù",pp:"zhu4",d:"to store/to stand/space between the door and the entrance screen",t:"宁"}],s=[],c=[],n="",o="",e=[],d=[],r={s:t,w:s,i:c,r:n,sc:o,c:e,d};export{e as c,d,r as default,c as i,n as r,t as s,o as sc,s as w};

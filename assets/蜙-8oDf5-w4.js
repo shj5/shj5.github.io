@@ -1,0 +1,1 @@
+const s=[{p:"sōng",pp:"song1",d:"bound form used in 蜙蝑[song1 xu1]",t:"蜙",w:"蜙"}],n=[{w:"蜙蝑",p:"sōng xū",d:"katydid",t:"蜙蝑"}],o=[],t="虫",c="14",d=["虫","松"],p=[],g={s,w:n,i:o,r:t,sc:c,c:d,d:p};export{d as c,p as d,g as default,o as i,t as r,s,c as sc,n as w};

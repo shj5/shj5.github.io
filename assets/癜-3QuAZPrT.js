@@ -1,1 +1,0 @@
-const c=[{p:"diàn",pp:"dian4",d:"erythema/leucoderm",t:"癜"}],s=[{w:"白癜风",p:"bái diàn fēng",d:"vitiligo"}],t=[],n="疒",o="18",d=["疒","殿"],i=[],e={s:c,w:s,i:t,r:n,sc:o,c:d,d:i};export{d as c,i as d,e as default,t as i,n as r,c as s,o as sc,s as w};

@@ -1,0 +1,1 @@
+const n=[{p:"qiāng",pp:"qiang1",d:"(manner of walking)",t:"蹡",w:"蹡"},{p:"qiàng",pp:"qiang4",d:"see 踉蹡[liang4 qiang4]",t:"蹡",w:"蹡"}],i=[{w:"踉蹡",p:"liàng qiàng",d:"variant of 踉蹌|踉跄[liang4 qiang4]",t:"踉蹡"}],s=[],t="足",a="18",c=["足"],g=[],o={s:n,w:i,i:s,r:t,sc:a,c,d:g};export{c,g as d,o as default,s as i,t as r,n as s,a as sc,i as w};

@@ -1,0 +1,1 @@
+const s=[{p:"lù",pp:"lu4",d:"rhodium (chemistry) (old)",t:"錴",w:"錴"}],c=[],t=[],o="金",n="16",d=["金","坴"],r=[],i={s,w:c,i:t,r:o,sc:n,c:d,d:r};export{d as c,r as d,i as default,t as i,o as r,s,n as sc,c as w};

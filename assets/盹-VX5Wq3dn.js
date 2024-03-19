@@ -1,1 +1,0 @@
-const d=[{p:"dǔn",pp:"dun3",d:"doze/nap",t:"盹"}],n=[{w:"打盹",p:"dǎ dǔn",d:"to doze off"},{w:"打盹儿",p:"dǎ dǔn r",d:"erhua variant of 打盹[da3 dun3]"}],o=[],s="目",t="9",c=["目","屯"],a=[],p={s:d,w:n,i:o,r:s,sc:t,c,d:a};export{c,a as d,p as default,o as i,s as r,d as s,t as sc,n as w};

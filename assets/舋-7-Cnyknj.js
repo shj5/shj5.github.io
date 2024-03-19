@@ -1,1 +1,0 @@
-const c=[{p:"xìn",pp:"xin4",d:"variant of 釁|衅/quarrel/dispute/a blood sacrifice (arch.)",t:"舋"}],s=[],t=[],o="臼",n="19",a=["且"],r=["亹"],i={s:c,w:s,i:t,r:o,sc:n,c:a,d:r};export{a as c,r as d,i as default,t as i,o as r,c as s,n as sc,s as w};

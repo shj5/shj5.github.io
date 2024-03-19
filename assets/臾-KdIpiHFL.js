@@ -1,1 +1,0 @@
-const t=[{p:"Yú",pp:"Yu2",d:"surname Yu",t:"臾"},{p:"yú",pp:"yu2",d:"a moment/little while",t:"臾"}],s=[{w:"臾须",p:"yú xū",d:"short period of time/a moment"},{w:"须臾",p:"xū yú",d:"in a flash/in a jiffy"}],o=[],n="臼",c="8",p=["人","臼"],e=["庾","斔","斞","楰","瘐","腴","萸","谀"],i={s:t,w:s,i:o,r:n,sc:c,c:p,d:e};export{p as c,e as d,i as default,o as i,n as r,t as s,c as sc,s as w};

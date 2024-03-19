@@ -1,1 +1,0 @@
-const n=[{p:"xiān",pp:"xian1",d:"to manner of dancing/to walk around",t:"躚"}],o=[{w:"翩跹",p:"piān xiān",d:"spry and lively (of dancing and movements)"}],s=[],c="足",t="13",a=["足","迁"],d=[],i={s:n,w:o,i:s,r:c,sc:t,c:a,d};export{a as c,d,i as default,s as i,c as r,n as s,t as sc,o as w};

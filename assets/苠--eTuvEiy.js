@@ -1,1 +1,0 @@
-const s=[{p:"mín",pp:"min2",d:"multitude/skin of bamboo",t:"苠"}],t=[],c=[],o="艸",n="8",d=["艹","民"],i=[],m={s,w:t,i:c,r:o,sc:n,c:d,d:i};export{d as c,i as d,m as default,c as i,o as r,s,n as sc,t as w};

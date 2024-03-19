@@ -1,0 +1,1 @@
+const o=[{p:"sòu",pp:"sou4",d:"(bound form) to cough",t:"嗽",w:"嗽"}],s=[{w:"咳嗽",p:"ké sou",d:"to cough/CL:陣|阵[zhen4]",t:"咳嗽"}],c=[],t="口",n="14",u=["口","欶"],d=[],p={s:o,w:s,i:c,r:t,sc:n,c:u,d};export{u as c,d,p as default,c as i,t as r,o as s,n as sc,s as w};

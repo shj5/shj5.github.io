@@ -1,1 +1,0 @@
-const t=[{p:"jìng",pp:"jing4",d:"(literary) to pass through/straight/path",t:"俓"}],s=[],c=[],o="",n="",r=[],a=[],p={s:t,w:s,i:c,r:o,sc:n,c:r,d:a};export{r as c,a as d,p as default,c as i,o as r,t as s,n as sc,s as w};

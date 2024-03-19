@@ -1,1 +1,0 @@
-const o=[{p:"zhuó",pp:"zhuo2",d:"to display vigorous, new growth/to sprout",t:"茁"}],s=[{w:"茁壮",p:"zhuó zhuàng",d:"healthy and strong/sturdy/thriving/vigorous/robust/flourishing"}],t=[],n="艸",c="8",r=["艹","出"],u=[],h={s:o,w:s,i:t,r:n,sc:c,c:r,d:u};export{r as c,u as d,h as default,t as i,n as r,o as s,c as sc,s as w};

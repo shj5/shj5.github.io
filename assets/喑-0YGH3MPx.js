@@ -1,0 +1,1 @@
+const s=[{p:"yīn",pp:"yin1",d:"mute",t:"喑",w:"喑"}],o=[{w:"喑哑",p:"yīn yǎ",d:"hoarse/raspy",t:"喑啞"}],t=[{w:"万马齐喑",p:"wàn mǎ qí yīn",d:"thousands of horses, all mute (idiom); no-one dares to speak out/an atmosphere of political oppression",t:"萬馬齊喑"}],n="口",c="12",e=["口","音"],p=[],a={s,w:o,i:t,r:n,sc:c,c:e,d:p};export{e as c,p as d,a as default,t as i,n as r,s,c as sc,o as w};

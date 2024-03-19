@@ -1,0 +1,1 @@
+const c=[{p:"yā",pp:"ya1",d:"forking branch",t:"椏",w:"桠"}],t=[{w:"枝桠",p:"zhī yā",d:"branch/twig",t:"枝椏"},{w:"桠杈",p:"yā chà",d:"variant of 丫杈[ya1 cha4]",t:"椏杈"}],s=[],n="木",o="10",a=["木","亚"],r=[],d={s:c,w:t,i:s,r:n,sc:o,c:a,d:r};export{a as c,r as d,d as default,s as i,n as r,c as s,o as sc,t as w};

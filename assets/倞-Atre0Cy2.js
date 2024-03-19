@@ -1,0 +1,1 @@
+const t=[{p:"jìng",pp:"jing4",d:"strong/powerful",t:"倞",w:"倞"},{p:"liàng",pp:"liang4",d:"distant/to seek/old variant of 亮[liang4]/bright",t:"倞",w:"倞"}],n=[],s=[],o="人",c="10",i=["亻","京"],p=[],a={s:t,w:n,i:s,r:o,sc:c,c:i,d:p};export{i as c,p as d,a as default,s as i,o as r,t as s,c as sc,n as w};

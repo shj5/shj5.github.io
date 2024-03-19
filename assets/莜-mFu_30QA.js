@@ -1,1 +1,0 @@
-const o=[{p:"yóu",pp:"you2",d:"see 莜麥|莜麦[you2 mai4]",t:"莜"}],s=[{w:"莜麦",p:"yóu mài",d:"naked oat (Avena nuda)"},{w:"莜麦菜",p:"yóu mài cài",d:"variant of 油麥菜|油麦菜[you2 mai4 cai4]"},{w:"莜面",p:"yóu miàn",d:"oat noodles or flour"}],c=[],n="艸",t="10",a=["艹","攸"],d=[],i={s:o,w:s,i:c,r:n,sc:t,c:a,d};export{a as c,d,i as default,c as i,n as r,o as s,t as sc,s as w};

@@ -1,1 +1,0 @@
-const s=[{p:"Yū",pp:"Yu1",d:"surname Yu",t:"紆"},{p:"yū",pp:"yu1",d:"winding/twisting",t:"紆"}],t=[],c=[],n="糸",o="6",p=["纟","于"],d=[],i={s,w:t,i:c,r:n,sc:o,c:p,d};export{p as c,d,i as default,c as i,n as r,s,o as sc,t as w};

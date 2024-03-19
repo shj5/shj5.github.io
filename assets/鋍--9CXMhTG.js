@@ -1,0 +1,1 @@
+const o=[{p:"bó",pp:"bo2",d:"old term for beryllium, now written 鈹|铍[pi2]/variant of 鈸|钹[bo2], cymbals",t:"鋍",w:"鋍"}],t=[],s=[],c="金",n="15",r=["金","孛"],i=[],a={s:o,w:t,i:s,r:c,sc:n,c:r,d:i};export{r as c,i as d,a as default,s as i,c as r,o as s,n as sc,t as w};

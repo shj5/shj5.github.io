@@ -1,1 +1,0 @@
-const o=[{p:"gōu",pp:"gou1",d:"used in 佝僂|佝偻[gou1 lou2]",t:"佝"},{p:"kòu",pp:"kou4",d:"used in 佝瞀[kou4mao4]",t:"佝"}],s=[{w:"佝偻",p:"gōu lóu",d:"stooped/crooked"},{w:"佝偻病",p:"gōu lóu bìng",d:"rickets (medicine)"},{w:"佝瞀",p:"kòu mào",d:"stupid"}],u=[],c="人",t="7",d=["亻","句"],n=[],p={s:o,w:s,i:u,r:c,sc:t,c:d,d:n};export{d as c,n as d,p as default,u as i,c as r,o as s,t as sc,s as w};

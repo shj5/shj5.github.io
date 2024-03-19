@@ -1,0 +1,1 @@
+const n=[{p:"wén",pp:"wen2",d:"multicolored clouds",t:"雯",w:"雯"}],s=[{w:"蒋雯丽",p:"Jiǎng Wén lì",d:"Jiang Wenli (1969-), award-winning PRC film actress",t:"蔣雯麗"}],c=[],t="雨",o="12",i=["雨","文"],d=[],w={s:n,w:s,i:c,r:t,sc:o,c:i,d};export{i as c,d,w as default,c as i,t as r,n as s,o as sc,s as w};

@@ -1,1 +1,0 @@
-const n=[{p:"gān",pp:"gan1",d:"used in 矸石[gan1 shi2]",t:"矸"}],s=[{w:"煤矸石",p:"méi gān shí",d:"(mining) coal gangue"},{w:"矸子",p:"gān zi",d:"see 矸石[gan1 shi2]"},{w:"矸石",p:"gān shí",d:"(mining) gangue"}],c=[],g="石",i="8",t=["石","干"],o=[],a={s:n,w:s,i:c,r:g,sc:i,c:t,d:o};export{t as c,o as d,a as default,c as i,g as r,n as s,i as sc,s as w};

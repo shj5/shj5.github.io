@@ -1,1 +1,0 @@
-const o=[{p:"xuán",pp:"xuan2",d:"whirlpool/eddy/also pr. [xuan4]",t:"漩"}],s=[{w:"泡漩",p:"pào xuán",d:"eddy/whirlpool"},{w:"漩涡",p:"xuán wō",d:"whirlpool/eddy/vortex/(fig.) maelstrom"}],n=[],t="水",c="14",d=["氵","旋"],p=[],l={s:o,w:s,i:n,r:t,sc:c,c:d,d:p};export{d as c,p as d,l as default,n as i,t as r,o as s,c as sc,s as w};

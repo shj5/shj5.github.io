@@ -1,0 +1,1 @@
+const n=[{p:"biáng",pp:"biang2",d:"used in 𰻞𰻞麵|𰻝𰻝面[biang2 biang2 mian4]",t:"𰻞",w:"𰻝"}],s=[{w:"𰻝𰻝面",p:"biáng biáng miàn",d:"broad, belt-shaped noodles, popular in Shaanxi",t:"𰻞𰻞麵"}],i=[],o="",t="",c=[],a=[],d={s:n,w:s,i,r:o,sc:t,c,d:a};export{c,a as d,d as default,i,o as r,n as s,t as sc,s as w};

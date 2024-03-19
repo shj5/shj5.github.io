@@ -1,1 +1,0 @@
-const n=[{p:"Cóng",pp:"Cong2",d:"surname Cong",t:"琮"},{p:"cóng",pp:"cong2",d:"jade tube with round hole and rectangular sides, used ceremonially in ancient times",t:"琮"}],c=[{w:"玉琮",p:"yù cóng",d:"see 琮[cong2]"}],s=[],t="玉",o="12",e=["王","宗"],d=[],a={s:n,w:c,i:s,r:t,sc:o,c:e,d};export{e as c,d,a as default,s as i,t as r,n as s,o as sc,c as w};

@@ -1,1 +1,0 @@
-const c=[{p:"suō",pp:"suo1",d:"carboxyl radical (chemistry)",t:"羧"}],s=[{w:"羧基",p:"suō jī",d:"carboxyl group -COOH"},{w:"羧基酸",p:"suō jī suān",d:"carboxylic acid"},{w:"羧甲司坦",p:"suō jiǎ sī tǎn",d:"carbocysteine"},{w:"羧酸",p:"suō suān",d:"carboxylic acid"}],o=[],t="羊",n="13",a=["羊"],d=[],r={s:c,w:s,i:o,r:t,sc:n,c:a,d};export{a as c,d,r as default,o as i,t as r,c as s,n as sc,s as w};

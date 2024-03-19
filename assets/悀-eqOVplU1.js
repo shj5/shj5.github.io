@@ -1,1 +1,0 @@
-const o=[{p:"yǒng",pp:"yong3",d:"to be angry/to like/variant of 湧|涌[yong3]",t:"悀"}],t=[],n=[],s="心",c="10",a=["忄","甬"],r=[],d={s:o,w:t,i:n,r:s,sc:c,c:a,d:r};export{a as c,r as d,d as default,n as i,s as r,o as s,c as sc,t as w};
