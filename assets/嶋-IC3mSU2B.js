@@ -1,1 +1,0 @@
-const s=[{p:"dǎo",pp:"dao3",d:"variant of 島|岛[dao3], island/used as second component of Japanese names with phonetic value -shima or -jima",t:"嶋",w:"嶋"}],o=[],n=[],c="山",t="14",a=["山"],d=[],e={s,w:o,i:n,r:c,sc:t,c:a,d};export{a as c,d,e as default,n as i,c as r,s,t as sc,o as w};

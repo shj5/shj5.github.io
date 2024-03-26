@@ -1,1 +1,0 @@
-const n=[{p:"zhōng",pp:"zhong1",d:"used in 柊葉|柊叶[zhong1 ye4]",t:"柊",w:"柊"}],s=[{w:"柊叶",p:"zhōng yè",d:"Phrynium capitatum",t:"柊葉"}],t=[],c="木",o="9",d=["木","冬"],p=[],h={s:n,w:s,i:t,r:c,sc:o,c:d,d:p};export{d as c,p as d,h as default,t as i,c as r,n as s,o as sc,s as w};

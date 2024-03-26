@@ -1,0 +1,1 @@
+const o=[{p:"gū",pp:"gu1",d:"wheel/to roll",t:"軲",w:"轱"}],s=[{w:"轱辘",p:"gū lù",d:"wheel/to roll/also pr. [gu1 lu5]",t:"軲轆"}],t=[],c="車",l=9,n=["车","古"],e=[],p={s:o,w:s,i:t,r:c,sc:l,c:n,d:e};export{n as c,e as d,p as default,t as i,c as r,o as s,l as sc,s as w};

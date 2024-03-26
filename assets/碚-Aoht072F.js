@@ -1,0 +1,1 @@
+const i=[{p:"bèi",pp:"bei4",d:"(used in place names)",t:"碚",w:"碚"}],n=[{w:"北碚",p:"Běi bèi",d:"Beibei, a district of Chongqing 重慶|重庆[Chong2qing4]",t:"北碚"},{w:"北碚区",p:"Běi bèi Qū",d:"Beibei, a district of Chongqing 重慶|重庆[Chong2qing4]",t:"北碚區"}],s=[],t="石",c=13,o=["石","咅"],e=[],d={s:i,w:n,i:s,r:t,sc:c,c:o,d:e};export{o as c,e as d,d as default,s as i,t as r,i as s,c as sc,n as w};

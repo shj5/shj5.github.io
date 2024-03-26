@@ -1,0 +1,1 @@
+const s=[{p:"zhì",pp:"zhi4",d:"fluke/leech/hirudinea",t:"蛭",w:"蛭"}],t=[{w:"水蛭",p:"shuǐ zhì",d:"leech",t:"水蛭"},{w:"水蛭素",p:"shuǐ zhì sù",d:"hirudin",t:"水蛭素"},{w:"笄蛭",p:"jī zhì",d:"a kind of earthworm",t:"笄蛭"},{w:"蛭石",p:"zhì shí",d:"vermiculite",t:"蛭石"}],c=[],h="虫",d=12,e=["虫","至"],n=[],o={s,w:t,i:c,r:h,sc:d,c:e,d:n};export{e as c,n as d,o as default,c as i,h as r,s,d as sc,t as w};

@@ -1,1 +1,0 @@
-const s=[{p:"fēng",pp:"feng1",d:"variant of 豐|丰[feng1]",t:"豊",w:"豊"},{p:"lǐ",pp:"li3",d:"ceremonial vessel/variant of 禮|礼[li3]",t:"豊",w:"豊"}],n=[],t=[],c="豆",o="13",e=["曲","豆"],a=["澧","豑","軆","鄷","醴","鳢"],i={s,w:n,i:t,r:c,sc:o,c:e,d:a};export{e as c,a as d,i as default,t as i,c as r,s,o as sc,n as w};

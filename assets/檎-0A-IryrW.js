@@ -1,1 +1,0 @@
-const s=[{p:"qín",pp:"qin2",d:"(fruit)",t:"檎",w:"檎"}],c=[{w:"林檎",p:"lín qín",d:"Chinese pearleaf crabapple (Malus asiatica)",t:"林檎"}],t=[],n="木",a="17",o=["木","禽"],p=[],e={s,w:c,i:t,r:n,sc:a,c:o,d:p};export{o as c,p as d,e as default,t as i,n as r,s,a as sc,c as w};

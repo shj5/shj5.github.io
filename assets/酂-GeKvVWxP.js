@@ -1,0 +1,1 @@
+const s=[{p:"zàn",pp:"zan4",d:"group of 100 families/place name",t:"酇",w:"酂"}],c=[],n=[],o="邑",t=19,a=[],p=[],e={s,w:c,i:n,r:o,sc:t,c:a,d:p};export{a as c,p as d,e as default,n as i,o as r,s,t as sc,c as w};

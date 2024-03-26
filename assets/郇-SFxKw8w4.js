@@ -1,0 +1,1 @@
+const n=[{p:"xún",pp:"xun2",d:"name of a feudal state",t:"郇",w:"郇"}],o=[{w:"郇山隐修会",p:"Xún shān yǐn xiū huì",d:"Priory of Zion (fictional masonic order)",t:"郇山隱修會"}],s=[],t="邑",c=9,a=["旬"],i=[],d={s:n,w:o,i:s,r:t,sc:c,c:a,d:i};export{a as c,i as d,d as default,s as i,t as r,n as s,c as sc,o as w};

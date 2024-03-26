@@ -1,0 +1,1 @@
+const c=[{p:"fāng",pp:"fang1",d:'"right open box" radical (Kangxi radical 22), occurring in 区, 医, 匹 etc',t:"匚",w:"匚"}],n=[],s=[],t="*",o=2,a=["匚"],i=["匚","卬","匜","匝","匞","叵","汇","匠","匡","匣","匦","匧","匪","匮","匴","匵","匶"],r={s:c,w:n,i:s,r:t,sc:o,c:a,d:i};export{a as c,i as d,r as default,s as i,t as r,c as s,o as sc,n as w};

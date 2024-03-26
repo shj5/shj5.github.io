@@ -1,1 +1,0 @@
-const s=[{p:"Nǐ",pp:"Ni3",d:"You/Thou (of deity)/variant of 你[ni3]",t:"袮",w:"袮"},{p:"mi",pp:"mi5",d:"used in rare Japanese place names such as 袮宜町 Minorimachi and 袮宜田 Minorita",t:"袮",w:"袮"}],n=[],c=[],o="衣",t="11",i=["衤","尓"],a=[],e={s,w:n,i:c,r:o,sc:t,c:i,d:a};export{i as c,a as d,e as default,c as i,o as r,s,t as sc,n as w};

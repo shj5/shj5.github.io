@@ -1,0 +1,1 @@
+const c=[{p:"jiū",pp:"jiu1",d:"archaic variant of 糾|纠[jiu1]",t:"丩",w:"丩"}],s=[],t=[],o="丨",n=2,i=["丨"],a=["卄","収","叫","纠","收","临","赳","嘂"],r={s:c,w:s,i:t,r:o,sc:n,c:i,d:a};export{i as c,a as d,r as default,t as i,o as r,c as s,n as sc,s as w};

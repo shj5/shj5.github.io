@@ -1,0 +1,1 @@
+const t=[{p:"róu",pp:"rou2",d:"Elsholtria paltrini",t:"葇",w:"葇"}],s=[{w:"葇荑花序",p:"róu tí huā xù",d:"catkin (botany)",t:"葇荑花序"}],c=[],o="艸",n=12,r=["艹","柔"],a=[],i={s:t,w:s,i:c,r:o,sc:n,c:r,d:a};export{r as c,a as d,i as default,c as i,o as r,t as s,n as sc,s as w};

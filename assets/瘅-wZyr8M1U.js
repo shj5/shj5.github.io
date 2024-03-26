@@ -1,0 +1,1 @@
+const d=[{p:"dān",pp:"dan1",d:"(disease)",t:"癉",w:"瘅"},{p:"dàn",pp:"dan4",d:"to hate",t:"癉",w:"瘅"}],n=[],o=[{w:"彰善瘅恶",p:"zhāng shàn dàn è",d:"to distinguish good and evil (idiom); to uphold virtue and condemn evil/to praise good and expose vice",t:"彰善癉惡"}],s="疒",t=13,c=["疒","单"],e=[],i={s:d,w:n,i:o,r:s,sc:t,c,d:e};export{c,e as d,i as default,o as i,s as r,d as s,t as sc,n as w};

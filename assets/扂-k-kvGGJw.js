@@ -1,1 +1,0 @@
-const c=[{p:"diàn",pp:"dian4",d:"door latch",t:"扂",w:"扂"}],t=[{w:"扂楔",p:"diàn xiē",d:"door latch",t:"扂楔"}],o=[],s="戶",n="9",d=["占"],i=[],a={s:c,w:t,i:o,r:s,sc:n,c:d,d:i};export{d as c,i as d,a as default,o as i,s as r,c as s,n as sc,t as w};

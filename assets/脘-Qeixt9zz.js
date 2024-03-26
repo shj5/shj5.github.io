@@ -1,1 +1,0 @@
-const c=[{p:"wǎn",pp:"wan3",d:"internal cavity of stomach",t:"脘",w:"脘"}],s=[],t=[],n="肉",o="11",a=["月","完"],w=[],d={s:c,w:s,i:t,r:n,sc:o,c:a,d:w};export{a as c,w as d,d as default,t as i,n as r,c as s,o as sc,s as w};

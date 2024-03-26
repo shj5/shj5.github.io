@@ -1,1 +1,0 @@
-const s=[{p:"pī",pp:"pi1",d:"error/carelessness/spoiled silk",t:"紕",w:"纰"}],t=[{w:"纰漏",p:"pī lòu",d:"careless mistake/slip-up",t:"紕漏"},{w:"纰缪",p:"pī miù",d:"error/mistake",t:"紕繆"}],c=[],p="糸",e="7",o=["纟","比"],r=[],i={s,w:t,i:c,r:p,sc:e,c:o,d:r};export{o as c,r as d,i as default,c as i,p as r,s,e as sc,t as w};

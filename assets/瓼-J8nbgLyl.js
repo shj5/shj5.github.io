@@ -1,1 +1,0 @@
-const t=[{p:"lǐ wǎ",pp:"li3 wa3",d:"centiwatt (old)",t:"瓼",w:"瓼"}],c=[],s=[],o="瓦",n="12",w=["瓦","里"],d=[],a={s:t,w:c,i:s,r:o,sc:n,c:w,d};export{w as c,d,a as default,s as i,o as r,t as s,n as sc,c as w};

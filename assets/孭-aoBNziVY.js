@@ -1,1 +1,0 @@
-const s=[{p:"miē",pp:"mie1",d:"to carry on the back or shoulders (Cantonese)",t:"孭",w:"孭"}],c=[],o=[],t="子",n="10",e=["孑"],r=[],a={s,w:c,i:o,r:t,sc:n,c:e,d:r};export{e as c,r as d,a as default,o as i,t as r,s,n as sc,c as w};

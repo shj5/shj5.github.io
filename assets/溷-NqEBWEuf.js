@@ -1,1 +1,0 @@
-const n=[{p:"hùn",pp:"hun4",d:"privy/animal pen/muddy/disordered/to disturb",t:"溷",w:"溷"}],s=[{w:"溷浊",p:"hùn zhuó",d:"variant of 混濁|混浊[hun4 zhuo2]",t:"溷濁"}],t=[],o="水",c="13",d=["氵"],r=[],i={s:n,w:s,i:t,r:o,sc:c,c:d,d:r};export{d as c,r as d,i as default,t as i,o as r,n as s,c as sc,s as w};

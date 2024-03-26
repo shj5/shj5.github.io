@@ -1,0 +1,1 @@
+const o=[{p:"sù",pp:"su4",d:"the crop of a bird",t:"嗉",w:"嗉"}],s=[{w:"嗉囊",p:"sù náng",d:"crop (anatomy of birds, gastropods etc)",t:"嗉囊"},{w:"嗉子",p:"sù zi",d:"the crop of a bird/(dialect) wine flask made of tin or porcelain",t:"嗉子"}],t=[],c="口",n=13,d=["口","素"],r=[],a={s:o,w:s,i:t,r:c,sc:n,c:d,d:r};export{d as c,r as d,a as default,t as i,c as r,o as s,n as sc,s as w};

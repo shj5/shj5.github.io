@@ -1,0 +1,1 @@
+const s=[{p:"pì",pp:"pi4",d:"to give an example",t:"譬",w:"譬"}],t=[{w:"譬喻",p:"pì yù",d:"analogy/metaphor/simile",t:"譬喻"},{w:"譬如",p:"pì rú",d:"for example/for instance/such as",t:"譬如"},{w:"譬如说",p:"pì rú shuō",d:"for example",t:"譬如說"}],p=[],o="言",c=20,e=["言","辟"],n=[],a={s,w:t,i:p,r:o,sc:c,c:e,d:n};export{e as c,n as d,a as default,p as i,o as r,s,c as sc,t as w};

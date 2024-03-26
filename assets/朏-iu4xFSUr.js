@@ -1,0 +1,1 @@
+const t=[{p:"fěi",pp:"fei3",d:"(literary) (of the crescent moon) to begin to shine",t:"朏",w:"朏"}],s=[],c=[],o="月",n=9,e=["月","出"],i=[],r={s:t,w:s,i:c,r:o,sc:n,c:e,d:i};export{e as c,i as d,r as default,c as i,o as r,t as s,n as sc,s as w};

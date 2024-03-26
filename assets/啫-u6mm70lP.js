@@ -1,0 +1,1 @@
+const s=[{p:"zhě",pp:"zhe3",d:"used in 啫哩[zhe3 li1]",t:"啫",w:"啫"}],t=[{w:"啫哩",p:"zhě lí",d:"variant of 啫喱[zhe3 li2]",t:"啫哩"},{w:"啫喱",p:"zhě lí",d:"(loanword) jelly/gel",t:"啫喱"}],c=[],o="口",n=12,l=["口","者"],d=[],e={s,w:t,i:c,r:o,sc:n,c:l,d};export{l as c,d,e as default,c as i,o as r,s,n as sc,t as w};

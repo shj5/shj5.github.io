@@ -1,1 +1,0 @@
-const t=[{p:"yú",pp:"yu2",d:"to desire passionately",t:"覦",w:"觎"}],s=[{w:"觊觎",p:"jì yú",d:"(literary) to covet; to cast greedy eyes on",t:"覬覦"}],o=[],c="見",e="13",n=["俞","见"],d=[],r={s:t,w:s,i:o,r:c,sc:e,c:n,d};export{n as c,d,r as default,o as i,c as r,t as s,e as sc,s as w};

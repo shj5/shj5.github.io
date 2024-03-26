@@ -1,1 +1,0 @@
-const o=[{p:"jué",pp:"jue2",d:"to pick out/to single out",t:"抉",w:"抉"}],t=[{w:"抉搞",p:"jué gǎo",d:"to choose/to expose and censure",t:"抉搞"},{w:"抉择",p:"jué zé",d:"to choose (literary)",t:"抉擇"}],s=[],c="手",e="7",n=["扌","夬"],p=[],u={s:o,w:t,i:s,r:c,sc:e,c:n,d:p};export{n as c,p as d,u as default,s as i,c as r,o as s,e as sc,t as w};

@@ -1,0 +1,1 @@
+const s=[{p:"xx",pp:"xx5",d:"(Japanese kokuji) labor; work",t:"働",w:"働"}],c=[],o=[],t="人",n=13,a=["亻"],p=[],r={s,w:c,i:o,r:t,sc:n,c:a,d:p};export{a as c,p as d,r as default,o as i,t as r,s,n as sc,c as w};

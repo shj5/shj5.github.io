@@ -1,1 +1,0 @@
-const s=[{p:"sōu",pp:"sou1",d:"to blow (as of wind)/sound of wind/sough",t:"颼",w:"飕"}],o=[{w:"冷飕飕",p:"lěng sōu sōu",d:"chilling; chilly",t:"冷颼颼"},{w:"飕飕",p:"sōu sōu",d:"sound of the wind blowing or rain falling",t:"颼颼"}],n=[],t="風",c="14",d=["风","叟"],i=[],l={s,w:o,i:n,r:t,sc:c,c:d,d:i};export{d as c,i as d,l as default,n as i,t as r,s,c as sc,o as w};

@@ -1,0 +1,1 @@
+const s=[{p:"yǎ",pp:"ya3",d:"mute, incapable of speech/same as 啞|哑[ya3]",t:"瘂",w:"痖"}],c=[],t=[],o="疒",n=11,a=["疒","亚"],e=[],p={s,w:c,i:t,r:o,sc:n,c:a,d:e};export{a as c,e as d,p as default,t as i,o as r,s,n as sc,c as w};

@@ -1,1 +1,0 @@
-const c=[{p:"chǎ",pp:"cha3",d:"small cymbals",t:"鑔",w:"镲"}],t=[{w:"打镲",p:"dǎ chǎ",d:"(dialect) to joke/to make fun of (sb)",t:"打鑔"},{w:"踩镲",p:"cǎi chǎ",d:"hi-hat",t:"踩鑔"}],s=[],o="金",n="19",a=["察"],d=[],h={s:c,w:t,i:s,r:o,sc:n,c:a,d};export{a as c,d,h as default,s as i,o as r,c as s,n as sc,t as w};

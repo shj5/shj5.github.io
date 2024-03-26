@@ -1,0 +1,1 @@
+const c=[{p:"cài",pp:"cai4",d:"see 綷縩[cui4 cai4]",t:"縩",w:"縩"}],o=[{w:"綷縩",p:"cuì cài",d:"(onom.) sound of friction of fabric",t:"綷縩"}],s=[],t="糸",n=17,i=["糸","祭"],d=[],a={s:c,w:o,i:s,r:t,sc:n,c:i,d};export{i as c,d,a as default,s as i,t as r,c as s,n as sc,o as w};

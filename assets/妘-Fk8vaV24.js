@@ -1,1 +1,0 @@
-const s=[{p:"Yún",pp:"Yun2",d:"surname Yun/(used in given names, mostly female names)",t:"妘",w:"妘"}],n=[],c=[],t="女",o="7",e=["女","云"],a=[],d={s,w:n,i:c,r:t,sc:o,c:e,d:a};export{e as c,a as d,d as default,c as i,t as r,s,o as sc,n as w};

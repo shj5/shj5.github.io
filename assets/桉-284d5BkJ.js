@@ -1,1 +1,0 @@
-const s=[{p:"ān",pp:"an1",d:"Eucalyptus globulus/Taiwan pr. [an4]",t:"桉",w:"桉"}],t=[{w:"桉树",p:"ān shù",d:"eucalyptus",t:"桉樹"},{w:"桉叶油",p:"ān yè yóu",d:"eucalyptus oil",t:"桉葉油"}],c=[],n="木",o="10",p=["木","安"],u=[],a={s,w:t,i:c,r:n,sc:o,c:p,d:u};export{p as c,u as d,a as default,c as i,n as r,s,o as sc,t as w};

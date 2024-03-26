@@ -1,1 +1,0 @@
-const o=[{p:"jiǎo",pp:"jiao3",d:"handsome",t:"佼",w:"佼"}],c=[{w:"佼佼者",p:"jiǎo jiǎo zhě",d:"well-known figure/excellent (person, company etc)",t:"佼佼者"}],s=[],n="人",t="8",e=["亻","交"],i=[],p={s:o,w:c,i:s,r:n,sc:t,c:e,d:i};export{e as c,i as d,p as default,s as i,n as r,o as s,t as sc,c as w};

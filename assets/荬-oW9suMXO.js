@@ -1,1 +1,0 @@
-const s=[{p:"mǎi",pp:"mai3",d:"see 苣蕒菜|苣荬菜[ju4 mai3 cai4]",t:"蕒",w:"荬"}],c=[{w:"苣荬菜",p:"qǔ mǎi cài",d:"endive/field sow-thistle/Sonchus brachyotus",t:"苣蕒菜"},{w:"苦荬菜",p:"kǔ mǎi cài",d:"Ixeris denticulata",t:"苦蕒菜"}],t=[],i="艸",o="9",n=["艹","买"],e=[],d={s,w:c,i:t,r:i,sc:o,c:n,d:e};export{n as c,e as d,d as default,t as i,i as r,s,o as sc,c as w};

@@ -1,1 +1,0 @@
-const s=[{p:"yē",pp:"ye1",d:"onomat. for surprise, amazement and sigh",t:"吔",w:"吔"}],t=[],c=[],o="口",n="6",a=["口","也"],e=[],r={s,w:t,i:c,r:o,sc:n,c:a,d:e};export{a as c,e as d,r as default,c as i,o as r,s,n as sc,t as w};

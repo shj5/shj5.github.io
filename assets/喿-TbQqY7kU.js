@@ -1,1 +1,0 @@
-const s=[{p:"sào",pp:"sao4",d:"chirping of birds",t:"喿",w:"喿"}],c=[],o=[],t="口",n="13",d=["品","木"],i=["噪","懆","操","橾","澡","燥","璪","缲","臊","趮","躁","髞"],p={s,w:c,i:o,r:t,sc:n,c:d,d:i};export{d as c,i as d,p as default,o as i,t as r,s,n as sc,c as w};

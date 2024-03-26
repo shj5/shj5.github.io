@@ -1,1 +1,0 @@
-const t=[{p:"tián",pp:"tian2",d:"sugar beet",t:"菾",w:"菾"}],c=[{w:"菾菜",p:"tián cài",d:"variant of 甜菜[tian2 cai4]",t:"菾菜"}],s=[],n="艸",o="10",i=["艹","忝"],a=[],d={s:t,w:c,i:s,r:n,sc:o,c:i,d:a};export{i as c,a as d,d as default,s as i,n as r,t as s,o as sc,c as w};

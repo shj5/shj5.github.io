@@ -1,0 +1,1 @@
+const t=[{p:"téng",pp:"teng2",d:"to transcribe/to copy out/(free word)",t:"謄",w:"誊"}],o=[{w:"誊写",p:"téng xiě",d:"to transcribe/to make a fair copy",t:"謄寫"},{w:"誊录",p:"téng lù",d:"to copy out",t:"謄錄"}],c=[],s="言",n=13,r=["关","言"],p=[],e={s:t,w:o,i:c,r:s,sc:n,c:r,d:p};export{r as c,p as d,e as default,c as i,s as r,t as s,n as sc,o as w};

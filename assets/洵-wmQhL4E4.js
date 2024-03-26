@@ -1,1 +1,0 @@
-const n=[{p:"xún",pp:"xun2",d:"truly/whirlpool",t:"洵",w:"洵"}],s=[{w:"苏洵",p:"Sū Xún",d:"Su Xun (1009-1066), Song essayist, one of the Three Su's 三蘇|三苏[San1 Su1] and also one of Eight Giants 唐宋八大家[Tang2 Song4 ba1 da4 jia1]",t:"蘇洵"}],o=[],t="水",c="9",a=["氵","旬"],e=[],d={s:n,w:s,i:o,r:t,sc:c,c:a,d:e};export{a as c,e as d,d as default,o as i,t as r,n as s,c as sc,s as w};

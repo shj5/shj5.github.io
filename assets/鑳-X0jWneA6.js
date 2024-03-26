@@ -1,1 +1,0 @@
-const s=[{p:"jiàn",pp:"jian4",d:"old variant of 鍵|键[jian4]",t:"鑳",w:"鑳"}],c=[],n=[],t="金",o="25",a=["金"],i=[],d={s,w:c,i:n,r:t,sc:o,c:a,d:i};export{a as c,i as d,d as default,n as i,t as r,s,o as sc,c as w};

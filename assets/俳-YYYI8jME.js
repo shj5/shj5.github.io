@@ -1,1 +1,0 @@
-const s=[{p:"pái",pp:"pai2",d:"not serious/variety show",t:"俳",w:"俳"}],t=[{w:"俳佪",p:"pái huái",d:"variant of 徘徊[pai2 huai2]",t:"俳佪"},{w:"俳句",p:"pái jù",d:"haiku",t:"俳句"}],i=[],o="人",c="10",p=["亻","非"],n=[],a={s,w:t,i,r:o,sc:c,c:p,d:n};export{p as c,n as d,a as default,i,o as r,s,c as sc,t as w};

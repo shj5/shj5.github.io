@@ -1,0 +1,1 @@
+const n=[{p:"ruǎn",pp:"ruan3",d:"protein",t:"朊",w:"朊"}],t=[{w:"朊毒体",p:"ruǎn dú tǐ",d:"prion (molecular biology)",t:"朊毒體"},{w:"朊病毒",p:"ruǎn bìng dú",d:"prion (pathogen)",t:"朊病毒"},{w:"角朊",p:"jiǎo ruǎn",d:"keratin",t:"角朊"}],o=[],c="月",r=8,s=["月","元"],p=[],d={s:n,w:t,i:o,r:c,sc:r,c:s,d:p};export{s as c,p as d,d as default,o as i,c as r,n as s,r as sc,t as w};

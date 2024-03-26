@@ -1,1 +1,0 @@
-const c=[{p:"fāng",pp:"fang1",d:"francium (chemistry)",t:"鈁",w:"钫"}],s=[],t=[],n="金",o="9",r=["方"],a=[],d={s:c,w:s,i:t,r:n,sc:o,c:r,d:a};export{r as c,a as d,d as default,t as i,n as r,c as s,o as sc,s as w};

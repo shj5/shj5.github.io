@@ -1,1 +1,0 @@
-const n=[{p:"liàn",pp:"lian4",d:"Ampelopsis japonica (creeper with root used in TCM)/same as 白蘞|白蔹[bai2 lian3]",t:"萰",w:"萰"}],s=[{w:"芊萰",p:"qiān liàn",d:"green and flourishing/overgrown",t:"芊萰"}],o=[],c="艸",i="12",t=["艹","柬"],e=[],a={s:n,w:s,i:o,r:c,sc:i,c:t,d:e};export{t as c,e as d,a as default,o as i,c as r,n as s,i as sc,s as w};

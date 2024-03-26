@@ -1,1 +1,0 @@
-const s=[{p:"suǐ",pp:"sui3",d:"variant of 髓/marrow/essence/quintessence/pith (soft interior of plant stem)",t:"䯝",w:"䯝"}],t=[],c=[],n="",o="",e=[],i=[],r={s,w:t,i:c,r:n,sc:o,c:e,d:i};export{e as c,i as d,r as default,c as i,n as r,s,o as sc,t as w};

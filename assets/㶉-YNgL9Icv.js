@@ -1,1 +1,0 @@
-const c=[{p:"xī",pp:"xi1",d:"used in 鸂鶒|㶉鶒[xi1 chi4]",t:"鸂",w:"㶉"}],s=[{w:"㶉鶒",p:"xī chì",d:"a kind of waterbird resembling a mandarin duck",t:"鸂鶒"}],n=[],t="",d="",i=[],o=[],a={s:c,w:s,i:n,r:t,sc:d,c:i,d:o};export{i as c,o as d,a as default,n as i,t as r,c as s,d as sc,s as w};

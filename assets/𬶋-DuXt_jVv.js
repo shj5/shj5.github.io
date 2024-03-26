@@ -1,0 +1,1 @@
+const s=[{p:"jū",pp:"ju1",d:"gudgeon (Gobio gobio, a small freshwater fish, or any of various similar or related species)",t:"鮈",w:"𬶋"}],o=[],c=[],t="",n=0,r=[],a=[],e={s,w:o,i:c,r:t,sc:n,c:r,d:a};export{r as c,a as d,e as default,c as i,t as r,s,n as sc,o as w};

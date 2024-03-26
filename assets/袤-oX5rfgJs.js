@@ -1,1 +1,0 @@
-const t=[{p:"mào",pp:"mao4",d:"length/distance from north to south",t:"袤",w:"袤"}],o=[{w:"广袤",p:"guǎng mào",d:"vast",t:"廣袤"}],s=[],c="衣",n="11",d=["衣","矛"],a=[],p={s:t,w:o,i:s,r:c,sc:n,c:d,d:a};export{d as c,a as d,p as default,s as i,c as r,t as s,n as sc,o as w};

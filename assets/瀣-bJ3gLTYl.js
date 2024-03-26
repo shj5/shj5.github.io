@@ -1,0 +1,1 @@
+const t=[{p:"xiè",pp:"xie4",d:"mist/vapor",t:"瀣",w:"瀣"}],o=[{w:"沆瀣",p:"hàng xiè",d:"(literary) evening mist",t:"沆瀣"}],i=[{w:"沆瀣一气",p:"hàng xiè yī qì",d:"to act in collusion (idiom); in cahoots with/villains will look after one another",t:"沆瀣一氣"}],n="水",s=19,c=["氵","餐"],a=[],e={s:t,w:o,i,r:n,sc:s,c,d:a};export{c,a as d,e as default,i,n as r,t as s,s as sc,o as w};

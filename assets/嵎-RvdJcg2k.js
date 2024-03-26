@@ -1,1 +1,0 @@
-const t=[{p:"yú",pp:"yu2",d:"mountain range",t:"嵎",w:"嵎"}],s=[{w:"海嵎",p:"hǎi yú",d:"variant of 海隅[hai3 yu2]",t:"海嵎"}],c=[],n="山",o="12",a=["山","禺"],i=[],d={s:t,w:s,i:c,r:n,sc:o,c:a,d:i};export{a as c,i as d,d as default,c as i,n as r,t as s,o as sc,s as w};

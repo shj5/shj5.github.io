@@ -1,1 +1,0 @@
-const n=[{p:"yán",pp:"yan2",d:"beautiful",t:"妍",w:"妍"}],t=[{w:"妍丽",p:"yán lì",d:"beautiful",t:"妍麗"}],s=[{w:"争妍斗艳",p:"zhēng yán dòu yàn",d:"contending for supreme beauty (esp. of flowers, scenery, painting etc)/vying in beauty and glamor",t:"爭妍鬥艷"}],c="女",e="9",o=["女","开"],a=[],d={s:n,w:t,i:s,r:c,sc:e,c:o,d:a};export{o as c,a as d,d as default,s as i,c as r,n as s,e as sc,t as w};

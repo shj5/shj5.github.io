@@ -1,0 +1,1 @@
+const t=[{p:"qū",pp:"qu1",d:"flank of animal/side/to pry open/to steal",t:"胠",w:"胠"}],s=[{w:"胠箧",p:"qū qiè",d:"to steal/to pilfer",t:"胠篋"},{w:"胠箧者流",p:"qū qiè zhě liú",d:"thieves/pilferers",t:"胠篋者流"}],o=[],c="肉",e=9,n=["月","去"],i=[],p={s:t,w:s,i:o,r:c,sc:e,c:n,d:i};export{n as c,i as d,p as default,o as i,c as r,t as s,e as sc,s as w};

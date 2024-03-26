@@ -1,1 +1,0 @@
-const t=[{p:"qì",pp:"qi4",d:"to repair",t:"葺",w:"葺"}],o=[{w:"修葺",p:"xiū qì",d:"to repair/to renovate",t:"修葺"}],s=[],c="艸",n="12",r=["艹","咠"],p=[],e={s:t,w:o,i:s,r:c,sc:n,c:r,d:p};export{r as c,p as d,e as default,s as i,c as r,t as s,n as sc,o as w};

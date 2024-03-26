@@ -1,1 +1,0 @@
-const s=[{p:"mǒu",pp:"mou3",d:"old variant of 某[mou3]",t:"厶",w:"厶"},{p:"sī",pp:"si1",d:"old variant of 私[si1]",t:"厶",w:"厶"}],o=[],t=[],c="*",n="2",d=["厶"],p=["么","云","仏","允","公","勾","厶","厷","厹","厺","去","厼","县","参","台","広","弁","弘","払","枲","牟","畚","矣","私","虫","贠"],a={s,w:o,i:t,r:c,sc:n,c:d,d:p};export{d as c,p as d,a as default,t as i,c as r,s,n as sc,o as w};

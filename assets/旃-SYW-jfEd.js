@@ -1,0 +1,1 @@
+const n=[{p:"zhān",pp:"zhan1",d:"felt/silken banner",t:"旃",w:"旃"}],s=[{w:"旃檀",p:"zhān tán",d:'sandalwood (loanword from Sanskrit "candana")',t:"旃檀"}],t=[],o="方",c=10,a=["方","丹"],d=[],r={s:n,w:s,i:t,r:o,sc:c,c:a,d};export{a as c,d,r as default,t as i,o as r,n as s,c as sc,s as w};

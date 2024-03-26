@@ -1,0 +1,1 @@
+const t=[{p:"xx",pp:"xx5",d:"iteration mark (used to represent a duplicated character)",t:"〻",w:"〻"}],c=[],s=[],o="",n=0,e=[],r=[],a={s:t,w:c,i:s,r:o,sc:n,c:e,d:r};export{e as c,r as d,a as default,s as i,o as r,t as s,n as sc,c as w};

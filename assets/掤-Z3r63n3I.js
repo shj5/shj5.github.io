@@ -1,1 +1,0 @@
-const c=[{p:"bīng",pp:"bing1",d:"arrow-quiver cover",t:"掤",w:"掤"},{p:"péng",pp:"peng2",d:"to ward off (in tai chi)",t:"掤",w:"掤"}],t=[],n=[],o="手",s="11",p=["扌","朋"],r=[],i={s:c,w:t,i:n,r:o,sc:s,c:p,d:r};export{p as c,r as d,i as default,n as i,o as r,c as s,s as sc,t as w};

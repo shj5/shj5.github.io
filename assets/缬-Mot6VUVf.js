@@ -1,0 +1,1 @@
+const n=[{p:"xié",pp:"xie2",d:"knot/tie a knot",t:"纈",w:"缬"}],s=[{w:"缬氨酸",p:"xié ān suān",d:"valine (Val), an essential amino acid",t:"纈氨酸"},{w:"缬草",p:"xié cǎo",d:"valerian (Valeriana officinalis)",t:"纈草"}],t=[],i="糸",a=15,c=["纟","颉"],o=[],e={s:n,w:s,i:t,r:i,sc:a,c,d:o};export{c,o as d,e as default,t as i,i as r,n as s,a as sc,s as w};

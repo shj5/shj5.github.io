@@ -1,1 +1,0 @@
-const s=[{p:"qì",pp:"qi4",d:"variant of 氣|气[qi4], breath/air/steam/gas/weather/used in Taoist charms",t:"炁",w:"炁"}],t=[],c=[],a="火",o="8",n=["灬"],i=[],r={s,w:t,i:c,r:a,sc:o,c:n,d:i};export{n as c,i as d,r as default,c as i,a as r,s,o as sc,t as w};

@@ -1,0 +1,1 @@
+const n=[{p:"yǔn",pp:"yun3",d:"name of a tribe",t:"狁",w:"狁"}],t=[{w:"猃狁",p:"Xiǎn yǔn",d:"Zhou Dynasty term for a northern nomadic tribe later called the Xiongnu 匈奴[Xiong1 nu2] in the Qin and Han Dynasties",t:"獫狁"}],o=[],s="犬",c=7,a=["犭","允"],e=[],i={s:n,w:t,i:o,r:s,sc:c,c:a,d:e};export{a as c,e as d,i as default,o as i,s as r,n as s,c as sc,t as w};

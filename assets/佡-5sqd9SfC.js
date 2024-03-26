@@ -1,1 +1,0 @@
-const t=[{p:"xiān",pp:"xian1",d:"variant of 仙, immortal/light (as a feather)",t:"佡",w:"佡"}],s=[],c=[],n="人",o="7",a=["亻"],i=[],r={s:t,w:s,i:c,r:n,sc:o,c:a,d:i};export{a as c,i as d,r as default,c as i,n as r,t as s,o as sc,s as w};

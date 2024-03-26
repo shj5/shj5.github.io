@@ -1,1 +1,0 @@
-const o=[{p:"lí",pp:"li2",d:"widow",t:"嫠",w:"嫠"}],t=[{w:"嫠妇",p:"lí fù",d:"widow (formal)",t:"嫠婦"},{w:"嫠节",p:"lí jié",d:"chastity of a widow (old usage)",t:"嫠節"},{w:"恤嫠",p:"xù lí",d:"to give relief to widows",t:"恤嫠"}],s=[],w="女",c="14",d=["女"],i=[],l={s:o,w:t,i:s,r:w,sc:c,c:d,d:i};export{d as c,i as d,l as default,s as i,w as r,o as s,c as sc,t as w};

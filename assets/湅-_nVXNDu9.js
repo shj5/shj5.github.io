@@ -1,1 +1,0 @@
-const s=[{p:"liàn",pp:"lian4",d:"to boil raw silk (to soften and clean it)",t:"湅",w:"湅"}],t=[],c=[],n="水",o="12",i=["氵","柬"],a=[],l={s,w:t,i:c,r:n,sc:o,c:i,d:a};export{i as c,a as d,l as default,c as i,n as r,s,o as sc,t as w};

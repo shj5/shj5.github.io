@@ -1,0 +1,1 @@
+const t=[{p:"yù",pp:"yu4",d:"full (as of eating)",t:"飫",w:"饫"}],o=[],s=[{w:"饫甘餍肥",p:"yù gān yàn féi",d:"to live off the fat of the land (idiom)/to have a luxurious lifestyle",t:"飫甘饜肥"}],c="食",n=7,e=["饣","夭"],f=[],i={s:t,w:o,i:s,r:c,sc:n,c:e,d:f};export{e as c,f as d,i as default,s as i,c as r,t as s,n as sc,o as w};

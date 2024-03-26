@@ -1,1 +1,0 @@
-const n=[{p:"zōng",pp:"zong1",d:"variant of 鬃[zong1]",t:"騣",w:"鬃"},{p:"zōng",pp:"zong1",d:"bristles/horse's mane",t:"鬃",w:"鬃"},{p:"zōng",pp:"zong1",d:"disheveled hair/horse's mane",t:"鬉",w:"鬃"}],s=[{w:"鬃毛",p:"zōng máo",d:"mane",t:"鬃毛"}],o=[],t="髟",c="18",e=["髟","宗"],p=[],d={s:n,w:s,i:o,r:t,sc:c,c:e,d:p};export{e as c,p as d,d as default,o as i,t as r,n as s,c as sc,s as w};

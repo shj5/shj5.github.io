@@ -1,1 +1,0 @@
-const c=[{p:"guàn",pp:"guan4",d:"archaic variant of 貫|贯[guan4]",t:"毌",w:"毌"}],s=[],n=[],t="毋",o="4",a=["毌"],r=["毌","贯"],d={s:c,w:s,i:n,r:t,sc:o,c:a,d:r};export{a as c,r as d,d as default,n as i,t as r,c as s,o as sc,s as w};

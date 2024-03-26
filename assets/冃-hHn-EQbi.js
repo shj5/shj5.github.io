@@ -1,1 +1,0 @@
-const o=[{p:"mào",pp:"mao4",d:"old variant of 帽[mao4]/hat/cap",t:"冃",w:"冃"}],c=[],s=[],t="冂",n="4",a=["冂","二"],d=["冑","冔","耼","蚦"],p={s:o,w:c,i:s,r:t,sc:n,c:a,d};export{a as c,d,p as default,s as i,t as r,o as s,n as sc,c as w};

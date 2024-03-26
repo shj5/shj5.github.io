@@ -1,1 +1,0 @@
-const n=[{p:"niáng",pp:"niang2",d:"Japanese variant of 孃|娘[niang2]",t:"嬢",w:"嬢"}],s=[],c=[],t="女",o="16",a=["女"],i=[],p={s:n,w:s,i:c,r:t,sc:o,c:a,d:i};export{a as c,i as d,p as default,c as i,t as r,n as s,o as sc,s as w};

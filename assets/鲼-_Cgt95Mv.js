@@ -1,0 +1,1 @@
+const o=[{p:"fèn",pp:"fen4",d:"any ray (fish) variety of Myliobatiformes order",t:"鱝",w:"鲼"}],t=[{w:"蝠鲼",p:"fú fèn",d:"manta ray (genus Mobula)",t:"蝠鱝"},{w:"鹞鲼",p:"yào fèn",d:"bonnet skate (zoology)",t:"鷂鱝"}],n=[],s="魚",c=17,a=["鱼","贲"],e=[],f={s:o,w:t,i:n,r:s,sc:c,c:a,d:e};export{a as c,e as d,f as default,n as i,s as r,o as s,c as sc,t as w};

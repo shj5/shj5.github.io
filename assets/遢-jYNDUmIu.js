@@ -1,0 +1,1 @@
+const t=[{p:"tā",pp:"ta1",d:"meaningless bound form used only in 邋遢[la1 ta5]/Taiwan pr. [ta4]",t:"遢",w:"遢"}],s=[{w:"邋里邋遢",p:"lā li lā ta",d:"messy/slovenly/unkempt",t:"邋裡邋遢"},{w:"邋遢",p:"lā ta",d:"unkempt",t:"邋遢"}],n=[],o="辵",c=14,a=["辶"],l=[],e={s:t,w:s,i:n,r:o,sc:c,c:a,d:l};export{a as c,l as d,e as default,n as i,o as r,t as s,c as sc,s as w};

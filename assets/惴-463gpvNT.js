@@ -1,0 +1,1 @@
+const o=[{p:"zhuì",pp:"zhui4",d:"anxious/worried",t:"惴",w:"惴"}],t=[],s=[{w:"惴惴不安",p:"zhuì zhuì bù ān",d:"to be on tenterhooks (idiom)/to be anxious and frightened",t:"惴惴不安"}],n="心",c=12,d=["忄"],e=[],i={s:o,w:t,i:s,r:n,sc:c,c:d,d:e};export{d as c,e as d,i as default,s as i,n as r,o as s,c as sc,t as w};

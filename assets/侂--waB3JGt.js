@@ -1,0 +1,1 @@
+const t=[{p:"tuō",pp:"tuo1",d:"to commission/to entrust to/to depute/to request/to ask (sb to do sth)",t:"侂",w:"侂"}],o=[],s=[],c="人",n=8,e=["亻"],d=[],u={s:t,w:o,i:s,r:c,sc:n,c:e,d};export{e as c,d,u as default,s as i,c as r,t as s,n as sc,o as w};

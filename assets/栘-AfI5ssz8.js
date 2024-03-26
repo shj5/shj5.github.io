@@ -1,0 +1,1 @@
+const s=[{p:"yí",pp:"yi2",d:"shadbush or shadberry (genus Amelanchier)/name for a stable during the Han Dynasty",t:"栘",w:"栘"}],n=[],t=[],c="木",o=10,a=["木","多"],e=[],r={s,w:n,i:t,r:c,sc:o,c:a,d:e};export{a as c,e as d,r as default,t as i,c as r,s,o as sc,n as w};

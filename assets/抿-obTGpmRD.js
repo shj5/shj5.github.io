@@ -1,1 +1,0 @@
-const t=[{p:"mǐn",pp:"min3",d:"to smooth hair with a wet brush/(of a mouth, wing etc) to close lightly/to sip",t:"抿",w:"抿"}],s=[{w:"一抿子",p:"yī mǐn zi",d:"a little bit",t:"一抿子"},{w:"抿子",p:"mǐn zi",d:"small hairbrush",t:"抿子"}],o=[],c="手",i="8",n=["扌","民"],a=[],h={s:t,w:s,i:o,r:c,sc:i,c:n,d:a};export{n as c,a as d,h as default,o as i,c as r,t as s,i as sc,s as w};

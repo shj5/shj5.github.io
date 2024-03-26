@@ -1,1 +1,0 @@
-const t=[{p:"jìng",pp:"jing4",d:"radian (math.)/now written 弧度",t:"弳",w:"弪"}],n=[{w:"弪度",p:"jìng dù",d:"radian (math.)/now written 弧度",t:"弳度"}],s=[],c="弓",o="8",a=["弓"],d=[],w={s:t,w:n,i:s,r:c,sc:o,c:a,d};export{a as c,d,w as default,s as i,c as r,t as s,o as sc,n as w};

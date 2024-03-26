@@ -1,1 +1,0 @@
-const t=[{p:"jū",pp:"ju1",d:"to mend by stapling or cramping broken pieces together",t:"鋦",w:"锔"},{p:"jú",pp:"ju2",d:"curium (chemistry)",t:"鋦",w:"锔"}],c=[{w:"锔子",p:"jū zi",d:"clamp for mending pottery",t:"鋦子"}],s=[],o="金",n="12",p=["局"],e=[],r={s:t,w:c,i:s,r:o,sc:n,c:p,d:e};export{p as c,e as d,r as default,s as i,o as r,t as s,n as sc,c as w};

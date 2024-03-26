@@ -1,0 +1,1 @@
+const s=[{p:"zhù",pp:"zhu4",d:"Boehmeria nivea/Chinese grass",t:"苧",w:"苎"}],t=[{w:"苎麻",p:"zhù má",d:"rush (tall grass)/bulrush/Boehmeria/ramie",t:"苧麻"},{w:"麻苎",p:"má zhù",d:"hemp and ramie/coarse cloth",t:"麻苧"}],c=[],e="艸",o=7,a=["艹"],r=[],h={s,w:t,i:c,r:e,sc:o,c:a,d:r};export{a as c,r as d,h as default,c as i,e as r,s,o as sc,t as w};

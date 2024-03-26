@@ -1,0 +1,1 @@
+const t=[{p:"tuǎn",pp:"tuan3",d:"village/animal track",t:"疃",w:"疃"}],c=[],s=[],n="田",o=17,a=["田","童"],d=[],i={s:t,w:c,i:s,r:n,sc:o,c:a,d};export{a as c,d,i as default,s as i,n as r,t as s,o as sc,c as w};

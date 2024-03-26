@@ -1,1 +1,0 @@
-const t=[{p:"tiǎn",pp:"tian3",d:"to exterminate",t:"殄",w:"殄"}],s=[],n=[{w:"暴殄天物",p:"bào tiǎn tiān wù",d:"to waste natural resources recklessly/not to know how to use things sparingly",t:"暴殄天物"}],o="歹",c="9",e=["歹"],i=["餮"],r={s:t,w:s,i:n,r:o,sc:c,c:e,d:i};export{e as c,i as d,r as default,n as i,o as r,t as s,c as sc,s as w};

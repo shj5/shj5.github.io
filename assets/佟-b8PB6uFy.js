@@ -1,0 +1,1 @@
+const n=[{p:"Tóng",pp:"Tong2",d:"surname Tong",t:"佟",w:"佟"}],t=[{w:"佟佳江",p:"Tóng jiā Jiāng",d:"Tongjia River in Manchuria, a tributary of the Yalu River 鴨綠江|鸭绿江[Ya1 lu4 Jiang1]",t:"佟佳江"}],s=[],c="人",o=7,a=["亻","冬"],i=[],r={s:n,w:t,i:s,r:c,sc:o,c:a,d:i};export{a as c,i as d,r as default,s as i,c as r,n as s,o as sc,t as w};

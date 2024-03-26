@@ -1,0 +1,1 @@
+const s=[{p:"bàn",pp:"ban4",d:"mud/slush/ooze",t:"湴",w:"湴"},{p:"pán",pp:"pan2",d:"to wade through water or mud",t:"湴",w:"湴"}],t=[],o=[],c="水",n=11,p=["氵"],d=[],a={s,w:t,i:o,r:c,sc:n,c:p,d};export{p as c,d,a as default,o as i,c as r,s,n as sc,t as w};

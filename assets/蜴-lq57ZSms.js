@@ -1,0 +1,1 @@
+const s=[{p:"yì",pp:"yi4",d:"see 蜥蜴[xi1 yi4]",t:"蜴",w:"蜴"}],t=[{w:"火蜥蜴",p:"huǒ xī yì",d:"fire lizard/fire-bellied salamander (Cynops orientalis David)",t:"火蜥蜴"},{w:"蜥蜴",p:"xī yì",d:"lizard",t:"蜥蜴"}],i=[],c="虫",d=14,n=["虫","易"],o=[],e={s,w:t,i,r:c,sc:d,c:n,d:o};export{n as c,o as d,e as default,i,c as r,s,d as sc,t as w};

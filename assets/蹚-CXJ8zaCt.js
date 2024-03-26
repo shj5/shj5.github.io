@@ -1,1 +1,0 @@
-const t=[{p:"tāng",pp:"tang1",d:"to wade/to trample",t:"蹚",w:"蹚"}],n=[{w:"蹚浑水",p:"tāng hún shuǐ",d:"variant of 趟渾水|趟浑水[tang1 hun2 shui3]",t:"蹚渾水"},{w:"铲蹚",p:"chǎn tāng",d:"to hoe/to weed/to scarify",t:"鏟蹚"}],o=[],s="足",c="18",a=["足","堂"],d=[],e={s:t,w:n,i:o,r:s,sc:c,c:a,d};export{a as c,d,e as default,o as i,s as r,t as s,c as sc,n as w};

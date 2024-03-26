@@ -1,0 +1,1 @@
+const s=[{p:"qiá",pp:"qia2",d:"to grip with both hands/to put one's hands on (one's hips)",t:"拤",w:"拤"}],t=[],o=[],n="手",c=8,i=["扌","卡"],p=[],d={s,w:t,i:o,r:n,sc:c,c:i,d:p};export{i as c,p as d,d as default,o as i,n as r,s,c as sc,t as w};

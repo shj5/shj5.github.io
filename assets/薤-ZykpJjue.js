@@ -1,1 +1,0 @@
-const s=[{p:"xiè",pp:"xie4",d:"Allium bakeri/shallot/scallion",t:"薤",w:"薤"}],c=[],t=[],o="艸",n="16",i=["艹"],l=[],a={s,w:c,i:t,r:o,sc:n,c:i,d:l};export{i as c,l as d,a as default,t as i,o as r,s,n as sc,c as w};

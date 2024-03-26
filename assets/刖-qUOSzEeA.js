@@ -1,0 +1,1 @@
+const t=[{p:"yuè",pp:"yue4",d:"to amputate one or both feet (punishment in imperial China) (one of the five mutilating punishments 五刑[wu3 xing2])",t:"刖",w:"刖"}],n=[],s=[],o="刀",e=6,c=["刂","月"],i=["前"],p={s:t,w:n,i:s,r:o,sc:e,c,d:i};export{c,i as d,p as default,s as i,o as r,t as s,e as sc,n as w};

@@ -1,1 +1,0 @@
-const o=[{p:"duō",pp:"duo1",d:"to mend clothes",t:"裰",w:"裰"}],s=[{w:"直裰",p:"zhí duō",d:"everyday robe worn at home in ancient times/robe worn by priests, monks and scholars",t:"直裰"},{w:"补裰",p:"bǔ duō",d:"to mend clothes",t:"補裰"}],t=[],n="衣",c="14",d=["衤","叕"],e=[],r={s:o,w:s,i:t,r:n,sc:c,c:d,d:e};export{d as c,e as d,r as default,t as i,n as r,o as s,c as sc,s as w};

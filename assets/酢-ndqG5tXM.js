@@ -1,1 +1,0 @@
-const t=[{p:"cù",pp:"cu4",d:"variant of 醋[cu4]",t:"酢",w:"酢"},{p:"zuò",pp:"zuo4",d:"toast to host by guest",t:"酢",w:"酢"}],s=[{w:"酢浆草",p:"cù jiāng cǎo",d:"creeping oxalis/edelweiss",t:"酢漿草"},{w:"酬酢",p:"chóu zuò",d:"to exchange toasts",t:"酬酢"}],c=[],o="酉",n="12",e=["酉","乍"],p=[],a={s:t,w:s,i:c,r:o,sc:n,c:e,d:p};export{e as c,p as d,a as default,c as i,o as r,t as s,n as sc,s as w};

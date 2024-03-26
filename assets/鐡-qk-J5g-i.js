@@ -1,1 +1,0 @@
-const t=[{p:"tiě",pp:"tie3",d:"variant of 鐵|铁[tie3], iron",t:"鐡",w:"鐡"}],s=[],c=[],o="金",n="20",i=["金"],r=[],a={s:t,w:s,i:c,r:o,sc:n,c:i,d:r};export{i as c,r as d,a as default,c as i,o as r,t as s,n as sc,s as w};

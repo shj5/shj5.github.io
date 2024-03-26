@@ -1,0 +1,1 @@
+const s=[{p:"zhǐ",pp:"zhi3",d:'"walk slowly" component in Chinese characters/see also 冬字頭|冬字头[dong1 zi4 tou2]',t:"夂",w:"夂"}],c=[],o=[],t="*",n=3,e=["夂"],a=["夂","冬","処","务","处","各","夅","夆","条","汷","麦","备","夌","変","夏","夓"],i={s,w:c,i:o,r:t,sc:n,c:e,d:a};export{e as c,a as d,i as default,o as i,t as r,s,n as sc,c as w};

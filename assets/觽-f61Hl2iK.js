@@ -1,1 +1,0 @@
-const o=[{p:"xī",pp:"xi1",d:"variant of 觿, ivory bodkin for undoing knots",t:"觽",w:"觽"}],s=[{w:"觜觽",p:"zī xī",d:"name of constellation, possibly same as 觜宿",t:"觜觽"}],n=[],t="角",c="23",i=["角"],a=[],d={s:o,w:s,i:n,r:t,sc:c,c:i,d:a};export{i as c,a as d,d as default,n as i,t as r,o as s,c as sc,s as w};

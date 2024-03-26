@@ -1,0 +1,1 @@
+const n=[{p:"huán",pp:"huan2",d:"ancient unit of weight/money",t:"鍰",w:"锾"}],t=[{w:"罚锾",p:"fá huán",d:"a fine",t:"罰鍰"}],c=[],s="金",o=14,e=["爰"],i=[],a={s:n,w:t,i:c,r:s,sc:o,c:e,d:i};export{e as c,i as d,a as default,c as i,s as r,n as s,o as sc,t as w};

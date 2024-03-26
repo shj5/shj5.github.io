@@ -1,1 +1,0 @@
-const o=[{p:"xǔ",pp:"xu3",d:"to brag/popular/lovely",t:"詡",w:"诩"}],t=[{w:"自诩",p:"zì xǔ",d:"to pose as; to flaunt oneself as/to boast of; to brag",t:"自詡"}],s=[],c="言",n="8",a=["讠","羽"],p=[],e={s:o,w:t,i:s,r:c,sc:n,c:a,d:p};export{a as c,p as d,e as default,s as i,c as r,o as s,n as sc,t as w};

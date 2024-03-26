@@ -1,0 +1,1 @@
+const t=[{p:"tuì",pp:"tui4",d:"to pluck poultry or depilate pigs using hot water",t:"煺",w:"煺"}],s=[],c=[],o="火",n=13,p=["火","退"],i=[],r={s:t,w:s,i:c,r:o,sc:n,c:p,d:i};export{p as c,i as d,r as default,c as i,o as r,t as s,n as sc,s as w};

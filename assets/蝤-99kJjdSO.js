@@ -1,1 +1,0 @@
-const s=[{p:"qiú",pp:"qiu2",d:"used in 蝤蠐|蝤蛴[qiu2 qi2]",t:"蝤",w:"蝤"}],t=[{w:"蝤蛴",p:"qiú qí",d:"(literary) longhorn beetle larva",t:"蝤蠐"}],c=[],n="虫",o="15",i=["虫","酋"],e=[],r={s,w:t,i:c,r:n,sc:o,c:i,d:e};export{i as c,e as d,r as default,c as i,n as r,s,o as sc,t as w};

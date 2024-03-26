@@ -1,0 +1,1 @@
+const n=[{p:"kǎn",pp:"kan3",d:"camphane C10H18",t:"莰",w:"莰"}],c=[{w:"莰烯",p:"kǎn xī",d:"camphene C10H16",t:"莰烯"},{w:"莰烷",p:"kǎn wán",d:"camphane/bornane C10H18",t:"莰烷"},{w:"莰酮",p:"kǎn tóng",d:"camphor C10H16O/also called 樟腦|樟脑",t:"莰酮"}],t=[],s="艸",a=10,o=["艹","坎"],p=[],d={s:n,w:c,i:t,r:s,sc:a,c:o,d:p};export{o as c,p as d,d as default,t as i,s as r,n as s,a as sc,c as w};

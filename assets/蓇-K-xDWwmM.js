@@ -1,1 +1,0 @@
-const t=[{p:"gǔ",pp:"gu3",d:"used in 蓇葖[gu1tu1]",t:"蓇",w:"蓇"}],s=[{w:"蓇葖",p:"gū tū",d:"(botany) follicle/flower bud",t:"蓇葖"}],c=[],o="艸",n="13",d=["艹","骨"],u=[],e={s:t,w:s,i:c,r:o,sc:n,c:d,d:u};export{d as c,u as d,e as default,c as i,o as r,t as s,n as sc,s as w};

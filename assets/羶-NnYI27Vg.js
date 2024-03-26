@@ -1,0 +1,1 @@
+const s=[{p:"shān",pp:"shan1",d:"rank odor (of sheep or goats)",t:"羶",w:"羶"}],o=[],c=[],t="羊",n=19,r=["羊","亶"],a=[],d={s,w:o,i:c,r:t,sc:n,c:r,d:a};export{r as c,a as d,d as default,c as i,t as r,s,n as sc,o as w};

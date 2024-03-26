@@ -1,1 +1,0 @@
-const s=[{p:"jué",pp:"jue2",d:"used in 孑孓[jie2 jue2]",t:"孓",w:"孓"}],t=[{w:"孑孓",p:"jié jué",d:"mosquito larva",t:"孑孓"}],c=[],o="子",n="3",u=["孓"],d=["孓"],e={s,w:t,i:c,r:o,sc:n,c:u,d};export{u as c,d,e as default,c as i,o as r,s,n as sc,t as w};

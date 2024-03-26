@@ -1,0 +1,1 @@
+const n=[{p:"níng",pp:"ning2",d:"fierce-looking",t:"獰",w:"狞"}],t=[{w:"狰狞",p:"zhēng níng",d:"malevolent/fierce/sinister",t:"猙獰"},{w:"狞笑",p:"níng xiào",d:"to laugh nastily/evil grin",t:"獰笑"},{w:"狞猫",p:"níng māo",d:"caracal",t:"獰貓"}],c=[],s="犬",o=8,i=["犭","宁"],e=[],g={s:n,w:t,i:c,r:s,sc:o,c:i,d:e};export{i as c,e as d,g as default,c as i,s as r,n as s,o as sc,t as w};

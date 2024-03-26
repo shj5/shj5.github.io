@@ -1,0 +1,1 @@
+const t=[{p:"wú",pp:"wu2",d:"centipede",t:"蜈",w:"蜈"}],c=[{w:"蜈支洲岛",p:"Wú zhī zhōu Dǎo",d:"Wuzhizhou Island, Hainan",t:"蜈支洲島"},{w:"蜈蚣",p:"wú gōng",d:"centipede",t:"蜈蚣"}],n=[],s="虫",o=13,d=["虫","吴"],e=[],p={s:t,w:c,i:n,r:s,sc:o,c:d,d:e};export{d as c,e as d,p as default,n as i,s as r,t as s,o as sc,c as w};

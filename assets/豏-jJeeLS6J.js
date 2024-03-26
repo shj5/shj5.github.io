@@ -1,1 +1,0 @@
-const n=[{p:"xiàn",pp:"xian4",d:"half-grown beans/variant of 餡|馅[xian4]",t:"豏",w:"豏"}],s=[],c=[],t="豆",o="17",a=["豆","兼"],i=[],r={s:n,w:s,i:c,r:t,sc:o,c:a,d:i};export{a as c,i as d,r as default,c as i,t as r,n as s,o as sc,s as w};

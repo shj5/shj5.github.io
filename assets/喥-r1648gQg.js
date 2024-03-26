@@ -1,1 +1,0 @@
-const s=[{p:"dù",pp:"du4",d:"used in location words (Cantonese)/Mandarin equivalent: 裡|里[li3]",t:"喥",w:"喥"}],n=[],t=[],c="口",o="12",d=["口","度"],a=[],e={s,w:n,i:t,r:c,sc:o,c:d,d:a};export{d as c,a as d,e as default,t as i,c as r,s,o as sc,n as w};

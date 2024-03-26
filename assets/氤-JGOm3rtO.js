@@ -1,0 +1,1 @@
+const s=[{p:"yīn",pp:"yin1",d:"used in 氤氳|氤氲[yin1 yun1]",t:"氤",w:"氤"}],n=[{w:"氤氲",p:"yīn yūn",d:"(literary) (of smoke, mist) dense; thick",t:"氤氳"}],t=[],c="气",o=10,i=["气","因"],d=[],e={s,w:n,i:t,r:c,sc:o,c:i,d};export{i as c,d,e as default,t as i,c as r,s,o as sc,n as w};

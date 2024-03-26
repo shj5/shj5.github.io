@@ -1,1 +1,0 @@
-const s=[{p:"bìn",pp:"bin4",d:"old variant of 鬢|鬓[bin4]",t:"髩",w:"髩"}],c=[],n=[],t="髟",o="14",d=["髟","丏"],i=[],a={s,w:c,i:n,r:t,sc:o,c:d,d:i};export{d as c,i as d,a as default,n as i,t as r,s,o as sc,c as w};

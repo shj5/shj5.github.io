@@ -1,1 +1,0 @@
-const s=[{p:"yǐ",pp:"yi3",d:"common plantain (Plantago major)",t:"苡",w:"苡"}],t=[{w:"苡米",p:"yǐ mǐ",d:"grains of Job's tears plant 薏苡[yi4 yi3]",t:"苡米"},{w:"薏苡",p:"yì yǐ",d:"Job's tears plant (Coix lacryma-jobi)/Chinese pearl barley",t:"薏苡"}],o=[],a="艸",n="8",c=["艹","以"],i=[],p={s,w:t,i:o,r:a,sc:n,c,d:i};export{c,i as d,p as default,o as i,a as r,s,n as sc,t as w};

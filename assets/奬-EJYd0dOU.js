@@ -1,0 +1,1 @@
+const s=[{p:"jiǎng",pp:"jiang3",d:"variant of 獎|奖[jiang3]",t:"奬",w:"奬"}],c=[],n=[],t="大",o=14,a=["大"],i=[],d={s,w:c,i:n,r:t,sc:o,c:a,d:i};export{a as c,i as d,d as default,n as i,t as r,s,o as sc,c as w};

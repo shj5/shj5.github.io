@@ -1,0 +1,1 @@
+const t=[{p:"bì",pp:"bi4",d:"to compare/to match/to equal",t:"坒",w:"坒"}],c=[],o=[],s="土",n=7,a=["土","比"],p=["陛","梐"],d={s:t,w:c,i:o,r:s,sc:n,c:a,d:p};export{a as c,p as d,d as default,o as i,s as r,t as s,n as sc,c as w};

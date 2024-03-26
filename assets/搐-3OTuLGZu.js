@@ -1,0 +1,1 @@
+const t=[{p:"chù",pp:"chu4",d:"to twitch; to have a spasm",t:"搐",w:"搐"}],c=[{w:"抽搐",p:"chōu chù",d:"to twitch",t:"抽搐"}],s=[],o="手",n=13,h=["扌","畜"],p=[],w={s:t,w:c,i:s,r:o,sc:n,c:h,d:p};export{h as c,p as d,w as default,s as i,o as r,t as s,n as sc,c as w};

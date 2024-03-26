@@ -1,0 +1,1 @@
+const n=[{p:"huǎng",pp:"huang3",d:"shop sign/(literary) window curtain",t:"幌",w:"幌"}],s=[{w:"幌子",p:"huǎng zi",d:"shop sign/signboard/(fig.) pretense",t:"幌子"},{w:"札幌",p:"Zhá huǎng",d:"Sapporo, Japan",t:"札幌"}],t=[],o="巾",c=13,p=["巾","晃"],i=[],a={s:n,w:s,i:t,r:o,sc:c,c:p,d:i};export{p as c,i as d,a as default,t as i,o as r,n as s,c as sc,s as w};

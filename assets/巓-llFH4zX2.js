@@ -1,1 +1,0 @@
-const s=[{p:"diān",pp:"dian1",d:"same as 巔|巅[dian1]/summit/mountain peak/mountain top",t:"巓",w:"巓"}],n=[],t=[],c="山",o="22",a=["山"],i=[],d={s,w:n,i:t,r:c,sc:o,c:a,d:i};export{a as c,i as d,d as default,t as i,c as r,s,o as sc,n as w};

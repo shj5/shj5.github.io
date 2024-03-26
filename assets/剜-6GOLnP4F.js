@@ -1,1 +1,0 @@
-const o=[{p:"wān",pp:"wan1",d:"to scoop out/to gouge out",t:"剜",w:"剜"}],t=[],s=[],c="刀",n="10",p=["宛","刂"],w=[],d={s:o,w:t,i:s,r:c,sc:n,c:p,d:w};export{p as c,w as d,d as default,s as i,c as r,o as s,n as sc,t as w};

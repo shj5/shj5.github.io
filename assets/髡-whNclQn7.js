@@ -1,1 +1,0 @@
-const s=[{p:"kūn",pp:"kun1",d:"scalping/to make the head bald (as corporal punishment)",t:"髡",w:"髡"}],c=[],t=[],n="髟",o="13",a=["髟","兀"],p=[],d={s,w:c,i:t,r:n,sc:o,c:a,d:p};export{a as c,p as d,d as default,t as i,n as r,s,o as sc,c as w};

@@ -1,1 +1,0 @@
-const o=[{p:"yàn",pp:"yan4",d:"variant of 焰[yan4]",t:"焱",w:"焱"}],n=[{w:"火炎焱燚",p:"huǒ yán yàn yì",d:"hot (i.e. popular) (emphatic form of 火[huo3]) (neologism c. 2016)",t:"火炎焱燚"}],t=[],c="火",s="12",a=["火"],p=["歘","燊","飚"],i={s:o,w:n,i:t,r:c,sc:s,c:a,d:p};export{a as c,p as d,i as default,t as i,c as r,o as s,s as sc,n as w};

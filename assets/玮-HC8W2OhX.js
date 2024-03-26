@@ -1,1 +1,0 @@
-const s=[{p:"wěi",pp:"wei3",d:"(reddish jade)/precious/rare",t:"瑋",w:"玮"}],n=[{w:"瑰玮",p:"guī wěi",d:"ornate (style)/magnificent",t:"瑰瑋"},{w:"范玮琪",p:"Fàn Wěi qí",d:"Christine Fan (1976-), American-born Taiwanese singer and actress",t:"范瑋琪"}],t=[],c="玉",e="8",i=["王","韦"],r=[],a={s,w:n,i:t,r:c,sc:e,c:i,d:r};export{i as c,r as d,a as default,t as i,c as r,s,e as sc,n as w};

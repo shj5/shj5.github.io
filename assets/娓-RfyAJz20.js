@@ -1,0 +1,1 @@
+const t=[{p:"wěi",pp:"wei3",d:"active/comply with",t:"娓",w:"娓"}],n=[],c=[{w:"娓娓动听",p:"wěi wěi dòng tīng",d:"to speak in a pleasant and captivating manner (idiom)",t:"娓娓動聽"}],s="女",i=10,o=["女","尾"],a=[],p={s:t,w:n,i:c,r:s,sc:i,c:o,d:a};export{o as c,a as d,p as default,c as i,s as r,t as s,i as sc,n as w};

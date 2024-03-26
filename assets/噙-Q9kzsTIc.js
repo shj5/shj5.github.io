@@ -1,1 +1,0 @@
-const s=[{p:"qín",pp:"qin2",d:"to hold in (usually refers the mouth or eyes)",t:"噙",w:"噙"}],t=[],o=[],c="口",n="15",e=["口","禽"],r=[],d={s,w:t,i:o,r:c,sc:n,c:e,d:r};export{e as c,r as d,d as default,o as i,c as r,s,n as sc,t as w};

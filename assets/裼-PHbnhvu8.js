@@ -1,1 +1,0 @@
-const t=[{p:"tì",pp:"ti4",d:"baby's quilt",t:"裼",w:"裼"},{p:"xī",pp:"xi1",d:"to bare the upper body",t:"裼",w:"裼"}],o=[{w:"徒裼",p:"tú xī",d:"barefooted and barebreasted",t:"徒裼"},{w:"袒裼",p:"tǎn xī",d:"to bare the upper body",t:"袒裼"}],s=[],e="衣",p="14",c=["衤","易"],d=[],n={s:t,w:o,i:s,r:e,sc:p,c,d};export{c,d,n as default,s as i,e as r,t as s,p as sc,o as w};

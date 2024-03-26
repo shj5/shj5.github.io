@@ -1,1 +1,0 @@
-const t=[{p:"fǒu",pp:"fou3",d:"pottery",t:"缶",w:"缶"}],s=[{w:"击缶",p:"jí fǒu",d:"to beat time with a percussion instrument made of pottery",t:"擊缶"}],o=[],c="*",n="6",e=["缶"],p=["匋","窑","缶","缸","缺","罁","罃","罄","罅","罆","罉","罍","罎","罏","罐"],r={s:t,w:s,i:o,r:c,sc:n,c:e,d:p};export{e as c,p as d,r as default,o as i,c as r,t as s,n as sc,s as w};

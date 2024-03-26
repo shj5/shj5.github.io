@@ -1,1 +1,0 @@
-const t=[{p:"áo",pp:"ao2",d:"violent fighting",t:"鏖",w:"鏖"}],o=[{w:"鏖战",p:"áo zhàn",d:"bitter fighting/a violent battle",t:"鏖戰"}],n=[],s="金",c="19",i=["金"],e=[],a={s:t,w:o,i:n,r:s,sc:c,c:i,d:e};export{i as c,e as d,a as default,n as i,s as r,t as s,c as sc,o as w};

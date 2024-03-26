@@ -1,0 +1,1 @@
+const c=[{p:"pín",pp:"pin2",d:"imperial concubine",t:"嬪",w:"嫔"}],n=[{w:"妃嫔",p:"fēi pín",d:"imperial concubine",t:"妃嬪"},{w:"嫔妃",p:"pín fēi",d:"imperial concubine",t:"嬪妃"}],i=[],p="女",s=13,t=["女","宾"],o=[],e={s:c,w:n,i,r:p,sc:s,c:t,d:o};export{t as c,o as d,e as default,i,p as r,c as s,s as sc,n as w};

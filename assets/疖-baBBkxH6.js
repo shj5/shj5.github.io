@@ -1,0 +1,1 @@
+const o=[{p:"jiē",pp:"jie1",d:"pimple/sore/boil/Taiwan pr. [jie2]",t:"癤",w:"疖"}],c=[{w:"疖子",p:"jiē zi",d:"(medicine) boil/furuncle/knot (in wood)",t:"癤子"}],i=[],s="疒",n=7,t=["疒"],e=[],p={s:o,w:c,i,r:s,sc:n,c:t,d:e};export{t as c,e as d,p as default,i,s as r,o as s,n as sc,c as w};

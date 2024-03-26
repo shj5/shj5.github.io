@@ -1,0 +1,1 @@
+const t=[{p:"zūn",pp:"zun1",d:"trout/barbel/Taiwan pr. [zun4]",t:"鱒",w:"鳟"}],n=[{w:"虹鳟",p:"hóng zūn",d:"rainbow trout (Oncorhynchus mykiss)",t:"虹鱒"},{w:"鳟鱼",p:"zūn yú",d:"trout",t:"鱒魚"}],s=[],c="魚",o=20,r=["鱼","尊"],p=[],u={s:t,w:n,i:s,r:c,sc:o,c:r,d:p};export{r as c,p as d,u as default,s as i,c as r,t as s,o as sc,n as w};
