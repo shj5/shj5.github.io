@@ -1,0 +1,1 @@
+const s=[{p:"yóng",pp:"yong2",d:"breathing (of fish)",t:"喁",w:"喁"}],n=[{w:"喁喁",p:"yóng yóng",d:"looking up expectantly/speaking softly (Taiwan pr. for this sense is [yu2yu2])",t:"喁喁"}],t=[],o="口",c=12,i=["口","禺"],p=[],e={s,w:n,i:t,r:o,sc:c,c:i,d:p};export{i as c,p as d,e as default,t as i,o as r,s,c as sc,n as w};
