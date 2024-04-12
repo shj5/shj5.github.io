@@ -1,0 +1,1 @@
+const t=[{p:"tiáo",pp:"tiao2",d:"shed the milk teeth/young",t:"齠",w:"龆"}],s=["召","齿"],c=[],o=[],n=[],e="齒",d=13,i={s:t,c:s,d:c,w:o,i:n,r:e,sc:d};export{s as c,c as d,i as default,n as i,e as r,t as s,d as sc,o as w};

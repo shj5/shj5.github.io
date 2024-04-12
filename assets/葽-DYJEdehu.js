@@ -1,0 +1,1 @@
+const s=[{p:"yāo",pp:"yao1",d:"Polygala japonica/lush (grass)",t:"葽",w:"葽"}],c=["艹","要"],o=[],t=[],n=[],a="艸",p=12,d={s,c,d:o,w:t,i:n,r:a,sc:p};export{c,o as d,d as default,n as i,a as r,s,p as sc,t as w};

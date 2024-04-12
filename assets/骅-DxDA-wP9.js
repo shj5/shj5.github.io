@@ -1,0 +1,1 @@
+const s=[{p:"huá",pp:"hua2",d:"chestnut horse",t:"驊",w:"骅"}],t=["马","华"],c=[],n=[{w:"黄骅市",p:"Huáng huá shì",d:"Huanghua, county-level city in Cangzhou 滄州|沧州[Cang1 zhou1], Hebei",t:"黃驊市"}],o=[],u="馬",h=9,e={s,c:t,d:c,w:n,i:o,r:u,sc:h};export{t as c,c as d,e as default,o as i,u as r,s,h as sc,n as w};

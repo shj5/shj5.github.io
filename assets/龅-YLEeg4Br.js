@@ -1,1 +1,0 @@
-const t=[{p:"bāo",pp:"bao1",d:"projecting teeth",t:"齙",w:"龅"}],o=[{w:"龅牙",p:"bāo yá",d:"buck tooth/projecting tooth",t:"齙牙"}],c=[],s="齒",n=13,p=["包","齿"],e=[],d={s:t,w:o,i:c,r:s,sc:n,c:p,d:e};export{p as c,e as d,d as default,c as i,s as r,t as s,n as sc,o as w};

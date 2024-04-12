@@ -1,1 +1,0 @@
-const c=[{p:"bǎi mǐ",pp:"bai3 mi3",d:"hectometer (old)/single-character equivalent of 百米[bai3 mi3]",t:"粨",w:"粨"}],t=[],s=[],o="米",n=12,e=["米","百"],i=[],a={s:c,w:t,i:s,r:o,sc:n,c:e,d:i};export{e as c,i as d,a as default,s as i,o as r,c as s,n as sc,t as w};

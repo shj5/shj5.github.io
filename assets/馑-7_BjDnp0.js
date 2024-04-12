@@ -1,1 +1,0 @@
-const n=[{p:"jǐn",pp:"jin3",d:"time of famine or crop failure",t:"饉",w:"馑"}],o=[],s=[{w:"饥馑荐臻",p:"jī jǐn jiàn zhēn",d:"famine repeats unceasingly (idiom, from Book of Songs)",t:"饑饉薦臻"}],c="食",t=14,i=["饣","堇"],e=[],r={s:n,w:o,i:s,r:c,sc:t,c:i,d:e};export{i as c,e as d,r as default,s as i,c as r,n as s,t as sc,o as w};

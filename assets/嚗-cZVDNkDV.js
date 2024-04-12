@@ -1,0 +1,1 @@
+const o=[{p:"bó",pp:"bo2",d:"(onom.) sound of sth splitting or breaking apart/sound of an object falling to the ground/a cry of rage/Taiwan pr. [bo1]",t:"嚗",w:"嚗"}],t=["口","暴"],n=[],s=[],c=[],a="口",r=18,d={s:o,c:t,d:n,w:s,i:c,r:a,sc:r};export{t as c,n as d,d as default,c as i,a as r,o as s,r as sc,s as w};

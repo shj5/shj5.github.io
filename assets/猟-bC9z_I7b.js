@@ -1,1 +1,0 @@
-const s=[{p:"liè",pp:"lie4",d:"Japanese variant of 獵|猎",t:"猟",w:"猟"}],c=[],t=[],n="犬",o=11,a=["犭","鼡"],e=[],i={s,w:c,i:t,r:n,sc:o,c:a,d:e};export{a as c,e as d,i as default,t as i,n as r,s,o as sc,c as w};

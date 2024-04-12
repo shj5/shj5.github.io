@@ -1,1 +1,0 @@
-const t=[{p:"lìn",pp:"lin4",d:"to rent",t:"賃",w:"赁"}],s=[{w:"租赁",p:"zū lìn",d:"to rent; to lease; to hire",t:"租賃"},{w:"自驾租赁",p:"zì jià zū lìn",d:"self-drive hire (of a car etc)",t:"自駕租賃"}],c=[],n="貝",o=10,e=["贝","任"],r=[],d={s:t,w:s,i:c,r:n,sc:o,c:e,d:r};export{e as c,r as d,d as default,c as i,n as r,t as s,o as sc,s as w};

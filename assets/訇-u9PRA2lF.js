@@ -1,1 +1,0 @@
-const n=[{p:"Hōng",pp:"Hong1",d:"surname Hong",t:"訇",w:"訇"},{p:"hōng",pp:"hong1",d:"sound of a crash",t:"訇",w:"訇"}],o=[{w:"阿訇",p:"ā hōng",d:"(loanword from Persian) imam/ahung",t:"阿訇"}],s=[],c="言",t=9,a=["勹","言"],d=["鞫"],p={s:n,w:o,i:s,r:c,sc:t,c:a,d};export{a as c,d,p as default,s as i,c as r,n as s,t as sc,o as w};

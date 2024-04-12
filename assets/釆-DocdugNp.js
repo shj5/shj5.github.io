@@ -1,1 +1,0 @@
-const s=[{p:"biàn",pp:"bian4",d:"old variant of 辨[bian4]",t:"釆",w:"釆"}],c=[],n=[],t="*",o=7,a=["丿","米"],i=["悉","釈","番","釉","释"],d={s,w:c,i:n,r:t,sc:o,c:a,d:i};export{a as c,i as d,d as default,n as i,t as r,s,o as sc,c as w};

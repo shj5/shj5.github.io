@@ -1,0 +1,1 @@
+const t=[{p:"qīng",pp:"qing1",d:"mackerel",t:"鯖",w:"鲭"},{p:"zhēng",pp:"zheng1",d:"(literary) boiled stew of fish and meat",t:"鯖",w:"鲭"}],s=["鱼","青"],c=[],n=[{w:"鲭鱼",p:"qīng yú",d:"mackerel",t:"鯖魚"}],e=[],o="魚",d=16,p={s:t,c:s,d:c,w:n,i:e,r:o,sc:d};export{s as c,c as d,p as default,e as i,o as r,t as s,d as sc,n as w};

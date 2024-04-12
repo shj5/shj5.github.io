@@ -1,1 +1,0 @@
-const s=[{p:"móu",pp:"mou2",d:"similar/comparable/equal",t:"侔",w:"侔"}],c=[],o=[],t="人",n=8,a=["亻","牟"],p=[],r={s,w:c,i:o,r:t,sc:n,c:a,d:p};export{a as c,p as d,r as default,o as i,t as r,s,n as sc,c as w};

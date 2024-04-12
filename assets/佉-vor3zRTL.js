@@ -1,1 +1,0 @@
-const s=[{p:"Qū",pp:"Qu1",d:"surname Qu",t:"佉",w:"佉"}],t=[{w:"佉卢文",p:"Qū lú wén",d:"Kharosthi (ancient language of central Asia)",t:"佉盧文"},{w:"豆佉",p:"dòu qū",d:'(Buddhism) suffering (from Sanskrit "dukkha")',t:"豆佉"}],n=[],c="人",o=7,a=["亻","去"],d=[],r={s,w:t,i:n,r:c,sc:o,c:a,d};export{a as c,d,r as default,n as i,c as r,s,o as sc,t as w};

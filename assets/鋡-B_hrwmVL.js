@@ -1,0 +1,1 @@
+const t=[{p:"hán",pp:"han2",d:"to hold/to contain",t:"鋡",w:"鋡"}],c=["含","金"],o=[],s=[],n=[],d="金",a=15,p={s:t,c,d:o,w:s,i:n,r:d,sc:a};export{c,o as d,p as default,n as i,d as r,t as s,a as sc,s as w};

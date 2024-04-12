@@ -1,0 +1,1 @@
+const s=[{p:"kuí",pp:"kui2",d:"used in 蝰蛇[kui2 she2]",t:"蝰",w:"蝰"}],i=["虫","奎"],o=[],t=[{w:"蝰蛇",p:"kuí shé",d:"forest or meadow viper (Vipera russelii siamensis or similar)",t:"蝰蛇"}],c=[],e="虫",n=15,r={s,c:i,d:o,w:t,i:c,r:e,sc:n};export{i as c,o as d,r as default,c as i,e as r,s,n as sc,t as w};

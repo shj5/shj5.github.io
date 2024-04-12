@@ -1,0 +1,1 @@
+const n=[{p:"liǎn",pp:"lian3",d:"see 襝衽|裣衽[lian3 ren4]",t:"襝",w:"裣"}],s=["衤","佥"],t=[],c=[{w:"裣衽",p:"liǎn rèn",d:"variant of 斂衽|敛衽[lian3 ren4]",t:"襝衽"}],o=[],i="衣",a=13,r={s:n,c:s,d:t,w:c,i:o,r:i,sc:a};export{s as c,t as d,r as default,o as i,i as r,n as s,a as sc,c as w};

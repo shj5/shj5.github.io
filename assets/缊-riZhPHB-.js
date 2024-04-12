@@ -1,1 +1,0 @@
-const n=[{p:"yūn",pp:"yun1",d:"orange color/used in 絪縕|𬘡缊[yin1 yun1]",t:"縕",w:"缊"},{p:"yùn",pp:"yun4",d:"hemp/vague/mysterious",t:"縕",w:"缊"}],s=[{w:"𬘡缊",p:"yīn yūn",d:"variant of 氤氳|氤氲[yin1 yun1]",t:"絪縕"}],t=[],o="糸",c=12,y=["纟"],p=[],u={s:n,w:s,i:t,r:o,sc:c,c:y,d:p};export{y as c,p as d,u as default,t as i,o as r,n as s,c as sc,s as w};

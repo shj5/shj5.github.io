@@ -1,1 +1,0 @@
-const n=[{p:"xuān",pp:"xuan1",d:"(literary) ingenious/(literary) frivolous",t:"儇",w:"儇"}],o=[{w:"李儇",p:"Lǐ Xuān",d:"Li Xuan, personal name of nineteenth Tang emperor Xizong 僖宗[Xi1 zhong1] (862-888), reigned 873-888",t:"李儇"}],s=[],t="人",e=15,c=["亻","睘"],i=[],r={s:n,w:o,i:s,r:t,sc:e,c,d:i};export{c,i as d,r as default,s as i,t as r,n as s,e as sc,o as w};

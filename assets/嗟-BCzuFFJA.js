@@ -1,0 +1,1 @@
+const s=[{p:"jiē",pp:"jie1",d:"sigh/also pr. [jue1]",t:"嗟",w:"嗟"}],t=["口","差"],o=[],c=[{w:"咨嗟",p:"zī jiē",d:"to gasp (in admiration)/to sigh",t:"咨嗟"}],i=[],n="口",p=13,a={s,c:t,d:o,w:c,i,r:n,sc:p};export{t as c,o as d,a as default,i,n as r,s,p as sc,c as w};

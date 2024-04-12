@@ -1,0 +1,1 @@
+const s=[{p:"diào",pp:"diao4",d:"(literary) distant/deep/profound",t:"窵",w:"窎"}],t=["穴","鸟"],o=[],c=[],n=[],d="穴",i=10,p={s,c:t,d:o,w:c,i:n,r:d,sc:i};export{t as c,o as d,p as default,n as i,d as r,s,i as sc,c as w};

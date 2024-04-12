@@ -1,0 +1,1 @@
+const c=[{p:"chà",pp:"cha4",d:"branching stream",t:"汊",w:"汊"}],s=["氵","叉"],t=[],n=[],o=[],a="水",r=6,d={s:c,c:s,d:t,w:n,i:o,r:a,sc:r};export{s as c,t as d,d as default,o as i,a as r,c as s,r as sc,n as w};

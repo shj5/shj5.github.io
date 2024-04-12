@@ -1,0 +1,1 @@
+const s=[{p:"huā",pp:"hua1",d:"sound of a thing flying fast by/whoosh/cracking sound/Taiwan pr. [huo4]",t:"砉",w:"砉"},{p:"xū",pp:"xu1",d:"sound of flaying",t:"砉",w:"砉"}],o=["丰","石"],n=[],c=[],t=[],a="石",d=9,p={s,c:o,d:n,w:c,i:t,r:a,sc:d};export{o as c,n as d,p as default,t as i,a as r,s,d as sc,c as w};

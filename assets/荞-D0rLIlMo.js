@@ -1,0 +1,1 @@
+const o=[{p:"qiáo",pp:"qiao2",d:"common mallow (Malva sinensis)/variant of 蕎|荞[qiao2]",t:"荍",w:"荞"},{p:"qiáo",pp:"qiao2",d:"used in 蕎麥|荞麦[qiao2 mai4]",t:"蕎",w:"荞"}],s=["艹","乔"],i=[],t=[{w:"荞麦",p:"qiáo mài",d:"buckwheat",t:"蕎麥"}],c=[],a="艸",n=9,p={s:o,c:s,d:i,w:t,i:c,r:a,sc:n};export{s as c,i as d,p as default,c as i,a as r,o as s,n as sc,t as w};

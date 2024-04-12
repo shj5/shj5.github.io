@@ -1,1 +1,0 @@
-const n=[{p:"pēng",pp:"peng1",d:"(onom.) bang/thump",t:"砰",w:"砰"}],t=[{w:"心砰砰跳",p:"xīn pēng pēng tiào",d:"variant of 心怦怦跳[xin1 peng1 peng1 tiao4]",t:"心砰砰跳"},{w:"砰砰",p:"pēng pēng",d:"(onom.) slam",t:"砰砰"}],o=[],p="石",s=10,c=["石","平"],g=[],a={s:n,w:t,i:o,r:p,sc:s,c,d:g};export{c,g as d,a as default,o as i,p as r,n as s,s as sc,t as w};

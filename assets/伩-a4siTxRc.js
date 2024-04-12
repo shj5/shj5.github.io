@@ -1,0 +1,1 @@
+const s=[{p:"xìn",pp:"xin4",d:"variant of 信[xin4] (originally meant as part of the second round of simplified Chinese characters)",t:"伩",w:"伩"}],n=["亻","文"],t=[],c=[],o=[],i="人",a=6,e={s,c:n,d:t,w:c,i:o,r:i,sc:a};export{n as c,t as d,e as default,o as i,i as r,s,a as sc,c as w};

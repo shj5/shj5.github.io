@@ -1,0 +1,1 @@
+const o=[{p:"bó",pp:"bo2",d:"corpse/prostrate",t:"踣",w:"踣"}],t=["足","咅"],s=[],c=[{w:"颠踣",p:"diān bó",d:"to fall down/to fall forward",t:"顛踣"}],n=[],d="足",r=15,p={s:o,c:t,d:s,w:c,i:n,r:d,sc:r};export{t as c,s as d,p as default,n as i,d as r,o as s,r as sc,c as w};

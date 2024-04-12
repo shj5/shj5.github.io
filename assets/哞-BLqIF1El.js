@@ -1,0 +1,1 @@
+const o=[{p:"mōu",pp:"mou1",d:"moo (sound made by cow)",t:"哞",w:"哞"}],s=["口","牟"],c=[],t=[],n=[],d="口",m=9,p={s:o,c:s,d:c,w:t,i:n,r:d,sc:m};export{s as c,c as d,p as default,n as i,d as r,o as s,m as sc,t as w};

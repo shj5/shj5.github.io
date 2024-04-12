@@ -1,0 +1,1 @@
+const s=[{p:"bā",pp:"ba1",d:"eight (banker's anti-fraud numeral)/split",t:"捌",w:"捌"}],t=["扌","别"],c=[],n=[],o=[],a="手",r=10,d={s,c:t,d:c,w:n,i:o,r:a,sc:r};export{t as c,c as d,d as default,o as i,a as r,s,r as sc,n as w};

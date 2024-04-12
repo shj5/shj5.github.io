@@ -1,0 +1,1 @@
+const t=[{p:"tiē",pp:"tie1",d:"terpene (chemistry)",t:"萜",w:"萜"}],s=["艹","帖"],c=[],e=[{w:"萜烯",p:"tiē xī",d:"terpene (chemistry)",t:"萜烯"}],n=[],o="艸",i=11,p={s:t,c:s,d:c,w:e,i:n,r:o,sc:i};export{s as c,c as d,p as default,n as i,o as r,t as s,i as sc,e as w};

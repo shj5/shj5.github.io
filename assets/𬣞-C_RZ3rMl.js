@@ -1,0 +1,1 @@
+const n=[{p:"zhǔ",pp:"zhu3",d:"wisdom",t:"詝",w:"𬣞"}],s=[],c=[],o=[{w:"奕𬣞",p:"Yì zhǔ",d:"given name of Qing Emperor Xianfeng 咸豐|咸丰[Xian2 feng1]",t:"奕詝"}],t=[],e="",i=0,d={s:n,c:s,d:c,w:o,i:t,r:e,sc:i};export{s as c,c as d,d as default,t as i,e as r,n as s,i as sc,o as w};

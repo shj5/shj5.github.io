@@ -1,0 +1,1 @@
+const s=[{p:"máng",pp:"mang2",d:"old variant of 芒[mang2]/arista (of grain)",t:"笀",w:"笀"}],n=["亡","竹"],t=[],c=[],o=[],a="竹",r=9,d={s,c:n,d:t,w:c,i:o,r:a,sc:r};export{n as c,t as d,d as default,o as i,a as r,s,r as sc,c as w};

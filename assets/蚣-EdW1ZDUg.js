@@ -1,0 +1,1 @@
+const c=[{p:"gōng",pp:"gong1",d:"scolopendra centipede",t:"蚣",w:"蚣"}],n=["公","虫"],s=[],t=[{w:"蜈蚣",p:"wú gōng",d:"centipede",t:"蜈蚣"}],o=[],e="虫",d=10,p={s:c,c:n,d:s,w:t,i:o,r:e,sc:d};export{n as c,s as d,p as default,o as i,e as r,c as s,d as sc,t as w};

@@ -1,0 +1,1 @@
+const c=[{p:"jié",pp:"jie2",d:'"seal" radical in Chinese characters (Kangxi radical 26)',t:"㔾",w:"㔾"}],s=[],t=[],n=[],a=[],i="",o=0,e={s:c,c:s,d:t,w:n,i:a,r:i,sc:o};export{s as c,t as d,e as default,a as i,i as r,c as s,o as sc,n as w};

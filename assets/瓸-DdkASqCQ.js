@@ -1,0 +1,1 @@
+const t=[{p:"bǎi wǎ",pp:"bai3 wa3",d:"hectowatt (old)/single-character equivalent of 百瓦",t:"瓸",w:"瓸"}],c=["瓦","百"],s=[],o=[],n=[],a="瓦",e=11,i={s:t,c,d:s,w:o,i:n,r:a,sc:e};export{c,s as d,i as default,n as i,a as r,t as s,e as sc,o as w};

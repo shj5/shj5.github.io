@@ -1,0 +1,1 @@
+const s=[{p:"huáng",pp:"huang2",d:"black-naped oriole (Oriolus chinensis)",t:"鷬",w:"鷬"}],c=[],n=[],o=[],t=[],i="鳥",a=23,d={s,c,d:n,w:o,i:t,r:i,sc:a};export{c,n as d,d as default,t as i,i as r,s,a as sc,o as w};

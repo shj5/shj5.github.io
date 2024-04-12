@@ -1,1 +1,0 @@
-const t=[{p:"lì",pp:"li4",d:"cry of a crane or wild goose",t:"唳",w:"唳"}],s=[],c=[{w:"风声鹤唳",p:"fēng shēng hè lì",d:"lit. wind sighing and crane calling (idiom)/fig. to panic at the slightest move/to be jittery",t:"風聲鶴唳"}],n="口",o=11,i=["口","戻"],e=[],a={s:t,w:s,i:c,r:n,sc:o,c:i,d:e};export{i as c,e as d,a as default,c as i,n as r,t as s,o as sc,s as w};

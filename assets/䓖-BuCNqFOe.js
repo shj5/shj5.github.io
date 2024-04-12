@@ -1,0 +1,1 @@
+const n=[{p:"qióng",pp:"qiong2",d:"see 芎藭|芎䓖[xiong1 qiong2]",t:"藭",w:"䓖"}],o=[],s=[],c=[{w:"芎䓖",p:"xiōng qióng",d:"chuanxiong rhizome/also named 川芎[chuan1 xiong1]",t:"芎藭"}],t=[],i="",g=0,a={s:n,c:o,d:s,w:c,i:t,r:i,sc:g};export{o as c,s as d,a as default,t as i,i as r,n as s,g as sc,c as w};

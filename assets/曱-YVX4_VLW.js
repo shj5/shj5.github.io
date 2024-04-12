@@ -1,0 +1,1 @@
+const c=[{p:"yuē",pp:"yue1",d:"used in 曱甴[yue1 zha2]",t:"曱",w:"曱"}],s=["丨","曰"],o=[],t=[{w:"曱甴",p:"yuē zhá",d:"(dialect) cockroach/also pr. [yue1 you2]",t:"曱甴"}],n=[],u="曰",d=5,e={s:c,c:s,d:o,w:t,i:n,r:u,sc:d};export{s as c,o as d,e as default,n as i,u as r,c as s,d as sc,t as w};

@@ -1,0 +1,1 @@
+const c=[{p:"è",pp:"e4",d:"(exclamation)/to hiccup",t:"呃",w:"呃"}],t=["口","厄"],o=[],s=[{w:"呃逆",p:"è nì",d:"to hiccup/to belch",t:"呃逆"},{w:"打呃",p:"dǎ è",d:"to hiccup",t:"打呃"}],n=[],p="口",d=7,i={s:c,c:t,d:o,w:s,i:n,r:p,sc:d};export{t as c,o as d,i as default,n as i,p as r,c as s,d as sc,s as w};

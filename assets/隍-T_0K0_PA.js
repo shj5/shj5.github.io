@@ -1,0 +1,1 @@
+const n=[{p:"huáng",pp:"huang2",d:"dry moat/god of city",t:"隍",w:"隍"}],t=["皇"],o=[],s=[{w:"城隍",p:"Chéng Huáng",d:"Shing Wong (deity in Chinese mythology)",t:"城隍"}],c=[],d="阜",g=12,i={s:n,c:t,d:o,w:s,i:c,r:d,sc:g};export{t as c,o as d,i as default,c as i,d as r,n as s,g as sc,s as w};

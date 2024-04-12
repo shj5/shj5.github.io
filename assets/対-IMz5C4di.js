@@ -1,0 +1,1 @@
+const s=[{p:"duì",pp:"dui4",d:"Japanese variant of 對|对[dui4]",t:"対",w:"対"}],c=["寸","文"],t=[],n=[],o=[],d="寸",a=7,i={s,c,d:t,w:n,i:o,r:d,sc:a};export{c,t as d,i as default,o as i,d as r,s,a as sc,n as w};

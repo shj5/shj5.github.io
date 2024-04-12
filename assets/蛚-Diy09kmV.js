@@ -1,0 +1,1 @@
+const s=[{p:"liè",pp:"lie4",d:"Cyrtoxiphus ritsemae",t:"蛚",w:"蛚"}],t=["虫","列"],c=[],o=[],n=[],i="虫",e=12,p={s,c:t,d:c,w:o,i:n,r:i,sc:e};export{t as c,c as d,p as default,n as i,i as r,s,e as sc,o as w};

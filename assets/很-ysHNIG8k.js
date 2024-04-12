@@ -1,1 +1,0 @@
-const t=[{p:"hěn",pp:"hen3",d:"(adverb of degree)/quite/very/awfully",t:"很",w:"很"}],e=[{w:"不很",p:"bù hěn",d:"not very",t:"不很"},{w:"得很",p:"de hěn",d:"(after an adjective) very",t:"得很"}],n=[],c="彳",s=9,o=["彳","艮"],d=[],r={s:t,w:e,i:n,r:c,sc:s,c:o,d};export{o as c,d,r as default,n as i,c as r,t as s,s as sc,e as w};

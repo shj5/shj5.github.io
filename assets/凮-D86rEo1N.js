@@ -1,0 +1,1 @@
+const s=[{p:"fēng",pp:"feng1",d:"old variant of 風|风[feng1]",t:"凮",w:"凮"}],c=["几","百"],n=[],t=[],o=[],d="几",f=8,a={s,c,d:n,w:t,i:o,r:d,sc:f};export{c,n as d,a as default,o as i,d as r,s,f as sc,t as w};

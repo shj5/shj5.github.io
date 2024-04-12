@@ -1,0 +1,1 @@
+const t=[{p:"lí",pp:"li2",d:"bride's veil or kerchief",t:"褵",w:"褵"}],s=["衤","离"],c=[],o=[{w:"结褵",p:"jié lí",d:"to marry/to tie the bridal veil",t:"結褵"}],i=[],e="衣",r=17,n={s:t,c:s,d:c,w:o,i,r:e,sc:r};export{s as c,c as d,n as default,i,e as r,t as s,r as sc,o as w};

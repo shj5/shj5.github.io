@@ -1,0 +1,1 @@
+const s=[{p:"bìn",pp:"bin4",d:"kneecapping/to cut or smash the kneecaps as corporal punishment",t:"髕",w:"髌"}],c=["骨","宾"],n=[],t=[{w:"髌骨",p:"bìn gǔ",d:"kneecap/patella",t:"髕骨"}],o=[],p="骨",e=20,a={s,c,d:n,w:t,i:o,r:p,sc:e};export{c,n as d,a as default,o as i,p as r,s,e as sc,t as w};

@@ -1,0 +1,1 @@
+const s=[{p:"chuài",pp:"chuai4",d:"used in 囊膪[nang1 chuai4]",t:"膪",w:"膪"}],t=["月","啻"],n=[],c=[{w:"囊膪",p:"nāng chuài",d:"soft, fat meat of pig's belly/sow's sagging teats/weakling/flabby person/also written 囊揣",t:"囊膪"}],o=[],a="肉",i=16,e={s,c:t,d:n,w:c,i:o,r:a,sc:i};export{t as c,n as d,e as default,o as i,a as r,s,i as sc,c as w};

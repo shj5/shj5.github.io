@@ -1,1 +1,0 @@
-const n=[{p:"lín",pp:"lin2",d:"variant of 麟[lin2], female unicorn",t:"驎",w:"𬴊"}],c=[],s=[],t="",o=0,i=[],a=[],l={s:n,w:c,i:s,r:t,sc:o,c:i,d:a};export{i as c,a as d,l as default,s as i,t as r,n as s,o as sc,c as w};

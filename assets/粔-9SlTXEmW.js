@@ -1,0 +1,1 @@
+const s=[{p:"jù",pp:"ju4",d:"cakes made from rice flour twisted into rings",t:"粔",w:"粔"}],c=["巨","米"],t=[],o=[],n=[],r="米",d=11,e={s,c,d:t,w:o,i:n,r,sc:d};export{c,t as d,e as default,n as i,r,s,d as sc,o as w};

@@ -1,0 +1,1 @@
+const t=[{p:"chá",pp:"cha2",d:"to apply (ointment, powder)/to smear/to paint on",t:"搽",w:"搽"}],o=["扌","茶"],c=[],s=[],n=[],p="手",a=13,d={s:t,c:o,d:c,w:s,i:n,r:p,sc:a};export{o as c,c as d,d as default,n as i,p as r,t as s,a as sc,s as w};

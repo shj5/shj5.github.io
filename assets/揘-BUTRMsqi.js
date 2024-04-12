@@ -1,0 +1,1 @@
+const t=[{p:"huáng",pp:"huang2",d:"to strike/to stab",t:"揘",w:"揘"}],s=["扌","皇"],c=[],o=[{w:"揘毕",p:"yóng bì",d:"to stab",t:"揘畢"}],n=[],a="手",d=12,p={s:t,c:s,d:c,w:o,i:n,r:a,sc:d};export{s as c,c as d,p as default,n as i,a as r,t as s,d as sc,o as w};

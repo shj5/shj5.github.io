@@ -1,1 +1,0 @@
-const s=[{p:"jù",pp:"ju4",d:"variant of 俱[ju4]/variant of 具[ju4]",t:"倶",w:"倶"}],t=[],c=[],o="人",n=10,a=["亻"],r=[],d={s,w:t,i:c,r:o,sc:n,c:a,d:r};export{a as c,r as d,d as default,c as i,o as r,s,n as sc,t as w};

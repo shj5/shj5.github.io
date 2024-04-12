@@ -1,1 +1,0 @@
-const c=[{p:"qiān",pp:"qian1",d:"(of a bird) to peck/(fig.) to ridicule (sb)",t:"鵮",w:"鹐"}],s=[],t=[],o="鳥",n=13,i=["鸟","臽"],d=[],p={s:c,w:s,i:t,r:o,sc:n,c:i,d};export{i as c,d,p as default,t as i,o as r,c as s,n as sc,s as w};

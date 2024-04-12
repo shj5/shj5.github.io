@@ -1,0 +1,1 @@
+const t=[{p:"Zī",pp:"Zi1",d:"surname Zi",t:"訾",w:"訾"},{p:"zī",pp:"zi1",d:"to calculate/to assess/wealth",t:"訾",w:"訾"},{p:"zǐ",pp:"zi3",d:"to slander/to detest",t:"訾",w:"訾"}],s=["此","言"],o=[],c=[{w:"跂訾",p:"qǐ zǐ",d:"opinionated",t:"跂訾"}],n=[],p="言",d=12,e={s:t,c:s,d:o,w:c,i:n,r:p,sc:d};export{s as c,o as d,e as default,n as i,p as r,t as s,d as sc,c as w};

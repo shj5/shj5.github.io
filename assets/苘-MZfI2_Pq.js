@@ -1,1 +1,0 @@
-const n=[{p:"qǐng",pp:"qing3",d:"Indian mallow (Abutilon theophrasti)/Indian hemp (cannabis)",t:"苘",w:"苘"}],t=[{w:"苘麻",p:"qǐng má",d:"Indian mallow (Abutilon theophrasti)/Indian hemp (cannabis)",t:"苘麻"}],s=[],o="艸",a=8,c=["艹","冋"],i=[],d={s:n,w:t,i:s,r:o,sc:a,c,d:i};export{c,i as d,d as default,s as i,o as r,n as s,a as sc,t as w};

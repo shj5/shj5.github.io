@@ -1,0 +1,1 @@
+const t=[{p:"nǜ",pp:"nu:4",d:"old variant of 衄[nu:4]",t:"䶊",w:"衄"},{p:"nǜ",pp:"nu:4",d:"variant of 衄[nu:4]",t:"衂",w:"衄"},{p:"nǜ",pp:"nu:4",d:"to bleed from the nose (or from the ears, gums etc)/fig. to be defeated",t:"衄",w:"衄"}],n=["丑","血"],o=[],s=[],c=[],e="血",d=10,p={s:t,c:n,d:o,w:s,i:c,r:e,sc:d};export{n as c,o as d,p as default,c as i,e as r,t as s,d as sc,s as w};

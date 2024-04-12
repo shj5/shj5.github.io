@@ -1,0 +1,1 @@
+const n=[{p:"dòng",pp:"dong4",d:"see 蛋白腖|蛋白胨[dan4 bai2 dong4]",t:"腖",w:"胨"}],s=["月","东"],t=[],c=[{w:"蛋白胨",p:"dàn bái dòng",d:"peptone (biochemistry)",t:"蛋白腖"}],o=[],d="肉",e=9,p={s:n,c:s,d:t,w:c,i:o,r:d,sc:e};export{s as c,t as d,p as default,o as i,d as r,n as s,e as sc,c as w};

@@ -1,0 +1,1 @@
+const t=[{p:"ài",pp:"ai4",d:"(literary) to choke; to have a blockage in the throat/Taiwan pr. [yi4]",t:"嗌",w:"嗌"},{p:"yì",pp:"yi4",d:"(literary) the throat/(literary) (military) choke point",t:"嗌",w:"嗌"}],o=["口","益"],c=[],a=[],i=[],r="口",s=13,e={s:t,c:o,d:c,w:a,i,r,sc:s};export{o as c,c as d,e as default,i,r,t as s,s as sc,a as w};

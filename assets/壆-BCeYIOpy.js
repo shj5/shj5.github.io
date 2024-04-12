@@ -1,0 +1,1 @@
+const o=[{p:"bó",pp:"bo2",d:"mounded row of soil (in which crops are planted)",t:"壆",w:"壆"}],s=["土"],c=[],t=[],n=[],d="土",p=16,r={s:o,c:s,d:c,w:t,i:n,r:d,sc:p};export{s as c,c as d,r as default,n as i,d as r,o as s,p as sc,t as w};

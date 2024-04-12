@@ -1,0 +1,1 @@
+const n=[{p:"qián",pp:"qian2",d:"(Minnan dialect) beside/near/(used in place names)",t:"墘",w:"墘"}],s=["土","乾"],c=[],t=[],e=[],o="土",a=14,i={s:n,c:s,d:c,w:t,i:e,r:o,sc:a};export{s as c,c as d,i as default,e as i,o as r,n as s,a as sc,t as w};

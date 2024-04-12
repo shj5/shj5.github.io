@@ -1,1 +1,0 @@
-const s=[{p:"hè",pp:"he4",d:"(literary) (of soil) dry and hard/(used in place names)",t:"垎",w:"垎"}],c=[],t=[],n="土",o=9,d=["土","各"],a=[],e={s,w:c,i:t,r:n,sc:o,c:d,d:a};export{d as c,a as d,e as default,t as i,n as r,s,o as sc,c as w};

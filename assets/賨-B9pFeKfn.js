@@ -1,0 +1,1 @@
+const s=[{p:"cóng",pp:"cong2",d:"tribute paid by Han dynasty tribes",t:"賨",w:"賨"}],t=["宗"],c=[],n=[],o=[],d="貝",a=15,i={s,c:t,d:c,w:n,i:o,r:d,sc:a};export{t as c,c as d,i as default,o as i,d as r,s,a as sc,n as w};

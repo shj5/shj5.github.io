@@ -1,0 +1,1 @@
+const n=[{p:"ǎn",pp:"an3",d:"ammonium",t:"銨",w:"铵"}],t=["安"],s=[],o=[{w:"氯化铵",p:"lǜ huà ǎn",d:"ammonium chloride",t:"氯化銨"},{w:"硝酸铵",p:"xiāo suān ǎn",d:"ammonium nitrate",t:"硝酸銨"},{w:"硫酸铵",p:"liú suān ǎn",d:"ammonium sulfate",t:"硫酸銨"}],c=[],m="金",i=11,a={s:n,c:t,d:s,w:o,i:c,r:m,sc:i};export{t as c,s as d,a as default,c as i,m as r,n as s,i as sc,o as w};

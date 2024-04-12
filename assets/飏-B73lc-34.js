@@ -1,0 +1,1 @@
+const t=[{p:"yáng",pp:"yang2",d:"to soar/to fly/to float/variant of 揚|扬[yang2], to scatter/to spread",t:"颺",w:"飏"}],o=["风"],s=[],c=[],n=[],a="風",r=7,d={s:t,c:o,d:s,w:c,i:n,r:a,sc:r};export{o as c,s as d,d as default,n as i,a as r,t as s,r as sc,c as w};

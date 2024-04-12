@@ -1,1 +1,0 @@
-const s=[{p:"Tǒu",pp:"Tou3",d:"surname Tou",t:"鈄",w:"钭"},{p:"tǒu",pp:"tou3",d:"a wine flagon",t:"鈄",w:"钭"}],t=[],o=[],c="金",n=9,p=["斗"],u=[],a={s,w:t,i:o,r:c,sc:n,c:p,d:u};export{p as c,u as d,a as default,o as i,c as r,s,n as sc,t as w};

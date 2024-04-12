@@ -1,0 +1,1 @@
+const s=[{p:"liàn",pp:"lian4",d:"Japanese variant of 煉|炼[lian4]",t:"錬",w:"錬"}],n=["金"],c=[],t=[],o=[],a="金",i=16,p={s,c:n,d:c,w:t,i:o,r:a,sc:i};export{n as c,c as d,p as default,o as i,a as r,s,i as sc,t as w};

@@ -1,1 +1,0 @@
-const n=[{p:"Qiān",pp:"Qian1",d:"name of a river flowing through Gansu to Shaanxi Province",t:"汧",w:"汧"},{p:"qiān",pp:"qian1",d:"marsh/float",t:"汧",w:"汧"}],o=[],s=[],t="水",c=7,a=["氵","开"],i=[],r={s:n,w:o,i:s,r:t,sc:c,c:a,d:i};export{a as c,i as d,r as default,s as i,t as r,n as s,c as sc,o as w};

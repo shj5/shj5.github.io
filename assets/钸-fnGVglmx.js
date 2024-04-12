@@ -1,1 +1,0 @@
-const t=[{p:"bū",pp:"bu1",d:"metal plate",t:"鈽",w:"钸"},{p:"bù",pp:"bu4",d:"plutonium (chemistry) (Tw)",t:"鈽",w:"钸"}],s=[],c=[],o="金",n=10,p=["布"],d=[],e={s:t,w:s,i:c,r:o,sc:n,c:p,d};export{p as c,d,e as default,c as i,o as r,t as s,n as sc,s as w};

@@ -1,1 +1,0 @@
-const s=[{p:"sù",pp:"su4",d:"guileless/sincere",t:"愫",w:"愫"}],t=[{w:"情愫",p:"qíng sù",d:"sentiment/feeling",t:"情愫"}],c=[],n="心",e=13,o=["忄","素"],i=[],d={s,w:t,i:c,r:n,sc:e,c:o,d:i};export{o as c,i as d,d as default,c as i,n as r,s,e as sc,t as w};

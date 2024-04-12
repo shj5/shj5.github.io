@@ -1,0 +1,1 @@
+const t=[{p:"yì",pp:"yi4",d:"variant of 翳[yi4]",t:"瞖",w:"翳"},{p:"yì",pp:"yi4",d:"feather screen/to screen/to shade/cataract",t:"翳",w:"翳"}],c=["羽"],a=[],s=[{w:"白翳",p:"bái yì",d:"opacity of the cornea (in TCM)/cataract",t:"白翳"},{w:"翳眼",p:"yì yǎn",d:"cataract",t:"翳眼"}],o=[],n="羽",e=17,r={s:t,c,d:a,w:s,i:o,r:n,sc:e};export{c,a as d,r as default,o as i,n as r,t as s,e as sc,s as w};

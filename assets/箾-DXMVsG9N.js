@@ -1,0 +1,1 @@
+const s=[{p:"shuò",pp:"shuo4",d:"to hit sb with a pole/(archaic) pole held by a dancer",t:"箾",w:"箾"}],c=["竹"],t=[],o=[],n=[],a="竹",d=15,e={s,c,d:t,w:o,i:n,r:a,sc:d};export{c,t as d,e as default,n as i,a as r,s,d as sc,o as w};

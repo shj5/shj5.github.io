@@ -1,0 +1,1 @@
+const s=[{p:"niè",pp:"nie4",d:"fermenting grain/yeast",t:"糱",w:"糱"}],n=["米"],t=[],c=[],o=[],e="米",i=22,r={s,c:n,d:t,w:c,i:o,r:e,sc:i};export{n as c,t as d,r as default,o as i,e as r,s,i as sc,c as w};

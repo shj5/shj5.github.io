@@ -1,1 +1,0 @@
-const s=[{p:"hùn",pp:"hun4",d:"edging (of a dress etc)/old variant of 混[hun4]",t:"掍",w:"掍"}],c=[],n=[],t="手",o=11,d=["扌","昆"],a=[],e={s,w:c,i:n,r:t,sc:o,c:d,d:a};export{d as c,a as d,e as default,n as i,t as r,s,o as sc,c as w};

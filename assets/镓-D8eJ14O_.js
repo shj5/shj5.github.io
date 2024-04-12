@@ -1,0 +1,1 @@
+const s=[{p:"jiā",pp:"jia1",d:"gallium (chemistry)",t:"鎵",w:"镓"}],c=["家"],t=[],n=[{w:"砷化镓",p:"shēn huà jiā",d:"gallium arsenide (GaAs)",t:"砷化鎵"}],i=[],o="金",a=15,d={s,c,d:t,w:n,i,r:o,sc:a};export{c,t as d,d as default,i,o as r,s,a as sc,n as w};

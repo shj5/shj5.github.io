@@ -1,1 +1,0 @@
-const o=[{p:"jù",pp:"ju4",d:"old variant of 距[ju4]/old variant of 拒[ju4]",t:"歫",w:"歫"}],s=[],t=[],c="止",n=9,a=["止","巨"],d=[],r={s:o,w:s,i:t,r:c,sc:n,c:a,d};export{a as c,d,r as default,t as i,c as r,o as s,n as sc,s as w};

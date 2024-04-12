@@ -1,0 +1,1 @@
+const s=[{p:"hǔ",pp:"hu3",d:"used in 琥珀[hu3 po4]",t:"琥",w:"琥"}],c=["王","虎"],t=[],n=[{w:"二硫基琥珀酸钠",p:"èr liú jī hǔ pò suān nà",d:"sodium dimercaptosuccinate",t:"二硫基琥珀酸鈉"},{w:"琥珀",p:"hǔ pò",d:"amber",t:"琥珀"}],o=[],p="玉",d=12,i={s,c,d:t,w:n,i:o,r:p,sc:d};export{c,t as d,i as default,o as i,p as r,s,d as sc,n as w};

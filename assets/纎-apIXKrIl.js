@@ -1,1 +1,0 @@
-const s=[{p:"xiān",pp:"xian1",d:"old variant of 纖|纤[xian1]",t:"纎",w:"纎"}],c=[],n=[],t="糸",o=21,a=["糸"],i=[],d={s,w:c,i:n,r:t,sc:o,c:a,d:i};export{a as c,i as d,d as default,n as i,t as r,s,o as sc,c as w};

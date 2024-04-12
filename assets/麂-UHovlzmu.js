@@ -1,0 +1,1 @@
+const s=[{p:"jǐ",pp:"ji3",d:"muntjac",t:"麂",w:"麂"}],c=["几","鹿"],t=[],o=[{w:"麂皮",p:"jǐ pí",d:"suede/chamois leather",t:"麂皮"}],n=[],d="鹿",e=13,p={s,c,d:t,w:o,i:n,r:d,sc:e};export{c,t as d,p as default,n as i,d as r,s,e as sc,o as w};

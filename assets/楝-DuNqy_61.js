@@ -1,0 +1,1 @@
+const c=[{p:"liàn",pp:"lian4",d:"Melia japonica",t:"楝",w:"楝"}],n=["木","柬"],s=[],t=[{w:"苦楝",p:"kǔ liàn",d:"chinaberry (Melia azedarach)",t:"苦楝"}],a=[],o="木",i=13,d={s:c,c:n,d:s,w:t,i:a,r:o,sc:i};export{n as c,s as d,d as default,a as i,o as r,c as s,i as sc,t as w};

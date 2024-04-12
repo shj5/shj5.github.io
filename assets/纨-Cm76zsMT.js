@@ -1,0 +1,1 @@
+const n=[{p:"wán",pp:"wan2",d:"white/white silk",t:"紈",w:"纨"}],s=["纟","丸"],t=[],c=[{w:"纨裤子弟",p:"wán kù zǐ dì",d:"dandy/fop/lounge lizard",t:"紈褲子弟"}],o=[{w:"纨绔子弟",p:"wán kù zǐ dì",d:"hedonistic son of rich parents",t:"紈絝子弟"}],d="糸",w=6,i={s:n,c:s,d:t,w:c,i:o,r:d,sc:w};export{s as c,t as d,i as default,o as i,d as r,n as s,w as sc,c as w};

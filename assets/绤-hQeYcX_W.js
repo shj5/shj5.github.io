@@ -1,1 +1,0 @@
-const c=[{p:"xì",pp:"xi4",d:"coarse hempen fabric",t:"綌",w:"绤"}],s=[],t=[],o="糸",n=10,e=["纟","谷"],p=[],r={s:c,w:s,i:t,r:o,sc:n,c:e,d:p};export{e as c,p as d,r as default,t as i,o as r,c as s,n as sc,s as w};

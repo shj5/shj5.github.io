@@ -1,0 +1,1 @@
+const n=[{p:"Páng",pp:"Pang2",d:"surname Pang",t:"尨",w:"尨"},{p:"máng",pp:"mang2",d:"shaggy dog/striped",t:"尨",w:"尨"},{p:"páng",pp:"pang2",d:"old variant of 龐|庞[pang2]/huge/enormous",t:"尨",w:"尨"}],s=["彡","尤"],t=["厖","哤","庬","牻","駹"],o=[],p=[],c="尢",g=7,a={s:n,c:s,d:t,w:o,i:p,r:c,sc:g};export{s as c,t as d,a as default,p as i,c as r,n as s,g as sc,o as w};

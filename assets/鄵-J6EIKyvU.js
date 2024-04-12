@@ -1,1 +1,0 @@
-const n=[{p:"Cào",pp:"Cao4",d:"ancient place name (between present-day Xinzheng County 新鄭|新郑[Xin1 zheng4] and Lushan County 魯山|鲁山[Lu3 shan1], Henan)",t:"鄵",w:"鄵"}],s=[],t=[],c="邑",e=16,o=[],a=[],d={s:n,w:s,i:t,r:c,sc:e,c:o,d:a};export{o as c,a as d,d as default,t as i,c as r,n as s,e as sc,s as w};

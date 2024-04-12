@@ -1,0 +1,1 @@
+const n=[{p:"chǎn",pp:"chan3",d:"(literary) (of sunlight) to beam down/to illuminate/(used in place names and given names)",t:"旵",w:"旵"}],s=["山","日"],t=[],c=[],o=[],a="日",e=7,i={s:n,c:s,d:t,w:c,i:o,r:a,sc:e};export{s as c,t as d,i as default,o as i,a as r,n as s,e as sc,c as w};

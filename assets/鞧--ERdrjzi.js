@@ -1,0 +1,1 @@
+const t=[{p:"qiū",pp:"qiu1",d:"crupper/leather strap/(dialect) to draw back/to shrink",t:"鞧",w:"鞧"}],c=["革","酋"],s=[],o=[],n=[],r="革",a=18,p={s:t,c,d:s,w:o,i:n,r,sc:a};export{c,s as d,p as default,n as i,r,t as s,a as sc,o as w};

@@ -1,0 +1,1 @@
+const t=[{p:"fú",pp:"fu2",d:"place name",t:"罘",w:"罘"}],c=["不","罒"],n=[],s=[{w:"芝罘",p:"Zhī fú",d:"Zhifu district of Yantai city 煙台市|烟台市, Shandong",t:"芝罘"},{w:"芝罘区",p:"Zhī fú qū",d:"Zhifu district of Yantai city 煙台市|烟台市, Shandong",t:"芝罘區"}],o=[],i="网",a=9,d={s:t,c,d:n,w:s,i:o,r:i,sc:a};export{c,n as d,d as default,o as i,i as r,t as s,a as sc,s as w};

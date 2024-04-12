@@ -1,0 +1,1 @@
+const t=[{p:"qiǎn",pp:"qian3",d:"(usu. of an animal) the part of the side of the body between the ribs and the hipbone",t:"膁",w:"肷"}],s=["月","欠"],n=[],o=[],c=[],e="肉",a=8,i={s:t,c:s,d:n,w:o,i:c,r:e,sc:a};export{s as c,n as d,i as default,c as i,e as r,t as s,a as sc,o as w};

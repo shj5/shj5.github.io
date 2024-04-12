@@ -1,0 +1,1 @@
+const n=[{p:"gàng",pp:"gang4",d:"hill/long and narrow highland/(used in place names)",t:"鿍",w:"鿍"}],s=[],c=[],o=[],t=[],a="",d=0,g={s:n,c:s,d:c,w:o,i:t,r:a,sc:d};export{s as c,c as d,g as default,t as i,a as r,n as s,d as sc,o as w};

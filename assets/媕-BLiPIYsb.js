@@ -1,0 +1,1 @@
+const t=[{p:"ān",pp:"an1",d:"undecided",t:"媕",w:"媕"}],s=["女","弇"],c=[],n=[{w:"媕婀",p:"ān ē",d:"(literary) to hesitate/indecisive",t:"媕婀"}],o=[],d="女",e=12,i={s:t,c:s,d:c,w:n,i:o,r:d,sc:e};export{s as c,c as d,i as default,o as i,d as r,t as s,e as sc,n as w};

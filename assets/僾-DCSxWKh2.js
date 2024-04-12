@@ -1,0 +1,1 @@
+const s=[{p:"ài",pp:"ai4",d:"indistinct/hazy/misty/to seem/to appear",t:"僾",w:"僾"}],t=["亻","爱"],c=[],o=[],n=[],i="人",a=15,p={s,c:t,d:c,w:o,i:n,r:i,sc:a};export{t as c,c as d,p as default,n as i,i as r,s,a as sc,o as w};

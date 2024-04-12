@@ -1,0 +1,1 @@
+const n=[{p:"lóng",pp:"long2",d:"to grind/to mill",t:"礱",w:"砻"}],t=["龙","石"],o=[],c=[{w:"雅砻江",p:"Yǎ lóng jiāng",d:"Yalong river of Tibet and Sichuan",t:"雅礱江"}],s=[],i="石",d=10,l={s:n,c:t,d:o,w:c,i:s,r:i,sc:d};export{t as c,o as d,l as default,s as i,i as r,n as s,d as sc,c as w};

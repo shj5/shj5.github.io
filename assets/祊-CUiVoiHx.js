@@ -1,0 +1,1 @@
+const s=[{p:"bēng",pp:"beng1",d:"side altar inside ancestral temple",t:"祊",w:"祊"}],t=["方"],c=[],n=[],o=[],e="示",a=9,d={s,c:t,d:c,w:n,i:o,r:e,sc:a};export{t as c,c as d,d as default,o as i,e as r,s,a as sc,n as w};

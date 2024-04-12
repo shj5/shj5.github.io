@@ -1,0 +1,1 @@
+const s=[{p:"bìng",pp:"bing4",d:"nightmare/start in sleep",t:"寎",w:"寎"}],t=["宀"],c=[],n=[],o=[],e="宀",i=12,p={s,c:t,d:c,w:n,i:o,r:e,sc:i};export{t as c,c as d,p as default,o as i,e as r,s,i as sc,n as w};

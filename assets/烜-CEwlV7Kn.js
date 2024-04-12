@@ -1,0 +1,1 @@
+const o=[{p:"xuǎn",pp:"xuan3",d:"brilliant",t:"烜",w:"烜"}],s=["火","亘"],t=[],n=[{w:"烜赫",p:"xuǎn hè",d:"famous/prestigious",t:"烜赫"}],c=[{w:"烜赫一时",p:"xuǎn hè yī shí",d:"to enjoy a short-lived fame or position of power",t:"烜赫一時"}],i="火",p=10,r={s:o,c:s,d:t,w:n,i:c,r:i,sc:p};export{s as c,t as d,r as default,c as i,i as r,o as s,p as sc,n as w};

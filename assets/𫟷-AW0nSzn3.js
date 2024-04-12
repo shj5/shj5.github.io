@@ -1,1 +1,0 @@
-const s=[{p:"lì",pp:"li4",d:"livermorium (chemistry)/(old) (Italian) lira (loanword)/(archaic) type of food vessel used in Funan 扶南[Fu2 nan2]",t:"鉝",w:"𫟷"}],o=[],c=[],n="",t=0,a=[],i=[],l={s,w:o,i:c,r:n,sc:t,c:a,d:i};export{a as c,i as d,l as default,c as i,n as r,s,t as sc,o as w};

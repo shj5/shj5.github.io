@@ -1,0 +1,1 @@
+const t=[{p:"kuǎn",pp:"kuan3",d:"to treat well/to detain/variant of 款[kuan3]",t:"欵",w:"欵"}],n=["欠"],s=[],c=[],o=[],a="欠",d=11,e={s:t,c:n,d:s,w:c,i:o,r:a,sc:d};export{n as c,s as d,e as default,o as i,a as r,t as s,d as sc,c as w};

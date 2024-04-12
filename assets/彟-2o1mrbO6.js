@@ -1,1 +1,0 @@
-const t=[{p:"huò",pp:"huo4",d:"see 武士彠|武士彟[Wu3 Shi4 huo4]/old variant of 蒦[huo4]",t:"彠",w:"彟"}],o=[{w:"武士彟",p:"Wǔ Shì huò",d:"Wu Shihuo (7th century), father of Tang empress Wu Zetian 武則天|武则天",t:"武士彠"}],s=[],c="彐",n=19,h=["寻","蒦"],u=[],e={s:t,w:o,i:s,r:c,sc:n,c:h,d:u};export{h as c,u as d,e as default,s as i,c as r,t as s,n as sc,o as w};

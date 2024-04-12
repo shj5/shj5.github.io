@@ -1,1 +1,0 @@
-const c=[{p:"qū",pp:"qu1",d:"black/dark",t:"黢",w:"黢"}],t=[{w:"黑黢黢",p:"hēi qū qū",d:"pitch-black/pitch-dark",t:"黑黢黢"},{w:"黢黑",p:"qū hēi",d:"pitch-black/pitch-dark",t:"黢黑"}],s=[],p="黑",d=19,o=["黑"],a=[],i={s:c,w:t,i:s,r:p,sc:d,c:o,d:a};export{o as c,a as d,i as default,s as i,p as r,c as s,d as sc,t as w};

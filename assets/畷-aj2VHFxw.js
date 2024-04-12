@@ -1,0 +1,1 @@
+const s=[{p:"chuò",pp:"chuo4",d:"raised path between fields",t:"畷",w:"畷"}],c=["田","叕"],t=[],o=[],n=[],e="田",d=13,p={s,c,d:t,w:o,i:n,r:e,sc:d};export{c,t as d,p as default,n as i,e as r,s,d as sc,o as w};

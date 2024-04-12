@@ -1,0 +1,1 @@
+const n=[{p:"Fēng",pp:"Feng1",d:"Zhou Dynasty capital/surname Feng",t:"酆",w:"酆"}],o=[],s=[],t=[{w:"酆都",p:"Fēng dū",d:"old variant of 豐都|丰都[Feng1 du1]/Fengdu county Chongqing municipality/name of a famous necropolis",t:"酆都"}],c=[],a="邑",d=21,e={s:n,c:o,d:s,w:t,i:c,r:a,sc:d};export{o as c,s as d,e as default,c as i,a as r,n as s,d as sc,t as w};

@@ -1,0 +1,1 @@
+const c=[{p:"gǔ",pp:"gu3",d:"river name in Henan province",t:"瀔",w:"瀔"}],n=["氵"],s=[],t=[],o=[],e="水",r=18,i={s:c,c:n,d:s,w:t,i:o,r:e,sc:r};export{n as c,s as d,i as default,o as i,e as r,c as s,r as sc,t as w};

@@ -1,1 +1,0 @@
-const s=[{p:"dú",pp:"du2",d:"used in 髑髏|髑髅[du2lou2]",t:"髑",w:"髑"}],t=[{w:"髑髅",p:"dú lóu",d:"(literary) skull (of a dead person)",t:"髑髏"}],c=[],d="骨",o=23,n=["骨","蜀"],u=[],e={s,w:t,i:c,r:d,sc:o,c:n,d:u};export{n as c,u as d,e as default,c as i,d as r,s,o as sc,t as w};

@@ -1,1 +1,0 @@
-const t=[{p:"zhuàn",pp:"zhuan4",d:"to sing (of birds or insects)/to warble/to chirp/to twitter",t:"囀",w:"啭"}],s=[{w:"啼啭",p:"tí zhuàn",d:"to call sweetly (of birds)",t:"啼囀"}],o=[],c="口",n=11,r=["口","转"],i=[],d={s:t,w:s,i:o,r:c,sc:n,c:r,d:i};export{r as c,i as d,d as default,o as i,c as r,t as s,n as sc,s as w};

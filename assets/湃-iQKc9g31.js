@@ -1,0 +1,1 @@
+const o=[{p:"pài",pp:"pai4",d:"sound of waves",t:"湃",w:"湃"}],s=["氵","拜"],t=[],c=[{w:"澎湃",p:"péng pài",d:"to surge",t:"澎湃"}],n=[{w:"心潮澎湃",p:"xīn cháo péng pài",d:"to be overwhelmed by emotions",t:"心潮澎湃"}],p="水",e=12,d={s:o,c:s,d:t,w:c,i:n,r:p,sc:e};export{s as c,t as d,d as default,n as i,p as r,o as s,e as sc,c as w};

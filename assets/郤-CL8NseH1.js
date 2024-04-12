@@ -1,0 +1,1 @@
+const t=[{p:"Xì",pp:"Xi4",d:"surname Xi",t:"郤",w:"郤"},{p:"xì",pp:"xi4",d:"variant of 隙[xi4]",t:"郤",w:"郤"}],o=["谷"],s=[],c=[],n=[{w:"批郤导窾",p:"pī xì dǎo kuǎn",d:"to get right to the heart of the matter (idiom)",t:"批郤導窾"}],i="邑",p=10,d={s:t,c:o,d:s,w:c,i:n,r:i,sc:p};export{o as c,s as d,d as default,n as i,i as r,t as s,p as sc,c as w};

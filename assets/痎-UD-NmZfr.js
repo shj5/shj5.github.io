@@ -1,1 +1,0 @@
-const t=[{p:"jiē",pp:"jie1",d:"(archaic) tertian malaria",t:"痎",w:"痎"}],c=[{w:"痎疟",p:"jiē nüè",d:"(TCM) tertian malaria",t:"痎瘧"}],s=[],a="疒",n=11,i=["疒","亥"],o=[],r={s:t,w:c,i:s,r:a,sc:n,c:i,d:o};export{i as c,o as d,r as default,s as i,a as r,t as s,n as sc,c as w};

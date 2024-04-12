@@ -1,0 +1,1 @@
+const t=[{p:"fān",pp:"fan1",d:"pennant",t:"旛",w:"旛"}],n=["方"],s=[],c=[{w:"招魂旛",p:"zhāo hún fān",d:"flag to attract departed spirits",t:"招魂旛"}],o=[],a="方",p=18,d={s:t,c:n,d:s,w:c,i:o,r:a,sc:p};export{n as c,s as d,d as default,o as i,a as r,t as s,p as sc,c as w};

@@ -1,0 +1,1 @@
+const s=[{p:"hé",pp:"he2",d:"harmonious (variant of 和[he2])/(used in given names and as a surname)",t:"龢",w:"龢"}],n=["禾","龠"],c=[],o=[],t=[],a="龠",e=22,d={s,c:n,d:c,w:o,i:t,r:a,sc:e};export{n as c,c as d,d as default,t as i,a as r,s,e as sc,o as w};

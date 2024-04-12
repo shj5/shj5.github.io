@@ -1,0 +1,1 @@
+const t=[{p:"ái",pp:"ai2",d:"(literary) white as snow",t:"皚",w:"皑"}],s=["白","岂"],i=[],o=[{w:"皑皑",p:"ái ái",d:"(literary) white as snow; pure white",t:"皚皚"}],c=[{w:"白雪皑皑",p:"bái xuě ái ái",d:"brilliant white snow cover (esp. of distant peaks)",t:"白雪皚皚"}],n="白",e=11,w={s:t,c:s,d:i,w:o,i:c,r:n,sc:e};export{s as c,i as d,w as default,c as i,n as r,t as s,e as sc,o as w};

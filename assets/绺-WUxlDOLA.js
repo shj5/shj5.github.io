@@ -1,1 +1,0 @@
-const s=[{p:"liǔ",pp:"liu3",d:"skein/tuft/lock",t:"綹",w:"绺"}],t=[{w:"发绺",p:"fà liǔ",d:"tresses/dreadlocks",t:"髮綹"}],c=[],o="糸",n=11,d=["纟","咎"],e=[],i={s,w:t,i:c,r:o,sc:n,c:d,d:e};export{d as c,e as d,i as default,c as i,o as r,s,n as sc,t as w};

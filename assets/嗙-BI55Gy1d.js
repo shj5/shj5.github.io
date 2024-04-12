@@ -1,0 +1,1 @@
+const t=[{p:"pǎng",pp:"pang3",d:"(dialect) to boast/to brag/(onom.) sound of hitting sth",t:"嗙",w:"嗙"}],o=["口","旁"],s=[],c=[],n=[],a="口",d=13,p={s:t,c:o,d:s,w:c,i:n,r:a,sc:d};export{o as c,s as d,p as default,n as i,a as r,t as s,d as sc,c as w};

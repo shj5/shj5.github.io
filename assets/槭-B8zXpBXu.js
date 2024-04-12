@@ -1,0 +1,1 @@
+const s=[{p:"qì",pp:"qi4",d:"maple/also pr. [zu2]/Taiwan pr. [cu4]",t:"槭",w:"槭"}],t=["木","戚"],p=[],c=[{w:"槭木",p:"qì mù",d:"maple (timber)",t:"槭木"},{w:"槭树",p:"qì shù",d:"maple",t:"槭樹"},{w:"槭糖浆",p:"qì táng jiāng",d:"maple syrup",t:"槭糖漿"}],n=[],o="木",a=15,d={s,c:t,d:p,w:c,i:n,r:o,sc:a};export{t as c,p as d,d as default,n as i,o as r,s,a as sc,c as w};

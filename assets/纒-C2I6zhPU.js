@@ -1,0 +1,1 @@
+const c=[{p:"chán",pp:"chan2",d:"old variant of 纏|缠[chan2]",t:"纒",w:"纒"}],s=["糸"],n=[],t=[],o=[],a="糸",d=22,p={s:c,c:s,d:n,w:t,i:o,r:a,sc:d};export{s as c,n as d,p as default,o as i,a as r,c as s,d as sc,t as w};

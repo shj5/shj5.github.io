@@ -1,1 +1,0 @@
-const s=[{p:"è",pp:"e4",d:"beat a drum/startle",t:"咢",w:"咢"}],t=[],c=[],o="口",n=9,a=["口","亏"],d=["谔","堮","崿","愕","萼","鄂","腭","锷","鹗","颚","鳄"],e={s,w:t,i:c,r:o,sc:n,c:a,d};export{a as c,d,e as default,c as i,o as r,s,n as sc,t as w};

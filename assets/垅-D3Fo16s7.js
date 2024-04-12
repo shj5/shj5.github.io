@@ -1,0 +1,1 @@
+const o=[{p:"lǒng",pp:"long3",d:"old variant of 壟|垄[long3]",t:"壠",w:"垅"}],s=["土","龙"],c=[],n=[],t=[],d="土",l=8,a={s:o,c:s,d:c,w:n,i:t,r:d,sc:l};export{s as c,c as d,a as default,t as i,d as r,o as s,l as sc,n as w};

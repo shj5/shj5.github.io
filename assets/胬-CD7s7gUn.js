@@ -1,0 +1,1 @@
+const n=[{p:"nǔ",pp:"nu3",d:"used in 胬肉[nu3 rou4]",t:"胬",w:"胬"}],s=["奴","肉"],c=["瘸"],t=[{w:"胬肉",p:"nǔ ròu",d:"pterygium (medicine)",t:"胬肉"}],o=[],d="肉",u=11,e={s:n,c:s,d:c,w:t,i:o,r:d,sc:u};export{s as c,c as d,e as default,o as i,d as r,n as s,u as sc,t as w};

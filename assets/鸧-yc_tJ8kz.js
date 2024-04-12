@@ -1,1 +1,0 @@
-const c=[{p:"cāng",pp:"cang1",d:"oriole",t:"鶬",w:"鸧"}],n=[{w:"鸧鹒",p:"cāng gēng",d:"variant of 倉庚|仓庚[cang1 geng1]",t:"鶬鶊"}],s=[],t="鳥",o=9,g=["仓","鸟"],a=[],d={s:c,w:n,i:s,r:t,sc:o,c:g,d:a};export{g as c,a as d,d as default,s as i,t as r,c as s,o as sc,n as w};

@@ -1,0 +1,1 @@
+const t=[{p:"tuān",pp:"tuan1",d:"contraction of the three characters of 圖書館|图书馆[tu2 shu1 guan3]/library",t:"圕",w:"圕"}],c=["囗"],s=[],n=[],o=[],r="囗",a=13,e={s:t,c,d:s,w:n,i:o,r,sc:a};export{c,s as d,e as default,o as i,r,t as s,a as sc,n as w};

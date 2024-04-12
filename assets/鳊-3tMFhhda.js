@@ -1,0 +1,1 @@
+const s=[{p:"biān",pp:"bian1",d:"bream",t:"鯿",w:"鳊"}],n=["鱼","扁"],t=[],c=[{w:"鳊鱼",p:"biān yú",d:"white Amur bream (Parabramis pekinensis)",t:"鯿魚"}],i=[],o="魚",a=17,r={s,c:n,d:t,w:c,i,r:o,sc:a};export{n as c,t as d,r as default,i,o as r,s,a as sc,c as w};

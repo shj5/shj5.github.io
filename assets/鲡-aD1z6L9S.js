@@ -1,1 +1,0 @@
-const s=[{p:"lí",pp:"li2",d:"eel",t:"鱺",w:"鲡"}],n=[{w:"澳洲鳗鲡",p:"Ào zhōu mán lí",d:"short-finned eel (Anguilla australis)",t:"澳洲鰻鱺"},{w:"鳗鲡",p:"mán lí",d:"eel/Japanese freshwater eel (Anguilla japonica)",t:"鰻鱺"}],t=[],e="魚",l=15,c=["丽","鱼"],o=[],a={s,w:n,i:t,r:e,sc:l,c,d:o};export{c,o as d,a as default,t as i,e as r,s,l as sc,n as w};

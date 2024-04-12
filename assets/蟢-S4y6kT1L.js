@@ -1,1 +1,0 @@
-const s=[{p:"xǐ",pp:"xi3",d:"(spider)",t:"蟢",w:"蟢"}],t=[{w:"蟢子",p:"xǐ zi",d:"Tetragnatha (long-jawed spider)",t:"蟢子"}],c=[],n="虫",o=18,d=["虫","喜"],p=[],a={s,w:t,i:c,r:n,sc:o,c:d,d:p};export{d as c,p as d,a as default,c as i,n as r,s,o as sc,t as w};

@@ -1,1 +1,0 @@
-const s=[{p:"sǎ",pp:"sa3",d:"children's shoe (old)/to wear one's shoes babouche style",t:"靸",w:"靸"}],o=[],c=[],t="革",n=13,e=["及","革"],d=[],a={s,w:o,i:c,r:t,sc:n,c:e,d};export{e as c,d,a as default,c as i,t as r,s,n as sc,o as w};

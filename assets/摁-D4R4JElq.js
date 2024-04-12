@@ -1,0 +1,1 @@
+const s=[{p:"èn",pp:"en4",d:"to press (with one's finger or hand)",t:"摁",w:"摁"}],t=["扌","恩"],n=[],c=[{w:"摁钉儿",p:"èn dīng r",d:"thumbtack",t:"摁釘兒"},{w:"摁扣儿",p:"èn kòu r",d:"snap fastener; press stud; popper",t:"摁釦兒"}],o=[],p="手",r=13,e={s,c:t,d:n,w:c,i:o,r:p,sc:r};export{t as c,n as d,e as default,o as i,p as r,s,r as sc,c as w};

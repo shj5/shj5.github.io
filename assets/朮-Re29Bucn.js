@@ -1,0 +1,1 @@
+const s=[{p:"shù",pp:"shu4",d:"variant of 術|术[shu4]",t:"朮",w:"朮"},{p:"zhú",pp:"zhu2",d:"variant of 術|术[zhu2]",t:"朮",w:"朮"}],t=["丶","朩"],c=["怵"],o=[],n=[],p="木",a=5,h={s,c:t,d:c,w:o,i:n,r:p,sc:a};export{t as c,c as d,h as default,n as i,p as r,s,a as sc,o as w};

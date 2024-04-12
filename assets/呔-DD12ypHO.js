@@ -1,0 +1,1 @@
+const t=[{p:"dāi",pp:"dai1",d:"(interjection) hey!/Taiwan pr. [tai5]",t:"呔",w:"呔"},{p:"tǎi",pp:"tai3",d:"(dialect) non-local in one's speaking accent",t:"呔",w:"呔"}],n=["口","太"],o=[],c=[{w:"褒呔",p:"bāo tāi",d:"bow tie (loanword) (Cantonese)",t:"褒呔"}],s=[],i="口",a=7,e={s:t,c:n,d:o,w:c,i:s,r:i,sc:a};export{n as c,o as d,e as default,s as i,i as r,t as s,a as sc,c as w};

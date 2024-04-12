@@ -1,0 +1,1 @@
+const c=[{p:"Bì",pp:"Bi4",d:"surname Bi/ancient place name",t:"邲",w:"邲"}],s=["必"],n=[],t=[],o=[],a="邑",e=8,i={s:c,c:s,d:n,w:t,i:o,r:a,sc:e};export{s as c,n as d,i as default,o as i,a as r,c as s,e as sc,t as w};

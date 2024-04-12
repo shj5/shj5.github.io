@@ -1,1 +1,0 @@
-const s=[{p:"bèng",pp:"beng4",d:"small coin/dime",t:"鏰",w:"镚"}],c=[{w:"钢镚",p:"gāng bèng",d:"small coin/dime",t:"鋼鏰"}],n=[],t="金",o=16,d=["崩"],i=[],e={s,w:c,i:n,r:t,sc:o,c:d,d:i};export{d as c,i as d,e as default,n as i,t as r,s,o as sc,c as w};

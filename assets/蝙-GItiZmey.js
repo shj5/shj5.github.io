@@ -1,1 +1,0 @@
-const o=[{p:"biān",pp:"bian1",d:"used in 蝙蝠[bian1 fu2]",t:"蝙",w:"蝙"}],n=[{w:"蝙蝠",p:"biān fú",d:"(zoology) bat",t:"蝙蝠"},{w:"蝙蝠侠",p:"Biān fú xiá",d:"Batman, comic book superhero",t:"蝙蝠俠"}],s=[],t="虫",c=15,i=["虫","扁"],a=[],d={s:o,w:n,i:s,r:t,sc:c,c:i,d:a};export{i as c,a as d,d as default,s as i,t as r,o as s,c as sc,n as w};

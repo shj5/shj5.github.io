@@ -1,1 +1,0 @@
-const s=[{p:"bēng",pp:"beng1",d:"side altar inside ancestral temple",t:"祊",w:"祊"}],t=[],c=[],n="示",o=9,e=["方"],a=[],d={s,w:t,i:c,r:n,sc:o,c:e,d:a};export{e as c,a as d,d as default,c as i,n as r,s,o as sc,t as w};

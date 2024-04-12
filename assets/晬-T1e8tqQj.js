@@ -1,0 +1,1 @@
+const s=[{p:"zuì",pp:"zui4",d:"1st birthday of a child",t:"晬",w:"晬"}],t=["日","卒"],c=[],o=[{w:"周晬",p:"zhōu zuì",d:"one full year (e.g. on child's first birthday)/same as 週歲|周岁[zhou1 sui4]",t:"周晬"}],n=[],d="日",i=12,a={s,c:t,d:c,w:o,i:n,r:d,sc:i};export{t as c,c as d,a as default,n as i,d as r,s,i as sc,o as w};

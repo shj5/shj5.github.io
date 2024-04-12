@@ -1,0 +1,1 @@
+const c=[{p:"yàn",pp:"yan4",d:"to decide judicially",t:"讞",w:"谳"}],t=["讠","献"],s=[],d=[{w:"定谳",p:"dìng yàn",d:"to judge a case/to render a verdict/verdict",t:"定讞"}],n=[],o="言",e=15,a={s:c,c:t,d:s,w:d,i:n,r:o,sc:e};export{t as c,s as d,a as default,n as i,o as r,c as s,e as sc,d as w};

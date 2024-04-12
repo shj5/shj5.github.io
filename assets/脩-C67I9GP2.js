@@ -1,0 +1,1 @@
+const t=[{p:"xiū",pp:"xiu1",d:"dried meat presented by pupils to their teacher at their first meeting (in ancient times)/dried; withered",t:"脩",w:"脩"}],e=["月","攸"],s=["滫"],i=[{w:"束脩",p:"shù xiū",d:"(literary) salary of a private tutor",t:"束脩"}],r=[],c="肉",n=11,o={s:t,c:e,d:s,w:i,i:r,r:c,sc:n};export{e as c,s as d,o as default,r as i,c as r,t as s,n as sc,i as w};

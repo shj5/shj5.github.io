@@ -1,0 +1,1 @@
+const s=[{p:"miǎn",pp:"mian3",d:"hidden from view/barrier to ward off arrows",t:"丏",w:"丏"}],o=[],c=["沔","眄","髩"],t=[],n=[],r="一",d=4,i={s,c:o,d:c,w:t,i:n,r,sc:d};export{o as c,c as d,i as default,n as i,r,s,d as sc,t as w};

@@ -1,1 +1,0 @@
-const s=[{p:"mì",pp:"mi4",d:"to plaster/whitewash (wall)",t:"塓",w:"塓"}],t=[],c=[],o="土",n=13,w=["土","冥"],a=[],p={s,w:t,i:c,r:o,sc:n,c:w,d:a};export{w as c,a as d,p as default,c as i,o as r,s,n as sc,t as w};

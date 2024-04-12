@@ -1,1 +1,0 @@
-const t=[{p:"láo",pp:"lao2",d:"wine or liquor with sediment",t:"醪",w:"醪"}],o=[{w:"醪糟",p:"láo zāo",d:"sweet fermented rice/glutinous rice wine",t:"醪糟"}],s=[],c="酉",e=18,n=["酉","翏"],i=[],r={s:t,w:o,i:s,r:c,sc:e,c:n,d:i};export{n as c,i as d,r as default,s as i,c as r,t as s,e as sc,o as w};

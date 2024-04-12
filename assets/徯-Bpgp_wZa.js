@@ -1,0 +1,1 @@
+const t=[{p:"xī",pp:"xi1",d:"footpath/wait for",t:"徯",w:"徯"}],o=["彳","奚"],s=[],c=[{w:"徯径",p:"xī jìng",d:"path/way (method)",t:"徯徑"}],n=[],p="彳",a=13,d={s:t,c:o,d:s,w:c,i:n,r:p,sc:a};export{o as c,s as d,d as default,n as i,p as r,t as s,a as sc,c as w};

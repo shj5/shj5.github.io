@@ -1,0 +1,1 @@
+const p=[{p:"Péi",pp:"Pei2",d:"surname Pei",t:"裴",w:"裴"},{p:"péi",pp:"pei2",d:"(of a garment) long and flowing",t:"裴",w:"裴"},{p:"péi",pp:"pei2",d:"variant of 裴[pei2]",t:"裵",w:"裴"}],t=["衣","非"],i=[],s=[{w:"裴回",p:"péi huí",d:"see 徘徊[pai2 huai2]",t:"裴回"}],n=[],o="衣",c=14,e={s:p,c:t,d:i,w:s,i:n,r:o,sc:c};export{t as c,i as d,e as default,n as i,o as r,p as s,c as sc,s as w};

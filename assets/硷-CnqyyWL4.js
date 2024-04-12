@@ -1,0 +1,1 @@
+const n=[{p:"jiǎn",pp:"jian3",d:"variant of 鹼|碱[jian3]",t:"礆",w:"硷"}],t=["石","佥"],i=[],c=[{w:"烟硷",p:"yān jiǎn",d:"variant of 菸鹼|菸碱[yan1 jian3]/nicotine",t:"煙礆"},{w:"菸硷",p:"yān jiǎn",d:"nicotine/also written 菸鹼|菸碱[yan1 jian3]",t:"菸礆"}],o=[],s="石",a=12,j={s:n,c:t,d:i,w:c,i:o,r:s,sc:a};export{t as c,i as d,j as default,o as i,s as r,n as s,a as sc,c as w};

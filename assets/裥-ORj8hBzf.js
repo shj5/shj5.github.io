@@ -1,0 +1,1 @@
+const n=[{p:"jiǎn",pp:"jian3",d:"variant of 襉|裥[jian3]",t:"襇",w:"裥"},{p:"jiǎn",pp:"jian3",d:"(dialect) fold or pleat (in clothing)",t:"襉",w:"裥"}],t=["衤","间"],c=[],o=[],s=[],i="衣",a=13,p={s:n,c:t,d:c,w:o,i:s,r:i,sc:a};export{t as c,c as d,p as default,s as i,i as r,n as s,a as sc,o as w};

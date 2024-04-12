@@ -1,0 +1,1 @@
+const c=[{p:"liáo",pp:"liao2",d:"bamboo receptacle used to hold meat for temple sacrifices in ancient times",t:"簝",w:"簝"}],s=["竹"],t=[],o=[],e=[],n="竹",i=18,a={s:c,c:s,d:t,w:o,i:e,r:n,sc:i};export{s as c,t as d,a as default,e as i,n as r,c as s,i as sc,o as w};

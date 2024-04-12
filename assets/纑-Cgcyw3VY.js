@@ -1,0 +1,1 @@
+const s=[{p:"lú",pp:"lu2",d:"hempen thread/to dress hemp",t:"纑",w:"纑"}],t=["糸"],c=[],o=[],n=[],e="糸",d=22,p={s,c:t,d:c,w:o,i:n,r:e,sc:d};export{t as c,c as d,p as default,n as i,e as r,s,d as sc,o as w};

@@ -1,1 +1,0 @@
-const s=[{p:"wěi",pp:"wei3",d:"be bent/crooked (of bones)",t:"骫",w:"骫"}],c=[],o=[],t="骨",n=13,e=["丸","骨"],d=[],w={s,w:c,i:o,r:t,sc:n,c:e,d};export{e as c,d,w as default,o as i,t as r,s,n as sc,c as w};

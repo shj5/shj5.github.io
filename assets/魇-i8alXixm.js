@@ -1,1 +1,0 @@
-const t=[{p:"yǎn",pp:"yan3",d:"to have a nightmare",t:"魘",w:"魇"}],n=[{w:"梦魇",p:"mèng yǎn",d:"nightmare",t:"夢魘"},{w:"魇寐",p:"yǎn mèi",d:"to have a nightmare",t:"魘寐"}],s=[],c="鬼",o=16,a=["厌","鬼"],e=[],d={s:t,w:n,i:s,r:c,sc:o,c:a,d:e};export{a as c,e as d,d as default,s as i,c as r,t as s,o as sc,n as w};

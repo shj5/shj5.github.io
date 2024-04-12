@@ -1,0 +1,1 @@
+const n=[{p:"nāng",pp:"nang1",d:"muttering, indistinct speech",t:"囔",w:"囔"}],t=["口","囊"],s=[],o=[{w:"嘟囔",p:"dū nang",d:"to mumble to oneself",t:"嘟囔"},{w:"囔囔",p:"nāng nang",d:"to murmur/to speak in a low voice",t:"囔囔"}],c=[],e="口",d=25,i={s:n,c:t,d:s,w:o,i:c,r:e,sc:d};export{t as c,s as d,i as default,c as i,e as r,n as s,d as sc,o as w};

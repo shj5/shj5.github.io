@@ -1,0 +1,1 @@
+const s=[{p:"luó",pp:"luo2",d:"see 桫欏|桫椤[suo1 luo2]",t:"欏",w:"椤"}],o=["木","罗"],t=[],c=[{w:"桫椤",p:"suō luó",d:"spinulose tree fern/Cyathea spinulosa (botany)",t:"桫欏"}],n=[],e="木",u=12,l={s,c:o,d:t,w:c,i:n,r:e,sc:u};export{o as c,t as d,l as default,n as i,e as r,s,u as sc,c as w};

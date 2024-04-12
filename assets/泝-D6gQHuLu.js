@@ -1,0 +1,1 @@
+const s=[{p:"sù",pp:"su4",d:"variant of 溯[su4]",t:"泝",w:"泝"}],t=["氵","斥"],c=[],n=[{w:"泝源",p:"sù yuán",d:"variant of 溯源[su4 yuan2]",t:"泝源"}],o=[],a="水",u=8,d={s,c:t,d:c,w:n,i:o,r:a,sc:u};export{t as c,c as d,d as default,o as i,a as r,s,u as sc,n as w};

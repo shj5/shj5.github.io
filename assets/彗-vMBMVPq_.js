@@ -1,1 +1,0 @@
-const t=[{p:"huì",pp:"hui4",d:"broom",t:"彗",w:"彗"}],c=[{w:"哈雷彗星",p:"Hā léi Huì xīng",d:"Halley's Comet",t:"哈雷彗星"},{w:"彗星",p:"huì xīng",d:"comet",t:"彗星"},{w:"彗核",p:"huì hé",d:"comet nucleus",t:"彗核"}],s=[],o="彐",n=11,u=["彐","丰"],d=["嘒","慧"],e={s:t,w:c,i:s,r:o,sc:n,c:u,d};export{u as c,d,e as default,s as i,o as r,t as s,n as sc,c as w};

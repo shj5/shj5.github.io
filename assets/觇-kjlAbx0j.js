@@ -1,1 +1,0 @@
-const s=[{p:"chān",pp:"chan1",d:"to observe/to spy on/Taiwan pr. [zhan1]",t:"覘",w:"觇"}],c=[{w:"觇标",p:"chān biāo",d:"surveyor's beacon",t:"覘標"}],o=[],n="見",t=9,a=["见","占"],p=[],r={s,w:c,i:o,r:n,sc:t,c:a,d:p};export{a as c,p as d,r as default,o as i,n as r,s,t as sc,c as w};

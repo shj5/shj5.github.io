@@ -1,0 +1,1 @@
+const t=[{p:"jūn",pp:"jun1",d:"hornless deer",t:"麇",w:"麇"},{p:"qún",pp:"qun2",d:"(literary) in large numbers; thronging",t:"麇",w:"麇"}],n=["禾","鹿"],s=["攈"],o=[{w:"麇集",p:"qún jí",d:"(literary) to flock; to swarm; to congregate en masse; to cluster together",t:"麇集"}],e=[],r="鹿",c=16,a={s:t,c:n,d:s,w:o,i:e,r,sc:c};export{n as c,s as d,a as default,e as i,r,t as s,c as sc,o as w};

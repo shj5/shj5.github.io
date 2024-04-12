@@ -1,0 +1,1 @@
+const t=[{p:"bì",pp:"bi4",d:"creases/folds or pleats in a garment",t:"襞",w:"襞"}],s=["衣","辟"],a=[],c=[{w:"棕榈襞",p:"zōng lǘ bì",d:"(anatomy) the palmate folds of the cervical canal; plicae palmatae",t:"棕櫚襞"}],o=[],n="衣",e=19,l={s:t,c:s,d:a,w:c,i:o,r:n,sc:e};export{s as c,a as d,l as default,o as i,n as r,t as s,e as sc,c as w};

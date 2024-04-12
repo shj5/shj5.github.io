@@ -1,1 +1,0 @@
-const s=[{p:"gǔ",pp:"gu3",d:"dropsical/swollen",t:"臌",w:"臌"}],c=[{w:"臌胀",p:"gǔ zhàng",d:"see 鼓脹|鼓胀[gu3 zhang4]",t:"臌脹"}],t=[],n="肉",o=17,d=["月","鼓"],g=[],p={s,w:c,i:t,r:n,sc:o,c:d,d:g};export{d as c,g as d,p as default,t as i,n as r,s,o as sc,c as w};

@@ -1,0 +1,1 @@
+const n=[{p:"tóng",pp:"tong2",d:"Chrysanthemum coronarium",t:"茼",w:"茼"}],t=["艹","同"],s=[],c=[{w:"茼蒿",p:"tóng hāo",d:"crown daisy/garland chrysanthemum/Chrysanthemum coronarium",t:"茼蒿"}],o=[],r="艸",a=9,m={s:n,c:t,d:s,w:c,i:o,r,sc:a};export{t as c,s as d,m as default,o as i,r,n as s,a as sc,c as w};

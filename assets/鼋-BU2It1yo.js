@@ -1,0 +1,1 @@
+const t=[{p:"yuán",pp:"yuan2",d:"sea turtle",t:"黿",w:"鼋"}],s=["元","黾"],c=[],n=[{w:"鼋鱼",p:"yuán yú",d:"soft-shelled turtle/also termed 鱉|鳖[bie1]",t:"黿魚"}],o=[],e="黽",d=12,l={s:t,c:s,d:c,w:n,i:o,r:e,sc:d};export{s as c,c as d,l as default,o as i,e as r,t as s,d as sc,n as w};

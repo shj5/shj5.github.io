@@ -1,0 +1,1 @@
+const c=[{p:"liàng",pp:"liang4",d:"classifier for vehicles",t:"輛",w:"辆"}],s=["车","两"],n=[],t=[{w:"机动车辆",p:"jī dòng chē liàng",d:"motor vehicle",t:"機動車輛"},{w:"装甲车辆",p:"zhuāng jiǎ chē liàng",d:"armored vehicles",t:"裝甲車輛"},{w:"车辆",p:"chē liàng",d:"vehicle",t:"車輛"}],i=[],o="車",e=11,l={s:c,c:s,d:n,w:t,i,r:o,sc:e};export{s as c,n as d,l as default,i,o as r,c as s,e as sc,t as w};

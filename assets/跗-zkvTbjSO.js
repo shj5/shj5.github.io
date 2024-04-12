@@ -1,1 +1,0 @@
-const s=[{p:"fū",pp:"fu1",d:"instep/tarsus",t:"跗",w:"跗"}],t=[{w:"跗猴",p:"fū hóu",d:"tarsier",t:"跗猴"}],c=[],n="足",o=12,p=["付","足"],r=[],d={s,w:t,i:c,r:n,sc:o,c:p,d:r};export{p as c,r as d,d as default,c as i,n as r,s,o as sc,t as w};

@@ -1,0 +1,1 @@
+const o=[{p:"chuí",pp:"chui2",d:"callus on the hand or foot/upper leg bone of horse or bird/buttocks",t:"腄",w:"腄"}],c=["月","垂"],s=[],t=[],n=[],r="肉",e=12,d={s:o,c,d:s,w:t,i:n,r,sc:e};export{c,s as d,d as default,n as i,r,o as s,e as sc,t as w};

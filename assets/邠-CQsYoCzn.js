@@ -1,0 +1,1 @@
+const n=[{p:"Bīn",pp:"Bin1",d:"variant of 豳[Bin1]",t:"邠",w:"邠"},{p:"bīn",pp:"bin1",d:"variant of 彬[bin1]",t:"邠",w:"邠"}],t=["分"],s=[],c=[],o=[],i="邑",p=7,a={s:n,c:t,d:s,w:c,i:o,r:i,sc:p};export{t as c,s as d,a as default,o as i,i as r,n as s,p as sc,c as w};

@@ -1,0 +1,1 @@
+const c=[{p:"jūn",pp:"jun1",d:"to chap",t:"皸",w:"皲"}],s=["皮","军"],t=[],n=[{w:"皲裂",p:"jūn liè",d:"(of lips, skin etc) to chap",t:"皸裂"}],o=[],p="皮",d=11,i={s:c,c:s,d:t,w:n,i:o,r:p,sc:d};export{s as c,t as d,i as default,o as i,p as r,c as s,d as sc,n as w};

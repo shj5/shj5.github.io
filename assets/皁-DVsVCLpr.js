@@ -1,0 +1,1 @@
+const c=[{p:"zào",pp:"zao4",d:"black/police runners, from the black clothes formerly worn by them",t:"皁",w:"皁"}],o=["十","白"],s=[],t=[],n=[],r="白",e=7,l={s:c,c:o,d:s,w:t,i:n,r,sc:e};export{o as c,s as d,l as default,n as i,r,c as s,e as sc,t as w};

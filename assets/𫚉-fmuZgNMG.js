@@ -1,1 +1,0 @@
-const s=[{p:"hóng",pp:"hong2",d:"ray (fish)/Taiwan pr. [hong1]",t:"魟",w:"𫚉"}],n=[{w:"𫚉鱼",p:"hóng yú",d:"skate (cartilaginous fish belonging to the family Rajidae)/stingray",t:"魟魚"}],t=[],o="",c=0,a=[],i=[],g={s,w:n,i:t,r:o,sc:c,c:a,d:i};export{a as c,i as d,g as default,t as i,o as r,s,c as sc,n as w};

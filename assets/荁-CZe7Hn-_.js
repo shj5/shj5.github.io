@@ -1,0 +1,1 @@
+const s=[{p:"huán",pp:"huan2",d:"(vegetable)/Viola vaginata",t:"荁",w:"荁"}],t=["艹","亘"],c=[],n=[],o=[],a="艸",e=9,d={s,c:t,d:c,w:n,i:o,r:a,sc:e};export{t as c,c as d,d as default,o as i,a as r,s,e as sc,n as w};

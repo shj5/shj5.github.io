@@ -1,1 +1,0 @@
-const n=[{p:"jiǎn",pp:"jian3",d:"ancient weapon like a long solid metal truncheon",t:"鐧",w:"锏"}],s=[{w:"撒手锏",p:"sā shǒu jiǎn",d:"(fig.) trump card",t:"撒手鐧"},{w:"杀手锏",p:"shā shǒu jiǎn",d:"(fig.) trump card",t:"殺手鐧"}],t=[],c="金",o=12,i=["间"],a=[],d={s:n,w:s,i:t,r:c,sc:o,c:i,d:a};export{i as c,a as d,d as default,t as i,c as r,n as s,o as sc,s as w};

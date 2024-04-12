@@ -1,0 +1,1 @@
+const t=[{p:"zào",pp:"zao4",d:"variant of 造, to make/to build/to invent/to manufacture",t:"艁",w:"艁"}],o=["舟","告"],c=[],s=[],n=[],a="舟",d=13,e={s:t,c:o,d:c,w:s,i:n,r:a,sc:d};export{o as c,c as d,e as default,n as i,a as r,t as s,d as sc,s as w};

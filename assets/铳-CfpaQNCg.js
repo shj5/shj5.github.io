@@ -1,0 +1,1 @@
+const n=[{p:"chòng",pp:"chong4",d:"ancient firearm/gun",t:"銃",w:"铳"}],c=["充"],t=[],s=[{w:"佛朗机铳",p:"Fó lǎng jī chòng",d:"Western (and so styled) cannon of the Ming era",t:"佛朗機銃"},{w:"鸟铳",p:"niǎo chòng",d:"bird gun",t:"鳥銃"}],o=[],d="金",e=11,g={s:n,c,d:t,w:s,i:o,r:d,sc:e};export{c,t as d,g as default,o as i,d as r,n as s,e as sc,s as w};

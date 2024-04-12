@@ -1,0 +1,1 @@
+const t=[{p:"liè",pp:"lie4",d:"tear/twist",t:"捩",w:"捩"}],n=["扌","戻"],s=[],c=[{w:"转捩",p:"zhuǎn liè",d:"to turn",t:"轉捩"},{w:"转捩点",p:"zhuǎn liè diǎn",d:"turning point",t:"轉捩點"}],o=[],i="手",d=11,p={s:t,c:n,d:s,w:c,i:o,r:i,sc:d};export{n as c,s as d,p as default,o as i,i as r,t as s,d as sc,c as w};

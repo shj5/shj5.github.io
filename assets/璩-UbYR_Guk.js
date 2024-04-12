@@ -1,1 +1,0 @@
-const s=[{p:"Qú",pp:"Qu2",d:"surname Qu",t:"璩",w:"璩"},{p:"qú",pp:"qu2",d:"(jade ring)",t:"璩",w:"璩"}],c=[],t=[],n="玉",o=17,p=["王","豦"],d=[],r={s,w:c,i:t,r:n,sc:o,c:p,d};export{p as c,d,r as default,t as i,n as r,s,o as sc,c as w};

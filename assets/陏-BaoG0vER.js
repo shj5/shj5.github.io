@@ -1,0 +1,1 @@
+const s=[{p:"Suí",pp:"Sui2",d:"old variant of 隨|随[Sui2]",t:"陏",w:"陏"}],c=["有"],t=["堕","椭"],o=[],n=[],d="阜",i=9,a={s,c,d:t,w:o,i:n,r:d,sc:i};export{c,t as d,a as default,n as i,d as r,s,i as sc,o as w};

@@ -1,1 +1,0 @@
-const t=[{p:"chēn",pp:"chen1",d:"to pull/to stretch/to draw sth out",t:"抻",w:"抻"}],o=[{w:"抻面",p:"chēn miàn",d:"to make noodles by pulling out dough/hand-pulled noodles",t:"抻麵"}],s=[],c="手",n=8,d=["扌","申"],l=[],e={s:t,w:o,i:s,r:c,sc:n,c:d,d:l};export{d as c,l as d,e as default,s as i,c as r,t as s,n as sc,o as w};

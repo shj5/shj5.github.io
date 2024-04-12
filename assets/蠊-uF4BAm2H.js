@@ -1,0 +1,1 @@
+const c=[{p:"lián",pp:"lian2",d:"cockroach",t:"蠊",w:"蠊"}],o=["虫","廉"],s=[],t=[{w:"蜚蠊",p:"fěi lián",d:"cockroach/same as 蟑螂[zhang1 lang2]",t:"蜚蠊"},{w:"蜚蠊科",p:"fěi lián kē",d:"Blattidae, family of about 550 species of cockroach",t:"蜚蠊科"}],a=[],n="虫",i=19,l={s:c,c:o,d:s,w:t,i:a,r:n,sc:i};export{o as c,s as d,l as default,a as i,n as r,c as s,i as sc,t as w};

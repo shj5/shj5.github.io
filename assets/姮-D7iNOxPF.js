@@ -1,1 +1,0 @@
-const n=[{p:"héng",pp:"heng2",d:"feminine name (old)",t:"姮",w:"姮"}],s=[{w:"姮娥",p:"Héng é",d:"see 嫦娥[Chang2 e2]",t:"姮娥"}],c=[],t="女",o=9,e=["女","亘"],d=[],p={s:n,w:s,i:c,r:t,sc:o,c:e,d};export{e as c,d,p as default,c as i,t as r,n as s,o as sc,s as w};

@@ -1,1 +1,0 @@
-const s=[{p:"jī",pp:"ji1",d:"used in 㚻姦|㚻奸[ji1 jian1]",t:"㚻",w:"㚻"}],n=[{w:"㚻奸",p:"jī jiān",d:"variant of 雞奸|鸡奸[ji1 jian1]",t:"㚻姦"}],t=[],c="",i=0,o=[],j=[],a={s,w:n,i:t,r:c,sc:i,c:o,d:j};export{o as c,j as d,a as default,t as i,c as r,s,i as sc,n as w};

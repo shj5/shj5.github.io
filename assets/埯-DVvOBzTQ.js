@@ -1,0 +1,1 @@
+const s=[{p:"ǎn",pp:"an3",d:"hole in the ground to plant seeds in/to make a hole for seeds/to dibble",t:"埯",w:"埯"}],o=["土","奄"],t=[],n=[],c=[],e="土",d=11,a={s,c:o,d:t,w:n,i:c,r:e,sc:d};export{o as c,t as d,a as default,c as i,e as r,s,d as sc,n as w};

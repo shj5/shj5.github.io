@@ -1,0 +1,1 @@
+const s=[{p:"zā",pp:"za1",d:"see 腌臢|腌臜[a1 za1]",t:"臢",w:"臜"}],t=["月"],n=[],a=[{w:"腌臜",p:"ā zā",d:"dirty/filthy/awkward/disgusting/nauseating/Taiwan pr. [ang1 zang1]",t:"腌臢"}],c=[],o="肉",d=20,i={s,c:t,d:n,w:a,i:c,r:o,sc:d};export{t as c,n as d,i as default,c as i,o as r,s,d as sc,a as w};

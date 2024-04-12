@@ -1,1 +1,0 @@
-const n=[{p:"huáng",pp:"huang2",d:"used in 癀病[huang2 bing4]",t:"癀",w:"癀"}],s=[{w:"癀病",p:"huáng bìng",d:"(dialect) anthrax in livestock",t:"癀病"}],t=[],c="疒",o=16,a=["疒","黄"],d=[],i={s:n,w:s,i:t,r:c,sc:o,c:a,d};export{a as c,d,i as default,t as i,c as r,n as s,o as sc,s as w};

@@ -1,0 +1,1 @@
+const s=[{p:"yǒng",pp:"yong3",d:"(archaic) a kind of tree whose timber was used to make ceremonial tablets 笏[hu4]",t:"栐",w:"栐"}],t=["木","永"],c=[],o=[],n=[],e="木",a=9,r={s,c:t,d:c,w:o,i:n,r:e,sc:a};export{t as c,c as d,r as default,n as i,e as r,s,a as sc,o as w};

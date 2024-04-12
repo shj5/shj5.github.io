@@ -1,1 +1,0 @@
-const o=[{p:"ào",pp:"ao4",d:"variant of 坳[ao4]",t:"㘭",w:"坳"},{p:"ào",pp:"ao4",d:"depression; cavity; hollow/Taiwan pr. [ao1]",t:"坳",w:"坳"}],s=[{w:"坳陷",p:"ào xiàn",d:"(geology) depression/low-lying area",t:"坳陷"}],t=[],n="土",a=8,c=["土","幼"],p=[],i={s:o,w:s,i:t,r:n,sc:a,c,d:p};export{c,p as d,i as default,t as i,n as r,o as s,a as sc,s as w};

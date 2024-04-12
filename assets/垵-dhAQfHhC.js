@@ -1,0 +1,1 @@
+const s=[{p:"ǎn",pp:"an3",d:"(used in place names)/variant of 埯[an3]",t:"垵",w:"垵"}],n=["土","安"],c=[],t=[],o=[],a="土",d=9,e={s,c:n,d:c,w:t,i:o,r:a,sc:d};export{n as c,c as d,e as default,o as i,a as r,s,d as sc,t as w};

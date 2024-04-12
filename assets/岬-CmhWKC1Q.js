@@ -1,0 +1,1 @@
+const a=[{p:"jiǎ",pp:"jia3",d:"cape (geography)/headland",t:"岬",w:"岬"}],d=["山","甲"],c=[],o=[{w:"地岬",p:"dì jiǎ",d:"cape (geography)/headland",t:"地岬"},{w:"岬角",p:"jiǎ jiǎo",d:"cape/headland/promontory",t:"岬角"},{w:"海岬",p:"hǎi jiǎ",d:"headland",t:"海岬"}],t=[],n="山",p=8,s={s:a,c:d,d:c,w:o,i:t,r:n,sc:p};export{d as c,c as d,s as default,t as i,n as r,a as s,p as sc,o as w};

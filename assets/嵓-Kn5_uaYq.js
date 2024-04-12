@@ -1,1 +1,0 @@
-const n=[{p:"yán",pp:"yan2",d:"variant of 岩[yan2]/variant of 嚴|严[yan2]",t:"嵓",w:"嵓"}],s=[],t=[],c="山",o=12,a=["山","品"],r=[],d={s:n,w:s,i:t,r:c,sc:o,c:a,d:r};export{a as c,r as d,d as default,t as i,c as r,n as s,o as sc,s as w};

@@ -1,0 +1,1 @@
+const s=[{p:"dān",pp:"dan1",d:"Japanese variant of 單|单",t:"単",w:"単"}],c=["十","畄"],n=["弾","戦"],t=[],o=[],a="十",d=9,p={s,c,d:n,w:t,i:o,r:a,sc:d};export{c,n as d,p as default,o as i,a as r,s,d as sc,t as w};

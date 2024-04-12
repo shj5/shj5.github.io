@@ -1,0 +1,1 @@
+const n=[{p:"dàng",pp:"dang4",d:"stone with color veins",t:"碭",w:"砀"}],s=["石"],o=[],t=[{w:"砀山",p:"Dàng shān",d:"Dangshan, a county in Suzhou 宿州[Su4zhou1], Anhui",t:"碭山"},{w:"砀山县",p:"Dàng shān Xiàn",d:"Dangshan, a county in Suzhou 宿州[Su4zhou1], Anhui",t:"碭山縣"}],c=[],u="石",h=8,a={s:n,c:s,d:o,w:t,i:c,r:u,sc:h};export{s as c,o as d,a as default,c as i,u as r,n as s,h as sc,t as w};

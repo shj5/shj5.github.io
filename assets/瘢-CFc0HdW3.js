@@ -1,0 +1,1 @@
+const c=[{p:"bān",pp:"ban1",d:"mark/scar on the skin",t:"瘢",w:"瘢"}],n=["疒","般"],s=[],t=[{w:"痘瘢",p:"dòu bān",d:"pock mark",t:"痘瘢"},{w:"瘢痕",p:"bān hén",d:"scar",t:"瘢痕"},{w:"麻瘢",p:"má bān",d:"pock mark",t:"麻瘢"}],o=[],p="疒",a=15,d={s:c,c:n,d:s,w:t,i:o,r:p,sc:a};export{n as c,s as d,d as default,o as i,p as r,c as s,a as sc,t as w};

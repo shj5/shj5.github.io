@@ -1,1 +1,0 @@
-const s=[{p:"suǒ",pp:"suo3",d:"used in 嗩吶|唢呐[suo3 na4]",t:"嗩",w:"唢"}],o=[{w:"唢呐",p:"suǒ nà",d:"suona, Chinese shawm (oboe), used in festivals and processions or for military purposes/also written 鎖吶|锁呐/also called 喇叭[la3 ba5]",t:"嗩吶"}],n=[],t="口",c=10,a=["口"],e=["琐","锁"],i={s,w:o,i:n,r:t,sc:c,c:a,d:e};export{a as c,e as d,i as default,n as i,t as r,s,c as sc,o as w};

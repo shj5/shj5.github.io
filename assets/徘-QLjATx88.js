@@ -1,1 +1,0 @@
-const t=[{p:"pái",pp:"pai2",d:"used in 徘徊[pai2 huai2]",t:"徘",w:"徘"}],s=[{w:"徘徊",p:"pái huái",d:"to pace back and forth/to dither; to hesitate/(of sales figures etc) to fluctuate",t:"徘徊"}],c=[],o="彳",i=11,a=["彳","非"],e=[],n={s:t,w:s,i:c,r:o,sc:i,c:a,d:e};export{a as c,e as d,n as default,c as i,o as r,t as s,i as sc,s as w};

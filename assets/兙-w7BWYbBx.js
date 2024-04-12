@@ -1,1 +1,0 @@
-const s=[{p:"shí kè",pp:"shi2 ke4",d:"decagram (old) (single-character equivalent of 十克[shi2 ke4])",t:"兙",w:"兙"}],c=[],t=[],o="儿",n=9,e=["十","克"],a=[],d={s,w:c,i:t,r:o,sc:n,c:e,d:a};export{e as c,a as d,d as default,t as i,o as r,s,n as sc,c as w};

@@ -1,0 +1,1 @@
+const s=[{p:"qiè",pp:"qie4",d:"variant of 愜|惬[qie4]",t:"㥦",w:"惬"},{p:"qiè",pp:"qie4",d:"cheerful/satisfied",t:"愜",w:"惬"}],t=["忄"],c=["箧"],e=[{w:"惬意",p:"qiè yì",d:"satisfied; pleased; contented",t:"愜意"}],i=[],n="心",o=11,d={s,c:t,d:c,w:e,i,r:n,sc:o};export{t as c,c as d,d as default,i,n as r,s,o as sc,e as w};

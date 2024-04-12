@@ -1,1 +1,0 @@
-const s=[{p:"cí",pp:"ci2",d:"used in 鳧茈|凫茈[fu2ci2]",t:"茈",w:"茈"},{p:"zǐ",pp:"zi3",d:"Common Gromwell or European stoneseed (Lithospermum officinale)",t:"茈",w:"茈"}],c=[{w:"凫茈",p:"fú cí",d:"see 荸薺|荸荠[bi2 qi2]",t:"鳧茈"}],o=[],t="艸",n=9,e=["艹","此"],i=[],p={s,w:c,i:o,r:t,sc:n,c:e,d:i};export{e as c,i as d,p as default,o as i,t as r,s,n as sc,c as w};

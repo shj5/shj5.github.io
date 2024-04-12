@@ -1,1 +1,0 @@
-const t=[{p:"tuò",pp:"tuo4",d:"watchman's rattle",t:"柝",w:"柝"}],s=[{w:"倪柝声",p:"Ní Tuò shēng",d:"Ni Tuosheng or Watchman Nee (1903-1972), influential Chinese Christian",t:"倪柝聲"}],n=[],c="木",o=9,a=["木","斥"],e=[],i={s:t,w:s,i:n,r:c,sc:o,c:a,d:e};export{a as c,e as d,i as default,n as i,c as r,t as s,o as sc,s as w};

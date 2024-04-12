@@ -1,0 +1,1 @@
+const t=[{p:"jiě",pp:"jie3",d:"variant of 解[jie3]",t:"觧",w:"觧"},{p:"jiè",pp:"jie4",d:"variant of 解[jie4]",t:"觧",w:"觧"},{p:"xiè",pp:"xie4",d:"variant of 解[xie4]",t:"觧",w:"觧"}],i=["羊","角"],s=[],c=[],o=[],n="角",p=13,a={s:t,c:i,d:s,w:c,i:o,r:n,sc:p};export{i as c,s as d,a as default,o as i,n as r,t as s,p as sc,c as w};

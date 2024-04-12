@@ -1,0 +1,1 @@
+const s=[{p:"cóng",pp:"cong2",d:"a place where small streams flow into a large one",t:"漎",w:"漎"}],c=["氵"],o=[],t=[],n=[],a="水",e=14,l={s,c,d:o,w:t,i:n,r:a,sc:e};export{c,o as d,l as default,n as i,a as r,s,e as sc,t as w};

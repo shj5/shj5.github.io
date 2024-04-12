@@ -1,1 +1,0 @@
-const t=[{p:"dú",pp:"du2",d:"cabinet/case/casket",t:"櫝",w:"椟"}],o=[],s=[{w:"买椟还珠",p:"mǎi dú huán zhū",d:"to buy a wooden box and return the pearls inside/to show poor judgment (idiom)",t:"買櫝還珠"}],c="木",n=11,d=["木","卖"],e=[],a={s:t,w:o,i:s,r:c,sc:n,c:d,d:e};export{d as c,e as d,a as default,s as i,c as r,t as s,n as sc,o as w};

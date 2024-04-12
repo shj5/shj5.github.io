@@ -1,0 +1,1 @@
+const s=[{p:"èr",pp:"er4",d:"space between mouth and ears",t:"咡",w:"咡"}],c=["口","耳"],t=[],n=[],o=[],e="口",r=9,a={s,c,d:t,w:n,i:o,r:e,sc:r};export{c,t as d,a as default,o as i,e as r,s,r as sc,n as w};

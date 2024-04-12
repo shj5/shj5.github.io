@@ -1,1 +1,0 @@
-const s=[{p:"fán",pp:"fan2",d:"plant similar to coco-grass 莎草[suo1 cao3] (classical)",t:"薠",w:"薠"}],c=[],o=[],t="艸",n=16,a=["艹"],i=[],l={s,w:c,i:o,r:t,sc:n,c:a,d:i};export{a as c,i as d,l as default,o as i,t as r,s,n as sc,c as w};

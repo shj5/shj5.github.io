@@ -1,0 +1,1 @@
+const n=[{p:"dāng",pp:"dang1",d:"see 篔簹|筼筜[yun2 dang1]",t:"簹",w:"筜"}],s=["竹","当"],t=[],c=[{w:"筼筜",p:"yún dāng",d:"species of tall bamboo",t:"篔簹"},{w:"筼筜湖",p:"Yún dāng Hú",d:"Yundang or Yuandang Lake in Xiamen",t:"篔簹湖"}],d=[],o="竹",a=12,e={s:n,c:s,d:t,w:c,i:d,r:o,sc:a};export{s as c,t as d,e as default,d as i,o as r,n as s,a as sc,c as w};

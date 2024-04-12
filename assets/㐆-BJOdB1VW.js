@@ -1,0 +1,1 @@
+const c=[{p:"yǐn",pp:"yin3",d:"component in Chinese character 殷[yin1]",t:"㐆",w:"㐆"}],n=[],s=[],t=[],o=[],e="",i=0,p={s:c,c:n,d:s,w:t,i:o,r:e,sc:i};export{n as c,s as d,p as default,o as i,e as r,c as s,i as sc,t as w};

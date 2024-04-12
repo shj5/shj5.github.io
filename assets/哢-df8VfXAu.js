@@ -1,1 +1,0 @@
-const s=[{p:"lòng",pp:"long4",d:"to sing or chirp (of birds)/music sound",t:"哢",w:"哢"}],c=[],o=[],n="口",t=10,d=["口","弄"],i=[],r={s,w:c,i:o,r:n,sc:t,c:d,d:i};export{d as c,i as d,r as default,o as i,n as r,s,t as sc,c as w};

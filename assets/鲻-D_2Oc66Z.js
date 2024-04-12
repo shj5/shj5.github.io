@@ -1,0 +1,1 @@
+const t=[{p:"zī",pp:"zi1",d:"mullet",t:"鯔",w:"鲻"}],s=["鱼","甾"],c=[],l=[{w:"鲻鱼",p:"zī yú",d:"flathead grey mullet (Mugil cephalus)",t:"鯔魚"},{w:"鲻鱼头",p:"zī yú tóu",d:"mullet (hairstyle)",t:"鯔魚頭"}],e=[],o="魚",n=16,d={s:t,c:s,d:c,w:l,i:e,r:o,sc:n};export{s as c,c as d,d as default,e as i,o as r,t as s,n as sc,l as w};

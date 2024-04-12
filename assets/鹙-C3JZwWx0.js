@@ -1,0 +1,1 @@
+const c=[{p:"qiū",pp:"qiu1",d:"see 鶖鷺|鹙鹭[qiu1 lu4]",t:"鶖",w:"鹙"}],s=["鸟","秋"],o=[],t=[{w:"鹙鹭",p:"qiū lù",d:"oriole/black drongo (Dicrurus macrocercus)",t:"鶖鷺"}],n=[],r="鳥",i=14,u={s:c,c:s,d:o,w:t,i:n,r,sc:i};export{s as c,o as d,u as default,n as i,r,c as s,i as sc,t as w};

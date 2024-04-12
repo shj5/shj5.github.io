@@ -1,0 +1,1 @@
+const o=[{p:"pào",pp:"pao4",d:"ancient ballista for throwing heavy stones/variant of 炮[pao4], cannon",t:"礮",w:"礮"}],n=["石"],s=[],t=[],c=[],a="石",p=21,i={s:o,c:n,d:s,w:t,i:c,r:a,sc:p};export{n as c,s as d,i as default,c as i,a as r,o as s,p as sc,t as w};

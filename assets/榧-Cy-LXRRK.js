@@ -1,0 +1,1 @@
+const s=[{p:"fěi",pp:"fei3",d:"Torreya nucifera",t:"榧",w:"榧"}],n=["木","匪"],t=[],c=[{w:"粗榧",p:"cū fěi",d:"Chinese plum-yew/Cephalotaxus sinensis (botany)",t:"粗榧"},{w:"西双版纳粗榧",p:"xī shuāng bǎn nà cū fěi",d:"Cephalotaxus mannii (botany)",t:"西雙版納粗榧"}],o=[],i="木",a=14,e={s,c:n,d:t,w:c,i:o,r:i,sc:a};export{n as c,t as d,e as default,o as i,i as r,s,a as sc,c as w};

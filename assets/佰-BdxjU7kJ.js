@@ -1,0 +1,1 @@
+const n=[{p:"bǎi",pp:"bai3",d:"hundred (banker's anti-fraud numeral)",t:"佰",w:"佰"}],s=["亻","百"],t=["宿"],c=[{w:"八佰伴",p:"Bā bǎi bàn",d:"Yaohan retail group",t:"八佰伴"}],o=[],a="人",r=8,d={s:n,c:s,d:t,w:c,i:o,r:a,sc:r};export{s as c,t as d,d as default,o as i,a as r,n as s,r as sc,c as w};

@@ -1,1 +1,0 @@
-const s=[{p:"lì",pp:"li4",d:"to curse/to scold",t:"詈",w:"詈"}],t=[{w:"詈骂",p:"lì mà",d:"(literary) to scold/to abuse",t:"詈罵"},{w:"詈词",p:"lì cí",d:"insult/curse",t:"詈詞"}],c=[],o="言",l=12,n=["罒","言"],d=[],r={s,w:t,i:c,r:o,sc:l,c:n,d};export{n as c,d,r as default,c as i,o as r,s,l as sc,t as w};

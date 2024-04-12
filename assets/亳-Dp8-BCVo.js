@@ -1,0 +1,1 @@
+const t=[{p:"Bó",pp:"Bo2",d:"name of district in Anhui/capital of Yin",t:"亳",w:"亳"}],c=["乇"],n=[],o=[{w:"亳州",p:"Bó zhōu",d:"Bozhou prefecture-level city in Anhui",t:"亳州"},{w:"亳州市",p:"Bó zhōu shì",d:"Bozhou prefecture-level city in Anhui",t:"亳州市"}],s=[],i="亠",e=10,u={s:t,c,d:n,w:o,i:s,r:i,sc:e};export{c,n as d,u as default,s as i,i as r,t as s,e as sc,o as w};

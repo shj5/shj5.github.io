@@ -1,0 +1,1 @@
+const s=[{p:"juàn",pp:"juan4",d:"impetuous/rash/upright (character)",t:"狷",w:"狷"},{p:"juàn",pp:"juan4",d:"nimble/variant of 狷[juan4]/impetuous/rash",t:"獧",w:"狷"}],t=["犭","肙"],n=[],c=[],o=[],a="犬",u=10,p={s,c:t,d:n,w:c,i:o,r:a,sc:u};export{t as c,n as d,p as default,o as i,a as r,s,u as sc,c as w};

@@ -1,0 +1,1 @@
+const s=[{p:"lì",pp:"li4",d:"archaic variant of 櫪|枥, oak/type of tree in ancient books/stable (for horses)",t:"栃",w:"栃"}],o=["木"],t=[],c=[],n=[],a="木",e=9,r={s,c:o,d:t,w:c,i:n,r:a,sc:e};export{o as c,t as d,r as default,n as i,a as r,s,e as sc,c as w};

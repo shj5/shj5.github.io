@@ -1,1 +1,0 @@
-const t=[{p:"guǐ",pp:"gui3",d:"(literary) shelf/(literary) to store; to keep; to preserve",t:"庋",w:"庋"}],s=[],o=[],c="广",e=7,r=["广","支"],n=[],p={s:t,w:s,i:o,r:c,sc:e,c:r,d:n};export{r as c,n as d,p as default,o as i,c as r,t as s,e as sc,s as w};

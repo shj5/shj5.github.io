@@ -1,0 +1,1 @@
+const c=[{p:"zhù",pp:"zhu4",d:"to soar",t:"翥",w:"翥"}],o=["羽","者"],s=[],t=[],n=[{w:"鸾翔凤翥",p:"luán xiáng fèng zhù",d:"(of calligraphy) full of power and grace",t:"鸞翔鳳翥"}],a="羽",p=15,r={s:c,c:o,d:s,w:t,i:n,r:a,sc:p};export{o as c,s as d,r as default,n as i,a as r,c as s,p as sc,t as w};

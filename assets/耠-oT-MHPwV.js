@@ -1,1 +1,0 @@
-const o=[{p:"huō",pp:"huo1",d:"a hoe/to hoe/to loosen the soil with a hoe/Taiwan pr. [he2]",t:"耠",w:"耠"}],s=[],t=[],c="耒",n=12,e=["耒","合"],h=[],a={s:o,w:s,i:t,r:c,sc:n,c:e,d:h};export{e as c,h as d,a as default,t as i,c as r,o as s,n as sc,s as w};

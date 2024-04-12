@@ -1,0 +1,1 @@
+const s=[{p:"xū",pp:"xu1",d:"dim; dark/sudden/surreptitious/Taiwan pr. [xu4]",t:"魆",w:"魆"}],t=["戉","鬼"],c=[],d=[{w:"魆魆",p:"xū xū",d:"secretly; surreptitiously",t:"魆魆"},{w:"黑魆魆",p:"hēi xū xū",d:"dim; dark; murky/black",t:"黑魆魆"}],r=[],o="鬼",i=15,n={s,c:t,d:c,w:d,i:r,r:o,sc:i};export{t as c,c as d,n as default,r as i,o as r,s,i as sc,d as w};

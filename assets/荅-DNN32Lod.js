@@ -1,0 +1,1 @@
+const t=[{p:"dā",pp:"da1",d:"variant of 答[da1]",t:"荅",w:"荅"},{p:"dá",pp:"da2",d:"variant of 答[da2]",t:"荅",w:"荅"}],s=["艹","合"],c=["剳","嗒","塔","搭","瘩","褡"],d=[],o=[],a="艸",n=9,p={s:t,c:s,d:c,w:d,i:o,r:a,sc:n};export{s as c,c as d,p as default,o as i,a as r,t as s,n as sc,d as w};

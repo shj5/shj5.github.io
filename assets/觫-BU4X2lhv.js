@@ -1,0 +1,1 @@
+const s=[{p:"sù",pp:"su4",d:"used in 觳觫[hu2 su4]",t:"觫",w:"觫"}],t=["角","束"],c=[],o=[{w:"觳觫",p:"hú sù",d:"(literary) to tremble with fear",t:"觳觫"}],n=[],e="角",r=14,d={s,c:t,d:c,w:o,i:n,r:e,sc:r};export{t as c,c as d,d as default,n as i,e as r,s,r as sc,o as w};

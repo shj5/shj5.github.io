@@ -1,0 +1,1 @@
+const t=[{p:"lěi",pp:"lei3",d:"to injure/puppet",t:"儡",w:"儡"}],p=["亻","畾"],s=[],c=[{w:"傀儡",p:"kuǐ lěi",d:"(lit. and fig.) puppet",t:"傀儡"},{w:"傀儡戏",p:"kuǐ lěi xì",d:"puppet show",t:"傀儡戲"},{w:"傀儡政权",p:"kuǐ lěi zhèng quán",d:"puppet state/puppet regime",t:"傀儡政權"}],e=[],n="人",i=17,o={s:t,c:p,d:s,w:c,i:e,r:n,sc:i};export{p as c,s as d,o as default,e as i,n as r,t as s,i as sc,c as w};

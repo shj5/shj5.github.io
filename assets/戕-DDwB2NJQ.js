@@ -1,0 +1,1 @@
+const t=[{p:"qiāng",pp:"qiang1",d:"to kill/to injure/Taiwan pr. [qiang2]",t:"戕",w:"戕"}],n=["爿","戈"],i=["臧"],c=[{w:"戕害",p:"qiāng hài",d:"to injure",t:"戕害"},{w:"自戕",p:"zì qiāng",d:"to commit suicide",t:"自戕"}],o=[],s="戈",d=8,p={s:t,c:n,d:i,w:c,i:o,r:s,sc:d};export{n as c,i as d,p as default,o as i,s as r,t as s,d as sc,c as w};

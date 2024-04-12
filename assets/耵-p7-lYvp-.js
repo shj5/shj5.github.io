@@ -1,1 +1,0 @@
-const n=[{p:"dīng",pp:"ding1",d:"used in 耵聹|耵聍[ding1ning2]/Taiwan pr. [ding3]",t:"耵",w:"耵"}],s=[{w:"耵聍",p:"dīng níng",d:"earwax; cerumen",t:"耵聹"}],c=[],t="耳",d=8,o=["丁","耳"],i=[],g={s:n,w:s,i:c,r:t,sc:d,c:o,d:i};export{o as c,i as d,g as default,c as i,t as r,n as s,d as sc,s as w};

@@ -1,0 +1,1 @@
+const t=[{p:"sóng",pp:"song2",d:"variant of 㞞|𪨊[song2]",t:"慫",w:"怂"},{p:"sǒng",pp:"song3",d:"used in 慫恿|怂恿[song3yong3]/(literary) terrified",t:"慫",w:"怂"}],n=["人","心"],s=[],o=[{w:"怂恿",p:"sǒng yǒng",d:"to instigate; to incite; to urge; to encourage",t:"慫恿"}],c=[],g="心",e=8,i={s:t,c:n,d:s,w:o,i:c,r:g,sc:e};export{n as c,s as d,i as default,c as i,g as r,t as s,e as sc,o as w};

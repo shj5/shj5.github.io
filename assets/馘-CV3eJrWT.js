@@ -1,0 +1,1 @@
+const e=[{p:"guó",pp:"guo2",d:"(literary) to cut off the left ear of a slain enemy/the severed ear of a slain enemy",t:"馘",w:"馘"}],t=["或","首"],s=[],o=[{w:"馘首",p:"guó shǒu",d:"(of a headhunter) to sever a head",t:"馘首"}],a=[],c="首",n=17,r={s:e,c:t,d:s,w:o,i:a,r:c,sc:n};export{t as c,s as d,r as default,a as i,c as r,e as s,n as sc,o as w};

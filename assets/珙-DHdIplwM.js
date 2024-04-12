@@ -1,0 +1,1 @@
+const n=[{p:"gǒng",pp:"gong3",d:"(gem)",t:"珙",w:"珙"}],t=["王","共"],c=[],o=[{w:"珙桐",p:"gǒng tóng",d:"dove tree (Davidia involucrata)",t:"珙桐"},{w:"珙县",p:"Gǒng xiàn",d:"Gong county in Yibin 宜賓|宜宾[Yi2 bin1], Sichuan",t:"珙縣"}],s=[],i="玉",g=10,d={s:n,c:t,d:c,w:o,i:s,r:i,sc:g};export{t as c,c as d,d as default,s as i,i as r,n as s,g as sc,o as w};

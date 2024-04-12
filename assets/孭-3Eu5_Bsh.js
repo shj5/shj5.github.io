@@ -1,0 +1,1 @@
+const s=[{p:"miē",pp:"mie1",d:"to carry on the back or shoulders (Cantonese)",t:"孭",w:"孭"}],c=["孑"],o=[],t=[],n=[],e="子",r=10,a={s,c,d:o,w:t,i:n,r:e,sc:r};export{c,o as d,a as default,n as i,e as r,s,r as sc,t as w};

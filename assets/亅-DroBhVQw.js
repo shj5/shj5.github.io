@@ -1,1 +1,0 @@
-const c=[{p:"jué",pp:"jue2",d:'"vertical stroke with hook" radical in Chinese characters (Kangxi radical 6), aka 豎鉤|竖钩[shu4gou1]',t:"亅",w:"亅"}],s=[],t=[],o="*",a=1,n=["亅"],i=["亅","丁","了","亇","亍","于"],r={s:c,w:s,i:t,r:o,sc:a,c:n,d:i};export{n as c,i as d,r as default,t as i,o as r,c as s,a as sc,s as w};

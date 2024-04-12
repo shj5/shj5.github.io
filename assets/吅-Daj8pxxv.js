@@ -1,0 +1,1 @@
+const n=[{p:"sòng",pp:"song4",d:"variant of 訟|讼[song4]",t:"吅",w:"吅"},{p:"xuān",pp:"xuan1",d:"variant of 喧[xuan1]",t:"吅",w:"吅"}],s=["口"],t=["斝"],o=[],c=[],a="口",p=6,d={s:n,c:s,d:t,w:o,i:c,r:a,sc:p};export{s as c,t as d,d as default,c as i,a as r,n as s,p as sc,o as w};

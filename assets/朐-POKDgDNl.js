@@ -1,1 +1,0 @@
-const n=[{p:"Qú",pp:"Qu2",d:"surname Qu",t:"朐",w:"朐"}],t=[{w:"临朐",p:"Lín qú",d:"Linqu County in Weifang 濰坊|潍坊[Wei2 fang1], Shandong",t:"臨朐"},{w:"临朐县",p:"Lín qú Xiàn",d:"Linqu County in Weifang 濰坊|潍坊[Wei2 fang1], Shandong",t:"臨朐縣"}],s=[],o="月",c=9,i=["月","句"],a=[],d={s:n,w:t,i:s,r:o,sc:c,c:i,d:a};export{i as c,a as d,d as default,s as i,o as r,n as s,c as sc,t as w};

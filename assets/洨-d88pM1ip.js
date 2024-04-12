@@ -1,0 +1,1 @@
+const i=[{p:"Xiáo",pp:"Xiao2",d:"Xiao River in Hebei province",t:"洨",w:"洨"},{p:"xiáo",pp:"xiao2",d:"(Tw) (vulgar) semen (from Taiwanese 潲, Tai-lo pr. [siâu])",t:"洨",w:"洨"}],o=["氵","交"],s=[],c=[{w:"洨河",p:"Xiáo Hé",d:"Xiao River in Hebei",t:"洨河"}],e=[],n="水",t=9,a={s:i,c:o,d:s,w:c,i:e,r:n,sc:t};export{o as c,s as d,a as default,e as i,n as r,i as s,t as sc,c as w};

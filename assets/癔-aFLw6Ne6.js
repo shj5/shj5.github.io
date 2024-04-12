@@ -1,1 +1,0 @@
-const s=[{p:"yì",pp:"yi4",d:"see 癔病[yi4 bing4]",t:"癔",w:"癔"}],t=[{w:"癔病",p:"yì bìng",d:"hysteria",t:"癔病"}],c=[],n="疒",o=18,i=["疒","意"],d=[],e={s,w:t,i:c,r:n,sc:o,c:i,d};export{i as c,d,e as default,c as i,n as r,s,o as sc,t as w};

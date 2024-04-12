@@ -1,0 +1,1 @@
+const o=[{p:"jiào",pp:"jiao4",d:"if only/so long as/(contraction of 只 and 要)",t:"嘦",w:"嘦"}],s=["只","要"],c=[],n=[],t=[],a="口",i=14,d={s:o,c:s,d:c,w:n,i:t,r:a,sc:i};export{s as c,c as d,d as default,t as i,a as r,o as s,i as sc,n as w};

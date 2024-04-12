@@ -1,0 +1,1 @@
+const o=[{p:"biāo",pp:"biao1",d:"to weed",t:"麃",w:"麃"},{p:"páo",pp:"pao2",d:"(archaic) a type of deer",t:"麃",w:"麃"}],c=["灬","鹿"],t=["儦","瀌","藨","爊","皫","穮","镳"],s=[],p=[],n="鹿",a=15,d={s:o,c,d:t,w:s,i:p,r:n,sc:a};export{c,t as d,d as default,p as i,n as r,o as s,a as sc,s as w};

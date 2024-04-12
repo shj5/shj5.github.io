@@ -1,0 +1,1 @@
+const t=[{p:"Qíng",pp:"Qing2",d:"surname Qing",t:"黥",w:"黥"},{p:"qíng",pp:"qing2",d:"to tattoo criminals on the face or forehead",t:"黥",w:"黥"}],n=["京","黑"],o=[],s=[{w:"黥面",p:"qíng miàn",d:"to tattoo the face (punishment in ancient times)",t:"黥面"}],c=[],e="黑",i=20,a={s:t,c:n,d:o,w:s,i:c,r:e,sc:i};export{n as c,o as d,a as default,c as i,e as r,t as s,i as sc,s as w};

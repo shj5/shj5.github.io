@@ -1,0 +1,1 @@
+const n=[{p:"guàn",pp:"guan4",d:"two tufts of hair/young/underage",t:"丱",w:"丱"},{p:"kuàng",pp:"kuang4",d:"archaic variant of 礦|矿[kuang4]",t:"丱",w:"丱"}],t=[],c=[],s=[],o=[],a="丨",u=5,g={s:n,c:t,d:c,w:s,i:o,r:a,sc:u};export{t as c,c as d,g as default,o as i,a as r,n as s,u as sc,s as w};

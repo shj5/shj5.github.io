@@ -1,0 +1,1 @@
+const o=[{p:"cáo",pp:"cao2",d:"bustling/tumultuous/noisy",t:"嘈",w:"嘈"}],s=["口","曹"],t=[],c=[{w:"吐嘈",p:"tù cáo",d:"variant of 吐槽[tu4 cao2]",t:"吐嘈"},{w:"嘈杂",p:"cáo zá",d:"noisy/clamorous",t:"嘈雜"},{w:"嘈杂声",p:"cáo zá shēng",d:"noise/din",t:"嘈雜聲"}],n=[],d="口",i=14,u={s:o,c:s,d:t,w:c,i:n,r:d,sc:i};export{s as c,t as d,u as default,n as i,d as r,o as s,i as sc,c as w};

@@ -1,0 +1,1 @@
+const s=[{p:"Kuí",pp:"Kui2",d:"surname Kui/Zhou Dynasty vassal state",t:"隗",w:"隗"},{p:"Wěi",pp:"Wei3",d:"surname Wei",t:"隗",w:"隗"},{p:"wěi",pp:"wei3",d:"eminent/lofty",t:"隗",w:"隗"}],t=["鬼"],n=[],c=[],o=[],e="阜",i=13,p={s,c:t,d:n,w:c,i:o,r:e,sc:i};export{t as c,n as d,p as default,o as i,e as r,s,i as sc,c as w};

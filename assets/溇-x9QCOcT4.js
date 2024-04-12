@@ -1,1 +1,0 @@
-const s=[{p:"Lóu",pp:"Lou2",d:"see 漊水|溇水[Lou2 Shui3]",t:"漊",w:"溇"},{p:"lǚ",pp:"lu:3",d:"drizzle",t:"漊",w:"溇"}],t=[{w:"溇水",p:"Lóu Shuǐ",d:"Lou River in Hubei and Hunan",t:"漊水"}],c=[],n="水",o=12,u=["氵","娄"],d=[],p={s,w:t,i:c,r:n,sc:o,c:u,d};export{u as c,d,p as default,c as i,n as r,s,o as sc,t as w};

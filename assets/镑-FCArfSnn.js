@@ -1,1 +1,0 @@
-const n=[{p:"bàng",pp:"bang4",d:"pound (sterling) (loanword)",t:"鎊",w:"镑"}],s=[{w:"英镑",p:"Yīng bàng",d:"pound sterling",t:"英鎊"}],t=[],o="金",c=15,d=["旁"],p=[],g={s:n,w:s,i:t,r:o,sc:c,c:d,d:p};export{d as c,p as d,g as default,t as i,o as r,n as s,c as sc,s as w};

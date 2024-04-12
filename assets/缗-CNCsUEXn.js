@@ -1,0 +1,1 @@
+const s=[{p:"mín",pp:"min2",d:"cord/fishing-line/string of coins",t:"緡",w:"缗"}],c=["纟"],n=[],o=[],t=[],i="糸",d=12,r={s,c,d:n,w:o,i:t,r:i,sc:d};export{c,n as d,r as default,t as i,i as r,s,d as sc,o as w};

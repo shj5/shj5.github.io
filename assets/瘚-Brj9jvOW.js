@@ -1,0 +1,1 @@
+const c=[{p:"jué",pp:"jue2",d:"to hiccup/the humours of the body",t:"瘚",w:"瘚"}],s=["疒"],t=[],o=[],n=[],u="疒",d=15,e={s:c,c:s,d:t,w:o,i:n,r:u,sc:d};export{s as c,t as d,e as default,n as i,u as r,c as s,d as sc,o as w};

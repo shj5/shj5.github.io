@@ -1,0 +1,1 @@
+const c=[{p:"lún",pp:"lun2",d:"tree name (archaic)",t:"菕",w:"芲"}],s=["艹","仑"],t=[],n=[],o=[],a="艸",e=7,r={s:c,c:s,d:t,w:n,i:o,r:a,sc:e};export{s as c,t as d,r as default,o as i,a as r,c as s,e as sc,n as w};

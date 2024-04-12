@@ -1,0 +1,1 @@
+const n=[{p:"shēn",pp:"shen1",d:"pregnant",t:"娠",w:"娠"}],s=["女","辰"],t=[],c=[{w:"多胎妊娠",p:"duō tāi rèn shēn",d:"multiple pregnancy",t:"多胎妊娠"},{w:"妊娠",p:"rèn shēn",d:"pregnancy/gestation",t:"妊娠"},{w:"妊娠试验",p:"rèn shēn shì yàn",d:"pregnancy test",t:"妊娠試驗"}],p=[],e="女",o=10,r={s:n,c:s,d:t,w:c,i:p,r:e,sc:o};export{s as c,t as d,r as default,p as i,e as r,n as s,o as sc,c as w};

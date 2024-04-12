@@ -1,0 +1,1 @@
+const n=[{p:"fú",pp:"fu2",d:"Angelica anomala",t:"苻",w:"苻"}],o=["艹","付"],c=[],s=[{w:"苻坚",p:"Fú Jiān",d:"Fu Jian (338-385), emperor of Former Qin 前秦[Qian2 Qin2], reigning from 357-385",t:"苻堅"}],t=[],i="艸",r=8,a={s:n,c:o,d:c,w:s,i:t,r:i,sc:r};export{o as c,c as d,a as default,t as i,i as r,n as s,r as sc,s as w};

@@ -1,1 +1,0 @@
-const s=[{p:"fèi",pp:"fei4",d:"variant of 痱[fei4]",t:"疿",w:"痱"},{p:"fèi",pp:"fei4",d:"prickly heat",t:"痱",w:"痱"}],t=[{w:"痱子",p:"fèi zi",d:"miliaria (type of skin disease)/prickly heat/sweat rash",t:"痱子"}],i=[],c="疒",a=13,e=["疒","非"],o=[],p={s,w:t,i,r:c,sc:a,c:e,d:o};export{e as c,o as d,p as default,i,c as r,s,a as sc,t as w};

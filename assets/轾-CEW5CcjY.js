@@ -1,0 +1,1 @@
+const c=[{p:"zhì",pp:"zhi4",d:"back and lower of chariot/short/low",t:"輊",w:"轾"}],t=["车","至"],o=[],s=[],n=[{w:"不分轩轾",p:"bù fēn xuān zhì",d:"well-matched/equally matched",t:"不分軒輊"}],a="車",d=10,e={s:c,c:t,d:o,w:s,i:n,r:a,sc:d};export{t as c,o as d,e as default,n as i,a as r,c as s,d as sc,s as w};

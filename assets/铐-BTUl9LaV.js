@@ -1,0 +1,1 @@
+const s=[{p:"kào",pp:"kao4",d:"shackles/fetters/manacle",t:"銬",w:"铐"}],c=["考"],t=[],n=[{w:"手铐",p:"shǒu kào",d:"manacles/handcuffs",t:"手銬"},{w:"镣铐",p:"liào kào",d:"manacles and leg-irons/fetters and handcuffs",t:"鐐銬"}],o=[],a="金",e=11,d={s,c,d:t,w:n,i:o,r:a,sc:e};export{c,t as d,d as default,o as i,a as r,s,e as sc,n as w};

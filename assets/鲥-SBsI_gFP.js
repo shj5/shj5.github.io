@@ -1,1 +1,0 @@
-const s=[{p:"shí",pp:"shi2",d:"shad/Ilisha elongata",t:"鰣",w:"鲥"}],t=[{w:"鲥鱼",p:"shí yú",d:"Reeves shad (Tenualosa reevesii)",t:"鰣魚"}],c=[],o="魚",e=15,n=["时","鱼"],a=[],d={s,w:t,i:c,r:o,sc:e,c:n,d:a};export{n as c,a as d,d as default,c as i,o as r,s,e as sc,t as w};

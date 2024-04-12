@@ -1,1 +1,0 @@
-const s=[{p:"zōng",pp:"zong1",d:"dog giving birth to three puppies",t:"猣",w:"猣"}],t=[],c=[],o="犬",n=12,p=["犭"],i=[],d={s,w:t,i:c,r:o,sc:n,c:p,d:i};export{p as c,i as d,d as default,c as i,o as r,s,n as sc,t as w};

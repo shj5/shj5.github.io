@@ -1,1 +1,0 @@
-const o=[{p:"páo",pp:"pao2",d:"to roar",t:"咆",w:"咆"}],t=[{w:"咆哮",p:"páo xiào",d:"(of beasts of prey, torrents of water, a person in a rage etc) to roar",t:"咆哮"}],s=[{w:"咆哮如雷",p:"páo xiào rú léi",d:"to be in a thundering rage (idiom)",t:"咆哮如雷"}],r="口",n=8,c=["口","包"],a=[],e={s:o,w:t,i:s,r,sc:n,c,d:a};export{c,a as d,e as default,s as i,r,o as s,n as sc,t as w};

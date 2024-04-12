@@ -1,0 +1,1 @@
+const o=[{p:"ō",pp:"o1",d:"oh; ah (used to indicate realization)/also pr. [ou4]",t:"噢",w:"噢"}],s=["口"],t=[],c=[{w:"噢运会",p:"Ō yùn huì",d:"see 奧運會|奥运会[Ao4 yun4 hui4]",t:"噢運會"}],n=[],a="口",d=16,e={s:o,c:s,d:t,w:c,i:n,r:a,sc:d};export{s as c,t as d,e as default,n as i,a as r,o as s,d as sc,c as w};

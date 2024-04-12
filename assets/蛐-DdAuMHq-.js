@@ -1,0 +1,1 @@
+const c=[{p:"qū",pp:"qu1",d:"cricket",t:"蛐",w:"蛐"}],t=["虫","曲"],s=[],o=[{w:"蛐蛐儿",p:"qū qu r",d:"(dialect) cricket (insect)",t:"蛐蛐兒"},{w:"蛐蟮",p:"qū shan",d:"earthworm (coll.)",t:"蛐蟮"}],n=[],r="虫",d=12,e={s:c,c:t,d:s,w:o,i:n,r,sc:d};export{t as c,s as d,e as default,n as i,r,c as s,d as sc,o as w};

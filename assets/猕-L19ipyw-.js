@@ -1,1 +1,0 @@
-const s=[{p:"mí",pp:"mi2",d:"used in 獼猴|猕猴[mi2 hou2]",t:"獼",w:"猕"}],t=[{w:"猕猴",p:"mí hóu",d:"macaque",t:"獼猴"},{w:"猕猴桃",p:"mí hóu táo",d:"kiwi fruit/Chinese gooseberry",t:"獼猴桃"}],c=[],o="犬",n=11,i=["犭","弥"],e=[],d={s,w:t,i:c,r:o,sc:n,c:i,d:e};export{i as c,e as d,d as default,c as i,o as r,s,n as sc,t as w};

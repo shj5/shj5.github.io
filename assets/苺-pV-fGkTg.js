@@ -1,1 +1,0 @@
-const s=[{p:"méi",pp:"mei2",d:"variant of 莓, berry/strawberry",t:"苺",w:"苺"}],t=[],c=[],o="艸",n=8,r=["艹","母"],a=[],e={s,w:t,i:c,r:o,sc:n,c:r,d:a};export{r as c,a as d,e as default,c as i,o as r,s,n as sc,t as w};

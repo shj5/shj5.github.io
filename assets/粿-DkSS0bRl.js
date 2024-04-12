@@ -1,0 +1,1 @@
+const c=[{p:"guǒ",pp:"guo3",d:"rice cake (typically made with glutinous rice flour and steamed)",t:"粿",w:"粿"}],o=["米","果"],s=[],t=[{w:"粿汁",p:"guǒ zhī",d:"kway chap (Teochew noodle soup)",t:"粿汁"}],e=[],n="米",a=14,d={s:c,c:o,d:s,w:t,i:e,r:n,sc:a};export{o as c,s as d,d as default,e as i,n as r,c as s,a as sc,t as w};

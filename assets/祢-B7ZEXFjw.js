@@ -1,0 +1,1 @@
+const t=[{p:"nǐ",pp:"ni3",d:"you (used to address a deity)",t:"祢",w:"祢"},{p:"Mí",pp:"Mi2",d:"surname Mi",t:"禰",w:"祢"},{p:"mí",pp:"mi2",d:"memorial tablet in a temple commemorating a deceased father",t:"禰",w:"祢"}],s=["尔"],e=[],c=[],o=[],n="示",a=10,d={s:t,c:s,d:e,w:c,i:o,r:n,sc:a};export{s as c,e as d,d as default,o as i,n as r,t as s,a as sc,c as w};

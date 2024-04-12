@@ -1,0 +1,1 @@
+const t=[{p:"qiān wǎ",pp:"qian1 wa3",d:"kilowatt (old)/single-character equivalent of 千瓦[qian1 wa3]",t:"瓩",w:"瓩"}],c=["千","瓦"],s=[],n=[],o=[],a="瓦",i=8,w={s:t,c,d:s,w:n,i:o,r:a,sc:i};export{c,s as d,w as default,o as i,a as r,t as s,i as sc,n as w};

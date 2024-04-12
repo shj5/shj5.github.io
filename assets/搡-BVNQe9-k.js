@@ -1,0 +1,1 @@
+const s=[{p:"sǎng",pp:"sang3",d:"to push forcefully/to shove",t:"搡",w:"搡"}],t=["扌","桑"],o=[],n=[{w:"推推搡搡",p:"tuī tuī sǎng sǎng",d:"to push and shove",t:"推推搡搡"},{w:"推搡",p:"tuī sǎng",d:"to shove/to jostle",t:"推搡"}],c=[],p="手",d=13,e={s,c:t,d:o,w:n,i:c,r:p,sc:d};export{t as c,o as d,e as default,c as i,p as r,s,d as sc,n as w};

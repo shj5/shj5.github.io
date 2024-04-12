@@ -1,0 +1,1 @@
+const c=[{p:"zào",pp:"zao4",d:"deputy/subordinate/concubine",t:"簉",w:"簉"}],o=["竹"],s=[],t=[{w:"簉室",p:"zào shì",d:"concubine",t:"簉室"}],n=[],d="竹",e=17,p={s:c,c:o,d:s,w:t,i:n,r:d,sc:e};export{o as c,s as d,p as default,n as i,d as r,c as s,e as sc,t as w};

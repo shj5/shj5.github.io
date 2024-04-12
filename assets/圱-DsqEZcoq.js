@@ -1,0 +1,1 @@
+const s=[{p:"qiān",pp:"qian1",d:"a field of three li/old variant of 阡[qian1]",t:"圱",w:"圱"},{p:"sú",pp:"su2",d:"old variant of 俗[su2]",t:"圱",w:"圱"}],t=["土"],o=[],n=[],c=[],a="土",i=6,d={s,c:t,d:o,w:n,i:c,r:a,sc:i};export{t as c,o as d,d as default,c as i,a as r,s,i as sc,n as w};

@@ -1,0 +1,1 @@
+const t=[{p:"xián",pp:"xian2",d:"to pull out (esp. hair or feathers)/to pick/to pluck/fig. to extract (lines from a text)",t:"撏",w:"挦"}],o=["扌","寻"],s=[],c=[],n=[],e="手",i=9,p={s:t,c:o,d:s,w:c,i:n,r:e,sc:i};export{o as c,s as d,p as default,n as i,e as r,t as s,i as sc,c as w};

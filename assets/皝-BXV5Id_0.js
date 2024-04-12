@@ -1,0 +1,1 @@
+const s=[{p:"huǎng",pp:"huang3",d:"luminous/bright hoary, white",t:"皝",w:"皝"}],t=["光","皇"],c=[],n=[],o=[],h="白",i=15,r={s,c:t,d:c,w:n,i:o,r:h,sc:i};export{t as c,c as d,r as default,o as i,h as r,s,i as sc,n as w};

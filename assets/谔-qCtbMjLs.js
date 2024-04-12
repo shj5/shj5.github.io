@@ -1,0 +1,1 @@
+const s=[{p:"è",pp:"e4",d:"honest speech",t:"諤",w:"谔"}],n=["讠","咢"],c=[],t=[{w:"薛定谔",p:"Xuē dìng è",d:"Erwin Schrödinger (1887-1961), Austrian physicist",t:"薛定諤"},{w:"薛定谔方程",p:"Xuē dìng è fāng chéng",d:"Schrödinger's wave equation",t:"薛定諤方程"}],o=[],d="言",e=11,i={s,c:n,d:c,w:t,i:o,r:d,sc:e};export{n as c,c as d,i as default,o as i,d as r,s,e as sc,t as w};

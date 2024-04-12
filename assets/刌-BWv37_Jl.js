@@ -1,0 +1,1 @@
+const c=[{p:"cǔn",pp:"cun3",d:"(literary) to cut off; to sever",t:"刌",w:"刌"}],t=["刂","寸"],s=[],o=[],n=[],r="刀",e=5,d={s:c,c:t,d:s,w:o,i:n,r,sc:e};export{t as c,s as d,d as default,n as i,r,c as s,e as sc,o as w};

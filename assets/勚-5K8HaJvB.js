@@ -1,1 +1,0 @@
-const o=[{p:"yì",pp:"yi4",d:"(literary) toilsome/laborious/(of an edge etc) worn out/blunt",t:"勩",w:"勚"}],t=[],s=[],c="力",n=11,e=["力","贳"],r=[],i={s:o,w:t,i:s,r:c,sc:n,c:e,d:r};export{e as c,r as d,i as default,s as i,c as r,o as s,n as sc,t as w};

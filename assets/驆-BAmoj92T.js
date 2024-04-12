@@ -1,0 +1,1 @@
+const s=[{p:"bì",pp:"bi4",d:"used in transliterating Buddhist books",t:"驆",w:"驆"}],t=[],c=[],n=[],o=[],d="馬",i=21,r={s,c:t,d:c,w:n,i:o,r:d,sc:i};export{t as c,c as d,r as default,o as i,d as r,s,i as sc,n as w};

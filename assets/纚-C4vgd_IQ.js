@@ -1,0 +1,1 @@
+const s=[{p:"lí",pp:"li2",d:"(literary) to bind/to fasten/rope",t:"纚",w:"纚"},{p:"xǐ",pp:"xi3",d:"silk headband/Taiwan pr. [shi3]",t:"纚",w:"纚"}],t=["糸"],c=[],n=[],o=[],i="糸",p=25,a={s,c:t,d:c,w:n,i:o,r:i,sc:p};export{t as c,c as d,a as default,o as i,i as r,s,p as sc,n as w};

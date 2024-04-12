@@ -1,1 +1,0 @@
-const s=[{p:"dù",pp:"du4",d:"used in 茳芏[jiang1 du4]/Taiwan pr. [tu3]",t:"芏",w:"芏"}],c=[{w:"茳芏",p:"jiāng dù",d:"Cyperus malaccensis",t:"茳芏"}],n=[],t="艸",d=6,o=["艹","土"],a=[],i={s,w:c,i:n,r:t,sc:d,c:o,d:a};export{o as c,a as d,i as default,n as i,t as r,s,d as sc,c as w};

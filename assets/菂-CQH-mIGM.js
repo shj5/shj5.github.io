@@ -1,0 +1,1 @@
+const s=[{p:"dì",pp:"di4",d:"(literary) lotus seed/Taiwan pr. [di1]",t:"菂",w:"菂"}],t=["艹","的"],c=[],o=[],n=[],d="艸",i=11,r={s,c:t,d:c,w:o,i:n,r:d,sc:i};export{t as c,c as d,r as default,n as i,d as r,s,i as sc,o as w};

@@ -1,0 +1,1 @@
+const o=[{p:"zhěn",pp:"zhen3",d:"border/boundary/field-path",t:"畛",w:"畛"}],s=["田"],c=[],n=[{w:"畛域",p:"zhěn yù",d:"(formal) boundary/scope",t:"畛域"}],t=[],d="田",r=10,p={s:o,c:s,d:c,w:n,i:t,r:d,sc:r};export{s as c,c as d,p as default,t as i,d as r,o as s,r as sc,n as w};

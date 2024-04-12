@@ -1,0 +1,1 @@
+const t=[{p:"jìn",pp:"jin4",d:"to stutter/to shut one's mouth/Taiwan pr. [yin2]",t:"唫",w:"唫"},{p:"yín",pp:"yin2",d:"variant of 崟[yin2]",t:"唫",w:"唫"}],n=["口","金"],s=[],o=[],c=[],i="口",p=11,a={s:t,c:n,d:s,w:o,i:c,r:i,sc:p};export{n as c,s as d,a as default,c as i,i as r,t as s,p as sc,o as w};

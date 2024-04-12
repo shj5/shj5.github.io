@@ -1,0 +1,1 @@
+const t=[{p:"yīn",pp:"yin1",d:"to restrain/to dam a stream and change its direction/a mound",t:"垔",w:"垔"}],s=["土","西"],n=["堙","湮","鄄","禋"],c=[],o=[],a="土",d=9,i={s:t,c:s,d:n,w:c,i:o,r:a,sc:d};export{s as c,n as d,i as default,o as i,a as r,t as s,d as sc,c as w};

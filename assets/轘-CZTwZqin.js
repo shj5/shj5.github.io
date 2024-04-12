@@ -1,0 +1,1 @@
+const s=[{p:"huàn",pp:"huan4",d:"to tear between chariots (as punishment)",t:"轘",w:"轘"}],t=["睘"],c=[],n=[{w:"轘裂",p:"huàn liè",d:"see 車裂|车裂[che1 lie4]",t:"轘裂"}],e=[],o="車",a=20,h={s,c:t,d:c,w:n,i:e,r:o,sc:a};export{t as c,c as d,h as default,e as i,o as r,s,a as sc,n as w};

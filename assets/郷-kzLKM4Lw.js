@@ -1,1 +1,0 @@
-const s=[{p:"xiāng",pp:"xiang1",d:"Japanese variant of 鄉|乡",t:"郷",w:"郷"}],c=[],n=[],t="邑",o=12,a=["郎"],i=[],p={s,w:c,i:n,r:t,sc:o,c:a,d:i};export{a as c,i as d,p as default,n as i,t as r,s,o as sc,c as w};

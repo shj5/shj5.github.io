@@ -1,1 +1,0 @@
-const s=[{p:"dēng",pp:"deng1",d:"large umbrella for stalls/an ancient kind of bamboo or straw hat",t:"簦",w:"簦"}],t=[],n=[],o="竹",c=18,a=["竹","登"],r=[],d={s,w:t,i:n,r:o,sc:c,c:a,d:r};export{a as c,r as d,d as default,n as i,o as r,s,c as sc,t as w};

@@ -1,0 +1,1 @@
+const o=[{p:"zuó",pp:"zuo2",d:"to fit a handle into a socket/a plug or cork",t:"椊",w:"椊"}],t=["木","卒"],c=[],s=[],n=[],a="木",d=12,p={s:o,c:t,d:c,w:s,i:n,r:a,sc:d};export{t as c,c as d,p as default,n as i,a as r,o as s,d as sc,s as w};

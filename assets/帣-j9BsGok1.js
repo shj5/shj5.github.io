@@ -1,0 +1,1 @@
+const s=[{p:"juàn",pp:"juan4",d:"a bag which holds 30 pecks (i.e. approx 3 kg dry measure)",t:"帣",w:"帣"}],c=["关"],o=[],t=[],n=[],a="巾",p=9,d={s,c,d:o,w:t,i:n,r:a,sc:p};export{c,o as d,d as default,n as i,a as r,s,p as sc,t as w};

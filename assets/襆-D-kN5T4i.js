@@ -1,0 +1,1 @@
+const n=[{p:"fú",pp:"fu2",d:"(bound form) a kind of headscarf worn by men in ancient China (variant of 幞[fu2])/variant of 袱[fu2]/Taiwan pr. [pu2]",t:"襆",w:"襆"}],o=["衤"],c=[],s=[],t=[],a="衣",f=18,i={s:n,c:o,d:c,w:s,i:t,r:a,sc:f};export{o as c,c as d,i as default,t as i,a as r,n as s,f as sc,s as w};

@@ -1,0 +1,1 @@
+const o=[{p:"jiào",pp:"jiao4",d:"(old) instrument to even out the grain in a measuring vessel/to proofread/to collate",t:"斠",w:"斠"}],t=["斗"],s=[],n=[],c=[],e="斗",a=14,i={s:o,c:t,d:s,w:n,i:c,r:e,sc:a};export{t as c,s as d,i as default,c as i,e as r,o as s,a as sc,n as w};

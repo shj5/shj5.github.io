@@ -1,1 +1,0 @@
-const t=[{p:"cì",pp:"ci4",d:"ancient tax in the form of bales of cloth",t:"絘",w:"絘"}],c=[{w:"絘布",p:"cì bù",d:"ancient tax in the form of bales of cloth",t:"絘布"}],o=[],s="糸",n=12,a=["糸"],e=[],f={s:t,w:c,i:o,r:s,sc:n,c:a,d:e};export{a as c,e as d,f as default,o as i,s as r,t as s,n as sc,c as w};

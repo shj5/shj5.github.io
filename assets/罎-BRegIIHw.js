@@ -1,0 +1,1 @@
+const t=[{p:"tán",pp:"tan2",d:"variant of 罈|坛[tan2]",t:"罎",w:"罎"}],s=["缶"],c=[],n=[],o=[],a="缶",d=22,p={s:t,c:s,d:c,w:n,i:o,r:a,sc:d};export{s as c,c as d,p as default,o as i,a as r,t as s,d as sc,n as w};

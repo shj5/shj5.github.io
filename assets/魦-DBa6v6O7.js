@@ -1,0 +1,1 @@
+const s=[{p:"shā",pp:"sha1",d:"shark family, including some rays and skates",t:"魦",w:"魦"}],c=["少"],t=[],n=[],o=[],a="魚",d=15,i={s,c,d:t,w:n,i:o,r:a,sc:d};export{c,t as d,i as default,o as i,a as r,s,d as sc,n as w};

@@ -1,0 +1,1 @@
+const s=[{p:"jiōng",pp:"jiong1",d:"environs/wilderness",t:"坰",w:"坰"}],n=["土","冋"],c=[],o=[],t=[],i="土",d=8,e={s,c:n,d:c,w:o,i:t,r:i,sc:d};export{n as c,c as d,e as default,t as i,i as r,s,d as sc,o as w};

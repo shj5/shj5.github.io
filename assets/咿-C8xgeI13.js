@@ -1,0 +1,1 @@
+const s=[{p:"yī",pp:"yi1",d:"variant of 咿[yi1]",t:"吚",w:"咿"},{p:"yī",pp:"yi1",d:"(onom.) to squeak",t:"咿",w:"咿"}],t=["口","伊"],o=[],c=[],n=[],p="口",i=9,a={s,c:t,d:o,w:c,i:n,r:p,sc:i};export{t as c,o as d,a as default,n as i,p as r,s,i as sc,c as w};

@@ -1,0 +1,1 @@
+const t=[{p:"dì",pp:"di4",d:"to go away/to migrate",t:"遰",w:"遰"}],s=["辶"],c=[],o=[],n=[],d="辵",a=15,i={s:t,c:s,d:c,w:o,i:n,r:d,sc:a};export{s as c,c as d,i as default,n as i,d as r,t as s,a as sc,o as w};

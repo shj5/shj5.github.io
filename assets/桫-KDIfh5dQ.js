@@ -1,1 +1,0 @@
-const s=[{p:"suō",pp:"suo1",d:"horse chestnut/Stewartia pseudocamellia (botany)",t:"桫",w:"桫"}],t=[{w:"桫椤",p:"suō luó",d:"spinulose tree fern/Cyathea spinulosa (botany)",t:"桫欏"},{w:"阴桫",p:"yīn suō",d:"a hard wood",t:"陰桫"}],o=[],n="木",c=11,a=["木","沙"],e=[],u={s,w:t,i:o,r:n,sc:c,c:a,d:e};export{a as c,e as d,u as default,o as i,n as r,s,c as sc,t as w};

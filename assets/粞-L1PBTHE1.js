@@ -1,1 +1,0 @@
-const c=[{p:"xī",pp:"xi1",d:"ground rice/thresh rice",t:"粞",w:"粞"}],s=[],t=[],o="米",n=12,r=["米","西"],d=[],e={s:c,w:s,i:t,r:o,sc:n,c:r,d};export{r as c,d,e as default,t as i,o as r,c as s,n as sc,s as w};

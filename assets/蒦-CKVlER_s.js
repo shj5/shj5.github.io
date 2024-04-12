@@ -1,0 +1,1 @@
+const c=[{p:"huò",pp:"huo4",d:"(archaic) to measure",t:"蒦",w:"蒦"}],s=["艹"],t=["劐","嚄","擭","濩","檴","瓁","镬","雘","彟","矱","鹱","蠖","鳠","頀"],o=[],n=[],a="艸",r=13,d={s:c,c:s,d:t,w:o,i:n,r:a,sc:r};export{s as c,t as d,d as default,n as i,a as r,c as s,r as sc,o as w};

@@ -1,0 +1,1 @@
+const s=[{p:"hū",pp:"hu1",d:"(old) vaguely/suddenly",t:"芴",w:"芴"},{p:"wù",pp:"wu4",d:"fluorene C13H10/(old) name of an edible wild plant",t:"芴",w:"芴"}],n=["艹","勿"],o=[],t=[],c=[],d="艸",e=7,l={s,c:n,d:o,w:t,i:c,r:d,sc:e};export{n as c,o as d,l as default,c as i,d as r,s,e as sc,t as w};

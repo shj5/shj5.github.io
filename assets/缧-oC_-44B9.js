@@ -1,0 +1,1 @@
+const s=[{p:"léi",pp:"lei2",d:"(literary) thick rope used to restrain a prisoner",t:"縲",w:"缧"}],t=["纟","累"],c=[],o=[],n=[],r="糸",e=14,i={s,c:t,d:c,w:o,i:n,r,sc:e};export{t as c,c as d,i as default,n as i,r,s,e as sc,o as w};

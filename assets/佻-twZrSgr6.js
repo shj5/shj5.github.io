@@ -1,1 +1,0 @@
-const t=[{p:"tiāo",pp:"tiao1",d:"frivolous/unsteady/delay",t:"佻",w:"佻"}],o=[{w:"轻佻",p:"qīng tiāo",d:"frivolous/coquettish",t:"輕佻"}],s=[],c="人",n=8,i=["亻","兆"],d=[],a={s:t,w:o,i:s,r:c,sc:n,c:i,d};export{i as c,d,a as default,s as i,c as r,t as s,n as sc,o as w};

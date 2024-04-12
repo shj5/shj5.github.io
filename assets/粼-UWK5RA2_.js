@@ -1,1 +1,0 @@
-const t=[{p:"lín",pp:"lin2",d:"clear (as of water)",t:"粼",w:"粼"}],n=[{w:"粼粼",p:"lín lín",d:"clear and crystalline (of water)",t:"粼粼"}],s=[{w:"波涛粼粼",p:"bō tāo lín lín",d:"crystalline waves (idiom)",t:"波濤粼粼"}],c="米",l=14,o=["巜"],a=[],e={s:t,w:n,i:s,r:c,sc:l,c:o,d:a};export{o as c,a as d,e as default,s as i,c as r,t as s,l as sc,n as w};

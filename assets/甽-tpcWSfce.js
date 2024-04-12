@@ -1,1 +1,0 @@
-const s=[{p:"quǎn",pp:"quan3",d:"drain between fields, irrigation",t:"甽",w:"甽"}],n=[],t=[],c="田",o=8,i=["川","田"],d=[],e={s,w:n,i:t,r:c,sc:o,c:i,d};export{i as c,d,e as default,t as i,c as r,s,o as sc,n as w};

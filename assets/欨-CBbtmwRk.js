@@ -1,0 +1,1 @@
+const t=[{p:"xū",pp:"xu1",d:"(literary) to blow or breathe upon/happy",t:"欨",w:"欨"}],o=["欠","句"],s=[],c=[],n=[],p="欠",r=9,a={s:t,c:o,d:s,w:c,i:n,r:p,sc:r};export{o as c,s as d,a as default,n as i,p as r,t as s,r as sc,c as w};

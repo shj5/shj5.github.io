@@ -1,1 +1,0 @@
-const s=[{p:"fù",pp:"fu4",d:"prince consort",t:"駙",w:"驸"}],c=[{w:"驸马",p:"fù mǎ",d:"emperor's son-in-law",t:"駙馬"}],o=[],t="馬",n=8,p=["马","付"],r=[],d={s,w:c,i:o,r:t,sc:n,c:p,d:r};export{p as c,r as d,d as default,o as i,t as r,s,n as sc,c as w};

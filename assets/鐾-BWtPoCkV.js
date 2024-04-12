@@ -1,0 +1,1 @@
+const s=[{p:"bèi",pp:"bei4",d:"to sharpen (a knife) on a stone or a strop",t:"鐾",w:"鐾"}],o=["金","辟"],t=[],c=[],n=[],a="金",e=21,p={s,c:o,d:t,w:c,i:n,r:a,sc:e};export{o as c,t as d,p as default,n as i,a as r,s,e as sc,c as w};

@@ -1,0 +1,1 @@
+const c=[{p:"cháng",pp:"chang2",d:"Bagridae (catfish family)",t:"鱨",w:"鲿"}],s=["鱼","尝"],t=[],n=[],o=[],a="魚",d=17,i={s:c,c:s,d:t,w:n,i:o,r:a,sc:d};export{s as c,t as d,i as default,o as i,a as r,c as s,d as sc,n as w};

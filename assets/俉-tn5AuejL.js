@@ -1,1 +1,0 @@
-const s=[{p:"wú",pp:"wu2",d:"used in 逢俉[feng2wu2]",t:"俉",w:"俉"}],t=[{w:"逢俉",p:"féng wú",d:"to come across sth scary; to have a fright",t:"逢俉"}],c=[],o="人",n=9,w=["亻","吾"],a=[],d={s,w:t,i:c,r:o,sc:n,c:w,d:a};export{w as c,a as d,d as default,c as i,o as r,s,n as sc,t as w};

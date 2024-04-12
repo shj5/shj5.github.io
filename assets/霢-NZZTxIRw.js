@@ -1,0 +1,1 @@
+const s=[{p:"mài",pp:"mai4",d:"used in 霢霂[mai4mu4]/Taiwan pr. [mo4]",t:"霢",w:"霢"}],t=["雨"],c=[],i=[{w:"霢霂",p:"mài mù",d:"(literary) light rain; drizzle",t:"霢霂"}],n=[],o="雨",a=18,r={s,c:t,d:c,w:i,i:n,r:o,sc:a};export{t as c,c as d,r as default,n as i,o as r,s,a as sc,i as w};

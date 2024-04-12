@@ -1,1 +1,0 @@
-const s=[{p:"shòu",pp:"shou4",d:"Japanese variant of 瘦[shou4]",t:"痩",w:"痩"}],c=[],o=[],t="疒",n=12,a=["疒"],p=[],d={s,w:c,i:o,r:t,sc:n,c:a,d:p};export{a as c,p as d,d as default,o as i,t as r,s,n as sc,c as w};

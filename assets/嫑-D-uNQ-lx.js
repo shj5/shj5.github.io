@@ -1,0 +1,1 @@
+const t=[{p:"biáo",pp:"biao2",d:"(dialect) don't/must not/(contraction of 不 and 要)",t:"嫑",w:"嫑"}],o=["不","要"],c=[],s=[],n=[],d="女",a=13,i={s:t,c:o,d:c,w:s,i:n,r:d,sc:a};export{o as c,c as d,i as default,n as i,d as r,t as s,a as sc,s as w};

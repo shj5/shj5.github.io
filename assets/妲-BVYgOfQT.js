@@ -1,0 +1,1 @@
+const c=[{p:"Dá",pp:"Da2",d:"female personal name (archaic)",t:"妲",w:"妲"}],n=["女","旦"],t=[],s=[{w:"妲己",p:"Dá jǐ",d:"Daji (c. 11th century BC), concubine of the last Shang dynasty king Zhou Xin 紂辛|纣辛[Zhou4 Xin1]",t:"妲己"}],o=[],a="女",e=8,i={s:c,c:n,d:t,w:s,i:o,r:a,sc:e};export{n as c,t as d,i as default,o as i,a as r,c as s,e as sc,s as w};

@@ -1,0 +1,1 @@
+const s=[{p:"zǐ",pp:"zi3",d:"dregs; sediment",t:"滓",w:"滓"}],t=["氵","宰"],c=[],e=[{w:"渣滓",p:"zhā zǐ",d:"residue/dregs/disreputable people",t:"渣滓"}],d=[],o="水",n=13,p={s,c:t,d:c,w:e,i:d,r:o,sc:n};export{t as c,c as d,p as default,d as i,o as r,s,n as sc,e as w};

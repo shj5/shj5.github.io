@@ -1,0 +1,1 @@
+const t=[{p:"huáng",pp:"huang2",d:"a dry moat outside a city wall/a dry ditch",t:"堭",w:"堭"}],c=["土","皇"],s=[],o=[],n=[],a="土",d=12,i={s:t,c,d:s,w:o,i:n,r:a,sc:d};export{c,s as d,i as default,n as i,a as r,t as s,d as sc,o as w};

@@ -1,1 +1,0 @@
-const c=[{p:"chèn",pp:"chen4",d:"to replace the milk teeth",t:"齔",w:"龀"}],t=[],s=[],n="齒",o=10,e=["匕","齿"],p=[],d={s:c,w:t,i:s,r:n,sc:o,c:e,d:p};export{e as c,p as d,d as default,s as i,n as r,c as s,o as sc,t as w};

@@ -1,0 +1,1 @@
+const s=[{p:"líng",pp:"ling2",d:"(literary) precipitous cliff/(used in place names)",t:"坽",w:"坽"}],c=["土","令"],t=[],n=[],o=[],i="土",e=8,p={s,c,d:t,w:n,i:o,r:i,sc:e};export{c,t as d,p as default,o as i,i as r,s,e as sc,n as w};

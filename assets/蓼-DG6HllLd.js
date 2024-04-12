@@ -1,0 +1,1 @@
+const o=[{p:"liǎo",pp:"liao3",d:"polygonum/smartweed",t:"蓼",w:"蓼"},{p:"lù",pp:"lu4",d:"luxuriant growth",t:"蓼",w:"蓼"}],t=["艹","翏"],n=[],s=[{w:"蓼蓝",p:"liǎo lán",d:"indigo dye/Polygonum tinctorium",t:"蓼藍"}],c=[],i="艸",l=14,d={s:o,c:t,d:n,w:s,i:c,r:i,sc:l};export{t as c,n as d,d as default,c as i,i as r,o as s,l as sc,s as w};

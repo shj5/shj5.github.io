@@ -1,0 +1,1 @@
+const s=[{p:"suǒ",pp:"suo3",d:"old variant of 鎖|锁[suo3]",t:"鏁",w:"鏁"}],o=["金","巢"],c=[],t=[],n=[],d="金",a=19,p={s,c:o,d:c,w:t,i:n,r:d,sc:a};export{o as c,c as d,p as default,n as i,d as r,s,a as sc,t as w};

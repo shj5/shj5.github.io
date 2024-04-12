@@ -1,0 +1,1 @@
+const s=[{p:"lì",pp:"li4",d:"Japanese variant of 曆|历[li4]",t:"暦",w:"暦"}],c=["日","麻"],t=[],n=[],o=[],a="日",i=14,p={s,c,d:t,w:n,i:o,r:a,sc:i};export{c,t as d,p as default,o as i,a as r,s,i as sc,n as w};

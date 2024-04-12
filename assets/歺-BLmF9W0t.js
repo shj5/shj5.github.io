@@ -1,0 +1,1 @@
+const c=[{p:"cān",pp:"can1",d:"second-round simplified character for 餐[can1]",t:"歺",w:"歺"},{p:"dǎi",pp:"dai3",d:"old variant of 歹[dai3]",t:"歺",w:"歺"}],s=["卜","夕"],n=[],o=[],t=[],d="歹",a=5,i={s:c,c:s,d:n,w:o,i:t,r:d,sc:a};export{s as c,n as d,i as default,t as i,d as r,c as s,a as sc,o as w};

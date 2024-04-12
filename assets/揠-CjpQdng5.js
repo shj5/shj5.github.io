@@ -1,0 +1,1 @@
+const t=[{p:"yà",pp:"ya4",d:"to eradicate/to pull up",t:"揠",w:"揠"}],s=["扌","匽"],c=[],o=[],n=[{w:"揠苗助长",p:"yà miáo zhù zhǎng",d:"see 拔苗助長|拔苗助长[ba2 miao2 zhu4 zhang3]",t:"揠苗助長"}],a="手",p=12,d={s:t,c:s,d:c,w:o,i:n,r:a,sc:p};export{s as c,c as d,d as default,n as i,a as r,t as s,p as sc,o as w};

@@ -1,0 +1,1 @@
+const s=[{p:"líng",pp:"ling2",d:"damask/thin silk",t:"綾",w:"绫"}],n=["纟","夌"],t=[],c=[],o=[{w:"绫罗绸缎",p:"líng luó - chóu duàn",d:"(idiom) silk and satin",t:"綾羅綢緞"}],d="糸",i=11,l={s,c:n,d:t,w:c,i:o,r:d,sc:i};export{n as c,t as d,l as default,o as i,d as r,s,i as sc,c as w};

@@ -1,0 +1,1 @@
+const s=[{p:"jū",pp:"ju1",d:"ornamental gems for belt",t:"琚",w:"琚"}],t=["王","居"],c=[],o=[],n=[],e="玉",r=12,a={s,c:t,d:c,w:o,i:n,r:e,sc:r};export{t as c,c as d,a as default,n as i,e as r,s,r as sc,o as w};

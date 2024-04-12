@@ -1,0 +1,1 @@
+const n=[{p:"mǐn",pp:"min3",d:"(ancient character used in posthumous titles of monarchs)/old variant of 憫|悯[min3]",t:"湣",w:"湣"}],s=["氵"],t=[],c=[{w:"齐湣王",p:"Qí Mǐn wáng",d:"King Min of Qi (reigned 323-284 BC)",t:"齊湣王"}],o=[],i="水",a=12,d={s:n,c:s,d:t,w:c,i:o,r:i,sc:a};export{s as c,t as d,d as default,o as i,i as r,n as s,a as sc,c as w};

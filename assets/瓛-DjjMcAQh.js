@@ -1,0 +1,1 @@
+const s=[{p:"huán",pp:"huan2",d:"(old) jade tablet or scepter held by a duke at ceremonies",t:"瓛",w:"瓛"}],t=["王"],c=[],o=[],e=[],n="玉",d=24,a={s,c:t,d:c,w:o,i:e,r:n,sc:d};export{t as c,c as d,a as default,e as i,n as r,s,d as sc,o as w};

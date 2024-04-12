@@ -1,0 +1,1 @@
+const t=[{p:"tǎng",pp:"tang3",d:"state treasury/public funds",t:"帑",w:"帑"}],s=["巾","奴"],c=[],n=[{w:"帑藏",p:"tǎng zàng",d:"state treasury",t:"帑藏"}],o=[],a="巾",r=8,d={s:t,c:s,d:c,w:n,i:o,r:a,sc:r};export{s as c,c as d,d as default,o as i,a as r,t as s,r as sc,n as w};

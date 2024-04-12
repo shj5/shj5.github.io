@@ -1,1 +1,0 @@
-const n=[{p:"zhēng",pp:"zheng1",d:"clang of metals/small gong",t:"錚",w:"铮"}],s=[{w:"铮亮",p:"zhēng liàng",d:"shiny; gleaming",t:"錚亮"}],t=[{w:"铮铮铁汉",p:"zhēng zhēng tiě hàn",d:"a strong and determined man (idiom)",t:"錚錚鐵漢"}],c="金",o=11,g=["争"],d=[],a={s:n,w:s,i:t,r:c,sc:o,c:g,d};export{g as c,d,a as default,t as i,c as r,n as s,o as sc,s as w};

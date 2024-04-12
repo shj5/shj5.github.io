@@ -1,0 +1,1 @@
+const s=[{p:"yá",pp:"ya2",d:"aphis",t:"蚜",w:"蚜"}],c=["牙","虫"],t=[],n=[{w:"蚜虫",p:"yá chóng",d:"greenfly (Aphis spp.)/aphid",t:"蚜蟲"}],p=[],o="虫",d=10,a={s,c,d:t,w:n,i:p,r:o,sc:d};export{c,t as d,a as default,p as i,o as r,s,d as sc,n as w};

@@ -1,0 +1,1 @@
+const t=[{p:"tún",pp:"tun2",d:"pufferfish (family Tetraodontidae)",t:"魨",w:"鲀"}],n=["屯","鱼"],s=[],c=[{w:"河鲀",p:"hé tún",d:"variant of 河豚[he2tun2]",t:"河魨"}],o=[],a="魚",d=12,e={s:t,c:n,d:s,w:c,i:o,r:a,sc:d};export{n as c,s as d,e as default,o as i,a as r,t as s,d as sc,c as w};

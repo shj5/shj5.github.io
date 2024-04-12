@@ -1,0 +1,1 @@
+const n=[{p:"qián",pp:"qian2",d:"variant of 蕁|荨[qian2]",t:"䕭",w:"䕭"},{p:"xián",pp:"xian2",d:"a kind of vegetable",t:"䕭",w:"䕭"}],t=[],s=[],c=[],o=[],a="",i=0,p={s:n,c:t,d:s,w:c,i:o,r:a,sc:i};export{t as c,s as d,p as default,o as i,a as r,n as s,i as sc,c as w};

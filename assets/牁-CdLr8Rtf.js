@@ -1,0 +1,1 @@
+const s=[{p:"kē",pp:"ke1",d:"(used in place names)/Taiwan pr. [ge1]",t:"牁",w:"牁"}],c=["爿","可"],n=[],t=[],o=[],e="爿",a=9,p={s,c,d:n,w:t,i:o,r:e,sc:a};export{c,n as d,p as default,o as i,e as r,s,a as sc,t as w};

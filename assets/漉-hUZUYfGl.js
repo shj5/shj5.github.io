@@ -1,0 +1,1 @@
+const s=[{p:"lù",pp:"lu4",d:"strain liquids",t:"漉",w:"漉"}],t=["氵","鹿"],c=[],n=[{w:"水漉漉",p:"shuǐ lù lù",d:"dripping wet",t:"水漉漉"},{w:"湿漉漉",p:"shī lù lù",d:"damp/clammy/dripping wet",t:"濕漉漉"}],p=[],d="水",i=14,l={s,c:t,d:c,w:n,i:p,r:d,sc:i};export{t as c,c as d,l as default,p as i,d as r,s,i as sc,n as w};

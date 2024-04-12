@@ -1,0 +1,1 @@
+const t=[{p:"huáng",pp:"huang2",d:"irresolute",t:"徨",w:"徨"}],n=["彳","皇"],o=[],c=[{w:"彷徨",p:"páng huáng",d:"to pace back and forth, not knowing which way to turn; to hesitate; to waver",t:"彷徨"}],s=[],a="彳",e=12,r={s:t,c:n,d:o,w:c,i:s,r:a,sc:e};export{n as c,o as d,r as default,s as i,a as r,t as s,e as sc,c as w};

@@ -1,0 +1,1 @@
+const t=[{p:"tǐng",pp:"ting3",d:"flat/level/(used in place names)/variant of 町[ting3]",t:"圢",w:"圢"}],s=["丁","土"],n=[],c=[],o=[],a="土",e=5,i={s:t,c:s,d:n,w:c,i:o,r:a,sc:e};export{s as c,n as d,i as default,o as i,a as r,t as s,e as sc,c as w};

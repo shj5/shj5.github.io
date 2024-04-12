@@ -1,1 +1,0 @@
-const o=[{p:"Jiǎo",pp:"Jiao3",d:"surname Jiao",t:"敫",w:"敫"},{p:"jiǎo",pp:"jiao3",d:"bright/glittery/Taiwan pr. [jiao4]",t:"敫",w:"敫"}],t=[],s=[],c="攵",i=13,n=["攵"],a=["儌","噭","撽","激","缴","曒","檄","璬","邀","皦"],p={s:o,w:t,i:s,r:c,sc:i,c:n,d:a};export{n as c,a as d,p as default,s as i,c as r,o as s,i as sc,t as w};

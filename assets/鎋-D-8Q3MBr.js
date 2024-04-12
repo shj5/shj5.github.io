@@ -1,0 +1,1 @@
+const s=[{p:"xiá",pp:"xia2",d:"linchpin (used to fasten a wheel to an axle) (variant of 轄|辖[xia2])",t:"鎋",w:"鎋"}],t=["金","害"],c=[],n=[],o=[],a="金",i=18,e={s,c:t,d:c,w:n,i:o,r:a,sc:i};export{t as c,c as d,e as default,o as i,a as r,s,i as sc,n as w};
