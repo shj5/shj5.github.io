@@ -1,0 +1,1 @@
+const s=[{p:"lì",pp:"li4",d:"used in 憐悧|怜悧[lian2li4]",t:"悧",w:"悧"}],c=["忄","利"],n=[],t=[{w:"怜悧",p:"lián lì",d:"see 伶俐[ling2li4]",t:"憐悧"}],i=[],l="心",o=10,d={s,c,d:n,w:t,i,r:l,sc:o};export{c,n as d,d as default,i,l as r,s,o as sc,t as w};

@@ -1,0 +1,1 @@
+const s=[{p:"qì",pp:"qi4",d:"variant of 氣|气[qi4], breath/air/steam/gas/weather/used in Taoist charms",t:"炁",w:"炁"}],t=["灬"],c=[],a=[{w:"坎炁",p:"kǎn qì",d:"(TCM) umbilical cord (used as medicine)",t:"坎炁"}],i=[],n="火",o=8,e={s,c:t,d:c,w:a,i,r:n,sc:o};export{t as c,c as d,e as default,i,n as r,s,o as sc,a as w};

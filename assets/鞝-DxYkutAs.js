@@ -1,1 +1,0 @@
-const s=[{p:"shàng",pp:"shang4",d:"to sole a shoe/also written 緔|绱[shang4]",t:"鞝",w:"鞝"},{p:"zhǎng",pp:"zhang3",d:"patch of leather",t:"鞝",w:"鞝"}],t=["尚","革"],n=[],o=[{w:"鞝鞋",p:"shàng xié",d:"variant of 上鞋[shang4xie2]",t:"鞝鞋"}],c=[],a="革",h=17,p={s,c:t,d:n,w:o,i:c,r:a,sc:h};export{t as c,n as d,p as default,c as i,a as r,s,h as sc,o as w};

@@ -1,0 +1,1 @@
+const n=[{p:"hún",pp:"hun2",d:"used in 餛飩|馄饨[hun2 tun5]",t:"餛",w:"馄"}],s=["饣","昆"],t=[],o=[{w:"馄炖",p:"hún dùn",d:"wonton/see also 餛飩|馄饨[hun2 tun5]",t:"餛燉"},{w:"馄饨",p:"hún tun",d:"wonton; Chinese ravioli (served in soup)/Taiwan pr. [hun2dun5]",t:"餛飩"}],c=[],u="食",d=11,e={s:n,c:s,d:t,w:o,i:c,r:u,sc:d};export{s as c,t as d,e as default,c as i,u as r,n as s,d as sc,o as w};

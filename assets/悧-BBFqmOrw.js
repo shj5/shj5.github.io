@@ -1,1 +1,0 @@
-const s=[{p:"lì",pp:"li4",d:"smooth/active/clever/sharp",t:"悧",w:"悧"}],t=["忄","利"],c=[],o=[{w:"伶悧",p:"líng lì",d:"variant of 伶俐[ling2 li4]",t:"伶悧"}],n=[],l="心",i=10,a={s,c:t,d:c,w:o,i:n,r:l,sc:i};export{t as c,c as d,a as default,n as i,l as r,s,i as sc,o as w};
