@@ -1,1 +1,0 @@
-const s=[{p:"luǒ",pp:"luo3",d:"a heap/pile (of rocks)",t:"砢",w:"砢"}],t=["石","可"],c=[],o=[{w:"砢碜",p:"kē chen",d:"ugly/unsightly/shabby/to humiliate/to ridicule",t:"砢磣"}],n=[],i="石",l=10,e={s,c:t,d:c,w:o,i:n,r:i,sc:l};export{t as c,c as d,e as default,n as i,i as r,s,l as sc,o as w};

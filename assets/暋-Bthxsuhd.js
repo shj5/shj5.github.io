@@ -1,1 +1,0 @@
-const n=[{p:"mín",pp:"min2",d:"unhappy/worried/depressed",t:"暋",w:"暋"},{p:"mǐn",pp:"min3",d:"(literary) rude and unreasonable",t:"暋",w:"暋"}],s=["日","敃"],t=[],c=[],o=[],d="日",e=13,p={s:n,c:s,d:t,w:c,i:o,r:d,sc:e};export{s as c,t as d,p as default,o as i,d as r,n as s,e as sc,c as w};

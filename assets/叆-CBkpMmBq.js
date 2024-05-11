@@ -1,1 +1,0 @@
-const s=[{p:"ài",pp:"ai4",d:"misty/cloudy sky/dark/obscure",t:"靉",w:"叆"}],t=["云","爱"],c=[],i=[{w:"叆叇",p:"ài dài",d:"(literary) heavy (clouds)/(literary) eyeglasses",t:"靉靆"},{w:"叆叆",p:"ài ài",d:"misty",t:"靉靉"}],o=[],d="厶",e=14,r={s,c:t,d:c,w:i,i:o,r:d,sc:e};export{t as c,c as d,r as default,o as i,d as r,s,e as sc,i as w};

@@ -1,1 +1,0 @@
-const s=[{p:"wěn",pp:"wen3",d:"the corners of the mouth/the lips",t:"呡",w:"呡"}],t=["口","民"],c=[],o=[],n=[],e="口",p=8,r={s,c:t,d:c,w:o,i:n,r:e,sc:p};export{t as c,c as d,r as default,n as i,e as r,s,p as sc,o as w};

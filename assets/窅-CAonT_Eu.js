@@ -1,0 +1,1 @@
+const o=[{p:"yǎo",pp:"yao3",d:"sunken eyes/deep and hollow/remote and obscure/variant of 杳[yao3]",t:"窅",w:"窅"}],s=10,e="穴",n=["穴","目"],t=[],a=[{w:"窅然",p:"yǎo rán",d:"far and deep/remote and obscure/see also 杳然[yao3 ran2]",t:"窅然"}],c=[],d={s:o,sc:s,r:e,c:n,d:t,w:a,i:c};export{n as c,t as d,d as default,c as i,e as r,o as s,s as sc,a as w};

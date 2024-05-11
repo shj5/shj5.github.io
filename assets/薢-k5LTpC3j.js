@@ -1,1 +1,0 @@
-const c=[{p:"xiào",pp:"xiao4",d:"woody climbing plant",t:"薢",w:"薢"}],o=["艹","解"],s=[],t=[],n=[],i="艸",d=16,p={s:c,c:o,d:s,w:t,i:n,r:i,sc:d};export{o as c,s as d,p as default,n as i,i as r,c as s,d as sc,t as w};

@@ -1,0 +1,1 @@
+const c=[{p:"láo",pp:"lao2",d:"lawrencium (chemistry)",t:"鐒",w:"铹"}],s=12,t="金",o=["劳"],n=[],r=[],a=[],d={s:c,sc:s,r:t,c:o,d:n,w:r,i:a};export{o as c,n as d,d as default,a as i,t as r,c as s,s as sc,r as w};

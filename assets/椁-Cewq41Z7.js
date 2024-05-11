@@ -1,1 +1,0 @@
-const c=[{p:"guǒ",pp:"guo3",d:"outer coffin",t:"槨",w:"椁"}],n=["木","享"],o=[],s=[{w:"棺椁",p:"guān guǒ",d:"inner and outer coffins/coffin",t:"棺槨"}],t=[],f="木",u=12,d={s:c,c:n,d:o,w:s,i:t,r:f,sc:u};export{n as c,o as d,d as default,t as i,f as r,c as s,u as sc,s as w};

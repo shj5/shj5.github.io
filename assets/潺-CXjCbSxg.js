@@ -1,1 +1,0 @@
-const c=[{p:"chán",pp:"chan2",d:"flow/trickle (of water)",t:"潺",w:"潺"}],t=["氵","孱"],s=[],n=[{w:"潺潺",p:"chán chán",d:"murmur/babble (sound of water)",t:"潺潺"}],o=[],r="水",w=15,a={s:c,c:t,d:s,w:n,i:o,r,sc:w};export{t as c,s as d,a as default,o as i,r,c as s,w as sc,n as w};

@@ -1,1 +1,0 @@
-const c=[{p:"chuì",pp:"chui4",d:"to blow (a flute)/archaic version of 吹",t:"龡",w:"龡"}],s=["欠","龠"],o=[],t=[],n=[],a="龠",i=21,r={s:c,c:s,d:o,w:t,i:n,r:a,sc:i};export{s as c,o as d,r as default,n as i,a as r,c as s,i as sc,t as w};

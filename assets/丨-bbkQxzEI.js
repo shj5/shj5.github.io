@@ -1,1 +1,0 @@
-const s=[{p:"gǔn",pp:"gun3",d:"radical in Chinese characters (Kangxi radical 2)",t:"丨",w:"丨"},{p:"shù",pp:"shu4",d:"vertical stroke (in Chinese characters), referred to as 豎筆|竖笔[shu4 bi3]",t:"丨",w:"丨"}],c=[],t=["丩","个","丬","也","巾","中","引","旧","曱","用","由","甲","申","甴","串"],n=[],r=[],a="*",e=1,i={s,c,d:t,w:n,i:r,r:a,sc:e};export{c,t as d,i as default,r as i,a as r,s,e as sc,n as w};

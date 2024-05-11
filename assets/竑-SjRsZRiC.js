@@ -1,1 +1,0 @@
-const s=[{p:"hóng",pp:"hong2",d:"large/to estimate",t:"竑",w:"竑"}],t=["厷","立"],c=[],o=[],n=[],e="立",a=9,d={s,c:t,d:c,w:o,i:n,r:e,sc:a};export{t as c,c as d,d as default,n as i,e as r,s,a as sc,o as w};

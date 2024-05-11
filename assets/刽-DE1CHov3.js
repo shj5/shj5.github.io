@@ -1,1 +1,0 @@
-const t=[{p:"guì",pp:"gui4",d:"to amputate/to cut off/also pr. [kuai4]",t:"劊",w:"刽"}],s=["刂","会"],c=[],o=[{w:"刽子手",p:"guì zi shǒu",d:"executioner/headsman/slaughterer/fig. indiscriminate murderer",t:"劊子手"}],e=[],n="刀",i=8,r={s:t,c:s,d:c,w:o,i:e,r:n,sc:i};export{s as c,c as d,r as default,e as i,n as r,t as s,i as sc,o as w};

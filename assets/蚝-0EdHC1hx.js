@@ -1,0 +1,1 @@
+const s=[{p:"háo",pp:"hao2",d:"oyster",t:"蠔",w:"蚝"}],t=10,o="虫",c=["毛","虫"],d=[],e=[{w:"生蚝",p:"shēng háo",d:"raw oyster",t:"生蠔"},{w:"蚝油",p:"háo yóu",d:"oyster sauce",t:"蠔油"},{w:"蚝豉",p:"háo chǐ",d:"dried oyster meat",t:"蠔豉"}],n=[],r={s,sc:t,r:o,c,d,w:e,i:n};export{c,d,r as default,n as i,o as r,s,t as sc,e as w};

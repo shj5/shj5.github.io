@@ -1,0 +1,1 @@
+const s=[{p:"huī",pp:"hui1",d:"to speak falsely or wrongly/ugly",t:"噅",w:"𠯠"}],c=0,o="",t=[],n=[],l=[],p=[],r={s,sc:c,r:o,c:t,d:n,w:l,i:p};export{t as c,n as d,r as default,p as i,o as r,s,c as sc,l as w};

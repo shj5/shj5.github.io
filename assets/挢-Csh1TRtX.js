@@ -1,1 +1,0 @@
-const t=[{p:"jiǎo",pp:"jiao3",d:"to raise/to lift/to pretend/counterfeit/unyielding/variant of 矯|矫[jiao3]/to correct",t:"撟",w:"挢"}],o=["扌","乔"],c=[],s=[],n=[],i="手",e=9,r={s:t,c:o,d:c,w:s,i:n,r:i,sc:e};export{o as c,c as d,r as default,n as i,i as r,t as s,e as sc,s as w};

@@ -1,1 +1,0 @@
-const s=[{p:"mó",pp:"mo2",d:"paralysis of one side of the body",t:"髍",w:"髍"}],o=["骨","麻"],c=[],t=[],n=[],d="骨",e=21,p={s,c:o,d:c,w:t,i:n,r:d,sc:e};export{o as c,c as d,p as default,n as i,d as r,s,e as sc,t as w};

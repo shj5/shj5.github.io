@@ -1,1 +1,0 @@
-const n=[{p:"xiāng",pp:"xiang1",d:"inner lining of wooden utensils/component beam used in building construction/species of oak tree with medicinal bark (old)",t:"欀",w:"欀"}],o=["木","襄"],s=[],c=[],t=[],i="木",e=21,d={s:n,c:o,d:s,w:c,i:t,r:i,sc:e};export{o as c,s as d,d as default,t as i,i as r,n as s,e as sc,c as w};

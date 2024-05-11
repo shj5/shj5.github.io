@@ -1,0 +1,1 @@
+const s=[{p:"suì",pp:"sui4",d:"(literary) brass mirror used to light a fire by focusing the sun's rays",t:"鐩",w:"𬭼"}],t=0,c="",o=[],r=[],n=[],i=[],a={s,sc:t,r:c,c:o,d:r,w:n,i};export{o as c,r as d,a as default,i,c as r,s,t as sc,n as w};

@@ -1,1 +1,0 @@
-const t=[{p:"tài",pp:"tai4",d:"titanium (chemistry)",t:"鈦",w:"钛"}],i=["太"],n=[],s=[{w:"二氧化钛",p:"èr yǎng huà tài",d:"titanium dioxide",t:"二氧化鈦"},{w:"钛铁矿",p:"tài tiě kuàng",d:"ilmenite FeTiO3/titanium ore",t:"鈦鐵礦"}],c=[],o="金",d=9,e={s:t,c:i,d:n,w:s,i:c,r:o,sc:d};export{i as c,n as d,e as default,c as i,o as r,t as s,d as sc,s as w};

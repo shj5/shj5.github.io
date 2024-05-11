@@ -1,1 +1,0 @@
-const c=[{p:"qī",pp:"qi1",d:"name of a river/place name",t:"郪",w:"郪"}],s=["妻"],t=[],n=[],o=[],a="邑",e=11,p={s:c,c:s,d:t,w:n,i:o,r:a,sc:e};export{s as c,t as d,p as default,o as i,a as r,c as s,e as sc,n as w};

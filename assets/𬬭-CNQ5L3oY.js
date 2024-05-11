@@ -1,1 +1,0 @@
-const s=[{p:"lún",pp:"lun2",d:"(metal)/roentgenium (chemistry)",t:"錀",w:"𬬭"}],t=[],c=[],n=[],o=[],e="",r=0,d={s,c:t,d:c,w:n,i:o,r:e,sc:r};export{t as c,c as d,d as default,o as i,e as r,s,r as sc,n as w};

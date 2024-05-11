@@ -1,0 +1,1 @@
+const t=[{p:"miē",pp:"mie1",d:"the bleating of sheep/final particle which transforms statements into questions that indicate doubt or surprise (Cantonese)",t:"咩",w:"咩"},{p:"miē",pp:"mie1",d:"old variant of 咩[mie1]",t:"哶",w:"咩"}],s=9,n="口",o=["口","羊"],e=[],i=[],c=[],a={s:t,sc:s,r:n,c:o,d:e,w:i,i:c};export{o as c,e as d,a as default,c as i,n as r,t as s,s as sc,i as w};

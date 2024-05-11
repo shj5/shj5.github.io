@@ -1,0 +1,1 @@
+const c=[{p:"chǎng",pp:"chang3",d:"(of the day) long/old variant of 暢|畅[chang4]",t:"昶",w:"昶"}],n=9,o="日",s=["日","永"],t=[],a=[],d=[],g={s:c,sc:n,r:o,c:s,d:t,w:a,i:d};export{s as c,t as d,g as default,d as i,o as r,c as s,n as sc,a as w};

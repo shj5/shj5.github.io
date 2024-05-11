@@ -1,1 +1,0 @@
-const s=[{p:"zūn",pp:"zun1",d:"(literary) (of terrain) steep; precipitous",t:"嶟",w:"嶟"}],t=["山","尊"],c=[],n=[],o=[],r="山",e=15,p={s,c:t,d:c,w:n,i:o,r,sc:e};export{t as c,c as d,p as default,o as i,r,s,e as sc,n as w};

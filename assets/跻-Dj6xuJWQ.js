@@ -1,0 +1,1 @@
+const t=[{p:"jī",pp:"ji1",d:"(literary) to ascend; to climb; to mount",t:"躋",w:"跻"}],o=13,s="足",n=["齐","足"],c=[],e=[{w:"跻身",p:"jī shēn",d:"to rise into the ranks of; to be among (the best)/to get into (an industry, trade etc)",t:"躋身"}],i=[],r={s:t,sc:o,r:s,c:n,d:c,w:e,i};export{n as c,c as d,r as default,i,s as r,t as s,o as sc,e as w};

@@ -1,1 +1,0 @@
-const t=[{p:"tā",pp:"ta1",d:"(of clothes) to be soaked with sweat",t:"溻",w:"溻"}],s=["氵"],c=[],o=[],n=[],e="水",a=13,d={s:t,c:s,d:c,w:o,i:n,r:e,sc:a};export{s as c,c as d,d as default,n as i,e as r,t as s,a as sc,o as w};

@@ -1,0 +1,1 @@
+const c=[{p:"rú",pp:"ru2",d:"jacket/short coat",t:"襦",w:"襦"}],s=20,t="衣",o=["衤","需"],n=[],r=[],a=[],d={s:c,sc:s,r:t,c:o,d:n,w:r,i:a};export{o as c,n as d,d as default,a as i,t as r,c as s,s as sc,r as w};

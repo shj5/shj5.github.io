@@ -1,1 +1,0 @@
-const t=[{p:"guó",pp:"guo2",d:"cut off the left ear of the slain",t:"聝",w:"聝"}],s=["耳","或"],c=[],o=[],n=[],e="耳",f=14,a={s:t,c:s,d:c,w:o,i:n,r:e,sc:f};export{s as c,c as d,a as default,n as i,e as r,t as s,f as sc,o as w};

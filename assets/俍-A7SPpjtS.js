@@ -1,1 +1,0 @@
-const t=[{p:"liáng",pp:"liang2",d:"(literary) to be good at; to be expert in/(literary) skilled craftsman",t:"俍",w:"俍"}],s=["亻","良"],c=[],o=[],n=[],e="人",r=9,a={s:t,c:s,d:c,w:o,i:n,r:e,sc:r};export{s as c,c as d,a as default,n as i,e as r,t as s,r as sc,o as w};

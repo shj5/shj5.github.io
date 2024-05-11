@@ -1,1 +1,0 @@
-const e=[{p:"kè",pp:"ke4",d:"(bound form) (of a horse, mule, camel etc) female",t:"騍",w:"骒"}],c=["马","果"],t=[],o=[{w:"骒马",p:"kè mǎ",d:"mare",t:"騍馬"},{w:"骒驼",p:"kè tuó",d:"cow (female camel)",t:"騍駞"},{w:"骒骡",p:"kè luó",d:"mare (female mule)",t:"騍騾"}],s=[],m="馬",a=11,l={s:e,c,d:t,w:o,i:s,r:m,sc:a};export{c,t as d,l as default,s as i,m as r,e as s,a as sc,o as w};

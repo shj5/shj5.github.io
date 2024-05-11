@@ -1,1 +1,0 @@
-const t=[{p:"táng",pp:"tang2",d:"to fall flat/to fall on the face",t:"踼",w:"踼"}],c=["足","昜"],s=[],o=[],n=[],a="足",l=16,f={s:t,c,d:s,w:o,i:n,r:a,sc:l};export{c,s as d,f as default,n as i,a as r,t as s,l as sc,o as w};

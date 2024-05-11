@@ -1,1 +1,0 @@
-const s=[{p:"qióng",pp:"qiong2",d:"(in ancient texts) type of bamboo sometimes used as a staff",t:"筇",w:"筇"}],t=["竹","邛"],o=[],c=[],n=[],e="竹",a=12,i={s,c:t,d:o,w:c,i:n,r:e,sc:a};export{t as c,o as d,i as default,n as i,e as r,s,a as sc,c as w};

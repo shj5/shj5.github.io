@@ -1,1 +1,0 @@
-const t=[{p:"Yū",pp:"Yu1",d:"surname Yu",t:"紆",w:"纡"},{p:"yū",pp:"yu1",d:"winding/twisting",t:"紆",w:"纡"}],s=["纟","于"],n=[],o=[],c=[{w:"纡尊降贵",p:"yū zūn - jiàng guì",d:"(idiom) to show deference to sb of lower status; to condescend; to deign",t:"紆尊降貴"}],d="糸",e=6,i={s:t,c:s,d:n,w:o,i:c,r:d,sc:e};export{s as c,n as d,i as default,c as i,d as r,t as s,e as sc,o as w};

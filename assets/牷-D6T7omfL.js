@@ -1,0 +1,1 @@
+const c=[{p:"quán",pp:"quan2",d:"one-color bullock",t:"牷",w:"牷"}],o=10,s="牛",n=["全"],t=[],d=[],l=[],p={s:c,sc:o,r:s,c:n,d:t,w:d,i:l};export{n as c,t as d,p as default,l as i,s as r,c as s,o as sc,d as w};

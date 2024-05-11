@@ -1,1 +1,0 @@
-const t=[{p:"zǎn",pp:"zan3",d:"to accumulate, to hoard, to store up",t:"儹",w:"儹"}],c=["亻"],o=[],s=[],n=[],a="人",d=21,p={s:t,c,d:o,w:s,i:n,r:a,sc:d};export{c,o as d,p as default,n as i,a as r,t as s,d as sc,s as w};

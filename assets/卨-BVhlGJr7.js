@@ -1,1 +1,0 @@
-const s=[{p:"xiè",pp:"xie4",d:"used in old names/phonetic seol used in Korean names",t:"卨",w:"卨"}],n=["卜"],c=[],o=[],t=[],e="卜",d=11,i={s,c:n,d:c,w:o,i:t,r:e,sc:d};export{n as c,c as d,i as default,t as i,e as r,s,d as sc,o as w};

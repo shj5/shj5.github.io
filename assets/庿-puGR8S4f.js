@@ -1,1 +1,0 @@
-const o=[{p:"miào",pp:"miao4",d:"variant of 廟|庙[miao4]",t:"庿",w:"庿"}],s=["广","苗"],c=[],t=[],n=[],a="广",i=12,d={s:o,c:s,d:c,w:t,i:n,r:a,sc:i};export{s as c,c as d,d as default,n as i,a as r,o as s,i as sc,t as w};

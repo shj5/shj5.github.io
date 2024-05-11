@@ -1,0 +1,1 @@
+const c=[{p:"chǎi",pp:"chai3",d:"aromatic plant, possibly Dahurian angelica 白芷[bai2 zhi3] (archaic)",t:"茝",w:"茝"}],s=10,a="艸",t=["艹"],i=[],n=[],o=[],p={s:c,sc:s,r:a,c:t,d:i,w:n,i:o};export{t as c,i as d,p as default,o as i,a as r,c as s,s as sc,n as w};

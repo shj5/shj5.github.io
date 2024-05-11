@@ -1,0 +1,1 @@
+const n=[{p:"jiǎn",pp:"jian3",d:"child",t:"囝",w:"囝"},{p:"nān",pp:"nan1",d:"variant of 囡[nan1]",t:"囝",w:"囝"}],s=6,t="囗",c=["囗","子"],o=[],a=[{w:"囝仔",p:"jiǎn zǐ",d:"(Tw) child; youngster (Taiwanese, Tai-lo pr. [gín-á])",t:"囝仔"}],i=[],p={s:n,sc:s,r:t,c,d:o,w:a,i};export{c,o as d,p as default,i,t as r,n as s,s as sc,a as w};

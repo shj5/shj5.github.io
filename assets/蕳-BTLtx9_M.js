@@ -1,0 +1,1 @@
+const s=[{p:"jiān",pp:"jian1",d:"orchid (same as 蘭草|兰草)/Eupatorium (same as 蕑)",t:"蕳",w:"蕳"}],c=15,t="艸",o=["艹"],n=[],a=[],i=[],d={s,sc:c,r:t,c:o,d:n,w:a,i};export{o as c,n as d,d as default,i,t as r,s,c as sc,a as w};

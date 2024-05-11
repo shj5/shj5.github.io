@@ -1,1 +1,0 @@
-const s=[{p:"pì",pp:"pi4",d:"luxuriant (of water plants)",t:"淠",w:"淠"}],t=["氵","畀"],c=[],n=[],o=[],p="水",a=11,r={s,c:t,d:c,w:n,i:o,r:p,sc:a};export{t as c,c as d,r as default,o as i,p as r,s,a as sc,n as w};

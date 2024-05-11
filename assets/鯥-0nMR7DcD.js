@@ -1,1 +1,0 @@
-const s=[{p:"lù",pp:"lu4",d:"Pomatomus saltatrix/bluefish",t:"鯥",w:"鯥"}],t=["坴"],c=[],o=[],n=[],a="魚",l=19,d={s,c:t,d:c,w:o,i:n,r:a,sc:l};export{t as c,c as d,d as default,n as i,a as r,s,l as sc,o as w};

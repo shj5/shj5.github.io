@@ -1,1 +1,0 @@
-const o=[{p:"mò",pp:"mo4",d:"feed a horse with grain/horse feed",t:"秣",w:"秣"}],s=["禾","末"],t=[],c=[{w:"粮秣",p:"liáng mò",d:"provisions (e.g. military)/forage/fodder",t:"糧秣"},{w:"刍秣",p:"chú mò",d:"hay/fodder",t:"芻秣"}],d=[],e="禾",n=10,r={s:o,c:s,d:t,w:c,i:d,r:e,sc:n};export{s as c,t as d,r as default,d as i,e as r,o as s,n as sc,c as w};

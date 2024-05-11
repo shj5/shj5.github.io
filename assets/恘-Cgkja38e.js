@@ -1,1 +1,0 @@
-const t=[{p:"qiū",pp:"qiu1",d:"meaning uncertain, related to 戾[li4], to violate",t:"恘",w:"恘"}],c=["忄","休"],s=[],n=[],o=[],i="心",e=9,a={s:t,c,d:s,w:n,i:o,r:i,sc:e};export{c,s as d,a as default,o as i,i as r,t as s,e as sc,n as w};

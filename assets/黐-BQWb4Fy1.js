@@ -1,0 +1,1 @@
+const c=[{p:"chī",pp:"chi1",d:"birdlime",t:"黐",w:"黐"}],s=22,t="黍",n=["离","黍"],o=[],i=[{w:"黐线",p:"chī xiàn",d:"crazy/insane (Cantonese)",t:"黐線"},{w:"黐胶",p:"chī jiāo",d:"birdlime",t:"黐膠"}],d=[],e={s:c,sc:s,r:t,c:n,d:o,w:i,i:d};export{n as c,o as d,e as default,d as i,t as r,c as s,s as sc,i as w};

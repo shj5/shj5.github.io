@@ -1,1 +1,0 @@
-const s=[{p:"lèng",pp:"leng4",d:"to stare blankly/to glare",t:"睖",w:"睖"}],t=["目","夌"],c=[],n=[],o=[],l="目",a=13,e={s,c:t,d:c,w:n,i:o,r:l,sc:a};export{t as c,c as d,e as default,o as i,l as r,s,a as sc,n as w};

@@ -1,0 +1,1 @@
+const n=[{p:"wěng",pp:"weng3",d:"see 瞈矇|瞈蒙[weng3 meng2]",t:"瞈",w:"瞈"}],s=15,c="目",t=["目","翁"],o=[],e=[{w:"瞈蒙",p:"wěng méng",d:"blurred vision",t:"瞈矇"}],w=[],d={s:n,sc:s,r:c,c:t,d:o,w:e,i:w};export{t as c,o as d,d as default,w as i,c as r,n as s,s as sc,e as w};

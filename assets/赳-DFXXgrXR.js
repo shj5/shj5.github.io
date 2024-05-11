@@ -1,0 +1,1 @@
+const t=[{p:"jiū",pp:"jiu1",d:"see 赳赳[jiu1 jiu1]",t:"赳",w:"赳"}],s=9,i="走",n=["丩","走"],c=[],l=[{w:"赳赳",p:"jiū jiū",d:"valiantly/gallantly",t:"赳赳"},{w:"雄赳赳",p:"xióng jiū jiū",d:"valiantly/gallantly",t:"雄赳赳"}],a=[],o={s:t,sc:s,r:i,c:n,d:c,w:l,i:a};export{n as c,c as d,o as default,a as i,i as r,t as s,s as sc,l as w};

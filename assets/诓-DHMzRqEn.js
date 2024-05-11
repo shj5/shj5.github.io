@@ -1,0 +1,1 @@
+const s=[{p:"kuāng",pp:"kuang1",d:"to mislead/to swindle",t:"誆",w:"诓"}],t=8,n="言",o=["讠","匡"],c=[],d=[{w:"诓骗",p:"kuāng piàn",d:"to defraud/to swindle",t:"誆騙"}],e=[],i={s,sc:t,r:n,c:o,d:c,w:d,i:e};export{o as c,c as d,i as default,e as i,n as r,s,t as sc,d as w};

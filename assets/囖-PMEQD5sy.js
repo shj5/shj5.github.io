@@ -1,1 +1,0 @@
-const o=[{p:"luo",pp:"luo5",d:"erroneous variant of 囉|啰[luo5]",t:"囖",w:"囖"}],s=["口"],c=[],t=[],n=[],r="口",u=28,a={s:o,c:s,d:c,w:t,i:n,r,sc:u};export{s as c,c as d,a as default,n as i,r,o as s,u as sc,t as w};

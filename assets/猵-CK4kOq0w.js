@@ -1,0 +1,1 @@
+const t=[{p:"biān",pp:"bian1",d:"a kind of otter",t:"猵",w:"猵"},{p:"piàn",pp:"pian4",d:"used in 猵狙[pian4 ju1]",t:"猵",w:"猵"}],n=12,s="犬",i=["犭","扁"],c=[],o=[{w:"猵狙",p:"piàn jū",d:"mythical beast similar to an ape with dog's head",t:"猵狙"}],p=[],a={s:t,sc:n,r:s,c:i,d:c,w:o,i:p};export{i as c,c as d,a as default,p as i,s as r,t as s,n as sc,o as w};

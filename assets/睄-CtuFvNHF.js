@@ -1,1 +1,0 @@
-const o=[{p:"qiáo",pp:"qiao2",d:"to look at (old variant of 瞧[qiao2])",t:"睄",w:"睄"},{p:"shào",pp:"shao4",d:"(coll.) to glance",t:"睄",w:"睄"}],t=["目","肖"],s=[],c=[],n=[],a="目",p=12,d={s:o,c:t,d:s,w:c,i:n,r:a,sc:p};export{t as c,s as d,d as default,n as i,a as r,o as s,p as sc,c as w};

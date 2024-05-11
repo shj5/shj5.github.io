@@ -1,1 +1,0 @@
-const s=[{p:"lè",pp:"le4",d:"surplus/tithe",t:"仂",w:"仂"}],t=["亻","力"],c=[],n=[{w:"仂语",p:"lè yǔ",d:"phrase (linguistics)",t:"仂語"}],o=[],p="人",i=4,l={s,c:t,d:c,w:n,i:o,r:p,sc:i};export{t as c,c as d,l as default,o as i,p as r,s,i as sc,n as w};

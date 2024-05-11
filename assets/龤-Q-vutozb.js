@@ -1,1 +1,0 @@
-const t=[{p:"xié",pp:"xie2",d:"to harmonize/to accord with/to agree",t:"龤",w:"龤"}],c=["皆","龠"],o=[],s=[],n=[],e="龠",i=26,r={s:t,c,d:o,w:s,i:n,r:e,sc:i};export{c,o as d,r as default,n as i,e as r,t as s,i as sc,s as w};

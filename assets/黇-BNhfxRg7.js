@@ -1,1 +1,0 @@
-const t=[{p:"tiān",pp:"tian1",d:"used in 黇鹿[tian1 lu4]",t:"黇",w:"黇"}],s=["占"],n=[],c=[{w:"黇鹿",p:"tiān lù",d:"fallow deer (Dama dama)",t:"黇鹿"}],o=[],a="黃",d=17,i={s:t,c:s,d:n,w:c,i:o,r:a,sc:d};export{s as c,n as d,i as default,o as i,a as r,t as s,d as sc,c as w};

@@ -1,0 +1,1 @@
+const s=[{p:"shā",pp:"sha1",d:"spear/to cripple (literary)",t:"鎩",w:"铩"}],t=11,o="金",c=["杀"],i=[],n=[],r=[{w:"铩羽而归",p:"shā yǔ ér guī",d:"to return in low spirits following a defeat or failure to achieve one's ambitions (idiom)",t:"鎩羽而歸"}],e={s,sc:t,r:o,c,d:i,w:n,i:r};export{c,i as d,e as default,r as i,o as r,s,t as sc,n as w};

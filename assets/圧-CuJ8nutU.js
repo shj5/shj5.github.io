@@ -1,1 +1,0 @@
-const s=[{p:"yā",pp:"ya1",d:"Japanese variant of 壓|压[ya1]",t:"圧",w:"圧"}],c=["厂","土"],t=[],n=[],o=[],a="土",p=5,d={s,c,d:t,w:n,i:o,r:a,sc:p};export{c,t as d,d as default,o as i,a as r,s,p as sc,n as w};

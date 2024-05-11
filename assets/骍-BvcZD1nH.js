@@ -1,1 +1,0 @@
-const s=[{p:"xīng",pp:"xing1",d:"horse (or cattle) of reddish color/bay horse",t:"騂",w:"骍"}],o=["马","辛"],c=[],t=[],n=[],r="馬",d=10,e={s,c:o,d:c,w:t,i:n,r,sc:d};export{o as c,c as d,e as default,n as i,r,s,d as sc,t as w};

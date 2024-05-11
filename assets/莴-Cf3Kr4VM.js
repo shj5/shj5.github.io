@@ -1,1 +1,0 @@
-const t=[{p:"wō",pp:"wo1",d:"used in 萵苣|莴苣[wo1ju4]/used in 萵筍|莴笋[wo1sun3]",t:"萵",w:"莴"}],c=["艹","呙"],s=[],e=[{w:"莴笋",p:"wō sǔn",d:"Chinese lettuce/celtuce/asparagus lettuce/celery lettuce/stem lettuce",t:"萵筍"},{w:"莴苣",p:"wō jù",d:"lettuce (Lactuca sativa)",t:"萵苣"}],n=[],u="艸",o=10,w={s:t,c,d:s,w:e,i:n,r:u,sc:o};export{c,s as d,w as default,n as i,u as r,t as s,o as sc,e as w};

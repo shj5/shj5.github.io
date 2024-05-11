@@ -1,0 +1,1 @@
+const c=[{p:"jiǔ",pp:"jiu3",d:"black jade (variant of 玖[jiu3])",t:"㺵",w:"㺵"}],s=0,t="",o=[],n=[],a=[],i=[],d={s:c,sc:s,r:t,c:o,d:n,w:a,i};export{o as c,n as d,d as default,i,t as r,c as s,s as sc,a as w};

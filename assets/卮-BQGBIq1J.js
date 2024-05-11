@@ -1,1 +1,0 @@
-const t=[{p:"zhī",pp:"zhi1",d:"goblet",t:"卮",w:"卮"},{p:"zhī",pp:"zhi1",d:"old variant of 卮[zhi1]",t:"巵",w:"卮"}],s=["卩"],c=["栀"],o=[],n=[],p="卩",d=5,i={s:t,c:s,d:c,w:o,i:n,r:p,sc:d};export{s as c,c as d,i as default,n as i,p as r,t as s,d as sc,o as w};

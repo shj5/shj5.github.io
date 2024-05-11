@@ -1,1 +1,0 @@
-const c=[{p:"móu",pp:"mou2",d:"iron pot/metal cap",t:"鍪",w:"鍪"}],t=["金"],s=[],o=[{w:"兜鍪",p:"dōu móu",d:"helmet (archaic)",t:"兜鍪"}],n=[],p="金",a=17,d={s:c,c:t,d:s,w:o,i:n,r:p,sc:a};export{t as c,s as d,d as default,n as i,p as r,c as s,a as sc,o as w};

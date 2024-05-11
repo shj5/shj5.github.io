@@ -1,0 +1,1 @@
+const c=[{p:"mì",pp:"mi4",d:'"cover" radical in Chinese characters (Kangxi radical 14), occurring in 軍|军[jun1], 冠[guan1] etc, known as 禿寶蓋|秃宝盖[tu1 bao3 gai4] or 平寶蓋|平宝盖[ping2 bao3 gai4]',t:"冖",w:"冖"}],n=2,s="*",a=[],o=["冗","冘","写","军","冞","冠","冢","冣","冤","冥","冧","鼏"],t=[],i=[],r={s:c,sc:n,r:s,c:a,d:o,w:t,i};export{a as c,o as d,r as default,i,s as r,c as s,n as sc,t as w};

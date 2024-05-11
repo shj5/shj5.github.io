@@ -1,1 +1,0 @@
-const t=[{p:"lì",pp:"li4",d:"to attend (official functions)",t:"浰",w:"浰"}],c=["氵","利"],s=[],o=[],n=[],i="水",d=10,a={s:t,c,d:s,w:o,i:n,r:i,sc:d};export{c,s as d,a as default,n as i,i as r,t as s,d as sc,o as w};

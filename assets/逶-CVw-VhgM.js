@@ -1,0 +1,1 @@
+const c=[{p:"wēi",pp:"wei1",d:"winding, curving/swagger",t:"逶",w:"逶"}],n=12,s="辵",t=["辶","委"],i=[],o=[{w:"逶迤",p:"wēi yí",d:"winding (of road, river etc)/curved/long/distant",t:"逶迤"}],d=[],w={s:c,sc:n,r:s,c:t,d:i,w:o,i:d};export{t as c,i as d,w as default,d as i,s as r,c as s,n as sc,o as w};

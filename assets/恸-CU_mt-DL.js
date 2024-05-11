@@ -1,1 +1,0 @@
-const t=[{p:"tòng",pp:"tong4",d:"grief",t:"慟",w:"恸"}],n=["忄","动"],s=[],c=[{w:"哀恸",p:"āi tòng",d:"to be deeply grieved",t:"哀慟"},{w:"悲恸",p:"bēi tòng",d:"mournful",t:"悲慟"}],o=[],d="心",e=9,p={s:t,c:n,d:s,w:c,i:o,r:d,sc:e};export{n as c,s as d,p as default,o as i,d as r,t as s,e as sc,c as w};

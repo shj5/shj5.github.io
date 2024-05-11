@@ -1,1 +1,0 @@
-const s=[{p:"shěng",pp:"sheng3",d:"variant of 省[sheng3]/tight-lipped/to examine/to watch/to scour (esp. Cantonese)",t:"㗂",w:"㗂"}],t=[],n=[],o=[],c=[],e="",a=0,p={s,c:t,d:n,w:o,i:c,r:e,sc:a};export{t as c,n as d,p as default,c as i,e as r,s,a as sc,o as w};

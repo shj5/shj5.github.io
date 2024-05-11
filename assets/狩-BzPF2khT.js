@@ -1,0 +1,1 @@
+const t=[{p:"shòu",pp:"shou4",d:"to hunt/to go hunting (as winter sport in former times)/hunting dog/imperial tour",t:"狩",w:"狩"}],s=9,n="犬",o=["犭","守"],c=[],i=[{w:"狩猎",p:"shòu liè",d:"to hunt/hunting",t:"狩獵"}],u=[],r={s:t,sc:s,r:n,c:o,d:c,w:i,i:u};export{o as c,c as d,r as default,u as i,n as r,t as s,s as sc,i as w};

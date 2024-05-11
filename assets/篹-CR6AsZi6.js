@@ -1,0 +1,1 @@
+const o=[{p:"suǎn",pp:"suan3",d:"ancient bamboo basket for food/variant of 匴[suan3]/bamboo container for hats",t:"篹",w:"篹"},{p:"zhuàn",pp:"zhuan4",d:"to compose/to compile/food/delicacies",t:"篹",w:"篹"}],s=17,t="竹",c=["竹"],n=[],a=[],e=[],p={s:o,sc:s,r:t,c,d:n,w:a,i:e};export{c,n as d,p as default,e as i,t as r,o as s,s as sc,a as w};

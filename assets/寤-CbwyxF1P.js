@@ -1,0 +1,1 @@
+const t=[{p:"wù",pp:"wu4",d:"to awake from sleep",t:"寤",w:"寤"}],s=14,o="宀",c=["宀","吾"],e=[],a=[{w:"寤寐",p:"wù mèi",d:"(literary) awake or asleep; (fig.) all the time; constantly",t:"寤寐"},{w:"寤寐以求",p:"wù mèi yǐ qiú",d:"to crave day and night; to strongly desire",t:"寤寐以求"}],n=[],w={s:t,sc:s,r:o,c,d:e,w:a,i:n};export{c,e as d,w as default,n as i,o as r,t as s,s as sc,a as w};

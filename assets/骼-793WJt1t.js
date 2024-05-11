@@ -1,0 +1,1 @@
+const s=[{p:"gé",pp:"ge2",d:"skeleton",t:"骼",w:"骼"}],t=16,c="骨",e=["各","骨"],o=[],n=[{w:"外骨骼",p:"wài gǔ gé",d:"exoskeleton (the carapace of insects, crabs etc)",t:"外骨骼"},{w:"骨骼",p:"gǔ gé",d:"bones/skeleton",t:"骨骼"},{w:"骨骼肌",p:"gǔ gé jī",d:"striated muscle",t:"骨骼肌"}],d=[],g={s,sc:t,r:c,c:e,d:o,w:n,i:d};export{e as c,o as d,g as default,d as i,c as r,s,t as sc,n as w};

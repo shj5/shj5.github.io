@@ -1,0 +1,1 @@
+const t=[{p:"Dèng",pp:"Deng4",d:"Deng ethnic minority of Tibet",t:"僜",w:"僜"}],c=14,n="人",s=["亻","登"],o=[],e=[],i=[],d={s:t,sc:c,r:n,c:s,d:o,w:e,i};export{s as c,o as d,d as default,i,n as r,t as s,c as sc,e as w};

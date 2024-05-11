@@ -1,1 +1,0 @@
-const n=[{p:"pàn",pp:"pan4",d:"used in 袷袢[qia1 pan4]/variant of 襻[pan4]",t:"袢",w:"袢"}],a=["半","衤"],s=[],t=[{w:"袷袢",p:"qiā pàn",d:"(loanword) chapan, a traditional collarless coat worn in Central Asian countries",t:"袷袢"}],o=[],c="衣",i=11,p={s:n,c:a,d:s,w:t,i:o,r:c,sc:i};export{a as c,s as d,p as default,o as i,c as r,n as s,i as sc,t as w};

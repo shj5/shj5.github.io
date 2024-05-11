@@ -1,0 +1,1 @@
+const n=[{p:"qiǎn",pp:"qian3",d:"attached to/loving",t:"繾",w:"缱"}],t=16,s="糸",c=["纟","遣"],o=[],a=[{w:"缱绻",p:"qiǎn quǎn",d:"in love and inseparable",t:"繾綣"}],i=[],d={s:n,sc:t,r:s,c,d:o,w:a,i};export{c,o as d,d as default,i,s as r,n as s,t as sc,a as w};

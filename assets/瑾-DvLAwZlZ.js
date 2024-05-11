@@ -1,1 +1,0 @@
-const s=[{p:"jǐn",pp:"jin3",d:"brilliancy (of gems)",t:"瑾",w:"瑾"}],t=["王","堇"],n=[],o=[{w:"秋瑾",p:"Qiū Jǐn",d:"Qiu Jin (1875-1907), famous female martyr of the anti-Qing revolution, the subject of several books and films",t:"秋瑾"}],c=[],i="玉",e=15,a={s,c:t,d:n,w:o,i:c,r:i,sc:e};export{t as c,n as d,a as default,c as i,i as r,s,e as sc,o as w};

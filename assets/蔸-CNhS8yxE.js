@@ -1,1 +1,0 @@
-const s=[{p:"dōu",pp:"dou1",d:"root and lower stem of certain plants/classifier for pieces and clumps",t:"蔸",w:"蔸"}],c=["艹","兜"],o=[],t=[],n=[],d="艸",e=14,r={s,c,d:o,w:t,i:n,r:d,sc:e};export{c,o as d,r as default,n as i,d as r,s,e as sc,t as w};

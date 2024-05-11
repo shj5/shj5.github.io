@@ -1,1 +1,0 @@
-const t=[{p:"léi",pp:"lei2",d:"large earthenware wine jar",t:"罍",w:"罍"}],s=["缶","畾"],c=[],n=[{w:"樽罍",p:"zūn léi",d:"earthen liquor jar",t:"樽罍"}],e=[],o="缶",r=21,a={s:t,c:s,d:c,w:n,i:e,r:o,sc:r};export{s as c,c as d,a as default,e as i,o as r,t as s,r as sc,n as w};

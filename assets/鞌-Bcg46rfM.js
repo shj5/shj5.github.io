@@ -1,1 +1,0 @@
-const n=[{p:"Ān",pp:"An1",d:"An, a place in the area of present-day Jinan, Shandong where in 589 BC there was a battle between the states of Qi 齊國|齐国[Qi2guo2] and Jin 晉國|晋国[Jin4guo2]",t:"鞌",w:"鞌"}],t=["安","革"],e=[],s=[],a=[],o="革",c=15,i={s:n,c:t,d:e,w:s,i:a,r:o,sc:c};export{t as c,e as d,i as default,a as i,o as r,n as s,c as sc,s as w};

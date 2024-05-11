@@ -1,0 +1,1 @@
+const n=[{p:"líng",pp:"ling2",d:"name of a district in Hunan",t:"酃",w:"酃"}],t=20,c="邑",s=["霝"],o=[],i=[{w:"酃县",p:"Líng xiàn",d:"Ling county in Hunan",t:"酃縣"}],a=[],d={s:n,sc:t,r:c,c:s,d:o,w:i,i:a};export{s as c,o as d,d as default,a as i,c as r,n as s,t as sc,i as w};

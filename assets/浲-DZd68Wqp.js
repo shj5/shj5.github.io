@@ -1,1 +1,0 @@
-const s=[{p:"féng",pp:"feng2",d:"old variant of 漨[feng2]/(used in place names)",t:"浲",w:"浲"}],n=["氵","夆"],c=[],t=[],o=[],e="水",a=10,d={s,c:n,d:c,w:t,i:o,r:e,sc:a};export{n as c,c as d,d as default,o as i,e as r,s,a as sc,t as w};

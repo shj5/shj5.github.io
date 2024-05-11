@@ -1,1 +1,0 @@
-const t=[{p:"gēng",pp:"geng1",d:"to continue (as a song)",t:"賡",w:"赓"}],s=["贝","庚"],n=[],o=[{w:"赓即",p:"gēng jí",d:"(formal) immediately/promptly",t:"賡即"}],c=[],g="貝",p=12,a={s:t,c:s,d:n,w:o,i:c,r:g,sc:p};export{s as c,n as d,a as default,c as i,g as r,t as s,p as sc,o as w};

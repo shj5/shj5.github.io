@@ -1,1 +1,0 @@
-const s=[{p:"dì",pp:"di4",d:"white jade worn on belt",t:"珶",w:"珶"}],t=["王","弟"],c=[],o=[],n=[],d="玉",e=11,w={s,c:t,d:c,w:o,i:n,r:d,sc:e};export{t as c,c as d,w as default,n as i,d as r,s,e as sc,o as w};

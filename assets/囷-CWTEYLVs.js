@@ -1,1 +1,0 @@
-const n=[{p:"qūn",pp:"qun1",d:"granary/Taiwan pr. [jun1]",t:"囷",w:"囷"}],s=["囗","禾"],c=["菌","稛","箘","麕"],t=[],o=[],a="囗",r=8,p={s:n,c:s,d:c,w:t,i:o,r:a,sc:r};export{s as c,c as d,p as default,o as i,a as r,n as s,r as sc,t as w};

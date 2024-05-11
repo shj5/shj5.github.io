@@ -1,0 +1,1 @@
+const t=[{p:"qiān",pp:"qian1",d:"variant of 褰, to hold up the hem of clothes/to lift up the skirts",t:"攐",w:"攐"}],s=19,o="手",c=["扌","褰"],n=[],i=[],e=[],p={s:t,sc:s,r:o,c,d:n,w:i,i:e};export{c,n as d,p as default,e as i,o as r,t as s,s as sc,i as w};

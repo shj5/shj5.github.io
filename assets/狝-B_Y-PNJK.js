@@ -1,1 +1,0 @@
-const n=[{p:"xiǎn",pp:"xian3",d:"to hunt in autumn (archaic)",t:"獮",w:"狝"}],t=["犭","尔"],c=[],o=[{w:"秋狝",p:"qiū xiǎn",d:"(of an emperor) to hunt in autumn",t:"秋獮"}],s=[],i="犬",a=8,u={s:n,c:t,d:c,w:o,i:s,r:i,sc:a};export{t as c,c as d,u as default,s as i,i as r,n as s,a as sc,o as w};

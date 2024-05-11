@@ -1,0 +1,1 @@
+const e=[{p:"jī",pp:"ji1",d:"finely chopped meat or vegetables/powdered or fragmentary",t:"齏",w:"齑"}],o=15,s="齊",t=["齐","韭"],c=[],n=[{w:"齑粉",p:"jī fěn",d:"fine powder/broken pieces",t:"齏粉"}],p=[],r={s:e,sc:o,r:s,c:t,d:c,w:n,i:p};export{t as c,c as d,r as default,p as i,s as r,e as s,o as sc,n as w};

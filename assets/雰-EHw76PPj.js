@@ -1,1 +1,0 @@
-const s=[{p:"fēn",pp:"fen1",d:"misty/foggy",t:"雰",w:"雰"}],t=["分","雨"],n=[],c=[{w:"雰围",p:"fēn wéi",d:"variant of 氛圍|氛围[fen1wei2]",t:"雰圍"}],o=[],f="雨",i=12,w={s,c:t,d:n,w:c,i:o,r:f,sc:i};export{t as c,n as d,w as default,o as i,f as r,s,i as sc,c as w};

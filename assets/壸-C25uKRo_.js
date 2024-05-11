@@ -1,1 +1,0 @@
-const s=[{p:"kǔn",pp:"kun3",d:"palace corridor/fig. women's quarters/women",t:"壼",w:"壸"}],c=["士","亚"],o=[],n=[],t=[],r="士",e=11,a={s,c,d:o,w:n,i:t,r,sc:e};export{c,o as d,a as default,t as i,r,s,e as sc,n as w};

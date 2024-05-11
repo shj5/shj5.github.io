@@ -1,1 +1,0 @@
-const s=[{p:"è",pp:"e4",d:"wonderful/beautiful/(used in female given names and as a surname)",t:"姶",w:"姶"}],n=["女","合"],c=[],t=[],e=[],o="女",a=9,d={s,c:n,d:c,w:t,i:e,r:o,sc:a};export{n as c,c as d,d as default,e as i,o as r,s,a as sc,t as w};

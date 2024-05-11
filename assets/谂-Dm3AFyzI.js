@@ -1,1 +1,0 @@
-const o=[{p:"shěn",pp:"shen3",d:"to know/to reprimand/to urge/to long for/to tell/to inform",t:"諗",w:"谂"}],t=["讠","念"],s=[],n=[],c=[],r="言",e=10,d={s:o,c:t,d:s,w:n,i:c,r,sc:e};export{t as c,s as d,d as default,c as i,r,o as s,e as sc,n as w};

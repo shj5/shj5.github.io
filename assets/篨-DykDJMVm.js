@@ -1,1 +1,0 @@
-const c=[{p:"chú",pp:"chu2",d:"crude bamboo mat",t:"篨",w:"篨"}],s=["竹","除"],t=[],o=[],n=[],d="竹",a=16,p={s:c,c:s,d:t,w:o,i:n,r:d,sc:a};export{s as c,t as d,p as default,n as i,d as r,c as s,a as sc,o as w};

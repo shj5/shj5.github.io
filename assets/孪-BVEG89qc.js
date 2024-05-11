@@ -1,1 +1,0 @@
-const n=[{p:"luán",pp:"luan2",d:"twins",t:"孿",w:"孪"}],s=["孑","亦"],t=[],c=[{w:"孪生",p:"luán shēng",d:"(adj.) twin",t:"孿生"},{w:"孪生兄弟",p:"luán shēng xiōng dì",d:"twin brothers",t:"孿生兄弟"},{w:"孪生姐妹",p:"luán shēng jiě mèi",d:"twin sisters",t:"孿生姐妹"}],i=[],o="子",w=9,d={s:n,c:s,d:t,w:c,i,r:o,sc:w};export{s as c,t as d,d as default,i,o as r,n as s,w as sc,c as w};

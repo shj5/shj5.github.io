@@ -1,0 +1,1 @@
+const t=[{p:"xié",pp:"xie2",d:"harmonious",t:"勰",w:"勰"}],i=15,s="力",o=["劦","思"],c=[],n=[{w:"贾思勰",p:"Jiǎ Sī xié",d:"Jia Sixie, sixth century writer and author of agricultural encyclopedia Essential skill to benefit the people 齊民要術|齐民要术[Qi2 min2 Yao4 shu4]",t:"賈思勰"}],e=[],a={s:t,sc:i,r:s,c:o,d:c,w:n,i:e};export{o as c,c as d,a as default,e as i,s as r,t as s,i as sc,n as w};

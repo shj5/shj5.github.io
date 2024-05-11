@@ -1,1 +1,0 @@
-const o=[{p:"xuān",pp:"xuan1",d:"wriggler/mosquito larva/to crawl/to worm along",t:"蠉",w:"蠉"}],s=["虫","睘"],t=[],c=[],n=[],r="虫",a=19,w={s:o,c:s,d:t,w:c,i:n,r,sc:a};export{s as c,t as d,w as default,n as i,r,o as s,a as sc,c as w};

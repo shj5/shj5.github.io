@@ -1,0 +1,1 @@
+const s=[{p:"diàn",pp:"dian4",d:"blemish/disgrace/flaw in jade",t:"玷",w:"玷"}],t=9,n="玉",d=["王","占"],i=[],o=[{w:"玷污",p:"diàn wū",d:"to stain/to sully/to tarnish",t:"玷污"},{w:"玷辱",p:"diàn rǔ",d:"to dishonor/to disgrace",t:"玷辱"},{w:"瑕玷",p:"xiá diàn",d:"blemish/flaw",t:"瑕玷"}],c=[],a={s,sc:t,r:n,c:d,d:i,w:o,i:c};export{d as c,i as d,a as default,c as i,n as r,s,t as sc,o as w};

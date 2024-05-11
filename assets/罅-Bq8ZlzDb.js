@@ -1,1 +1,0 @@
-const c=[{p:"xià",pp:"xia4",d:"crack/grudge",t:"罅",w:"罅"}],s=["缶","虖"],t=[],i=[{w:"石罅",p:"shí xià",d:"a crack in a rock",t:"石罅"},{w:"罅隙",p:"xià xì",d:"gap/crack/rift",t:"罅隙"},{w:"裂罅",p:"liè xià",d:"rift/crevice/fissure",t:"裂罅"}],r=[],o="缶",a=17,n={s:c,c:s,d:t,w:i,i:r,r:o,sc:a};export{s as c,t as d,n as default,r as i,o as r,c as s,a as sc,i as w};

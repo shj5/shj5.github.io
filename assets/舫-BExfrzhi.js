@@ -1,0 +1,1 @@
+const t=[{p:"fǎng",pp:"fang3",d:"2 boats lashed together/large boat",t:"舫",w:"舫"}],o=10,s="舟",a=["方","舟"],c=[],n=[{w:"画舫",p:"huà fǎng",d:"decorated pleasure boat",t:"畫舫"},{w:"石舫",p:"Shí Fǎng",d:"Marble Boat, famous pavilion",t:"石舫"}],e=[],d={s:t,sc:o,r:s,c:a,d:c,w:n,i:e};export{a as c,c as d,d as default,e as i,s as r,t as s,o as sc,n as w};

@@ -1,1 +1,0 @@
-const s=[{p:"zī",pp:"zi1",d:"(archaic) a kind of black fish/bad person (Cantonese slang)",t:"鰦",w:"鰦"}],c=["兹"],n=[],o=[],t=[],a="魚",d=21,i={s,c,d:n,w:o,i:t,r:a,sc:d};export{c,n as d,i as default,t as i,a as r,s,d as sc,o as w};

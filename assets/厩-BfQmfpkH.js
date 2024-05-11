@@ -1,1 +1,0 @@
-const t=[{p:"jiù",pp:"jiu4",d:"stable/barn",t:"廄",w:"厩"},{p:"jiù",pp:"jiu4",d:"variant of 廄|厩[jiu4]",t:"廐",w:"厩"}],s=["厂","既"],c=[],n=[{w:"马厩",p:"mǎ jiù",d:"stable",t:"馬廄"}],o=[],i="厂",p=11,a={s:t,c:s,d:c,w:n,i:o,r:i,sc:p};export{s as c,c as d,a as default,o as i,i as r,t as s,p as sc,n as w};

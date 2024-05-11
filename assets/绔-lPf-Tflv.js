@@ -1,0 +1,1 @@
+const s=[{p:"kù",pp:"ku4",d:"variant of 褲|裤[ku4]",t:"絝",w:"绔"}],t=9,c="糸",n=["纟","夸"],o=[],d=[],i=[{w:"纨绔子弟",p:"wán kù zǐ dì",d:"hedonistic son of rich parents",t:"紈絝子弟"}],p={s,sc:t,r:c,c:n,d:o,w:d,i};export{n as c,o as d,p as default,i,c as r,s,t as sc,d as w};

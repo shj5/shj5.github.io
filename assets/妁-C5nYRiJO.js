@@ -1,1 +1,0 @@
-const s=[{p:"Shuò",pp:"Shuo4",d:"surname Suo",t:"妁",w:"妁"},{p:"shuò",pp:"shuo4",d:"(literary) matchmaker (on the bride's side)",t:"妁",w:"妁"}],t=["女","勺"],c=[],o=[{w:"媒妁",p:"méi shuò",d:"matchmaker/go-between (marital)",t:"媒妁"}],e=[],n="女",a=6,r={s,c:t,d:c,w:o,i:e,r:n,sc:a};export{t as c,c as d,r as default,e as i,n as r,s,a as sc,o as w};

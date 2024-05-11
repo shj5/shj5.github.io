@@ -1,0 +1,1 @@
+const s=[{p:"gà",pp:"ga4",d:"old variant of 尬[ga4]",t:"魀",w:"魀"}],c=14,t="鬼",o=["介","鬼"],n=[],a=[],d=[],p={s,sc:c,r:t,c:o,d:n,w:a,i:d};export{o as c,n as d,p as default,d as i,t as r,s,c as sc,a as w};

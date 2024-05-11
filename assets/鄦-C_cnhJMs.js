@@ -1,1 +1,0 @@
-const s=[{p:"Xǔ",pp:"Xu3",d:"surname Xu/vassal state during the Zhou Dynasty (1046-221 BC)",t:"鄦",w:"鄦"},{p:"xǔ",pp:"xu3",d:"old variant of 許|许",t:"鄦",w:"鄦"}],t=[],c=[],n=[],o=[],a="邑",d=15,p={s,c:t,d:c,w:n,i:o,r:a,sc:d};export{t as c,c as d,p as default,o as i,a as r,s,d as sc,n as w};

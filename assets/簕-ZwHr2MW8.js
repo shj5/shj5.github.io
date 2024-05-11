@@ -1,1 +1,0 @@
-const s=[{p:"lè",pp:"le4",d:"bound form used in 簕竹[le4 zhu2]",t:"簕",w:"簕"}],o=["竹","勒"],c=[],n=[{w:"簕竹",p:"lè zhú",d:"spiny bamboo (Bambusa blumeana)",t:"簕竹"}],t=[],a="竹",d=16,e={s,c:o,d:c,w:n,i:t,r:a,sc:d};export{o as c,c as d,e as default,t as i,a as r,s,d as sc,n as w};

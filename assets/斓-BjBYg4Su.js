@@ -1,1 +1,0 @@
-const n=[{p:"lán",pp:"lan2",d:"used in 斑斕|斑斓[ban1 lan2]",t:"斕",w:"斓"}],o=["文","阑"],s=[],c=[{w:"斑斓",p:"bān lán",d:"gorgeous; brightly colored; multicolored",t:"斑斕"}],t=[],l="文",d=16,r={s:n,c:o,d:s,w:c,i:t,r:l,sc:d};export{o as c,s as d,r as default,t as i,l as r,n as s,d as sc,c as w};

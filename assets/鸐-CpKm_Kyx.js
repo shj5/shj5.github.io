@@ -1,0 +1,1 @@
+const s=[{p:"dí",pp:"di2",d:"Reeves's pheasant (Syrmaticus reevesii)",t:"鸐",w:"鸐"}],c=25,t="鳥",e=["翟"],n=[],o=[],d=[],i={s,sc:c,r:t,c:e,d:n,w:o,i:d};export{e as c,n as d,i as default,d as i,t as r,s,c as sc,o as w};

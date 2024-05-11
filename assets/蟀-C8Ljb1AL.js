@@ -1,1 +1,0 @@
-const s=[{p:"shuài",pp:"shuai4",d:"used in 蟋蟀[xi1 shuai4]",t:"蟀",w:"蟀"}],c=["虫","率"],i=[],t=[{w:"蟋蟀",p:"xī shuài",d:"cricket (insect)",t:"蟋蟀"},{w:"蟋蟀草",p:"xī shuài cǎo",d:"wire grass (Eleusine indica)",t:"蟋蟀草"}],n=[],o="虫",d=17,e={s,c,d:i,w:t,i:n,r:o,sc:d};export{c,i as d,e as default,n as i,o as r,s,d as sc,t as w};

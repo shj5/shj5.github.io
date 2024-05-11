@@ -1,1 +1,0 @@
-const s=[{p:"yáo",pp:"yao2",d:"high/steep/to tower",t:"嶢",w:"峣"}],t=["山","尧"],o=[],c=[],n=[],e="山",p=9,d={s,c:t,d:o,w:c,i:n,r:e,sc:p};export{t as c,o as d,d as default,n as i,e as r,s,p as sc,c as w};

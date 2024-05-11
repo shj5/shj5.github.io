@@ -1,0 +1,1 @@
+const n=[{p:"dǎn",pp:"dan3",d:"(old barbarian dialects) to pay a fine in atonement/river/Taiwan pr. [tan4]",t:"賧",w:"赕"}],t=12,a="貝",o=["贝","炎"],s=[],c=[{w:"赕佛",p:"dǎn fó",d:"(Dai language) to make offerings to Buddha",t:"賧佛"}],d=[],e={s:n,sc:t,r:a,c:o,d:s,w:c,i:d};export{o as c,s as d,e as default,d as i,a as r,n as s,t as sc,c as w};

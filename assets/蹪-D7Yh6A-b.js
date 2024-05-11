@@ -1,1 +1,0 @@
-const t=[{p:"tuí",pp:"tui2",d:"to stumble/to fall",t:"蹪",w:"蹪"}],s=["足"],c=[],o=[],n=[],d="足",l=19,p={s:t,c:s,d:c,w:o,i:n,r:d,sc:l};export{s as c,c as d,p as default,n as i,d as r,t as s,l as sc,o as w};

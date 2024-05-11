@@ -1,0 +1,1 @@
+const s=[{p:"ní",pp:"ni2",d:"clamps for crossbar of carriage",t:"輗",w:"𫐐"}],c=0,o="",t=[],n=[],r=[],a=[],p={s,sc:c,r:o,c:t,d:n,w:r,i:a};export{t as c,n as d,p as default,a as i,o as r,s,c as sc,r as w};

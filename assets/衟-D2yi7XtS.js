@@ -1,1 +1,0 @@
-const o=[{p:"dào",pp:"dao4",d:"old variant of 道[dao4]",t:"衟",w:"衟"}],s=["彳"],c=[],t=[],n=[],d="行",a=16,p={s:o,c:s,d:c,w:t,i:n,r:d,sc:a};export{s as c,c as d,p as default,n as i,d as r,o as s,a as sc,t as w};

@@ -1,1 +1,0 @@
-const s=[{p:"zuì",pp:"zui4",d:"see 槜李[zui4 li3]/see 槜李[Zui4 li3]",t:"槜",w:"槜"}],t=["木","隽"],c=[],n=[{w:"槜李",p:"Zuì lǐ",d:"ancient place in modern day Zhejiang Province",t:"槜李"},{w:"槜李",p:"zuì lǐ",d:"plum with bright red skin",t:"槜李"}],i=[],e="木",o=14,d={s,c:t,d:c,w:n,i,r:e,sc:o};export{t as c,c as d,d as default,i,e as r,s,o as sc,n as w};

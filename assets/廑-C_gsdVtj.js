@@ -1,1 +1,0 @@
-const n=[{p:"jǐn",pp:"jin3",d:"careful/hut/variant of 僅|仅[jin3]",t:"廑",w:"廑"},{p:"qín",pp:"qin2",d:"variant of 勤[qin2]",t:"廑",w:"廑"}],t=["广","堇"],s=[],c=[{w:"许廑父",p:"Xǔ Qín fù",d:"Xu Qinfu (1891-1953), journalist and writer",t:"許廑父"}],o=[],i="广",a=14,r={s:n,c:t,d:s,w:c,i:o,r:i,sc:a};export{t as c,s as d,r as default,o as i,i as r,n as s,a as sc,c as w};

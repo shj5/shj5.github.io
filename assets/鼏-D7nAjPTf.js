@@ -1,1 +1,0 @@
-const t=[{p:"mì",pp:"mi4",d:"cover of tripod kettle",t:"鼏",w:"鼏"}],c=["冖","鼎"],s=[],o=[],n=[],d="鼎",e=15,p={s:t,c,d:s,w:o,i:n,r:d,sc:e};export{c,s as d,p as default,n as i,d as r,t as s,e as sc,o as w};

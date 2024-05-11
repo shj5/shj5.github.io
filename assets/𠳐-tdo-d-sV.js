@@ -1,1 +1,0 @@
-const o=[{p:"bāng",pp:"bang1",d:"(onom.) bang (door slamming shut etc)/rat-a-tat (knocking on a door etc)",t:"𠳐",w:"𠳐"}],t=[],n=[],c=[],s=[],a="",d=0,r={s:o,c:t,d:n,w:c,i:s,r:a,sc:d};export{t as c,n as d,r as default,s as i,a as r,o as s,d as sc,c as w};

@@ -1,0 +1,1 @@
+const c=[{p:"yì",pp:"yi4",d:"(literary) honeycomb; beehive",t:"蛡",w:"蛡"}],s=12,t="虫",o=["虫","羽"],n=[],e=[],i=[],r={s:c,sc:s,r:t,c:o,d:n,w:e,i};export{o as c,n as d,r as default,i,t as r,c as s,s as sc,e as w};

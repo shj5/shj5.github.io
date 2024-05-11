@@ -1,1 +1,0 @@
-const o=[{p:"yáo",pp:"yao2",d:"variant of 堯|尧, legendary emperor Yao, c. 2200 BC/embankment",t:"垚",w:"垚"}],c=["土"],s=[],t=[],n=[],a="土",e=9,r={s:o,c,d:s,w:t,i:n,r:a,sc:e};export{c,s as d,r as default,n as i,a as r,o as s,e as sc,t as w};

@@ -1,1 +1,0 @@
-const s=[{p:"lè",pp:"le4",d:"Japanese variant of 樂|乐[le4]",t:"楽",w:"楽"},{p:"yuè",pp:"yue4",d:"Japanese variant of 樂|乐[yue4]",t:"楽",w:"楽"}],t=["木"],c=["薬","檪"],n=[],o=[],a="木",e=13,p={s,c:t,d:c,w:n,i:o,r:a,sc:e};export{t as c,c as d,p as default,o as i,a as r,s,e as sc,n as w};

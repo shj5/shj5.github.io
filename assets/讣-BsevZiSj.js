@@ -1,1 +1,0 @@
-const t=[{p:"fù",pp:"fu4",d:"to report a bereavement/obituary",t:"訃",w:"讣"}],o=["讠","卜"],c=[],s=[{w:"讣告",p:"fù gào",d:"obituary",t:"訃告"},{w:"讣文",p:"fù wén",d:"obituary notice",t:"訃文"},{w:"讣闻",p:"fù wén",d:"obituary",t:"訃聞"}],n=[],r="言",a=4,e={s:t,c:o,d:c,w:s,i:n,r,sc:a};export{o as c,c as d,e as default,n as i,r,t as s,a as sc,s as w};

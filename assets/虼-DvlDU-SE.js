@@ -1,0 +1,1 @@
+const o=[{p:"gè",pp:"ge4",d:"flea",t:"虼",w:"虼"}],c=9,s="虫",t=["乞","虫"],n=[],a=[{w:"虼蚤",p:"gè zao",d:"flea (common colloquial word)",t:"虼蚤"}],d=[],l={s:o,sc:c,r:s,c:t,d:n,w:a,i:d};export{t as c,n as d,l as default,d as i,s as r,o as s,c as sc,a as w};

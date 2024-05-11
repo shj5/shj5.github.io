@@ -1,0 +1,1 @@
+const n=[{p:"méng",pp:"meng2",d:"ancient warship/see 艨艟, ancient leatherclad warship",t:"艨",w:"艨"}],c=20,s="舟",t=["舟","蒙"],a=[],e=[{w:"艨艟",p:"méng chōng",d:"ancient leatherclad warship",t:"艨艟"},{w:"艨冲",p:"méng chōng",d:"ancient leatherclad warship/same as 艨艟",t:"艨衝"}],i=[],p={s:n,sc:c,r:s,c:t,d:a,w:e,i};export{t as c,a as d,p as default,i,s as r,n as s,c as sc,e as w};

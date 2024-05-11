@@ -1,1 +1,0 @@
-const s=[{p:"huí",pp:"hui2",d:"disordered/indistinct doubtful/blurred",t:"恛",w:"恛"}],t=["忄","回"],c=[],o=[],d=[],n="心",i=9,r={s,c:t,d:c,w:o,i:d,r:n,sc:i};export{t as c,c as d,r as default,d as i,n as r,s,i as sc,o as w};

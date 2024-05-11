@@ -1,1 +1,0 @@
-const o=[{p:"qí",pp:"qi2",d:"three legged cauldron (old)/woodworking chisel (old)",t:"錡",w:"锜"}],c=["奇"],s=[],t=[],n=[],d="金",e=13,l={s:o,c,d:s,w:t,i:n,r:d,sc:e};export{c,s as d,l as default,n as i,d as r,o as s,e as sc,t as w};

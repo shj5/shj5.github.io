@@ -1,1 +1,0 @@
-const t=[{p:"kuài",pp:"kuai4",d:"(literary) standard; banner (raised for battle)/(literary) catapult, or a rock launched by a catapult",t:"旝",w:"旝"}],a=["方"],c=[],s=[],r=[],n="方",o=19,d={s:t,c:a,d:c,w:s,i:r,r:n,sc:o};export{a as c,c as d,d as default,r as i,n as r,t as s,o as sc,s as w};

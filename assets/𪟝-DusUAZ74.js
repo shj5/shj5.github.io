@@ -1,1 +1,0 @@
-const c=[{p:"jì",pp:"ji4",d:"merit; accomplishment (variant of 績|绩[ji4])",t:"勣",w:"𪟝"}],s=[],t=[],o=[],n=[],i="",a=0,p={s:c,c:s,d:t,w:o,i:n,r:i,sc:a};export{s as c,t as d,p as default,n as i,i as r,c as s,a as sc,o as w};

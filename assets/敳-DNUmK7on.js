@@ -1,1 +1,0 @@
-const s=[{p:"ái",pp:"ai2",d:"able (in administrating)/to govern forcefully",t:"敱",w:"敳"}],t=["攵"],c=[],n=[],o=[],i="攵",a=14,r={s,c:t,d:c,w:n,i:o,r:i,sc:a};export{t as c,c as d,r as default,o as i,i as r,s,a as sc,n as w};

@@ -1,0 +1,1 @@
+const o=[{p:"gè",pp:"ge4",d:"(coll.) (of sth hard or rough) to press against some part of one's body causing discomfort (like a small stone in one's shoe)/to hurt/to chafe",t:"硌",w:"硌"}],s=11,t="石",c=["石","各"],n=[],e=[],a=[],r={s:o,sc:s,r:t,c,d:n,w:e,i:a};export{c,n as d,r as default,a as i,t as r,o as s,s as sc,e as w};

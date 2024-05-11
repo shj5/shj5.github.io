@@ -1,0 +1,1 @@
+const s=[{p:"dài",pp:"dai4",d:"old term for 糖苷[tang2 gan1], glycoside",t:"甙",w:"甙"}],c=8,t="甘",o=["弋","甘"],n=[],d=[],a=[],i={s,sc:c,r:t,c:o,d:n,w:d,i:a};export{o as c,n as d,i as default,a as i,t as r,s,c as sc,d as w};

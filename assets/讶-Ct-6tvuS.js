@@ -1,1 +1,0 @@
-const s=[{p:"yà",pp:"ya4",d:"astounded",t:"訝",w:"讶"}],t=["讠","牙"],o=[],n=[{w:"怪讶",p:"guài yà",d:"astonished",t:"怪訝"},{w:"讶异",p:"yà yì",d:"to be surprised/to be astonished",t:"訝異"},{w:"惊讶",p:"jīng yà",d:"amazed/astonished/to surprise/amazing/astonishment/awe",t:"驚訝"}],d=[],a="言",e=6,c={s,c:t,d:o,w:n,i:d,r:a,sc:e};export{t as c,o as d,c as default,d as i,a as r,s,e as sc,n as w};

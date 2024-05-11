@@ -1,1 +1,0 @@
-const t=[{p:"kēi",pp:"kei1",d:"to scold/to beat",t:"剋",w:"剋"}],o=["刂","克"],s=[],c=[{w:"剋架",p:"kēi jià",d:"to scuffle/to come to blows",t:"剋架"},{w:"挨剋",p:"ái kēi",d:"to be rebuked/to suffer blows",t:"挨剋"}],e=[],d="刀",i=9,n={s:t,c:o,d:s,w:c,i:e,r:d,sc:i};export{o as c,s as d,n as default,e as i,d as r,t as s,i as sc,c as w};

@@ -1,1 +1,0 @@
-const s=[{p:"lú",pp:"lu2",d:"basket made of rush/spear-shaft",t:"籚",w:"籚"}],t=["竹"],c=[],o=[],n=[],a="竹",d=22,e={s,c:t,d:c,w:o,i:n,r:a,sc:d};export{t as c,c as d,e as default,n as i,a as r,s,d as sc,o as w};

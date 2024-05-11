@@ -1,0 +1,1 @@
+const c=[{p:"jǔ",pp:"ju3",d:"hunchbacked/walk alone",t:"踽",w:"踽"}],o=16,s="足",t=["足","禹"],n=[],d=[],a=[{w:"踽踽独行",p:"jǔ jǔ dú xíng",d:"to walk alone (idiom)",t:"踽踽獨行"}],w={s:c,sc:o,r:s,c:t,d:n,w:d,i:a};export{t as c,n as d,w as default,a as i,s as r,c as s,o as sc,d as w};

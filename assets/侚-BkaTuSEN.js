@@ -1,1 +1,0 @@
-const c=[{p:"xùn",pp:"xun4",d:"(literary) quick/variant of 殉[xun4]",t:"侚",w:"侚"}],s=["亻","旬"],t=[],n=[],o=[],r="人",a=8,i={s:c,c:s,d:t,w:n,i:o,r,sc:a};export{s as c,t as d,i as default,o as i,r,c as s,a as sc,n as w};

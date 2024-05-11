@@ -1,1 +1,0 @@
-const c=[{p:"jiāng",pp:"jiang1",d:"cowpeas/black-eyed beans",t:"豇",w:"豇"}],s=["工","豆"],n=[],t=[{w:"豇豆",p:"jiāng dòu",d:"cowpea/black-eyed bean",t:"豇豆"}],o=[],e="豆",a=10,d={s:c,c:s,d:n,w:t,i:o,r:e,sc:a};export{s as c,n as d,d as default,o as i,e as r,c as s,a as sc,t as w};

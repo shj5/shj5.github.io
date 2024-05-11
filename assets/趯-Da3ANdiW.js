@@ -1,0 +1,1 @@
+const t=[{p:"tì",pp:"ti4",d:"to jump/way of stroke in calligraphy",t:"趯",w:"趯"},{p:"yuè",pp:"yue4",d:"to jump",t:"趯",w:"趯"}],s=21,c="走",o=["走","翟"],p=[],n=[],a=[],d={s:t,sc:s,r:c,c:o,d:p,w:n,i:a};export{o as c,p as d,d as default,a as i,c as r,t as s,s as sc,n as w};

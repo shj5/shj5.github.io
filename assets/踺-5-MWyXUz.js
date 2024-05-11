@@ -1,1 +1,0 @@
-const s=[{p:"jiàn",pp:"jian4",d:"used in 踺子[jian4 zi5]",t:"踺",w:"踺"}],n=["足","建"],c=[],t=[{w:"踺子",p:"jiàn zi",d:"somersault (in gymnastics or dance); aerial flip",t:"踺子"}],i=[],o="足",a=15,d={s,c:n,d:c,w:t,i,r:o,sc:a};export{n as c,c as d,d as default,i,o as r,s,a as sc,t as w};

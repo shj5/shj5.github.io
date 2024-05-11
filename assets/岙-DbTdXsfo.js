@@ -1,0 +1,1 @@
+const n=[{p:"ào",pp:"ao4",d:"plain in the middle of the mountains/used in place names, esp. in 浙江[Zhe4 jiang1] and 福建[Fu2 jian4]",t:"嶴",w:"岙"}],s=7,t="山",c=["山","夭"],o=[],a=[],e=[],i={s:n,sc:s,r:t,c,d:o,w:a,i:e};export{c,o as d,i as default,e as i,t as r,n as s,s as sc,a as w};

@@ -1,0 +1,1 @@
+const o=[{p:"Jiāo",pp:"Jiao1",d:"surname Jiao",t:"姣",w:"姣"},{p:"jiāo",pp:"jiao1",d:"cunning/pretty",t:"姣",w:"姣"}],s=9,t="女",c=["女","交"],n=[],i=[],p=[],a={s:o,sc:s,r:t,c,d:n,w:i,i:p};export{c,n as d,a as default,p as i,t as r,o as s,s as sc,i as w};

@@ -1,0 +1,1 @@
+const c=[{p:"jīng",pp:"jing1",d:"acrylic",t:"腈",w:"腈"}],n=12,t="肉",s=["月","青"],i=[],o=[{w:"丙烯腈",p:"bǐng xī jīng",d:"acrylo-nitrile",t:"丙烯腈"},{w:"异腈",p:"yì jīng",d:"carbylamine/isocyanide",t:"異腈"},{w:"腈纶",p:"jīng lún",d:"acrylic fiber",t:"腈綸"}],r=[],a={s:c,sc:n,r:t,c:s,d:i,w:o,i:r};export{s as c,i as d,a as default,r as i,t as r,c as s,n as sc,o as w};

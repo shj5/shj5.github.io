@@ -1,1 +1,0 @@
-const t=[{p:"tuō",pp:"tuo1",d:"archaic variant of 托[tuo1]",t:"乇",w:"乇"},{p:"zhé",pp:"zhe2",d:'"blade of grass" component in Chinese characters',t:"乇",w:"乇"}],c=[],s=["讬","吒","圫","宅","托","饦","亳","馲","魠"],o=[],n=[],a="丿",e=3,p={s:t,c,d:s,w:o,i:n,r:a,sc:e};export{c,s as d,p as default,n as i,a as r,t as s,e as sc,o as w};

@@ -1,1 +1,0 @@
-const s=[{p:"hóu",pp:"hou2",d:"(anatomy) epiphysis",t:"骺",w:"骺"}],t=["后","骨"],o=[],p=[{w:"骨骺",p:"gǔ hóu",d:"(anatomy) epiphysis",t:"骨骺"},{w:"骺软骨板",p:"hóu ruǎn gǔ bǎn",d:"epiphyseal plate/growth plate (bone)",t:"骺軟骨板"}],n=[],c="骨",a=16,e={s,c:t,d:o,w:p,i:n,r:c,sc:a};export{t as c,o as d,e as default,n as i,c as r,s,a as sc,p as w};

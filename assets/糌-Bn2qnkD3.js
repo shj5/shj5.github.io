@@ -1,1 +1,0 @@
-const t=[{p:"zān",pp:"zan1",d:"zanba, Tibetan barley bread",t:"糌",w:"糌"}],n=["米","昝"],s=[],a=[{w:"糌粑",p:"zān bā",d:"tsamba, Tibetan barley bread",t:"糌粑"}],c=[],b="米",o=15,e={s:t,c:n,d:s,w:a,i:c,r:b,sc:o};export{n as c,s as d,e as default,c as i,b as r,t as s,o as sc,a as w};

@@ -1,1 +1,0 @@
-const s=[{p:"sā",pp:"sa1",d:"three (colloquial equivalent of 三個|三个)",t:"仨",w:"仨"}],c=["亻","三"],t=[],o=[],n=[],e="人",a=5,l={s,c,d:t,w:o,i:n,r:e,sc:a};export{c,t as d,l as default,n as i,e as r,s,a as sc,o as w};

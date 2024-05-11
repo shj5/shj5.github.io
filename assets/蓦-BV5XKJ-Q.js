@@ -1,0 +1,1 @@
+const d=[{p:"mò",pp:"mo4",d:"leap on or over/suddenly",t:"驀",w:"蓦"}],s=16,n="艸",e=["马","莫"],t=[],c=[{w:"蓦地",p:"mò de",d:"suddenly; unexpectedly",t:"驀地"},{w:"蓦地里",p:"mò dì lǐ",d:"suddenly; unexpectedly",t:"驀地裡"},{w:"蓦然",p:"mò rán",d:"suddenly/sudden",t:"驀然"}],o=[],p={s:d,sc:s,r:n,c:e,d:t,w:c,i:o};export{e as c,t as d,p as default,o as i,n as r,d as s,s as sc,c as w};

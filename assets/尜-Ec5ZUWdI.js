@@ -1,0 +1,1 @@
+const t=[{p:"gá",pp:"ga2",d:"toy formed of a spindle with two sharp ends",t:"尜",w:"尜"}],o=9,s="小",c=["小","尖"],n=[],a=[{w:"尜儿",p:"gá r",d:"erhua variant of 尜[ga2]",t:"尜兒"},{w:"尜尜",p:"gá ga",d:"toy formed of a spindle with two sharp ends/brochette (such as corncob)",t:"尜尜"}],d=[],r={s:t,sc:o,r:s,c,d:n,w:a,i:d};export{c,n as d,r as default,d as i,s as r,t as s,o as sc,a as w};

@@ -1,0 +1,1 @@
+const s=[{p:"guài",pp:"guai4",d:"decisive",t:"夬",w:"夬"}],c=4,t="大",o=["乛","大"],n=["决","块","快","抉","炔","玦","砄","缺","袂","觖","趹","鈌","鴂","鴃"],i=[],d=[],e={s,sc:c,r:t,c:o,d:n,w:i,i:d};export{o as c,n as d,e as default,d as i,t as r,s,c as sc,i as w};

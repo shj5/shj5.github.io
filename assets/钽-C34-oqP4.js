@@ -1,0 +1,1 @@
+const t=[{p:"tǎn",pp:"tan3",d:"tantalum (chemistry)",t:"鉭",w:"钽"}],s=10,c="金",n=["旦"],o=[],a=[],d=[],p={s:t,sc:s,r:c,c:n,d:o,w:a,i:d};export{n as c,o as d,p as default,d as i,c as r,t as s,s as sc,a as w};

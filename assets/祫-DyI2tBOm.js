@@ -1,1 +1,0 @@
-const s=[{p:"xiá",pp:"xia2",d:"triennial sacrifice to ancestors",t:"祫",w:"祫"}],c=["合"],t=[],n=[],o=[],i="示",a=11,r={s,c,d:t,w:n,i:o,r:i,sc:a};export{c,t as d,r as default,o as i,i as r,s,a as sc,n as w};

@@ -1,1 +1,0 @@
-const t=[{p:"suō",pp:"suo1",d:"to throw a glance at; to peer at/Taiwan pr. [jun4]",t:"睃",w:"睃"}],s=["目"],n=[],o=[{w:"睃巡",p:"suō xún",d:"(eyes) to scan/to glance left and right/to scrutinize/also written 巡睃[xun2 suo1]",t:"睃巡"}],c=[],a="目",e=12,r={s:t,c:s,d:n,w:o,i:c,r:a,sc:e};export{s as c,n as d,r as default,c as i,a as r,t as s,e as sc,o as w};

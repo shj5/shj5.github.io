@@ -1,1 +1,0 @@
-const s=[{p:"huò",pp:"huo4",d:"(interj.) oh!",t:"嚄",w:"嚄"},{p:"ǒ",pp:"o3",d:"(interj. of surprise)",t:"嚄",w:"嚄"}],t=["口","蒦"],o=[],c=[],n=[],p="口",r=17,d={s,c:t,d:o,w:c,i:n,r:p,sc:r};export{t as c,o as d,d as default,n as i,p as r,s,r as sc,c as w};

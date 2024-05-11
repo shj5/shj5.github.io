@@ -1,0 +1,1 @@
+const o=[{p:"huì",pp:"hui4",d:"vast/expansive (as of water)",t:"濊",w:"濊"}],s=16,c="水",n=["氵"],t=[],a=[{w:"濊貊",p:"Huì mò",d:"Yemaek, ancient ethnic group of Manchuria and Korea, precursors of Korean Goguryeo kingdom",t:"濊貊"}],e=[],r={s:o,sc:s,r:c,c:n,d:t,w:a,i:e};export{n as c,t as d,r as default,e as i,c as r,o as s,s as sc,a as w};

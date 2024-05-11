@@ -1,0 +1,1 @@
+const c=[{p:"shú",pp:"shu2",d:"broomcorn millet (Panicum spp.)/Panicum italicum/glutinous millet",t:"秫",w:"秫"}],s=10,t="禾",o=["禾","术"],i=[],n=[{w:"秫米",p:"shú mǐ",d:"broomcorn millet (Panicum spp.)/Panicum italicum/glutinous millet",t:"秫米"}],l=[],m={s:c,sc:s,r:t,c:o,d:i,w:n,i:l};export{o as c,i as d,m as default,l as i,t as r,c as s,s as sc,n as w};

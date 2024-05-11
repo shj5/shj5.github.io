@@ -1,1 +1,0 @@
-const t=[{p:"yǎn",pp:"yan3",d:"the appearance of a mountain, as if two pots were standing one upon the other/the steep bank of a stream/a rough mountain path",t:"隒",w:"隒"}],n=["兼"],o=[],s=[],a=[],e="阜",c=13,p={s:t,c:n,d:o,w:s,i:a,r:e,sc:c};export{n as c,o as d,p as default,a as i,e as r,t as s,c as sc,s as w};

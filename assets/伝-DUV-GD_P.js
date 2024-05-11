@@ -1,0 +1,1 @@
+const t=[{p:"chuán",pp:"chuan2",d:"Japanese variant of 傳|传",t:"伝",w:"伝"},{p:"yún",pp:"yun2",d:"to summon/to propagate/to transmit",t:"伝",w:"伝"}],n=6,s="人",o=["亻","云"],c=[],a=[],p=[],r={s:t,sc:n,r:s,c:o,d:c,w:a,i:p};export{o as c,c as d,r as default,p as i,s as r,t as s,n as sc,a as w};

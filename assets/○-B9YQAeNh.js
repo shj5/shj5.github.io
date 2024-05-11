@@ -1,1 +1,0 @@
-const s=[{p:"líng",pp:"ling2",d:'character used in Taiwan as a substitute for a real name (like "X" in English)/variant of 〇[ling2]',t:"○",w:"○"}],n=[],t=[],c=[],a=[],i="",o=0,e={s,c:n,d:t,w:c,i:a,r:i,sc:o};export{n as c,t as d,e as default,a as i,i as r,s,o as sc,c as w};

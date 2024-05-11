@@ -1,1 +1,0 @@
-const o=[{p:"Liáo",pp:"Liao2",d:"name of a state during Han Dynasty",t:"膫",w:"膫"},{p:"liáo",pp:"liao2",d:"male genitals/old variant of 膋[liao2]",t:"膫",w:"膫"}],t=["月"],s=[],a=[],n=[],c="肉",i=16,d={s:o,c:t,d:s,w:a,i:n,r:c,sc:i};export{t as c,s as d,d as default,n as i,c as r,o as s,i as sc,a as w};

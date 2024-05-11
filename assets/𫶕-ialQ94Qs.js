@@ -1,1 +1,0 @@
-const n=[{p:"hōng",pp:"hong1",d:"(onom.) crashing sound/same as 訇[hong1]",t:"巆",w:"𫶕"},{p:"yíng",pp:"ying2",d:"used in 岭巆|岭𫶕[ling2 ying2]",t:"巆",w:"𫶕"}],s=[],o=[],t=[{w:"岭𫶕",p:"líng yíng",d:"deep in the mountains",t:"岭巆"}],c=[],g="",d=0,i={s:n,c:s,d:o,w:t,i:c,r:g,sc:d};export{s as c,o as d,i as default,c as i,g as r,n as s,d as sc,t as w};

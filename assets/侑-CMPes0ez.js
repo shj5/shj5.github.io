@@ -1,0 +1,1 @@
+const t=[{p:"yòu",pp:"you4",d:"(literary) to urge sb (to eat or drink)",t:"侑",w:"侑"}],s=8,o="人",c=["亻","有"],n=[],r=[],d=[],e={s:t,sc:s,r:o,c,d:n,w:r,i:d};export{c,n as d,e as default,d as i,o as r,t as s,s as sc,r as w};

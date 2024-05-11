@@ -1,0 +1,1 @@
+const o=[{p:"huái",pp:"huai2",d:"to carry in the bosom or the sleeve/to wrap, to conceal",t:"褢",w:"褢"}],t=16,c="衣",s=["衣"],n=[],e=[],r=[],a={s:o,sc:t,r:c,c:s,d:n,w:e,i:r};export{s as c,n as d,a as default,r as i,c as r,o as s,t as sc,e as w};

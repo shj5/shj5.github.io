@@ -1,1 +1,0 @@
-const s=[{p:"guǐ",pp:"gui3",d:"small box",t:"匭",w:"匦"}],t=["匚","轨"],o=[],c=[{w:"投票匦",p:"tóu piào guǐ",d:"ballot box (Tw)",t:"投票匭"}],n=[],p="匚",d=8,l={s,c:t,d:o,w:c,i:n,r:p,sc:d};export{t as c,o as d,l as default,n as i,p as r,s,d as sc,c as w};

@@ -1,0 +1,1 @@
+const s=[{p:"yǐ",pp:"yi3",d:"classical final particle, similar to modern 了[le5]",t:"矣",w:"矣"}],t=7,c="矢",o=["厶","矢"],d=["俟","诶","唉","埃","娭","挨","涘","欸","騃"],i=[{w:"命不久矣",p:"mìng bù jiǔ yǐ",d:"at death's door",t:"命不久矣"}],n=[{w:"往事已矣",p:"wǎng shì yǐ yǐ",d:"the past is dead (idiom)",t:"往事已矣"}],a={s,sc:t,r:c,c:o,d,w:i,i:n};export{o as c,d,a as default,n as i,c as r,s,t as sc,i as w};

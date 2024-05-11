@@ -1,1 +1,0 @@
-const n=[{p:"Xí",pp:"Xi2",d:"surname Xi",t:"隰",w:"隰"},{p:"xí",pp:"xi2",d:"low/marshy land",t:"隰",w:"隰"}],s=[],t=[],c=[{w:"隰县",p:"Xí xiàn",d:"Xi county in Linfen 臨汾|临汾[Lin2 fen2], Shanxi",t:"隰縣"}],i=[],o="阜",p=17,d={s:n,c:s,d:t,w:c,i,r:o,sc:p};export{s as c,t as d,d as default,i,o as r,n as s,p as sc,c as w};

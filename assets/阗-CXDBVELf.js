@@ -1,1 +1,0 @@
-const t=[{p:"tián",pp:"tian2",d:"fill up/rumbling sound",t:"闐",w:"阗"}],n=["门","真"],o=[],s=[{w:"和阗",p:"Hé tián",d:"old way of writing 和田[He2 tian2], Hotan (prior to 1959)",t:"和闐"}],c=[],i="門",d=13,p={s:t,c:n,d:o,w:s,i:c,r:i,sc:d};export{n as c,o as d,p as default,c as i,i as r,t as s,d as sc,s as w};

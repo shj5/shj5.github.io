@@ -1,1 +1,0 @@
-const c=[{p:"yǐn",pp:"yin3",d:"traces (of a carriage)",t:"靷",w:"靷"}],s=["引","革"],t=[],n=[],o=[],a="革",r=13,d={s:c,c:s,d:t,w:n,i:o,r:a,sc:r};export{s as c,t as d,d as default,o as i,a as r,c as s,r as sc,n as w};

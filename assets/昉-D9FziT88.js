@@ -1,0 +1,1 @@
+const n=[{p:"fǎng",pp:"fang3",d:"dawn/to begin",t:"昉",w:"昉"}],t=8,s="日",o=["日","方"],c=[],a=[{w:"李昉",p:"Lǐ Fǎng",d:"Li Fang (925-996), scholar between Tang and Song dynasties, author of fictional history",t:"李昉"}],d=[],i={s:n,sc:t,r:s,c:o,d:c,w:a,i:d};export{o as c,c as d,i as default,d as i,s as r,n as s,t as sc,a as w};

@@ -1,0 +1,1 @@
+const c=[{p:"fú",pp:"fu2",d:"(archaic) variant of 伏[fu2]",t:"虙",w:"虙"}],s=9,t="虍",o=["必","虍"],n=[],a=[],f=[],r={s:c,sc:s,r:t,c:o,d:n,w:a,i:f};export{o as c,n as d,r as default,f as i,t as r,c as s,s as sc,a as w};

@@ -1,1 +1,0 @@
-const s=[{p:"yìng",pp:"ying4",d:"pearls or shells strung together",t:"賏",w:"賏"}],t=[],c=[],n=[],o=[],r="貝",e=14,p={s,c:t,d:c,w:n,i:o,r,sc:e};export{t as c,c as d,p as default,o as i,r,s,e as sc,n as w};

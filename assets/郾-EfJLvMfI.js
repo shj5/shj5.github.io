@@ -1,1 +1,0 @@
-const n=[{p:"yǎn",pp:"yan3",d:"place name",t:"郾",w:"郾"}],c=["匽"],t=[],s=[{w:"郾城",p:"Yǎn chéng",d:"Yancheng district of Luohe city 漯河市[Luo4 he2 shi4], Henan",t:"郾城"},{w:"郾城区",p:"Yǎn chéng qū",d:"Yancheng district of Luohe city 漯河市[Luo4 he2 shi4], Henan",t:"郾城區"}],o=[],e="邑",h=12,i={s:n,c,d:t,w:s,i:o,r:e,sc:h};export{c,t as d,i as default,o as i,e as r,n as s,h as sc,s as w};

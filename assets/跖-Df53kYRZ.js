@@ -1,0 +1,1 @@
+const t=[{p:"zhí",pp:"zhi2",d:"variant of 蹠[zhi2]",t:"跖",w:"跖"},{p:"zhí",pp:"zhi2",d:"metatarsus/(literary) sole of the foot/(literary) to tread on",t:"蹠",w:"跖"}],o=12,s="足",c=["石","足"],n=[],a=[{w:"对跖点",p:"duì zhí diǎn",d:"antipode",t:"對蹠點"}],d=[],i={s:t,sc:o,r:s,c,d:n,w:a,i:d};export{c,n as d,i as default,d as i,s as r,t as s,o as sc,a as w};

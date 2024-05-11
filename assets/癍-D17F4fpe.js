@@ -1,1 +1,0 @@
-const s=[{p:"bān",pp:"ban1",d:"abnormal pigment deposit on the skin",t:"癍",w:"癍"}],n=["疒","斑"],t=[],c=[],o=[],p="疒",a=17,d={s,c:n,d:t,w:c,i:o,r:p,sc:a};export{n as c,t as d,d as default,o as i,p as r,s,a as sc,c as w};

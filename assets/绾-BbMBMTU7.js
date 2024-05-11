@@ -1,1 +1,0 @@
-const s=[{p:"wǎn",pp:"wan3",d:"bind up/string together",t:"綰",w:"绾"}],t=["纟","官"],c=[],n=[],o=[],d="糸",p=11,r={s,c:t,d:c,w:n,i:o,r:d,sc:p};export{t as c,c as d,r as default,o as i,d as r,s,p as sc,n as w};

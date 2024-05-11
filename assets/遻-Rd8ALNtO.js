@@ -1,1 +1,0 @@
-const c=[{p:"wù",pp:"wu4",d:"recalcitrant/to encounter",t:"遻",w:"遻"}],t=["辶"],s=[],n=[],o=[],r="辵",e=16,w={s:c,c:t,d:s,w:n,i:o,r,sc:e};export{t as c,s as d,w as default,o as i,r,c as s,e as sc,n as w};

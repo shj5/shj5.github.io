@@ -1,1 +1,0 @@
-const t=[{p:"yú",pp:"yu2",d:"common water-plantain (Alisma plantago-aquatica)",t:"蕍",w:"蕍"}],c=["艹"],s=[],n=[],o=[],a="艸",p=15,i={s:t,c,d:s,w:n,i:o,r:a,sc:p};export{c,s as d,i as default,o as i,a as r,t as s,p as sc,n as w};

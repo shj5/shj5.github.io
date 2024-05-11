@@ -1,1 +1,0 @@
-const t=[{p:"Tú",pp:"Tu2",d:"Mt Tu in Zhejiang/also written 涂",t:"嵞",w:"嵞"}],s=["余"],n=[],c=[{w:"嵞山",p:"Tú shān",d:"Mt Tu in Zhejiang/also written 涂山",t:"嵞山"}],o=[],i="山",a=13,e={s:t,c:s,d:n,w:c,i:o,r:i,sc:a};export{s as c,n as d,e as default,o as i,i as r,t as s,a as sc,c as w};

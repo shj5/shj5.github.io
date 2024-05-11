@@ -1,1 +1,0 @@
-const s=[{p:"qǐ",pp:"qi3",d:"type of jade ornament for court dress (old)",t:"玘",w:"玘"}],o=["己","王"],t=[],c=[],n=[],d="玉",r=7,e={s,c:o,d:t,w:c,i:n,r:d,sc:r};export{o as c,t as d,e as default,n as i,d as r,s,r as sc,c as w};

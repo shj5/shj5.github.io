@@ -1,1 +1,0 @@
-const t=[{p:"zhà",pp:"zha4",d:"used in 叱咤[chi4 zha4]",t:"咤",w:"咤"}],c=["口","宅"],n=[],o=[{w:"叱咤",p:"chì zhà",d:"to rebuke angrily",t:"叱咤"}],s=[{w:"叱咤风云",p:"chì zhà fēng yún",d:"lit. to rebuke Heaven and Earth (idiom); fig. shaking the whole world/all-powerful",t:"叱咤風雲"}],e="口",h=9,a={s:t,c,d:n,w:o,i:s,r:e,sc:h};export{c,n as d,a as default,s as i,e as r,t as s,h as sc,o as w};

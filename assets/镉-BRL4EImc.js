@@ -1,0 +1,1 @@
+const c=[{p:"gé",pp:"ge2",d:"cadmium (chemistry)",t:"鎘",w:"镉"}],s=15,t="金",o=["鬲"],n=[],d=[],e=[],i={s:c,sc:s,r:t,c:o,d:n,w:d,i:e};export{o as c,n as d,i as default,e as i,t as r,c as s,s as sc,d as w};

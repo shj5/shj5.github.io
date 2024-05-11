@@ -1,1 +1,0 @@
-const s=[{p:"yú",pp:"yu2",d:"used in 艅艎[yu2 huang2]",t:"艅",w:"艅"}],c=["舟","余"],t=[],n=[{w:"艅艎",p:"yú huáng",d:"large warship",t:"艅艎"}],o=[],d="舟",p=13,u={s,c,d:t,w:n,i:o,r:d,sc:p};export{c,t as d,u as default,o as i,d as r,s,p as sc,n as w};

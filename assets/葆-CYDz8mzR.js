@@ -1,0 +1,1 @@
+const n=[{p:"bǎo",pp:"bao3",d:"dense foliage/to cover",t:"葆",w:"葆"}],o=12,t="艸",e=["艹","保"],s=[],c=[{w:"沈葆桢",p:"Shěn Bǎo zhēn",d:"Shen Baozhen (1820-1879), Qing Minister of the Navy, founded Fuzhou Naval College 船政學堂|船政学堂[Chuan2 zheng4 Xue2 tang2] in 1866",t:"沈葆楨"}],a=[],d={s:n,sc:o,r:t,c:e,d:s,w:c,i:a};export{e as c,s as d,d as default,a as i,t as r,n as s,o as sc,c as w};

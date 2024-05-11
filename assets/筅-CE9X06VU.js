@@ -1,0 +1,1 @@
+const s=[{p:"xiǎn",pp:"xian3",d:"bamboo brush for utensils",t:"筅",w:"筅"}],o=12,t="竹",c=["竹","先"],n=[],i=[{w:"筅帚",p:"xiǎn zhǒu",d:"(dialect) pot-scrubbing brush, made from bamboo strips",t:"筅帚"}],r=[],b={s,sc:o,r:t,c,d:n,w:i,i:r};export{c,n as d,b as default,r as i,t as r,s,o as sc,i as w};

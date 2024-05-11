@@ -1,1 +1,0 @@
-const s=[{p:"jìn",pp:"jin4",d:"(bound form) cinders; ashes",t:"燼",w:"烬"}],n=["火","尽"],t=[],c=[{w:"灰烬",p:"huī jìn",d:"ashes",t:"灰燼"},{w:"余烬",p:"yú jìn",d:"ember",t:"餘燼"},{w:"骨烬",p:"gǔ jìn",d:"bones and ashes/remains (after Buddhist cremation)",t:"骨燼"}],o=[],d="火",e=10,a={s,c:n,d:t,w:c,i:o,r:d,sc:e};export{n as c,t as d,a as default,o as i,d as r,s,e as sc,c as w};

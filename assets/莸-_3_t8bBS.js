@@ -1,1 +1,0 @@
-const o=[{p:"yóu",pp:"you2",d:"Caryopteris divaricata",t:"蕕",w:"莸"}],t=["艹","犹"],s=[],n=[],c=[{w:"薰莸不同器",p:"xūn yóu bù tóng qì",d:"lit. fragrant herbs and foul herbs do not go into the same vessel (idiom)/bad people and good people do not mix",t:"薰蕕不同器"}],d="艸",e=10,a={s:o,c:t,d:s,w:n,i:c,r:d,sc:e};export{t as c,s as d,a as default,c as i,d as r,o as s,e as sc,n as w};

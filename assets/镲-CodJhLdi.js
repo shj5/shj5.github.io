@@ -1,0 +1,1 @@
+const c=[{p:"chǎ",pp:"cha3",d:"small cymbals",t:"鑔",w:"镲"}],t=19,s="金",o=["察"],n=[],a=[{w:"打镲",p:"dǎ chǎ",d:"(dialect) to joke/to make fun of (sb)",t:"打鑔"},{w:"踩镲",p:"cǎi chǎ",d:"hi-hat",t:"踩鑔"}],d=[],h={s:c,sc:t,r:s,c:o,d:n,w:a,i:d};export{o as c,n as d,h as default,d as i,s as r,c as s,t as sc,a as w};

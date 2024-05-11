@@ -1,0 +1,1 @@
+const s=[{p:"jié",pp:"jie2",d:"antagonistic/laboring hard/pressed",t:"拮",w:"拮"}],t=9,n="手",c=["扌","吉"],o=[],i=[{w:"受体拮抗剂",p:"shòu tǐ jié kàng jì",d:"receptor antagonist",t:"受體拮抗劑"},{w:"拮据",p:"jié jū",d:"hard pressed for money; in financial straits",t:"拮据"}],a=[],r={s,sc:t,r:n,c,d:o,w:i,i:a};export{c,o as d,r as default,a as i,n as r,s,t as sc,i as w};

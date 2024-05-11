@@ -1,0 +1,1 @@
+const o=[{p:"chì",pp:"chi4",d:"walk with one leg",t:"踅",w:"踅"},{p:"xué",pp:"xue2",d:"to walk around/turn back midway",t:"踅",w:"踅"}],t=14,c="足",s=["折","足"],n=[],w=[{w:"踅子",p:"xué zi",d:"variant of 茓子[xue2 zi5]",t:"踅子"},{w:"踅摸",p:"xué mo",d:"to look for/to seek (colloq.)",t:"踅摸"}],a=[],d={s:o,sc:t,r:c,c:s,d:n,w,i:a};export{s as c,n as d,d as default,a as i,c as r,o as s,t as sc,w};

@@ -1,1 +1,0 @@
-const t=[{p:"yì",pp:"yi4",d:"palpitation/short breathing",t:"唈",w:"唈"}],s=["口","邑"],c=[],o=[],n=[],i="口",p=10,a={s:t,c:s,d:c,w:o,i:n,r:i,sc:p};export{s as c,c as d,a as default,n as i,i as r,t as s,p as sc,o as w};

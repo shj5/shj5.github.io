@@ -1,1 +1,0 @@
-const c=[{p:"cuì",pp:"cui4",d:"five-color silk/see 綷縩[cui4 cai4]",t:"綷",w:"綷"}],o=["糸","卒"],s=[],t=[{w:"綷縩",p:"cuì cài",d:"(onom.) sound of friction of fabric",t:"綷縩"}],i=[],n="糸",d=14,f={s:c,c:o,d:s,w:t,i,r:n,sc:d};export{o as c,s as d,f as default,i,n as r,c as s,d as sc,t as w};

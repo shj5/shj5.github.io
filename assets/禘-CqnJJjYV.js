@@ -1,1 +1,0 @@
-const c=[{p:"dì",pp:"di4",d:"imperial ancestral sacrifice",t:"禘",w:"禘"}],s=["帝"],t=[],n=[],o=[],i="示",a=14,d={s:c,c:s,d:t,w:n,i:o,r:i,sc:a};export{s as c,t as d,d as default,o as i,i as r,c as s,a as sc,n as w};

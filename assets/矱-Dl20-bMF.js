@@ -1,1 +1,0 @@
-const s=[{p:"yuē",pp:"yue1",d:"standard/norm/Taiwan pr. [huo4]",t:"矱",w:"矱"}],c=["矢","蒦"],t=[],n=[],o=[],a="矢",d=19,r={s,c,d:t,w:n,i:o,r:a,sc:d};export{c,t as d,r as default,o as i,a as r,s,d as sc,n as w};

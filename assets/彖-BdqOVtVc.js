@@ -1,0 +1,1 @@
+const t=[{p:"tuàn",pp:"tuan4",d:"to foretell the future using the trigrams of the Book of Changes 易經|易经",t:"彖",w:"彖"}],o=9,s="彐",n=["彑","豕"],c=["喙","掾","猭","缘","椽","瑑","篆","蝝","餯","蠡"],e=[{w:"彖辞",p:"tuàn cí",d:"to interpret the divinatory trigrams",t:"彖辭"}],r=[],i={s:t,sc:o,r:s,c:n,d:c,w:e,i:r};export{n as c,c as d,i as default,r as i,s as r,t as s,o as sc,e as w};

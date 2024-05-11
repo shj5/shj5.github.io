@@ -1,1 +1,0 @@
-const n=[{p:"lóng",pp:"long2",d:"Polygonum posumbu",t:"蘢",w:"茏"}],s=["艹","龙"],o=[],t=[{w:"蒙茏",p:"méng lóng",d:"dense (of foliage)",t:"蒙蘢"},{w:"葱茏",p:"cōng lóng",d:"verdant and lush",t:"蔥蘢"}],c=[],d="艸",g=8,l={s:n,c:s,d:o,w:t,i:c,r:d,sc:g};export{s as c,o as d,l as default,c as i,d as r,n as s,g as sc,t as w};

@@ -1,0 +1,1 @@
+const c=[{p:"pú",pp:"pu2",d:"see 樗蒱[chu1 pu2]",t:"蒱",w:"蒱"}],s=13,t="艸",o=["艹","捕"],n=[],d=[{w:"樗蒱",p:"chū pú",d:"a kind of ancient game played with a set of two-sided dice",t:"樗蒱"}],e=[],p={s:c,sc:s,r:t,c:o,d:n,w:d,i:e};export{o as c,n as d,p as default,e as i,t as r,c as s,s as sc,d as w};

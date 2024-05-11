@@ -1,1 +1,0 @@
-const t=[{p:"bǎi",pp:"bai3",d:"to spread out/to open",t:"捭",w:"捭"},{p:"bò",pp:"bo4",d:"variant of 擘[bo4]/to separate/to split",t:"捭",w:"捭"}],o=["扌","卑"],s=[],c=[],p=[],n="手",a=11,d={s:t,c:o,d:s,w:c,i:p,r:n,sc:a};export{o as c,s as d,d as default,p as i,n as r,t as s,a as sc,c as w};

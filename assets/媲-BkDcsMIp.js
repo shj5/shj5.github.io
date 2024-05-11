@@ -1,1 +1,0 @@
-const t=[{p:"pì",pp:"pi4",d:"to match/to pair",t:"媲",w:"媲"}],c=["女"],s=[],o=[{w:"媲美",p:"pì měi",d:"to match/is comparable with",t:"媲美"}],p=[],n="女",a=13,i={s:t,c,d:s,w:o,i:p,r:n,sc:a};export{c,s as d,i as default,p as i,n as r,t as s,a as sc,o as w};

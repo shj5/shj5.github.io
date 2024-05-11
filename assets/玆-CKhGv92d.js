@@ -1,1 +1,0 @@
-const s=[{p:"zī",pp:"zi1",d:"variant of 茲|兹[zi1]/now/here/this/time/year",t:"玆",w:"玆"}],t=["玄"],c=[],o=[],n=[],i="玄",e=10,r={s,c:t,d:c,w:o,i:n,r:i,sc:e};export{t as c,c as d,r as default,n as i,i as r,s,e as sc,o as w};

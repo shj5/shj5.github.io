@@ -1,1 +1,0 @@
-const s=[{p:"hòu",pp:"hou4",d:"horseshoe crab",t:"鱟",w:"鲎"}],c=["小","鱼"],t=[],o=[{w:"鲎鱼",p:"hòu yú",d:"horseshoe crab (Tachypleus tridentatus)",t:"鱟魚"}],n=[],e="魚",h=13,r={s,c,d:t,w:o,i:n,r:e,sc:h};export{c,t as d,r as default,n as i,e as r,s,h as sc,o as w};

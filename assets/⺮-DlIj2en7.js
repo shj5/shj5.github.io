@@ -1,1 +1,0 @@
-const c=[{p:"zhú",pp:"zhu2",d:'"bamboo" radical in Chinese characters (Kangxi radical 118)',t:"⺮",w:"⺮"}],s=[],t=[],n=[],o=[],a="",i=0,r={s:c,c:s,d:t,w:n,i:o,r:a,sc:i};export{s as c,t as d,r as default,o as i,a as r,c as s,i as sc,n as w};

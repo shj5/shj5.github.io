@@ -1,0 +1,1 @@
+const t=[{p:"xī",pp:"xi1",d:"(old) native of Jiangxi 江西[Jiang1 xi1]/to wait/servant/path",t:"傒",w:"傒"}],s=12,c="人",n=["亻","奚"],o=[],i=[],a=[],d={s:t,sc:s,r:c,c:n,d:o,w:i,i:a};export{n as c,o as d,d as default,a as i,c as r,t as s,s as sc,i as w};

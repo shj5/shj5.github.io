@@ -1,0 +1,1 @@
+const s=[{p:"yì",pp:"yi4",d:"used in 蜥蜴[xi1yi4]",t:"蜴",w:"蜴"}],t=14,c="虫",n=["虫","易"],d=[],o=[{w:"火蜥蜴",p:"huǒ xī yì",d:"salamander",t:"火蜥蜴"},{w:"蜥蜴",p:"xī yì",d:"lizard",t:"蜥蜴"}],i=[],a={s,sc:t,r:c,c:n,d,w:o,i};export{n as c,d,a as default,i,c as r,s,t as sc,o as w};

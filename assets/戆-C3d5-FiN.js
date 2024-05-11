@@ -1,0 +1,1 @@
+const t=[{p:"gàng",pp:"gang4",d:"stupid (Wu dialect)",t:"戇",w:"戆"},{p:"zhuàng",pp:"zhuang4",d:"simple/honest",t:"戇",w:"戆"}],n=25,s="心",c=["心","赣"],d=[],g=[{w:"戆督",p:"gàng dū",d:"stupid, ignorant (Wu dialect)",t:"戇督"},{w:"戆头戆脑",p:"gàng tóu gàng nǎo",d:"stupid (Wu dialect)",t:"戇頭戇腦"}],p=[],o={s:t,sc:n,r:s,c,d,w:g,i:p};export{c,d,o as default,p as i,s as r,t as s,n as sc,g as w};

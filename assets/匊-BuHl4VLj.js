@@ -1,1 +1,0 @@
-const s=[{p:"jū",pp:"ju1",d:"variant of 掬[ju1]",t:"匊",w:"匊"}],c=["勹","米"],t=["掬","菊","椈","踘","躹","鞠","麴"],o=[],n=[],a="勹",d=8,p={s,c,d:t,w:o,i:n,r:a,sc:d};export{c,t as d,p as default,n as i,a as r,s,d as sc,o as w};

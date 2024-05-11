@@ -1,1 +1,0 @@
-const t=[{p:"xuàn",pp:"xuan4",d:"to shape on a lathe/to peel with a knife/to turn in (a screw)",t:"鏇",w:"镟"}],s=["旋"],n=[],c=[],o=[],a="金",e=16,p={s:t,c:s,d:n,w:c,i:o,r:a,sc:e};export{s as c,n as d,p as default,o as i,a as r,t as s,e as sc,c as w};

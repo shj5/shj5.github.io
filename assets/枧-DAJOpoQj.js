@@ -1,1 +1,0 @@
-const s=[{p:"jiǎn",pp:"jian3",d:"bamboo conduit/wooden peg/spout/same as 筧|笕",t:"梘",w:"枧"}],o=["木","见"],c=[],t=[],n=[],a="木",d=8,p={s,c:o,d:c,w:t,i:n,r:a,sc:d};export{o as c,c as d,p as default,n as i,a as r,s,d as sc,t as w};

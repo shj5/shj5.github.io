@@ -1,0 +1,1 @@
+const n=[{p:"yuán",pp:"yuan2",d:"yen (Japanese currency)/Japanese variant of 圓|圆",t:"円",w:"円"}],s=4,c="冂",t=["冂","丄"],o=[],a=[],e=[],p={s:n,sc:s,r:c,c:t,d:o,w:a,i:e};export{t as c,o as d,p as default,e as i,c as r,n as s,s as sc,a as w};

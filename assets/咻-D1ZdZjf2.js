@@ -1,1 +1,0 @@
-const o=[{p:"xiū",pp:"xiu1",d:"call out/jeer",t:"咻",w:"咻"}],t=["口","休"],s=[],c=[{w:"呼咻",p:"hū xiū",d:"(onom.) whoosh",t:"呼咻"},{w:"嘿咻",p:"hēi xiū",d:"(coll.) to make love",t:"嘿咻"},{w:"气咻咻",p:"qì xiū xiū",d:"to pant/to gasp for breath",t:"氣咻咻"}],n=[],i="口",p=9,a={s:o,c:t,d:s,w:c,i:n,r:i,sc:p};export{t as c,s as d,a as default,n as i,i as r,o as s,p as sc,c as w};

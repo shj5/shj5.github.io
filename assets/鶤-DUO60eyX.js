@@ -1,0 +1,1 @@
+const s=[{p:"kūn",pp:"kun1",d:"variant of 鵾|鹍, large bird, possibly related to crane or swan (archaic)/mythical monstrous bird, cf Sinbad's roc",t:"鶤",w:"鶤"}],c=20,o="鳥",t=[],n=[],r=[],a=[],i={s,sc:c,r:o,c:t,d:n,w:r,i:a};export{t as c,n as d,i as default,a as i,o as r,s,c as sc,r as w};

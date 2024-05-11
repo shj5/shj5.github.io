@@ -1,0 +1,1 @@
+const s=[{p:"guì",pp:"gui4",d:"mandarin fish/Chinese perch (Siniperca chuatsi)",t:"鱖",w:"鳜"}],c=20,n="魚",i=["鱼","厥"],t=[],a=[{w:"鳜鱼",p:"guì yú",d:"mandarin fish/Chinese perch (Siniperca chuatsi)",t:"鱖魚"}],e=[],o={s,sc:c,r:n,c:i,d:t,w:a,i:e};export{i as c,t as d,o as default,e as i,n as r,s,c as sc,a as w};

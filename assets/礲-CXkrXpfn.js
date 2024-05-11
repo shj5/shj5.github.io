@@ -1,0 +1,1 @@
+const t=[{p:"lóng",pp:"long2",d:"variant of 礱|砻, to grind/to mill",t:"礲",w:"礲"}],o=21,s="石",c=["石"],n=[],d=[],i=[],l={s:t,sc:o,r:s,c,d:n,w:d,i};export{c,n as d,l as default,i,s as r,t as s,o as sc,d as w};

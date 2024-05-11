@@ -1,1 +1,0 @@
-const s=[{p:"juàn",pp:"juan4",d:"thin, tough silk fabric",t:"絹",w:"绢"}],c=["纟","肙"],n=[],t=[{w:"手绢",p:"shǒu juàn",d:"handkerchief/CL:張|张[zhang1],塊|块[kuai4]",t:"手絹"}],o=[],a="糸",i=10,u={s,c,d:n,w:t,i:o,r:a,sc:i};export{c,n as d,u as default,o as i,a as r,s,i as sc,t as w};

@@ -1,0 +1,1 @@
+const s=[{p:"qiú",pp:"qiu2",d:"to swim (bound form)",t:"泅",w:"泅"}],t=8,o="水",c=["氵","囚"],i=[],w=[{w:"泅水",p:"qiú shuǐ",d:"to swim",t:"泅水"},{w:"泅渡",p:"qiú dù",d:"to swim across",t:"泅渡"},{w:"泅游",p:"qiú yóu",d:"to swim",t:"泅游"}],d=[],n={s,sc:t,r:o,c,d:i,w,i:d};export{c,i as d,n as default,d as i,o as r,s,t as sc,w};

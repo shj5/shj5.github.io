@@ -1,1 +1,0 @@
-const c=[{p:"jīng",pp:"jing1",d:"underground watercourse/archaic variant of 經|经[jing1]",t:"巠",w:"巠"}],n=["工"],s=["牼","蛵","誙"],t=[],o=[],r="巛",a=7,d={s:c,c:n,d:s,w:t,i:o,r,sc:a};export{n as c,s as d,d as default,o as i,r,c as s,a as sc,t as w};

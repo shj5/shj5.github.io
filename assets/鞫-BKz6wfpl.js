@@ -1,1 +1,0 @@
-const t=[{p:"jū",pp:"ju1",d:"to interrogate/to question/Taiwan pr. [ju2]",t:"鞫",w:"鞫"}],s=["革","訇"],o=[],c=[],n=[],r="革",a=18,e={s:t,c:s,d:o,w:c,i:n,r,sc:a};export{s as c,o as d,e as default,n as i,r,t as s,a as sc,c as w};

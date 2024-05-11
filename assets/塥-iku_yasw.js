@@ -1,1 +1,0 @@
-const c=[{p:"gé",pp:"ge2",d:"dry clay lump",t:"塥",w:"塥"}],s=["土","鬲"],t=[],o=[],n=[],d="土",p=13,r={s:c,c:s,d:t,w:o,i:n,r:d,sc:p};export{s as c,t as d,r as default,n as i,d as r,c as s,p as sc,o as w};

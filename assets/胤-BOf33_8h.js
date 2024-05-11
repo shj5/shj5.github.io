@@ -1,0 +1,1 @@
+const n=[{p:"yìn",pp:"yin4",d:"descendant/heir/offspring/posterity/to inherit",t:"胤",w:"胤"}],o=9,s="肉",t=["月"],c=[],e=[{w:"赵匡胤",p:"Zhào Kuāng yìn",d:"Zhao Kuangyin, personal name of founding Song emperor Song Taizu 宋太祖 (927-976)",t:"趙匡胤"}],i=[],r={s:n,sc:o,r:s,c:t,d:c,w:e,i};export{t as c,c as d,r as default,i,s as r,n as s,o as sc,e as w};

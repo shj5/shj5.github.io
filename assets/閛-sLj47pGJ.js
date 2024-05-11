@@ -1,0 +1,1 @@
+const o=[{p:"pēng",pp:"peng1",d:"the sound of opening or closing the door",t:"閛",w:"閛"}],s=13,n="門",c=["平"],t=[],p=[],d=[],e={s:o,sc:s,r:n,c,d:t,w:p,i:d};export{c,t as d,e as default,d as i,n as r,o as s,s as sc,p as w};

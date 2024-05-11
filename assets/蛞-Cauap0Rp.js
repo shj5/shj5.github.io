@@ -1,0 +1,1 @@
+const o=[{p:"kuò",pp:"kuo4",d:"used in 蛞螻|蛞蝼[kuo4lou2]/used in 蛞蝓[kuo4yu2]",t:"蛞",w:"蛞"}],s=12,t="虫",u=["虫","舌"],c=[],l=[{w:"海蛞蝓",p:"hǎi kuò yú",d:"sea slug",t:"海蛞蝓"},{w:"蛞蝓",p:"kuò yú",d:"(zoology) slug",t:"蛞蝓"},{w:"蛞蝼",p:"kuò lóu",d:"mole cricket (Gryllotalpa)",t:"蛞螻"}],n=[],d={s:o,sc:s,r:t,c:u,d:c,w:l,i:n};export{u as c,c as d,d as default,n as i,t as r,o as s,s as sc,l as w};

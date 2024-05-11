@@ -1,0 +1,1 @@
+const s=[{p:"lǜ",pp:"lu:4",d:"Humulus japonicus",t:"葎",w:"葎"}],c=12,o="艸",t=["艹"],n=[],u=[{w:"葎草",p:"lǜ cǎo",d:"(botany) Japanese hop (Humulus japonicus)",t:"葎草"}],p=[],a={s,sc:c,r:o,c:t,d:n,w:u,i:p};export{t as c,n as d,a as default,p as i,o as r,s,c as sc,u as w};

@@ -1,0 +1,1 @@
+const c=[{p:"qiáng",pp:"qiang2",d:"female court officials",t:"嬙",w:"嫱"}],s=14,t="女",o=["女","啬"],n=[],i=[],a=[],d={s:c,sc:s,r:t,c:o,d:n,w:i,i:a};export{o as c,n as d,d as default,a as i,t as r,c as s,s as sc,i as w};

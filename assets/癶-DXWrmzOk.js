@@ -1,0 +1,1 @@
+const s=[{p:"bō",pp:"bo1",d:"Kangxi radical 105, known as 登字頭|登字头[deng1 zi4 tou2]",t:"癶",w:"癶"}],c=5,n="*",o=[],t=["癸","発","登"],a=[],d=[],i={s,sc:c,r:n,c:o,d:t,w:a,i:d};export{o as c,t as d,i as default,d as i,n as r,s,c as sc,a as w};

@@ -1,0 +1,1 @@
+const s=[{p:"jùn",pp:"jun4",d:"(literary) early morning/(literary) bright/(used in names)",t:"晙",w:"晙"}],n=11,t="日",c=["日"],o=[],r=[],e=[],i={s,sc:n,r:t,c,d:o,w:r,i:e};export{c,o as d,i as default,e as i,t as r,s,n as sc,r as w};

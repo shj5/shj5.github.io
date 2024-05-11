@@ -1,0 +1,1 @@
+const s=[{p:"pīn",pp:"pin1",d:"sound of crushed stone",t:"礗",w:"礗"}],c=19,n="石",o=["石"],t=[],d=[],p=[],e={s,sc:c,r:n,c:o,d:t,w:d,i:p};export{o as c,t as d,e as default,p as i,n as r,s,c as sc,d as w};

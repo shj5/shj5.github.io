@@ -1,0 +1,1 @@
+const n=[{p:"chéng",pp:"cheng2",d:"to take off one's clothes/naked",t:"裎",w:"裎"},{p:"chěng",pp:"cheng3",d:"an ancient type of clothing",t:"裎",w:"裎"}],o=13,t="衣",c=["衤","呈"],s=[],e=[{w:"裸裎",p:"luǒ chéng",d:"to become naked/to undress/to expose (one's body)",t:"裸裎"}],d=[],p={s:n,sc:o,r:t,c,d:s,w:e,i:d};export{c,s as d,p as default,d as i,t as r,n as s,o as sc,e as w};

@@ -1,0 +1,1 @@
+const s=[{p:"zhì",pp:"zhi4",d:"gifts to superiors",t:"贄",w:"贽"}],t=10,o="貝",c=["贝","执"],i=[],n=[{w:"李贽",p:"Lǐ Zhì",d:"Li Zhi (1527-1602), late Ming philosopher, historian and writer",t:"李贄"}],r=[],p={s,sc:t,r:o,c,d:i,w:n,i:r};export{c,i as d,p as default,r as i,o as r,s,t as sc,n as w};

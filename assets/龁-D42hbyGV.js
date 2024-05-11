@@ -1,0 +1,1 @@
+const t=[{p:"hé",pp:"he2",d:"(literary) to gnaw; to bite",t:"齕",w:"龁"}],s=11,c="齒",o=["乞","齿"],n=[],e=[],r=[],a={s:t,sc:s,r:c,c:o,d:n,w:e,i:r};export{o as c,n as d,a as default,r as i,c as r,t as s,s as sc,e as w};

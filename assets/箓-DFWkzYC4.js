@@ -1,0 +1,1 @@
+const t=[{p:"lù",pp:"lu4",d:"record book; archive/Taoist written charm/document of prophecy attesting to dynastic fortunes",t:"籙",w:"箓"}],o=14,s="竹",c=["竹","录"],n=[],a=[{w:"符箓",p:"fú lù",d:"(Taoism) talisman in the form of a painting of symbols thought to have magical powers",t:"符籙"}],i=[],e={s:t,sc:o,r:s,c,d:n,w:a,i};export{c,n as d,e as default,i,s as r,t as s,o as sc,a as w};

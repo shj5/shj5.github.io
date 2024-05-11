@@ -1,1 +1,0 @@
-const t=[{p:"tà",pp:"ta4",d:"name of a river",t:"漯",w:"漯"}],e=["氵","累"],c=[],n=[{w:"漯河",p:"Luò hé",d:"Luohe prefecture-level city in Henan",t:"漯河"},{w:"漯河市",p:"Luò hé shì",d:"Luohe prefecture-level city in Henan",t:"漯河市"}],s=[],o="水",r=14,p={s:t,c:e,d:c,w:n,i:s,r:o,sc:r};export{e as c,c as d,p as default,s as i,o as r,t as s,r as sc,n as w};

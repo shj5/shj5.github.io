@@ -1,1 +1,0 @@
-const n=[{p:"tāng",pp:"tang1",d:"(onom.) clang/bong/bang",t:"嘡",w:"嘡"}],c=["口","堂"],s=[],t=[],o=[],a="口",g=14,d={s:n,c,d:s,w:t,i:o,r:a,sc:g};export{c,s as d,d as default,o as i,a as r,n as s,g as sc,t as w};

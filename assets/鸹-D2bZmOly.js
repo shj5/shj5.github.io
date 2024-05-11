@@ -1,0 +1,1 @@
+const c=[{p:"guā",pp:"gua1",d:"used in 老鴰|老鸹[lao3gua5]",t:"鴰",w:"鸹"}],s=11,t="鳥",o=["鸟","舌"],n=[],a=[{w:"老鸹",p:"lǎo gua",d:"(dialect) crow; raven",t:"老鴰"}],d=[],u={s:c,sc:s,r:t,c:o,d:n,w:a,i:d};export{o as c,n as d,u as default,d as i,t as r,c as s,s as sc,a as w};

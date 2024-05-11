@@ -1,1 +1,0 @@
-const s=[{p:"pāo",pp:"pao1",d:"bladder",t:"脬",w:"脬"}],c=["月","孚"],o=[],t=[{w:"尿脬",p:"suī pāo",d:"bladder",t:"尿脬"}],d=[],n="肉",p=11,a={s,c,d:o,w:t,i:d,r:n,sc:p};export{c,o as d,a as default,d as i,n as r,s,p as sc,t as w};

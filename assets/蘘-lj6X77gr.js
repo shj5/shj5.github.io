@@ -1,1 +1,0 @@
-const n=[{p:"ráng",pp:"rang2",d:"a kind of wild ginger",t:"蘘",w:"蘘"}],s=["艹","襄"],c=[],o=[{w:"蘘荷",p:"ráng hé",d:"myoga ginger (Zingiber mioga)",t:"蘘荷"}],t=[],g="艸",i=20,r={s:n,c:s,d:c,w:o,i:t,r:g,sc:i};export{s as c,c as d,r as default,t as i,g as r,n as s,i as sc,o as w};

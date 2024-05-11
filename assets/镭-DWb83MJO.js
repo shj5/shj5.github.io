@@ -1,0 +1,1 @@
+const s=[{p:"léi",pp:"lei2",d:"radium (chemistry)",t:"鐳",w:"镭"}],t=18,c="金",n=["雷"],o=[],i=[{w:"镭射",p:"léi shè",d:"laser (loanword)/Taiwanese term for 激光[ji1 guang1]",t:"鐳射"},{w:"镭射印表机",p:"léi shè yìn biǎo jī",d:"laser printer",t:"鐳射印表機"}],r=[],e={s,sc:t,r:c,c:n,d:o,w:i,i:r};export{n as c,o as d,e as default,r as i,c as r,s,t as sc,i as w};

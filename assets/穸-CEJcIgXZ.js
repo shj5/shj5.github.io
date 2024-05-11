@@ -1,0 +1,1 @@
+const t=[{p:"xī",pp:"xi1",d:"tomb",t:"穸",w:"穸"}],s=8,c="穴",o=["夕","穴"],n=[],d=[{w:"窀穸",p:"zhūn xī",d:"to bury (in a tomb)",t:"窀穸"}],p=[],i={s:t,sc:s,r:c,c:o,d:n,w:d,i:p};export{o as c,n as d,i as default,p as i,c as r,t as s,s as sc,d as w};

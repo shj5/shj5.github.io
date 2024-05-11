@@ -1,1 +1,0 @@
-const s=[{p:"chén",pp:"chen2",d:"Chinese ash (Fraxinus chinensis)",t:"梣",w:"梣"}],n=["木","岑"],c=[],t=[{w:"梣树",p:"chén shù",d:"Chinese ash (Fraxinus chinensis)",t:"梣樹"}],h=[],i="木",e=11,o={s,c:n,d:c,w:t,i:h,r:i,sc:e};export{n as c,c as d,o as default,h as i,i as r,s,e as sc,t as w};

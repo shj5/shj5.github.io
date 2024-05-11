@@ -1,1 +1,0 @@
-const s=[{p:"cuì",pp:"cui4",d:"haggard/sad/downcast/distressed",t:"悴",w:"悴"},{p:"cuì",pp:"cui4",d:"variant of 悴[cui4]",t:"顇",w:"悴"}],c=["忄","卒"],t=[],a=[{w:"憔悴",p:"qiáo cuì",d:"wan and sallow/thin and pallid/haggard/(of plants) withered",t:"憔悴"}],d=[],n="心",o=11,i={s,c,d:t,w:a,i:d,r:n,sc:o};export{c,t as d,i as default,d as i,n as r,s,o as sc,a as w};

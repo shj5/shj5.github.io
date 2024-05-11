@@ -1,0 +1,1 @@
+const n=[{p:"Xún",pp:"Xun2",d:"surname Xun/place name/Taiwan pr. [Xin2]",t:"鄩",w:"𬩽"}],s=0,c="",t=[],o=[],a=[],p=[],e={s:n,sc:s,r:c,c:t,d:o,w:a,i:p};export{t as c,o as d,e as default,p as i,c as r,n as s,s as sc,a as w};

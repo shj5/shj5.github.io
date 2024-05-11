@@ -1,1 +1,0 @@
-const i=[{p:"mǎi",pp:"mai3",d:"used in 苣蕒菜|苣荬菜[qu3mai5cai4]",t:"蕒",w:"荬"}],s=["艹","买"],c=[],t=[{w:"苣荬菜",p:"qǔ mai cài",d:"endive (Cichorium endivia)/field sowthistle (Sonchus arvensis)",t:"苣蕒菜"},{w:"苦荬菜",p:"kǔ mǎi cài",d:"Ixeris denticulata",t:"苦蕒菜"}],n=[],o="艸",d=9,e={s:i,c:s,d:c,w:t,i:n,r:o,sc:d};export{s as c,c as d,e as default,n as i,o as r,i as s,d as sc,t as w};

@@ -1,0 +1,1 @@
+const t=[{p:"lǐ",pp:"li3",d:"lithium (chemistry)",t:"鋰",w:"锂"}],c=12,s="金",i=["里"],n=[],o=[{w:"锂离子电池",p:"lǐ lí zǐ diàn chí",d:"lithium ion battery",t:"鋰離子電池"},{w:"锂电池",p:"lǐ diàn chí",d:"lithium battery",t:"鋰電池"}],l=[],d={s:t,sc:c,r:s,c:i,d:n,w:o,i:l};export{i as c,n as d,d as default,l as i,s as r,t as s,c as sc,o as w};

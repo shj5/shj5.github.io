@@ -1,0 +1,1 @@
+const t=[{p:"wǔ",pp:"wu3",d:"(literary) to have tender affection for/(literary) discouraged; disappointed/(literary) startled",t:"憮",w:"怃"}],s=7,c="心",o=["忄","无"],r=[],e=[],n=[],a={s:t,sc:s,r:c,c:o,d:r,w:e,i:n};export{o as c,r as d,a as default,n as i,c as r,t as s,s as sc,e as w};

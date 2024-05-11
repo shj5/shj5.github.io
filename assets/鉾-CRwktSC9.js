@@ -1,0 +1,1 @@
+const s=[{p:"móu",pp:"mou2",d:"spear",t:"鉾",w:"鉾"}],o=14,t="金",c=["牟","金"],n=[],p=[{w:"蒲鉾",p:"pú móu",d:"kamaboko (fish paste made from surimi)",t:"蒲鉾"}],a=[],m={s,sc:o,r:t,c,d:n,w:p,i:a};export{c,n as d,m as default,a as i,t as r,s,o as sc,p as w};

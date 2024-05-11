@@ -1,1 +1,0 @@
-const s=[{p:"xí",pp:"xi2",d:"strontium (obsolete, now 鍶|锶[si1])",t:"鎴",w:"鎴"}],t=["金","息"],o=[],c=[],n=[],i="金",d=18,e={s,c:t,d:o,w:c,i:n,r:i,sc:d};export{t as c,o as d,e as default,n as i,i as r,s,d as sc,c as w};

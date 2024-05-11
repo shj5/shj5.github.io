@@ -1,0 +1,1 @@
+const c=[{p:"jiāng",pp:"jiang1",d:"Quercus glauca",t:"橿",w:"橿"}],s=17,t="木",n=["木","畺"],o=[],a=[],d=[],i={s:c,sc:s,r:t,c:n,d:o,w:a,i:d};export{n as c,o as d,i as default,d as i,t as r,c as s,s as sc,a as w};

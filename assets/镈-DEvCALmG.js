@@ -1,0 +1,1 @@
+const s=[{p:"bó",pp:"bo2",d:"ancient musical intrument shaped as a bell/hoe/spade",t:"鎛",w:"镈"}],n=15,t="金",c=[],o=[],a=[{w:"皇甫镈",p:"Huáng fǔ Bó",d:"Huangfu Bo (c. 800), Minister during early Tang",t:"皇甫鎛"}],e=[],d={s,sc:n,r:t,c,d:o,w:a,i:e};export{c,o as d,d as default,e as i,t as r,s,n as sc,a as w};

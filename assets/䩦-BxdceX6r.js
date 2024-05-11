@@ -1,1 +1,0 @@
-const t=[{p:"tiáo",pp:"tiao2",d:"variant of 鞗[tiao2]",t:"䩦",w:"䩦"}],o=[],s=[],c=[],n=[],a="",i=0,d={s:t,c:o,d:s,w:c,i:n,r:a,sc:i};export{o as c,s as d,d as default,n as i,a as r,t as s,i as sc,c as w};

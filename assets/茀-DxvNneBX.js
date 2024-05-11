@@ -1,1 +1,0 @@
-const t=[{p:"fú",pp:"fu2",d:"luxuriant growth",t:"茀",w:"茀"}],c=["艹","弗"],s=[],o=[{w:"茀星",p:"fú xīng",d:"comet (arch.)",t:"茀星"}],n=[],r="艸",d=8,p={s:t,c,d:s,w:o,i:n,r,sc:d};export{c,s as d,p as default,n as i,r,t as s,d as sc,o as w};

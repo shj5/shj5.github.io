@@ -1,1 +1,0 @@
-const s=[{p:"yì",pp:"yi4",d:"obscure/sun hidden by clouds",t:"曀",w:"曀"}],c=["日","壹"],o=[],t=[],n=[],d="日",e=16,i={s,c,d:o,w:t,i:n,r:d,sc:e};export{c,o as d,i as default,n as i,d as r,s,e as sc,t as w};

@@ -1,0 +1,1 @@
+const c=[{p:"mián",pp:"mian2",d:"large, black cicada/locust",t:"蝒",w:"蝒"}],s=15,t="虫",n=["虫","面"],o=[],a=[],d=[],i={s:c,sc:s,r:t,c:n,d:o,w:a,i:d};export{n as c,o as d,i as default,d as i,t as r,c as s,s as sc,a as w};

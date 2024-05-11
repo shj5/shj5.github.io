@@ -1,0 +1,1 @@
+const d=[{p:"dǔn",pp:"dun3",d:"doze/nap",t:"盹",w:"盹"}],n=9,t="目",o=["屯","目"],s=[],c=[{w:"打盹",p:"dǎ dǔn",d:"to doze off",t:"打盹"},{w:"打盹儿",p:"dǎ dǔn r",d:"erhua variant of 打盹[da3 dun3]",t:"打盹兒"}],a=[],p={s:d,sc:n,r:t,c:o,d:s,w:c,i:a};export{o as c,s as d,p as default,a as i,t as r,d as s,n as sc,c as w};

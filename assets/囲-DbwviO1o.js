@@ -1,1 +1,0 @@
-const s=[{p:"wéi",pp:"wei2",d:"Japanese variant of 圍|围[wei2]",t:"囲",w:"囲"}],c=["囗","井"],t=[],n=[],o=[],a="囗",e=7,i={s,c,d:t,w:n,i:o,r:a,sc:e};export{c,t as d,i as default,o as i,a as r,s,e as sc,n as w};

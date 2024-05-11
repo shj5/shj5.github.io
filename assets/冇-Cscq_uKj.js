@@ -1,1 +1,0 @@
-const o=[{p:"mǎo",pp:"mao3",d:"to not have (Cantonese) (Mandarin equivalent: 沒有|没有[mei2 you3])",t:"冇",w:"冇"}],t=["冂"],n=[],s=[],c=[],a="冂",e=4,d={s:o,c:t,d:n,w:s,i:c,r:a,sc:e};export{t as c,n as d,d as default,c as i,a as r,o as s,e as sc,s as w};

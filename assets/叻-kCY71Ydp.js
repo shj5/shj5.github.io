@@ -1,0 +1,1 @@
+const s=[{p:"lè",pp:"le4",d:"(used in place names)",t:"叻",w:"叻"}],t=5,o="口",c=["力","口"],a=[],n=[{w:"叻沙",p:"lè shā",d:"laksa, spicy noodle soup of Southeast Asia",t:"叻沙"},{w:"吡叻",p:"Bǐ lè",d:"Perak (state of Malaysia)",t:"吡叻"}],e=[],l={s,sc:t,r:o,c,d:a,w:n,i:e};export{c,a as d,l as default,e as i,o as r,s,t as sc,n as w};

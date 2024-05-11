@@ -1,1 +1,0 @@
-const s=[{p:"àng",pp:"ang4",d:"(literary) post for tethering a horse",t:"枊",w:"枊"}],t=["木","卬"],c=[],o=[],n=[],r="木",e=8,a={s,c:t,d:c,w:o,i:n,r,sc:e};export{t as c,c as d,a as default,n as i,r,s,e as sc,o as w};

@@ -1,0 +1,1 @@
+const n=[{p:"zhōng",pp:"zhong1",d:"nonstandard simplified variant of 鍾|钟[zhong1]",t:"锺",w:"锺"}],s=14,o="金",t=["重"],c=[],d=[],a=[],i={s:n,sc:s,r:o,c:t,d:c,w:d,i:a};export{t as c,c as d,i as default,a as i,o as r,n as s,s as sc,d as w};

@@ -1,1 +1,0 @@
-const s=[{p:"shān",pp:"shan1",d:"(archaic) vicious dog/beast resembling a wolf",t:"狦",w:"狦"}],c=["犭"],o=[],t=[],n=[],a="犬",i=9,d={s,c,d:o,w:t,i:n,r:a,sc:i};export{c,o as d,d as default,n as i,a as r,s,i as sc,t as w};

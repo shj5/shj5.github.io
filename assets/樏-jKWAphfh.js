@@ -1,1 +1,0 @@
-const t=[{p:"léi",pp:"lei2",d:"(archaic) simple sedan chair for traveling in the mountains/(archaic) platter with compartments for food (also pr. [lei3])",t:"樏",w:"樏"},{p:"lěi",pp:"lei3",d:"mountain-climbing shoes",t:"樏",w:"樏"}],s=["木","累"],c=[],i=[],o=[],n="木",a=15,e={s:t,c:s,d:c,w:i,i:o,r:n,sc:a};export{s as c,c as d,e as default,o as i,n as r,t as s,a as sc,i as w};

@@ -1,1 +1,0 @@
-const c=[{p:"qú",pp:"qu2",d:"used in 硨磲|砗磲[che1 qu2]",t:"磲",w:"磲"}],s=["石","渠"],t=[],n=[{w:"砗磲",p:"chē qú",d:"giant clam (subfamily Tridacninae)",t:"硨磲"}],o=[],a="石",d=17,i={s:c,c:s,d:t,w:n,i:o,r:a,sc:d};export{s as c,t as d,i as default,o as i,a as r,c as s,d as sc,n as w};

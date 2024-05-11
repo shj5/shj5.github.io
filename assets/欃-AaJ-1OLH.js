@@ -1,1 +1,0 @@
-const c=[{p:"chán",pp:"chan2",d:"sandalwood (Santalum album), a Nepalese tree producing valuable fragrant oil/comet",t:"欃",w:"欃"}],s=["木"],t=[],a=[],n=[],o="木",e=21,l={s:c,c:s,d:t,w:a,i:n,r:o,sc:e};export{s as c,t as d,l as default,n as i,o as r,c as s,e as sc,a as w};

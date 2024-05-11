@@ -1,1 +1,0 @@
-const c=[{p:"qiú",pp:"qiu2",d:"archaic variant of 求[qiu2]",t:"㐤",w:"㐤"}],s=[],t=[],o=[],n=[],i="",a=0,r={s:c,c:s,d:t,w:o,i:n,r:i,sc:a};export{s as c,t as d,r as default,n as i,i as r,c as s,a as sc,o as w};

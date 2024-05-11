@@ -1,1 +1,0 @@
-const n=[{p:"zèng",pp:"zeng4",d:"polished/shiny",t:"鋥",w:"锃"}],s=["呈"],t=[],i=[{w:"亮锃锃",p:"liàng zèng zèng",d:"polished to a shine/shiny/glistening",t:"亮鋥鋥"},{w:"锃亮",p:"zèng liàng",d:"shiny",t:"鋥亮"},{w:"锃光",p:"zèng guāng",d:"shiny",t:"鋥光"}],c=[],g="金",o=12,d={s:n,c:s,d:t,w:i,i:c,r:g,sc:o};export{s as c,t as d,d as default,c as i,g as r,n as s,o as sc,i as w};

@@ -1,0 +1,1 @@
+const t=[{p:"me",pp:"me5",d:"variant of 麼|么[me5]",t:"庅",w:"庅"},{p:"mó",pp:"mo2",d:"variant of 麼|麽[mo2]",t:"庅",w:"庅"}],o=6,s="广",c=["广","么"],n=[],p=[],a=[],m={s:t,sc:o,r:s,c,d:n,w:p,i:a};export{c,n as d,m as default,a as i,s as r,t as s,o as sc,p as w};

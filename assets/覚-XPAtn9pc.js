@@ -1,1 +1,0 @@
-const s=[{p:"jué",pp:"jue2",d:"Japanese variant of 覺|觉[jue2]",t:"覚",w:"覚"}],c=["小"],t=[],n=[],o=[],a="見",e=12,p={s,c,d:t,w:n,i:o,r:a,sc:e};export{c,t as d,p as default,o as i,a as r,s,e as sc,n as w};

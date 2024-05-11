@@ -1,0 +1,1 @@
+const s=[{p:"léi",pp:"lei2",d:"entangled/lean",t:"羸",w:"羸"}],t=19,c="羊",n=[],o=[],e=[{w:"羸弱",p:"léi ruò",d:"frail/weak",t:"羸弱"}],l=[],a={s,sc:t,r:c,c:n,d:o,w:e,i:l};export{n as c,o as d,a as default,l as i,c as r,s,t as sc,e as w};

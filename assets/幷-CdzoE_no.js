@@ -1,0 +1,1 @@
+const n=[{p:"bìng",pp:"bing4",d:"variant of 並|并[bing4]/variant of 併|并[bing4]",t:"幷",w:"幷"}],s=8,t="干",c=[],o=["倂","甁"],i=[],a=[],r={s:n,sc:s,r:t,c,d:o,w:i,i:a};export{c,o as d,r as default,a as i,t as r,n as s,s as sc,i as w};

@@ -1,0 +1,1 @@
+const o=[{p:"huō",pp:"huo1",d:"a hoe/to hoe/to loosen the soil with a hoe/Taiwan pr. [he2]",t:"耠",w:"耠"}],s=12,t="耒",c=["耒","合"],n=[],e=[],h=[],a={s:o,sc:s,r:t,c,d:n,w:e,i:h};export{c,n as d,a as default,h as i,t as r,o as s,s as sc,e as w};

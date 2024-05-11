@@ -1,0 +1,1 @@
+const s=[{p:"shēn",pp:"shen1",d:"carangid (zoology)",t:"鰺",w:"鲹"}],c=16,o="魚",n=["鱼","参"],t=[],d=[],a=[],p={s,sc:c,r:o,c:n,d:t,w:d,i:a};export{n as c,t as d,p as default,a as i,o as r,s,c as sc,d as w};

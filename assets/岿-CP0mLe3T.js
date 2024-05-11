@@ -1,1 +1,0 @@
-const s=[{p:"kuī",pp:"kui1",d:"high and mighty (of mountain)/hilly",t:"巋",w:"岿"}],t=["山","归"],c=[],n=[],o=[],i="山",d=8,a={s,c:t,d:c,w:n,i:o,r:i,sc:d};export{t as c,c as d,a as default,o as i,i as r,s,d as sc,n as w};

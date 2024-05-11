@@ -1,0 +1,1 @@
+const t=[{p:"náng",pp:"nang2",d:"a kind of a flat bread",t:"饢",w:"馕"},{p:"nǎng",pp:"nang3",d:"to stuff one's face/to eat greedily",t:"饢",w:"馕"}],n=25,o="食",s=["饣","囊"],c=[],a=[{w:"馕嗓",p:"nǎng sǎng",d:"to stuff one's throat with food",t:"饢嗓"}],d=[],e={s:t,sc:n,r:o,c:s,d:c,w:a,i:d};export{s as c,c as d,e as default,d as i,o as r,t as s,n as sc,a as w};

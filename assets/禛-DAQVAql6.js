@@ -1,0 +1,1 @@
+const n=[{p:"zhēn",pp:"zhen1",d:"to receive blessings in a sincere spirit",t:"禛",w:"禛"}],s=15,t="示",c=["示","真"],e=[],o=[{w:"王士禛",p:"Wáng Shì zhēn",d:"Wang Shizhen (1634-1711), early Qing poet",t:"王士禛"}],i=[],p={s:n,sc:s,r:t,c,d:e,w:o,i};export{c,e as d,p as default,i,t as r,n as s,s as sc,o as w};

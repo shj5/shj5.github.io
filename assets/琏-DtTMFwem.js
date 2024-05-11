@@ -1,1 +1,0 @@
-const s=[{p:"liǎn",pp:"lian3",d:"sacrificial vessel used for grain offerings/also pr. [lian2]",t:"璉",w:"琏"}],c=["王","连"],n=[],o=[],t=[],i="玉",a=11,r={s,c,d:n,w:o,i:t,r:i,sc:a};export{c,n as d,r as default,t as i,i as r,s,a as sc,o as w};

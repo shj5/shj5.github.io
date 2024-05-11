@@ -1,0 +1,1 @@
+const c=[{p:"kāo",pp:"kao1",d:"(literary) buttocks; rump; coccyx; sacrum",t:"尻",w:"尻"}],o=5,t="尸",s=["九","尸"],n=[],a=[{w:"尻门子",p:"kāo mén zi",d:"anus (rural coll.)",t:"尻門子"},{w:"尻骨",p:"kāo gǔ",d:"coccyx/tailbone at end of spine",t:"尻骨"}],r=[],p={s:c,sc:o,r:t,c:s,d:n,w:a,i:r};export{s as c,n as d,p as default,r as i,t as r,c as s,o as sc,a as w};

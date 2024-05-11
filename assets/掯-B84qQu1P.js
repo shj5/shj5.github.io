@@ -1,1 +1,0 @@
-const t=[{p:"kèn",pp:"ken4",d:"to push down/to make things difficult/to take by force",t:"掯",w:"掯"}],s=["扌","肯"],c=[],o=[],n=[],d="手",e=11,i={s:t,c:s,d:c,w:o,i:n,r:d,sc:e};export{s as c,c as d,i as default,n as i,d as r,t as s,e as sc,o as w};

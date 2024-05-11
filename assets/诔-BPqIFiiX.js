@@ -1,1 +1,0 @@
-const s=[{p:"lěi",pp:"lei3",d:"to eulogize the dead/eulogy",t:"誄",w:"诔"}],t=["讠","耒"],c=[],o=[],e=[],n="言",d=8,i={s,c:t,d:c,w:o,i:e,r:n,sc:d};export{t as c,c as d,i as default,e as i,n as r,s,d as sc,o as w};

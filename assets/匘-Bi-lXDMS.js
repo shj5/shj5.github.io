@@ -1,0 +1,1 @@
+const o=[{p:"nǎo",pp:"nao3",d:"old variant of 腦|脑[nao3]",t:"匘",w:"匘"}],s=11,c="匕",n=["匕"],t=[],a=[],d=[],p={s:o,sc:s,r:c,c:n,d:t,w:a,i:d};export{n as c,t as d,p as default,d as i,c as r,o as s,s as sc,a as w};

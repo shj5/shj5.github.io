@@ -1,1 +1,0 @@
-const n=[{p:"kě",pp:"ke3",d:"used in 岢嵐|岢岚[Ke3 lan2]",t:"岢",w:"岢"}],o=["山","可"],t=[],c=[{w:"岢岚",p:"Kě lán",d:"Kelan county in Xinzhou 忻州[Xin1 zhou1], Shanxi",t:"岢嵐"},{w:"岢岚县",p:"Kě lán xiàn",d:"Kelan county in Xinzhou 忻州[Xin1 zhou1], Shanxi",t:"岢嵐縣"}],s=[],i="山",u=8,a={s:n,c:o,d:t,w:c,i:s,r:i,sc:u};export{o as c,t as d,a as default,s as i,i as r,n as s,u as sc,c as w};

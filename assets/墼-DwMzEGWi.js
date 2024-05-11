@@ -1,1 +1,0 @@
-const t=[{p:"jī",pp:"ji1",d:"(bound form) unfired brick/(bound form) briquette (made of coal etc)/Taiwan pr. [ji2]",t:"墼",w:"墼"}],c=["土"],o=[],d=[{w:"土墼",p:"tǔ jī",d:"sun-dried mudbrick; adobe brick",t:"土墼"},{w:"炭墼",p:"tàn jī",d:"coal briquette",t:"炭墼"}],n=[],s="土",r=16,i={s:t,c,d:o,w:d,i:n,r:s,sc:r};export{c,o as d,i as default,n as i,s as r,t as s,r as sc,d as w};

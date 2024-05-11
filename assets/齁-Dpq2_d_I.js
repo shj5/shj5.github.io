@@ -1,1 +1,0 @@
-const s=[{p:"hōu",pp:"hou1",d:"to snore/thirsty from excessively salty or sweet food/(dialect) very/extremely",t:"齁",w:"齁"}],t=["句","鼻"],o=[],c=[],e=[],n="鼻",r=19,d={s,c:t,d:o,w:c,i:e,r:n,sc:r};export{t as c,o as d,d as default,e as i,n as r,s,r as sc,c as w};

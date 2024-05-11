@@ -1,1 +1,0 @@
-const s=[{p:"lì",pp:"li4",d:"used in 猞猁[she1li4]",t:"猁",w:"猁"}],c=["犭","利"],t=[],n=[{w:"猞猁",p:"shē lì",d:"lynx",t:"猞猁"}],o=[],d="犬",l=10,i={s,c,d:t,w:n,i:o,r:d,sc:l};export{c,t as d,i as default,o as i,d as r,s,l as sc,n as w};

@@ -1,1 +1,0 @@
-const t=[{p:"tā",pp:"ta1",d:"thallium (chemistry)",t:"鉈",w:"铊"}],s=["它"],c=[],o=[],n=[],a="金",d=10,i={s:t,c:s,d:c,w:o,i:n,r:a,sc:d};export{s as c,c as d,i as default,n as i,a as r,t as s,d as sc,o as w};

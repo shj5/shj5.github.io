@@ -1,0 +1,1 @@
+const t=[{p:"lài",pp:"lai4",d:"(fragrant labiate plant)",t:"藾",w:"藾"}],s=19,c="艸",n=["艹"],o=[],a=[],i=[],l={s:t,sc:s,r:c,c:n,d:o,w:a,i};export{n as c,o as d,l as default,i,c as r,t as s,s as sc,a as w};

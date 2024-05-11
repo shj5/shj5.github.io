@@ -1,0 +1,1 @@
+const s=[{p:"lù",pp:"lu4",d:"Japanese variant of 錄|录[lu4]",t:"録",w:"録"}],c=16,t="金",n=["金","录"],o=[],a=[],p=[],d={s,sc:c,r:t,c:n,d:o,w:a,i:p};export{n as c,o as d,d as default,p as i,t as r,s,c as sc,a as w};

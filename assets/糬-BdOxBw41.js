@@ -1,0 +1,1 @@
+const s=[{p:"shǔ",pp:"shu3",d:"used in 麻糬[ma2shu3]",t:"糬",w:"糬"}],c=19,t="米",o=["米","署"],n=[],i=[{w:"麻糬",p:"má shǔ",d:'(transliteration of Japanese "mochi") sticky rice balls; mochi',t:"麻糬"}],a=[],e={s,sc:c,r:t,c:o,d:n,w:i,i:a};export{o as c,n as d,e as default,a as i,t as r,s,c as sc,i as w};

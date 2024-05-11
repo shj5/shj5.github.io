@@ -1,1 +1,0 @@
-const t=[{p:"tiān",pp:"tian1",d:"old variant of 天[tian1]",t:"靝",w:"靔"}],s=["气","靑"],c=[],n=[],o=[],a="靑",i=12,d={s:t,c:s,d:c,w:n,i:o,r:a,sc:i};export{s as c,c as d,d as default,o as i,a as r,t as s,i as sc,n as w};

@@ -1,1 +1,0 @@
-const t=[{p:"jù",pp:"ju4",d:"to contribute to a feast/to pool (money)",t:"醵",w:"醵"}],o=["酉","豦"],s=[],c=[],n=[],e="酉",p=20,a={s:t,c:o,d:s,w:c,i:n,r:e,sc:p};export{o as c,s as d,a as default,n as i,e as r,t as s,p as sc,c as w};

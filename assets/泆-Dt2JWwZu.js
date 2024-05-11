@@ -1,0 +1,1 @@
+const s=[{p:"yì",pp:"yi4",d:"licentious, libertine, dissipate",t:"泆",w:"泆"}],t=8,c="水",i=["氵","失"],n=[],o=[{w:"流泆",p:"liú yì",d:"to indulge/licentious",t:"流泆"}],e=[],d={s,sc:t,r:c,c:i,d:n,w:o,i:e};export{i as c,n as d,d as default,e as i,c as r,s,t as sc,o as w};

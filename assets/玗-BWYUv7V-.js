@@ -1,1 +1,0 @@
-const s=[{p:"yú",pp:"yu2",d:"semiprecious stone/a kind of jade",t:"玗",w:"玗"}],t=["于","王"],c=[],n=[{w:"珣玗琪",p:"xún yú qí",d:"type of ancient jade",t:"珣玗琪"}],o=[],e="玉",d=7,p={s,c:t,d:c,w:n,i:o,r:e,sc:d};export{t as c,c as d,p as default,o as i,e as r,s,d as sc,n as w};

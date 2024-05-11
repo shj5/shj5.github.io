@@ -1,0 +1,1 @@
+const t=[{p:"Gǔn",pp:"Gun3",d:"variant of 鯀|鲧[Gun3]",t:"鮌",w:"鲧"},{p:"Gǔn",pp:"Gun3",d:"Gun, mythical father of Yu the Great 大禹[Da4 Yu3]",t:"鯀",w:"鲧"}],n=15,c="魚",s=["系","鱼"],o=[],a=[],p=[],u={s:t,sc:n,r:c,c:s,d:o,w:a,i:p};export{s as c,o as d,u as default,p as i,c as r,t as s,n as sc,a as w};

@@ -1,0 +1,1 @@
+const n=[{p:"yá",pp:"ya2",d:"see 嵖岈山[Cha2 ya2 Shan1]",t:"岈",w:"岈"}],a=7,s="山",t=["山","牙"],c=[],o=[{w:"嵖岈山",p:"Chá yá Shān",d:"Chaya Mountain in Zhumadian 駐馬店|驻马店[Zhu4 ma3 dian4], Henan",t:"嵖岈山"}],d=[],h={s:n,sc:a,r:s,c:t,d:c,w:o,i:d};export{t as c,c as d,h as default,d as i,s as r,n as s,a as sc,o as w};

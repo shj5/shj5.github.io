@@ -1,1 +1,0 @@
-const o=[{p:"pǒu",pp:"pou3",d:"variant of 咅[pou3]/also pr. [tou4]",t:"㕻",w:"㕻"}],s=[],t=[],c=[],n=[],p="",a=0,r={s:o,c:s,d:t,w:c,i:n,r:p,sc:a};export{s as c,t as d,r as default,n as i,p as r,o as s,a as sc,c as w};

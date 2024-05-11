@@ -1,0 +1,1 @@
+const c=[{p:"kǎ",pp:"ka3",d:"carbylamine/isocyanide",t:"胩",w:"胩"}],s=9,t="肉",n=["月","卡"],o=[],a=[],d=[],i={s:c,sc:s,r:t,c:n,d:o,w:a,i:d};export{n as c,o as d,i as default,d as i,t as r,c as s,s as sc,a as w};

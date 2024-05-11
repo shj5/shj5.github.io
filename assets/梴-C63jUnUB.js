@@ -1,1 +1,0 @@
-const c=[{p:"chān",pp:"chan1",d:"length (of a tree or beam)/long",t:"梴",w:"梴"}],s=["木"],t=[],n=[],o=[],e="木",a=11,r={s:c,c:s,d:t,w:n,i:o,r:e,sc:a};export{s as c,t as d,r as default,o as i,e as r,c as s,a as sc,n as w};

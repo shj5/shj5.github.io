@@ -1,1 +1,0 @@
-const t=[{p:"xī",pp:"xi1",d:"obscure variant of 悉[xi1]/Achyranthes bidentata, a root used in Chinese medicine, equivalent to 牛膝[niu2 xi1]",t:"怸",w:"怸"}],s=["心","术"],n=[],c=[],o=[],i="心",e=9,a={s:t,c:s,d:n,w:c,i:o,r:i,sc:e};export{s as c,n as d,a as default,o as i,i as r,t as s,e as sc,c as w};

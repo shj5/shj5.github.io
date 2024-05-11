@@ -1,1 +1,0 @@
-const o=[{p:"ōu",pp:"ou1",d:"severe drought/exceptionally hot weather",t:"熰",w:"𬉼"},{p:"ǒu",pp:"ou3",d:"copious smoke produced by smoldering firewood/half alight/to use the smoke of burning wormwood etc to repel insects",t:"熰",w:"𬉼"}],t=[],s=[],e=[],c=[],n="",r=0,d={s:o,c:t,d:s,w:e,i:c,r:n,sc:r};export{t as c,s as d,d as default,c as i,n as r,o as s,r as sc,e as w};

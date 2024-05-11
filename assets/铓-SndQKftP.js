@@ -1,0 +1,1 @@
+const n=[{p:"máng",pp:"mang2",d:"sharp point/point of sword",t:"鋩",w:"铓"}],s=11,t="金",o=["芒"],c=[],p=[{w:"锋铓",p:"fēng máng",d:"variant of 鋒芒|锋芒[feng1 mang2]",t:"鋒鋩"}],a=[],d={s:n,sc:s,r:t,c:o,d:c,w:p,i:a};export{o as c,c as d,d as default,a as i,t as r,n as s,s as sc,p as w};

@@ -1,0 +1,1 @@
+const s=[{p:"miǎn",pp:"mian3",d:"Sciaena albiflora/otolithoidesmiiuy",t:"鮸",w:"𩾃"}],c=0,o="",t=[],n=[],i=[],a=[],d={s,sc:c,r:o,c:t,d:n,w:i,i:a};export{t as c,n as d,d as default,a as i,o as r,s,c as sc,i as w};

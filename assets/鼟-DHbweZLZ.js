@@ -1,1 +1,0 @@
-const t=[{p:"tēng",pp:"teng1",d:"(onom.) the thump of a big drum",t:"鼟",w:"鼟"}],s=["登","鼓"],c=[],o=[],n=[],d="鼓",p=25,e={s:t,c:s,d:c,w:o,i:n,r:d,sc:p};export{s as c,c as d,e as default,n as i,d as r,t as s,p as sc,o as w};

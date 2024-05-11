@@ -1,1 +1,0 @@
-const n=[{p:"lóng",pp:"long2",d:"used in 矇矓|蒙眬[meng2 long2]",t:"矓",w:"眬"}],s=["目","龙"],o=[],c=[{w:"蒙眬",p:"méng lóng",d:"(of vision) fuzzy",t:"矇矓"}],t=[],d="目",g=10,i={s:n,c:s,d:o,w:c,i:t,r:d,sc:g};export{s as c,o as d,i as default,t as i,d as r,n as s,g as sc,c as w};

@@ -1,1 +1,0 @@
-const n=[{p:"niàn",pp:"nian4",d:"earth embankment used to hold back or retain water/dike around a paddy field",t:"埝",w:"埝"}],t=["土","念"],s=[],c=[],o=[],a="土",d=11,e={s:n,c:t,d:s,w:c,i:o,r:a,sc:d};export{t as c,s as d,e as default,o as i,a as r,n as s,d as sc,c as w};

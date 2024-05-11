@@ -1,0 +1,1 @@
+const t=[{p:"fēi",pp:"fei1",d:"door with only one leaf",t:"扉",w:"扉"}],n=12,o="戶",e=["戸","非"],s=[],c=[{w:"心扉",p:"xīn fēi",d:"inner heart/soul",t:"心扉"},{w:"扉画",p:"fēi huà",d:"frontpage picture",t:"扉畫"},{w:"扉页",p:"fēi yè",d:"title page/flyleaf/end paper",t:"扉頁"}],p=[],i={s:t,sc:n,r:o,c:e,d:s,w:c,i:p};export{e as c,s as d,i as default,p as i,o as r,t as s,n as sc,c as w};

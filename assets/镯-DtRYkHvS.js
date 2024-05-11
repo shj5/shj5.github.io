@@ -1,1 +1,0 @@
-const t=[{p:"zhuó",pp:"zhuo2",d:"bracelet",t:"鐲",w:"镯"}],c=["蜀"],s=[],o=[{w:"手镯",p:"shǒu zhuó",d:"bracelet",t:"手鐲"},{w:"镯子",p:"zhuó zi",d:"bracelet/CL:隻|只[zhi1]",t:"鐲子"}],e=[],n="金",d=18,h={s:t,c,d:s,w:o,i:e,r:n,sc:d};export{c,s as d,h as default,e as i,n as r,t as s,d as sc,o as w};

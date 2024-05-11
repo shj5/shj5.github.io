@@ -1,1 +1,0 @@
-const t=[{p:"xié",pp:"xie2",d:"to collect/Taiwan pr. [jie2]",t:"擷",w:"撷"}],c=["扌","颉"],o=[],s=[{w:"撷取",p:"xié qǔ",d:"to pick/to select/to take/to capture (data)/to acquire/to pick up (a signal)",t:"擷取"}],a=[],i="手",e=15,n={s:t,c,d:o,w:s,i:a,r:i,sc:e};export{c,o as d,n as default,a as i,i as r,t as s,e as sc,s as w};

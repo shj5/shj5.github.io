@@ -1,1 +1,0 @@
-const s=[{p:"gǔn",pp:"gun3",d:"roller",t:"輥",w:"辊"}],n=["车","昆"],t=[],c=[{w:"轧辊",p:"zhá gǔn",d:"(steelmaking) roll/roller/CL:根[gen1]",t:"軋輥"}],o=[],l="車",r=12,e={s,c:n,d:t,w:c,i:o,r:l,sc:r};export{n as c,t as d,e as default,o as i,l as r,s,r as sc,c as w};

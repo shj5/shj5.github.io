@@ -1,0 +1,1 @@
+const s=[{p:"juē",pp:"jue1",d:"(old) hemp sandals/Taiwan pr. [jue2]",t:"屩",w:"屩"}],c=18,t="尸",n=["尸"],o=[],a=[],d=[],p={s,sc:c,r:t,c:n,d:o,w:a,i:d};export{n as c,o as d,p as default,d as i,t as r,s,c as sc,a as w};

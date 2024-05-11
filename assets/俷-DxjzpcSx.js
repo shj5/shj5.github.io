@@ -1,1 +1,0 @@
-const t=[{p:"fèi",pp:"fei4",d:"(literary) to violate (a moral code)",t:"俷",w:"俷"}],c=["亻","肥"],o=[],s=[],n=[],a="人",e=10,i={s:t,c,d:o,w:s,i:n,r:a,sc:e};export{c,o as d,i as default,n as i,a as r,t as s,e as sc,s as w};

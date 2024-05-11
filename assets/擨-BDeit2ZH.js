@@ -1,1 +1,0 @@
-const c=[{p:"yé",pp:"ye2",d:"archaic variant of 揶[ye2]",t:"擨",w:"擨"}],s=["扌"],t=[],o=[],n=[],a="手",r=17,d={s:c,c:s,d:t,w:o,i:n,r:a,sc:r};export{s as c,t as d,d as default,n as i,a as r,c as s,r as sc,o as w};

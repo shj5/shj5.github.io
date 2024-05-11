@@ -1,1 +1,0 @@
-const s=[{p:"zhàn",pp:"zhan4",d:"Japanese variant of 戰|战",t:"戦",w:"戦"}],c=["戈","単"],n=[],t=[],o=[],a="戈",p=12,d={s,c,d:n,w:t,i:o,r:a,sc:p};export{c,n as d,d as default,o as i,a as r,s,p as sc,t as w};

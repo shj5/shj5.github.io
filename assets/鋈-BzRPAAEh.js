@@ -1,1 +1,0 @@
-const t=[{p:"wù",pp:"wu4",d:"-plated/to plate",t:"鋈",w:"鋈"}],s=["沃","金"],c=[],o=[],n=[],p="金",d=15,w={s:t,c:s,d:c,w:o,i:n,r:p,sc:d};export{s as c,c as d,w as default,n as i,p as r,t as s,d as sc,o as w};

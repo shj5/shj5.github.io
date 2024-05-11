@@ -1,1 +1,0 @@
-const s=[{p:"xù",pp:"xu4",d:"Hypophthalmichthys moritrix",t:"鱮",w:"鱮"}],t=[],c=[],o=[],n=[],p="魚",i=25,r={s,c:t,d:c,w:o,i:n,r:p,sc:i};export{t as c,c as d,r as default,n as i,p as r,s,i as sc,o as w};

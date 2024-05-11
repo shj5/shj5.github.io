@@ -1,1 +1,0 @@
-const c=[{p:"yà",pp:"ya4",d:"cover/radical no 146",t:"襾",w:"襾"}],s=[],o=["覃"],t=[],n=[],a="*",d=6,r={s:c,c:s,d:o,w:t,i:n,r:a,sc:d};export{s as c,o as d,r as default,n as i,a as r,c as s,d as sc,t as w};

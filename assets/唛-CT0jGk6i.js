@@ -1,0 +1,1 @@
+const s=[{p:"mài",pp:"mai4",d:"mark (loanword)/also pr. [ma4]",t:"嘜",w:"唛"}],t=10,c="口",o=["口","麦"],a=[],n=[{w:"唛头",p:"mài tóu",d:"trademark/shipping mark",t:"嘜頭"}],r=[],p={s,sc:t,r:c,c:o,d:a,w:n,i:r};export{o as c,a as d,p as default,r as i,c as r,s,t as sc,n as w};

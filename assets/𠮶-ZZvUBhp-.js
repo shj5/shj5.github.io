@@ -1,0 +1,1 @@
+const t=[{p:"gè",pp:"ge4",d:"that (Cantonese)/Mandarin equivalent: 那[na4]",t:"嗰",w:"𠮶"}],n=0,s="",c=[],o=[],a=[],e=[],d={s:t,sc:n,r:s,c,d:o,w:a,i:e};export{c,o as d,d as default,e as i,s as r,t as s,n as sc,a as w};

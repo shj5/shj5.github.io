@@ -1,1 +1,0 @@
-const c=[{p:"pí",pp:"pi2",d:"drum carried on horseback",t:"鼙",w:"鼙"}],s=["卑","鼓"],o=[],t=[],n=[],r="鼓",d=21,p={s:c,c:s,d:o,w:t,i:n,r,sc:d};export{s as c,o as d,p as default,n as i,r,c as s,d as sc,t as w};

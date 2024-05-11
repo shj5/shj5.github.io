@@ -1,1 +1,0 @@
-const t=[{p:"tuó",pp:"tuo2",d:"carry on the back",t:"佗",w:"佗"}],o=["亻","它"],c=[],s=[{w:"华佗",p:"Huà Tuó",d:"Hua Tuo (?-208), famous doctor at the end of Han Dynasty",t:"華佗"}],n=[],a="人",u=7,d={s:t,c:o,d:c,w:s,i:n,r:a,sc:u};export{o as c,c as d,d as default,n as i,a as r,t as s,u as sc,s as w};

@@ -1,1 +1,0 @@
-const n=[{p:"liǎn",pp:"lian3",d:"variant of 蘞|蔹, trailing plant/liana/creeper/wild vine (Gynostemma pentaphyllum or Vitis pentaphylla)",t:"蘝",w:"蘝"}],t=["艹"],s=[],a=[],c=[],i="艸",o=20,l={s:n,c:t,d:s,w:a,i:c,r:i,sc:o};export{t as c,s as d,l as default,c as i,i as r,n as s,o as sc,a as w};

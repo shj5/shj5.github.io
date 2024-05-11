@@ -1,1 +1,0 @@
-const n=[{p:"zhǎ",pp:"zha3",d:"span (unit of length based on the width of the expanded human hand)/to span (measure with one's hand)",t:"拃",w:"拃"}],s=["扌","乍"],t=[],o=[],c=[],a="手",e=8,d={s:n,c:s,d:t,w:o,i:c,r:a,sc:e};export{s as c,t as d,d as default,c as i,a as r,n as s,e as sc,o as w};

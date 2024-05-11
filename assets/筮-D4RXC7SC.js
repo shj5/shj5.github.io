@@ -1,0 +1,1 @@
+const s=[{p:"shì",pp:"shi4",d:"divine by stalk",t:"筮",w:"筮"}],t=13,c="竹",n=["竹","巫"],o=["噬","澨"],i=[{w:"卜筮",p:"bǔ shì",d:"divination",t:"卜筮"}],d=[],p={s,sc:t,r:c,c:n,d:o,w:i,i:d};export{n as c,o as d,p as default,d as i,c as r,s,t as sc,i as w};

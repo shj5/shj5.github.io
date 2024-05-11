@@ -1,1 +1,0 @@
-const t=[{p:"huí",pp:"hui2",d:"eddying/whirling (of water)/to go against the current",t:"洄",w:"洄"}],o=["氵","回"],s=[],c=[{w:"沿洄",p:"yán huí",d:"to go with the stream",t:"沿洄"},{w:"洄游",p:"huí yóu",d:"(of fish) to migrate",t:"洄游"}],n=[],i="水",e=9,h={s:t,c:o,d:s,w:c,i:n,r:i,sc:e};export{o as c,s as d,h as default,n as i,i as r,t as s,e as sc,c as w};

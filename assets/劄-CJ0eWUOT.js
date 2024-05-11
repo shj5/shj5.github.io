@@ -1,1 +1,0 @@
-const s=[{p:"zhā",pp:"zha1",d:"to prick with a needle",t:"劄",w:"劄"}],t=["刂","答"],c=[],e=[{w:"目劄",p:"mù zhā",d:"(TCM) excessive blinking of the eyes",t:"目劄"}],n=[],o="刀",i=14,d={s,c:t,d:c,w:e,i:n,r:o,sc:i};export{t as c,c as d,d as default,n as i,o as r,s,i as sc,e as w};

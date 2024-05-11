@@ -1,0 +1,1 @@
+const s=[{p:"zuǎn",pp:"zuan3",d:"(literary) bamboo tube used to hold chopsticks or spoons",t:"籫",w:"籫"}],o=25,t="竹",c=["竹"],n=[],d=[],p=[],r={s,sc:o,r:t,c,d:n,w:d,i:p};export{c,n as d,r as default,p as i,t as r,s,o as sc,d as w};

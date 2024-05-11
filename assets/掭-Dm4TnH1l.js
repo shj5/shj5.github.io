@@ -1,1 +1,0 @@
-const t=[{p:"tiàn",pp:"tian4",d:"to smooth (a brush) against the inkstone (after dipping it in ink)",t:"掭",w:"掭"}],s=["扌","忝"],n=[],o=[],c=[],i="手",a=11,p={s:t,c:s,d:n,w:o,i:c,r:i,sc:a};export{s as c,n as d,p as default,c as i,i as r,t as s,a as sc,o as w};

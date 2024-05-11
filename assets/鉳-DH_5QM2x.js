@@ -1,0 +1,1 @@
+const s=[{p:"běi",pp:"bei3",d:"berkelium (chemistry) (Tw)",t:"鉳",w:"鉳"}],c=13,t="金",o=["北","金"],n=[],e=[],i=[],r={s,sc:c,r:t,c:o,d:n,w:e,i};export{o as c,n as d,r as default,i,t as r,s,c as sc,e as w};

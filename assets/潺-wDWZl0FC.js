@@ -1,0 +1,1 @@
+const c=[{p:"chán",pp:"chan2",d:"flow/trickle (of water)",t:"潺",w:"潺"}],t=15,s="水",n=["氵","孱"],o=[],r=[{w:"潺潺",p:"chán chán",d:"murmur/babble (sound of water)",t:"潺潺"}],w=[],a={s:c,sc:t,r:s,c:n,d:o,w:r,i:w};export{n as c,o as d,a as default,w as i,s as r,c as s,t as sc,r as w};

@@ -1,0 +1,1 @@
+const s=[{p:"guāi",pp:"guai1",d:"to slap/also pr. [guo2]",t:"摑",w:"掴"}],t=11,o="手",c=["扌","国"],p=[],n=[{w:"掌掴",p:"zhǎng guāi",d:"to slap",t:"掌摑"},{w:"耳掴子",p:"ěr guāi zi",d:"slap",t:"耳摑子"}],a=[],i={s,sc:t,r:o,c,d:p,w:n,i:a};export{c,p as d,i as default,a as i,o as r,s,t as sc,n as w};

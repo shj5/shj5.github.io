@@ -1,0 +1,1 @@
+const c=[{p:"qì",pp:"qi4",d:"(Daoism) Qi; vital force; life force (variant of 氣|气[qi4])",t:"炁",w:"炁"}],s=8,o="火",t=["灬"],i=[],n=[{w:"坎炁",p:"kǎn qì",d:"(TCM) umbilical cord (used as medicine)",t:"坎炁"}],a=[],d={s:c,sc:s,r:o,c:t,d:i,w:n,i:a};export{t as c,i as d,d as default,a as i,o as r,c as s,s as sc,n as w};

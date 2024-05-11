@@ -1,1 +1,0 @@
-const t=[{p:"hū",pp:"hu1",d:"to cook in a small quantity of water",t:"烀",w:"烀"}],s=["火","乎"],c=[],o=[],n=[],a="火",d=9,i={s:t,c:s,d:c,w:o,i:n,r:a,sc:d};export{s as c,c as d,i as default,n as i,a as r,t as s,d as sc,o as w};

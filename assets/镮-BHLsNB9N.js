@@ -1,0 +1,1 @@
+const t=[{p:"huán",pp:"huan2",d:"(ancient weight)/metal ring",t:"鐶",w:"镮"}],c=18,n="金",s=["睘"],o=[],a=[],e=[],i={s:t,sc:c,r:n,c:s,d:o,w:a,i:e};export{s as c,o as d,i as default,e as i,n as r,t as s,c as sc,a as w};

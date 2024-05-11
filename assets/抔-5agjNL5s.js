@@ -1,1 +1,0 @@
-const s=[{p:"póu",pp:"pou2",d:"take up in both hands",t:"抔",w:"抔"}],t=["扌","不"],c=[],o=[],n=[],p="手",d=7,a={s,c:t,d:c,w:o,i:n,r:p,sc:d};export{t as c,c as d,a as default,n as i,p as r,s,d as sc,o as w};

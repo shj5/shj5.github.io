@@ -1,0 +1,1 @@
+const t=[{p:"hú",pp:"hu2",d:"falcon/migratory bird",t:"鶻",w:"鹘"}],s=15,c="鳥",n=["鸟","骨"],o=[],u=[{w:"回鹘",p:"Huí hú",d:"Huihu, ancient name of an ethnic group who were the ancestors of the Uyghurs 維吾爾族|维吾尔族[Wei2wu2er3zu2] and the Yugurs 裕固族[Yu4gu4zu2]",t:"回鶻"}],e=[],r={s:t,sc:s,r:c,c:n,d:o,w:u,i:e};export{n as c,o as d,r as default,e as i,c as r,t as s,s as sc,u as w};

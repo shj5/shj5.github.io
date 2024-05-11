@@ -1,0 +1,1 @@
+const s=[{p:"hùn",pp:"hun4",d:"edging (of a dress etc)/old variant of 混[hun4]",t:"掍",w:"掍"}],c=11,n="手",t=["扌","昆"],o=[],d=[],a=[],e={s,sc:c,r:n,c:t,d:o,w:d,i:a};export{t as c,o as d,e as default,a as i,n as r,s,c as sc,d as w};

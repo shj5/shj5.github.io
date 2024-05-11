@@ -1,1 +1,0 @@
-const t=[{p:"zàng",pp:"zang4",d:"great",t:"奘",w:"奘"},{p:"zhuǎng",pp:"zhuang3",d:"fat/stout",t:"奘",w:"奘"}],n=["大"],s=[],a=[{w:"玄奘",p:"Xuán zàng",d:"Xuanzang (602-664), Tang dynasty Buddhist monk and translator who traveled to India 629-645",t:"玄奘"}],o=[],c="大",d=10,g={s:t,c:n,d:s,w:a,i:o,r:c,sc:d};export{n as c,s as d,g as default,o as i,c as r,t as s,d as sc,a as w};

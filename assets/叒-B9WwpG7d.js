@@ -1,1 +1,0 @@
-const t=[{p:"ruò",pp:"ruo4",d:"old variant of 若[ruo4]/obedient/ancient mythical tree",t:"叒",w:"叒"}],n=["又"],a=["桑","叠"],s=[{w:"又双叒叕",p:"yòu shuāng ruò zhuó",d:"(Internet slang) time after time/again and again and again",t:"又雙叒叕"}],c=[],o="又",e=6,i={s:t,c:n,d:a,w:s,i:c,r:o,sc:e};export{n as c,a as d,i as default,c as i,o as r,t as s,e as sc,s as w};

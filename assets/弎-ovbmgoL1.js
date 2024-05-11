@@ -1,0 +1,1 @@
+const s=[{p:"sān",pp:"san1",d:"archaic variant of 參|叁, banker's anti-fraud numeral three",t:"弎",w:"弎"}],c=6,n="弋",t=["弋","三"],a=[],o=[],r=[],e={s,sc:c,r:n,c:t,d:a,w:o,i:r};export{t as c,a as d,e as default,r as i,n as r,s,c as sc,o as w};

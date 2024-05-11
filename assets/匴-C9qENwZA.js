@@ -1,0 +1,1 @@
+const n=[{p:"suǎn",pp:"suan3",d:"bamboo utensil used for washing rice in ancient times/bamboo container for a hat used in the capping ceremony 冠禮|冠礼[guan4 li3] in ancient times",t:"匴",w:"匴"}],s=16,t="匚",c=["匚"],o=[],i=[],e=[],a={s:n,sc:s,r:t,c,d:o,w:i,i:e};export{c,o as d,a as default,e as i,t as r,n as s,s as sc,i as w};

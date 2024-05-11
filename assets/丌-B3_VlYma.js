@@ -1,0 +1,1 @@
+const c=[{p:"Jī",pp:"Ji1",d:"surname Ji",t:"丌",w:"丌"},{p:"jī",pp:"ji1",d:'"pedestal" component in Chinese characters',t:"丌",w:"丌"},{p:"qí",pp:"qi2",d:"archaic variant of 其[qi2]",t:"丌",w:"丌"}],s=3,t="一",n=[],o=["畀","畁","卼"],p=[],i=[],a={s:c,sc:s,r:t,c:n,d:o,w:p,i};export{n as c,o as d,a as default,i,t as r,c as s,s as sc,p as w};

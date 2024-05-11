@@ -1,0 +1,1 @@
+const o=[{p:"chǐ",pp:"chi3",d:"foot (unit of length equal to 0.3048 m)/old form of modern 英尺[ying1 chi3]",t:"呎",w:"呎"}],c=7,t="口",s=["口","尺"],n=[],d=[],i=[],e={s:o,sc:c,r:t,c:s,d:n,w:d,i};export{s as c,n as d,e as default,i,t as r,o as s,c as sc,d as w};

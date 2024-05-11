@@ -1,1 +1,0 @@
-const t=[{p:"yíng",pp:"ying2",d:"(literary) a grave",t:"塋",w:"茔"}],e=["艹","土"],n=[],s=[{w:"坟茔",p:"fén yíng",d:"grave/tomb/graveyard/cemetery/fig. one's native place (where one's ancestors are buried)",t:"墳塋"},{w:"祖茔",p:"zǔ yíng",d:"ancestral tomb",t:"祖塋"}],c=[],r="艸",a=11,o={s:t,c:e,d:n,w:s,i:c,r,sc:a};export{e as c,n as d,o as default,c as i,r,t as s,a as sc,s as w};

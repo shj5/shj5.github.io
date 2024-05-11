@@ -1,1 +1,0 @@
-const s=[{p:"qī",pp:"qi1",d:"battle-axe/Taiwan pr. [qi4]",t:"鏚",w:"鏚"}],t=["金","戚"],c=[],n=[],o=[],a="金",i=19,p={s,c:t,d:c,w:n,i:o,r:a,sc:i};export{t as c,c as d,p as default,o as i,a as r,s,i as sc,n as w};

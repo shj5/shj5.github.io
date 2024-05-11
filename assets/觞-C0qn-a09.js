@@ -1,0 +1,1 @@
+const s=[{p:"shāng",pp:"shang1",d:"feast/goblet",t:"觴",w:"觞"}],n=12,t="角",o=["角"],c=[],e=[{w:"滥觞",p:"làn shāng",d:"lit. floating wine goblets on a stream/the origin (of some phenomenon)",t:"濫觴"}],a=[],g={s,sc:n,r:t,c:o,d:c,w:e,i:a};export{o as c,c as d,g as default,a as i,t as r,s,n as sc,e as w};

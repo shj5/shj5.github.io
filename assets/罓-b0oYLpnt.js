@@ -1,1 +1,0 @@
-const c=[{p:"wǎng",pp:"wang3",d:"net (Kangxi radical 122)",t:"罓",w:"罓"}],s=["冂"],n=[],t=[],o=[],a="网",d=4,w={s:c,c:s,d:n,w:t,i:o,r:a,sc:d};export{s as c,n as d,w as default,o as i,a as r,c as s,d as sc,t as w};

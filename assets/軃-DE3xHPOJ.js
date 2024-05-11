@@ -1,0 +1,1 @@
+const o=[{p:"duǒ",pp:"duo3",d:"variant of 嚲|亸[duo3]",t:"軃",w:"軃"}],s=19,t="身",c=["身"],d=[],n=[{w:"軃神",p:"duǒ shén",d:"frivolous youth (dialect)",t:"軃神"}],u=[],a={s:o,sc:s,r:t,c,d,w:n,i:u};export{c,d,a as default,u as i,t as r,o as s,s as sc,n as w};

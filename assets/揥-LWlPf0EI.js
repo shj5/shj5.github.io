@@ -1,0 +1,1 @@
+const t=[{p:"tì",pp:"ti4",d:"get rid of/ivory hairpin",t:"揥",w:"揥"}],s=12,c="手",o=["扌","帝"],n=[],i=[],r=[],d={s:t,sc:s,r:c,c:o,d:n,w:i,i:r};export{o as c,n as d,d as default,r as i,c as r,t as s,s as sc,i as w};

@@ -1,1 +1,0 @@
-const c=[{p:"chēng",pp:"cheng1",d:"old variant of 赬|赪[cheng1]",t:"頳",w:"頳"}],s=["赤"],n=[],t=[],o=[],d="頁",a=16,e={s:c,c:s,d:n,w:t,i:o,r:d,sc:a};export{s as c,n as d,e as default,o as i,d as r,c as s,a as sc,t as w};

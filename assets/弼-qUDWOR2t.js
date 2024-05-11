@@ -1,1 +1,0 @@
-const s=[{p:"bì",pp:"bi4",d:"to assist",t:"弼",w:"弼"}],t=["弓","百"],n=[],o=[{w:"王弼",p:"Wáng Bì",d:"Wang Bi (226-249), Chinese neo-Daoist philosopher",t:"王弼"},{w:"辅弼",p:"fǔ bì",d:"to assist a ruler in governing a country/prime minister",t:"輔弼"}],i=[],c="弓",e=12,r={s,c:t,d:n,w:o,i,r:c,sc:e};export{t as c,n as d,r as default,i,c as r,s,e as sc,o as w};

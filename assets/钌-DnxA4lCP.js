@@ -1,0 +1,1 @@
+const o=[{p:"liǎo",pp:"liao3",d:"ruthenium (chemistry)",t:"釕",w:"钌"},{p:"liào",pp:"liao4",d:"see 釕銱兒|钌铞儿[liao4 diao4 r5]/Taiwan pr. [liao3]",t:"釕",w:"钌"}],s=7,t="金",i=["了"],c=[],a=[{w:"钌铞儿",p:"liào diào r",d:"hasp",t:"釕銱兒"}],n=[],p={s:o,sc:s,r:t,c:i,d:c,w:a,i:n};export{i as c,c as d,p as default,n as i,t as r,o as s,s as sc,a as w};

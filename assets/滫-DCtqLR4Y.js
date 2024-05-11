@@ -1,0 +1,1 @@
+const s=[{p:"xiǔ",pp:"xiu3",d:"(literary) water that was used to rinse rice and has become smelly; befouled water",t:"滫",w:"滫"}],t=14,c="水",e=["氵","脩"],o=[],n=[],a=[],r={s,sc:t,r:c,c:e,d:o,w:n,i:a};export{e as c,o as d,r as default,a as i,c as r,s,t as sc,n as w};

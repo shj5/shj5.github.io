@@ -1,0 +1,1 @@
+const s=[{p:"bīng",pp:"bing1",d:"old variant of 冰[bing1]",t:"仌",w:"仌"}],c=4,n="人",t=["人"],o=["肉","俎"],d=[],i=[],a={s,sc:c,r:n,c:t,d:o,w:d,i};export{t as c,o as d,a as default,i,n as r,s,c as sc,d as w};

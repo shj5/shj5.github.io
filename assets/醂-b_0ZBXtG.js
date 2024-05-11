@@ -1,1 +1,0 @@
-const n=[{p:"lín",pp:"lin2",d:"used in 味醂[wei4 lin2]",t:"醂",w:"醂"}],s=["酉","林"],c=[],t=[{w:"味醂",p:"wèi lín",d:"mirin, a Japanese cooking wine",t:"味醂"}],i=[],o="酉",e=15,w={s:n,c:s,d:c,w:t,i,r:o,sc:e};export{s as c,c as d,w as default,i,o as r,n as s,e as sc,t as w};

@@ -1,1 +1,0 @@
-const t=[{p:"guàn",pp:"guan4",d:"to fling/to fall/to wear",t:"摜",w:"掼"}],c=["扌","贯"],n=[],s=[{w:"掼奶油",p:"guàn nǎi yóu",d:"whipped cream",t:"摜奶油"}],o=[],p="手",a=11,d={s:t,c,d:n,w:s,i:o,r:p,sc:a};export{c,n as d,d as default,o as i,p as r,t as s,a as sc,s as w};

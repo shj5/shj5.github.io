@@ -1,1 +1,0 @@
-const s=[{p:"tán",pp:"tan2",d:"raised path between fields",t:"榃",w:"榃"}],t=["木","田"],c=[],n=[],o=[],e="木",d=13,a={s,c:t,d:c,w:n,i:o,r:e,sc:d};export{t as c,c as d,a as default,o as i,e as r,s,d as sc,n as w};

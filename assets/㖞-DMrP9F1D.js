@@ -1,0 +1,1 @@
+const s=[{p:"wāi",pp:"wai1",d:"awry (mouth)/askew/Taiwan pr. [kuai1]",t:"喎",w:"㖞"}],c=0,t="",o=[],n=[],a=[],w=[],i={s,sc:c,r:t,c:o,d:n,w:a,i:w};export{o as c,n as d,i as default,w as i,t as r,s,c as sc,a as w};

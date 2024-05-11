@@ -1,1 +1,0 @@
-const s=[{p:"biàn",pp:"bian4",d:"Japanese variant of 變|变[bian4]",t:"変",w:"変"}],n=["夂","亦"],c=[],t=[],o=[],a="夂",i=9,p={s,c:n,d:c,w:t,i:o,r:a,sc:i};export{n as c,c as d,p as default,o as i,a as r,s,i as sc,t as w};

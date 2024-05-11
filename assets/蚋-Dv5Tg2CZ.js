@@ -1,0 +1,1 @@
+const s=[{p:"ruì",pp:"rui4",d:"(mosquito)/Simulia lugubris/blackfly",t:"蚋",w:"蚋"}],c=10,t="虫",o=["虫"],n=[],i=[],u=[],r={s,sc:c,r:t,c:o,d:n,w:i,i:u};export{o as c,n as d,r as default,u as i,t as r,s,c as sc,i as w};

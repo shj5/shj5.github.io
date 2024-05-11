@@ -1,0 +1,1 @@
+const s=[{p:"sāo",pp:"sao1",d:"to reel silk from cocoons",t:"繅",w:"缫"}],o=14,c="糸",t=["纟","巢"],n=[],r=[],d=[],e={s,sc:o,r:c,c:t,d:n,w:r,i:d};export{t as c,n as d,e as default,d as i,c as r,s,o as sc,r as w};

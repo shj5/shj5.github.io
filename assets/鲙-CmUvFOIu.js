@@ -1,0 +1,1 @@
+const s=[{p:"kuài",pp:"kuai4",d:"used in 鱠魚|鲙鱼[kuai4 yu2]/minced or diced fish (variant of 膾|脍[kuai4])",t:"鱠",w:"鲙"}],i=14,c="魚",n=["会","鱼"],t=[],o=[{w:"鲙鱼",p:"kuài yú",d:"Chinese herring (Ilisha elongata)",t:"鱠魚"}],a=[],d={s,sc:i,r:c,c:n,d:t,w:o,i:a};export{n as c,t as d,d as default,a as i,c as r,s,i as sc,o as w};

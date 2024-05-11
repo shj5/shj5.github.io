@@ -1,1 +1,0 @@
-const n=[{p:"béng",pp:"beng2",d:"old variant of 甭[beng2]/need not",t:"甮",w:"甮"},{p:"fèng",pp:"feng4",d:"contraction of 勿用/(dialect) need not/please don't",t:"甮",w:"甮"}],t=["勿","用"],o=[],c=[],s=[],e="用",d=9,p={s:n,c:t,d:o,w:c,i:s,r:e,sc:d};export{t as c,o as d,p as default,s as i,e as r,n as s,d as sc,c as w};

@@ -1,1 +1,0 @@
-const n=[{p:"zhēng",pp:"zheng1",d:"hideous/fierce-looking",t:"猙",w:"狰"}],s=["犭","争"],c=[],t=[{w:"狰狞",p:"zhēng níng",d:"malevolent/fierce/sinister",t:"猙獰"}],o=[],e="犬",i=9,d={s:n,c:s,d:c,w:t,i:o,r:e,sc:i};export{s as c,c as d,d as default,o as i,e as r,n as s,i as sc,t as w};

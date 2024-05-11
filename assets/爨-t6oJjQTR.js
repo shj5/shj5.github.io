@@ -1,1 +1,0 @@
-const c=[{p:"Cuàn",pp:"Cuan4",d:"surname Cuan",t:"爨",w:"爨"},{p:"cuàn",pp:"cuan4",d:"cooking-stove/to cook",t:"爨",w:"爨"}],o=[],n=[],t=[{w:"炊爨",p:"chuī cuàn",d:"to light a fire and cook a meal",t:"炊爨"}],s=[],a="火",u=29,p={s:c,c:o,d:n,w:t,i:s,r:a,sc:u};export{o as c,n as d,p as default,s as i,a as r,c as s,u as sc,t as w};

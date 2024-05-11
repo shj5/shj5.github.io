@@ -1,1 +1,0 @@
-const t=[{p:"tǔn",pp:"tun3",d:"to float/to deep-fry",t:"氽",w:"氽"}],o=["人","水"],n=["黍"],c=[{w:"氽汤",p:"tǔn tāng",d:"to prepare a soup",t:"氽湯"},{w:"氽烫",p:"tǔn tàng",d:"to blanch (cooking)",t:"氽燙"}],s=[],p="水",d=6,a={s:t,c:o,d:n,w:c,i:s,r:p,sc:d};export{o as c,n as d,a as default,s as i,p as r,t as s,d as sc,c as w};

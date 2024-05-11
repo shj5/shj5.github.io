@@ -1,1 +1,0 @@
-const s=[{p:"jiǒng",pp:"jiong3",d:"variant of 絅|䌹[jiong3]",t:"綗",w:"綗"}],c=["糸","冏"],n=[],o=[],t=[],i="糸",a=13,d={s,c,d:n,w:o,i:t,r:i,sc:a};export{c,n as d,d as default,t as i,i as r,s,a as sc,o as w};

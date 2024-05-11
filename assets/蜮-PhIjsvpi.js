@@ -1,1 +1,0 @@
-const t=[{p:"yù",pp:"yu4",d:"mythical creature/toad/worm",t:"蜮",w:"蜮"}],s=["虫","或"],c=[],o=[{w:"鬼蜮",p:"guǐ yù",d:"treacherous person/evil spirit",t:"鬼蜮"}],r=[],n="虫",e=14,p={s:t,c:s,d:c,w:o,i:r,r:n,sc:e};export{s as c,c as d,p as default,r as i,n as r,t as s,e as sc,o as w};

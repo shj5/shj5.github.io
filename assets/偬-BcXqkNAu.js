@@ -1,1 +1,0 @@
-const s=[{p:"zǒng",pp:"zong3",d:"busy/hurried/despondent",t:"傯",w:"偬"}],t=["亻"],n=[],c=[{w:"倥偬",p:"kǒng zǒng",d:"pressing/urgent/poverty-stricken/destitute",t:"倥傯"},{w:"戎事倥偬",p:"róng shì kǒng zǒng",d:"a time of military urgency/war crisis",t:"戎事倥傯"}],r=[],e="人",o=11,i={s,c:t,d:n,w:c,i:r,r:e,sc:o};export{t as c,n as d,i as default,r as i,e as r,s,o as sc,c as w};

@@ -1,0 +1,1 @@
+const s=[{p:"dàng",pp:"dang4",d:"(dialect) earthen dyke in a river or rice paddy (for irrigation purposes)",t:"壋",w:"垱"}],c=9,t="土",n=["土","当"],o=[],r=[],d=[],e={s,sc:c,r:t,c:n,d:o,w:r,i:d};export{n as c,o as d,e as default,d as i,t as r,s,c as sc,r as w};

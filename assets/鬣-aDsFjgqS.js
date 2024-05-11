@@ -1,1 +1,0 @@
-const s=[{p:"liè",pp:"lie4",d:"bristles/mane",t:"鬣",w:"鬣"}],t=["髟","巤"],c=[],n=[{w:"鬣毛",p:"liè máo",d:"mane",t:"鬣毛"},{w:"鬣狗",p:"liè gǒu",d:"hyena",t:"鬣狗"},{w:"鬣蜥",p:"liè xī",d:"iguana",t:"鬣蜥"}],o=[],i="髟",a=25,d={s,c:t,d:c,w:n,i:o,r:i,sc:a};export{t as c,c as d,d as default,o as i,i as r,s,a as sc,n as w};

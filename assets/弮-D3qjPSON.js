@@ -1,1 +1,0 @@
-const c=[{p:"juàn",pp:"juan4",d:"variant of 卷[juan4], curled up scroll",t:"弮",w:"弮"},{p:"quān",pp:"quan1",d:"crossbow (arch.)",t:"弮",w:"弮"}],s=["弓","关"],n=[],o=[],t=[],a="弓",p=9,r={s:c,c:s,d:n,w:o,i:t,r:a,sc:p};export{s as c,n as d,r as default,t as i,a as r,c as s,p as sc,o as w};

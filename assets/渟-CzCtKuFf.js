@@ -1,1 +1,0 @@
-const t=[{p:"tíng",pp:"ting2",d:"stagnant water",t:"渟",w:"渟"}],n=["氵","亭"],s=[],e=[],o=[{w:"渊渟岳峙",p:"yuān tíng - yuè zhì",d:"(idiom) to have a serene yet formidable demeanor; to have a commanding presence",t:"淵渟岳峙"}],c="水",a=12,d={s:t,c:n,d:s,w:e,i:o,r:c,sc:a};export{n as c,s as d,d as default,o as i,c as r,t as s,a as sc,e as w};

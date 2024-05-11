@@ -1,1 +1,0 @@
-const t=[{p:"zhé",pp:"zhe2",d:"to revere/to respect/variant of 哲[zhe2]",t:"悊",w:"悊"}],s=["心","折"],c=[],o=[],e=[],n="心",r=11,p={s:t,c:s,d:c,w:o,i:e,r:n,sc:r};export{s as c,c as d,p as default,e as i,n as r,t as s,r as sc,o as w};

@@ -1,1 +1,0 @@
-const s=[{p:"mín",pp:"min2",d:"(used in female given names) (old)",t:"姄",w:"姄"}],n=["女","民"],c=[],t=[],o=[],e="女",d=8,i={s,c:n,d:c,w:t,i:o,r:e,sc:d};export{n as c,c as d,i as default,o as i,e as r,s,d as sc,t as w};

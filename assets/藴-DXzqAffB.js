@@ -1,0 +1,1 @@
+const t=[{p:"yùn",pp:"yun4",d:"variant of 蘊|蕴, to accumulate/to hold in store/to contain/to gather together/to collect/depth/inner strength/profundity",t:"藴",w:"藴"}],o=18,n="艸",c=["艹"],s=[],e=[],r=[],a={s:t,sc:o,r:n,c,d:s,w:e,i:r};export{c,s as d,a as default,r as i,n as r,t as s,o as sc,e as w};

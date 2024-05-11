@@ -1,1 +1,0 @@
-const s=[{p:"xū",pp:"xu1",d:"(literary) ability and wisdom/scheme/stratagem",t:"諝",w:"谞"}],t=["讠","胥"],c=[],o=[],n=[],a="言",d=11,e={s,c:t,d:c,w:o,i:n,r:a,sc:d};export{t as c,c as d,e as default,n as i,a as r,s,d as sc,o as w};

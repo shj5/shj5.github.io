@@ -1,0 +1,1 @@
+const s=[{p:"quán",pp:"quan2",d:"Aulacophora femoralis",t:"蠸",w:"蠸"}],c=24,o="虫",t=["虫","雚"],n=[],a=[],p=[],r={s,sc:c,r:o,c:t,d:n,w:a,i:p};export{t as c,n as d,r as default,p as i,o as r,s,c as sc,a as w};

@@ -1,0 +1,1 @@
+const o=[{p:"mǎo",pp:"mao3",d:"round yellow dirt mount (in the Northwest of China)",t:"峁",w:"峁"}],t=8,s="山",c=["山","卯"],n=[],d=[],r=[],e={s:o,sc:t,r:s,c,d:n,w:d,i:r};export{c,n as d,e as default,r as i,s as r,o as s,t as sc,d as w};

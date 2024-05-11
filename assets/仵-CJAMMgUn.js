@@ -1,1 +1,0 @@
-const t=[{p:"Wǔ",pp:"Wu3",d:"surname Wu",t:"仵",w:"仵"},{p:"wǔ",pp:"wu3",d:"equal/well-matched/to violate",t:"仵",w:"仵"}],c=["亻","午"],o=[],s=[{w:"仵作",p:"wǔ zuò",d:"coroner (old)",t:"仵作"},{w:"仵工",p:"wǔ gōng",d:"pallbearer",t:"仵工"}],n=[],w="人",e=6,p={s:t,c,d:o,w:s,i:n,r:w,sc:e};export{c,o as d,p as default,n as i,w as r,t as s,e as sc,s as w};

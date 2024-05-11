@@ -1,0 +1,1 @@
+const t=[{p:"tà",pp:"ta4",d:"(literary) to drink; to swallow",t:"嚃",w:"嚃"}],s=17,c="口",o=["口","遝"],n=[],r=[],a=[],d={s:t,sc:s,r:c,c:o,d:n,w:r,i:a};export{o as c,n as d,d as default,a as i,c as r,t as s,s as sc,r as w};

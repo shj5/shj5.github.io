@@ -1,1 +1,0 @@
-const s=[{p:"qú",pp:"qu2",d:"(Cantonese) he, she, it",t:"佢",w:"佢"}],t=["亻","巨"],c=[],n=[],o=[],e="人",d=7,p={s,c:t,d:c,w:n,i:o,r:e,sc:d};export{t as c,c as d,p as default,o as i,e as r,s,d as sc,n as w};

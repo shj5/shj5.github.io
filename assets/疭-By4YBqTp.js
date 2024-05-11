@@ -1,1 +1,0 @@
-const c=[{p:"zòng",pp:"zong4",d:"used in 瘛瘲|瘛疭[chi4 zong4]",t:"瘲",w:"疭"}],n=["从","疒"],s=[],o=[{w:"瘛疭",p:"chì zòng",d:"(TCM) clonic convulsion",t:"瘛瘲"}],t=[],d="疒",i=9,p={s:c,c:n,d:s,w:o,i:t,r:d,sc:i};export{n as c,s as d,p as default,t as i,d as r,c as s,i as sc,o as w};

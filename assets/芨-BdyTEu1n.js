@@ -1,0 +1,1 @@
+const c=[{p:"jí",pp:"ji2",d:"Bletilla hyacinthina (mucilaginous)/Acronym for the Chinese Elder tree 菫草",t:"芨",w:"芨"}],s=7,t="艸",n=["艹","及"],o=[],e=[],i=[],r={s:c,sc:s,r:t,c:n,d:o,w:e,i};export{n as c,o as d,r as default,i,t as r,c as s,s as sc,e as w};

@@ -1,1 +1,0 @@
-const c=[{p:"jué",pp:"jue2",d:"buckle/clasp/ring",t:"觼",w:"觼"}],s=["角"],t=[],n=[],o=[],p="角",d=22,e={s:c,c:s,d:t,w:n,i:o,r:p,sc:d};export{s as c,t as d,e as default,o as i,p as r,c as s,d as sc,n as w};

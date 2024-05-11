@@ -1,0 +1,1 @@
+const s=[{p:"lòu",pp:"lou4",d:"fistula/ulceration",t:"瘻",w:"瘘"}],t=14,c="疒",o=["疒","娄"],n=[],u=[{w:"瘘管",p:"lòu guǎn",d:"fistula",t:"瘻管"}],l=[],a={s,sc:t,r:c,c:o,d:n,w:u,i:l};export{o as c,n as d,a as default,l as i,c as r,s,t as sc,u as w};

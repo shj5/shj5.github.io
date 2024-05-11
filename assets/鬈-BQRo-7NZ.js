@@ -1,1 +1,0 @@
-const c=[{p:"quán",pp:"quan2",d:"to curl/curled",t:"鬈",w:"鬈"}],s=["卷","髟"],t=[],n=[],o=[],d="髟",r=18,u={s:c,c:s,d:t,w:n,i:o,r:d,sc:r};export{s as c,t as d,u as default,o as i,d as r,c as s,r as sc,n as w};

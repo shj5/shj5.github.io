@@ -1,1 +1,0 @@
-const o=[{p:"jī",pp:"ji1",d:"odd/one horn up and one horn down",t:"觭",w:"觭"}],n=["角","奇"],s=[],c=[],t=[],d="角",p=15,r={s:o,c:n,d:s,w:c,i:t,r:d,sc:p};export{n as c,s as d,r as default,t as i,d as r,o as s,p as sc,c as w};

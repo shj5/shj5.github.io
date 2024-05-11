@@ -1,1 +1,0 @@
-const n=[{p:"kuāng",pp:"kuang1",d:"ancient name of a river 洭河[Kuang1 He2] in present-day Guangdong/(used in ancient place names)",t:"洭",w:"洭"}],a=["氵","匡"],e=[],s=[{w:"洭河",p:"Kuāng Hé",d:"Kuang River, ancient name of a river in present-day Guangdong",t:"洭河"}],t=[],c="水",o=9,i={s:n,c:a,d:e,w:s,i:t,r:c,sc:o};export{a as c,e as d,i as default,t as i,c as r,n as s,o as sc,s as w};

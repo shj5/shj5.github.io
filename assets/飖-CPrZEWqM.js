@@ -1,1 +1,0 @@
-const o=[{p:"yáo",pp:"yao2",d:"floating in the air",t:"颻",w:"飖"}],t=["风"],s=[],c=[{w:"飘飖",p:"piāo yáo",d:"variant of 飄搖|飘摇[piao1 yao2]",t:"飄颻"}],n=[],a="風",i=13,p={s:o,c:t,d:s,w:c,i:n,r:a,sc:i};export{t as c,s as d,p as default,n as i,a as r,o as s,i as sc,c as w};

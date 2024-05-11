@@ -1,0 +1,1 @@
+const c=[{p:"cǔ",pp:"cu3",d:"chapped skin",t:"皻",w:"皻"},{p:"zhā",pp:"zha1",d:"old variant of 齇[zha1]/rosacea",t:"皻",w:"皻"}],s=16,t="皮",o=["皮"],n=[],a=[],p=[],d={s:c,sc:s,r:t,c:o,d:n,w:a,i:p};export{o as c,n as d,d as default,p as i,t as r,c as s,s as sc,a as w};

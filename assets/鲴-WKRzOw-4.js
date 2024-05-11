@@ -1,0 +1,1 @@
+const s=[{p:"gù",pp:"gu4",d:"Xenocypris, genus of cyprinid fish found in eastern Asia",t:"鯝",w:"鲴"}],n=16,c="魚",o=["鱼","固"],i=[],t=[{w:"似鲴",p:"sì gù",d:"Xenocyprioides, genus of cyprinid fish endemic to China",t:"似鯝"}],e=[],d={s,sc:n,r:c,c:o,d:i,w:t,i:e};export{o as c,i as d,d as default,e as i,c as r,s,n as sc,t as w};

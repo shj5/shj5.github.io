@@ -1,0 +1,1 @@
+const t=[{p:"zī",pp:"zi1",d:"ancient weight/one-eighth of a tael",t:"錙",w:"锱"}],o=13,c="金",s=["甾"],e=[],n=[],i=[{w:"锱铢必较",p:"zī zhū bì jiào",d:"to haggle over every cent (idiom)",t:"錙銖必較"}],a={s:t,sc:o,r:c,c:s,d:e,w:n,i};export{s as c,e as d,a as default,i,c as r,t as s,o as sc,n as w};

@@ -1,0 +1,1 @@
+const s=[{p:"niè",pp:"nie4",d:"(old) to talk a lot/to talk nonsense/also pr. [zhe2]",t:"讘",w:"讘"}],t=25,o="言",n=[],c=[],a=[],e=[],l={s,sc:t,r:o,c:n,d:c,w:a,i:e};export{n as c,c as d,l as default,e as i,o as r,s,t as sc,a as w};

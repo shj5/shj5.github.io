@@ -1,1 +1,0 @@
-const s=[{p:"rú",pp:"ru2",d:"see 顳顬|颞颥, temple (the sides of human head)",t:"顬",w:"颥"}],t=["页","需"],e=[],c=[{w:"颞颥",p:"niè rú",d:"temple (the sides of human head)",t:"顳顬"}],n=[],o="頁",d=20,p={s,c:t,d:e,w:c,i:n,r:o,sc:d};export{t as c,e as d,p as default,n as i,o as r,s,d as sc,c as w};

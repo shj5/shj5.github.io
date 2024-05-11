@@ -1,1 +1,0 @@
-const c=[{p:"qián",pp:"qian2",d:"character used in place names",t:"岒",w:"岒"}],s=["山","今"],n=[],t=[],o=[],a="山",e=7,d={s:c,c:s,d:n,w:t,i:o,r:a,sc:e};export{s as c,n as d,d as default,o as i,a as r,c as s,e as sc,t as w};

@@ -1,1 +1,0 @@
-const c=[{p:"zhù",pp:"zhu4",d:"wick of an oil lamp/to burn (incense etc)/classifier for lit incense sticks",t:"炷",w:"炷"}],s=["火","主"],o=[],t=[{w:"艾炷",p:"ài zhù",d:"moxa cone",t:"艾炷"},{w:"艾炷灸",p:"ài zhù jiǔ",d:"cone moxibustion (TCM)",t:"艾炷灸"}],n=[],i="火",e=9,p={s:c,c:s,d:o,w:t,i:n,r:i,sc:e};export{s as c,o as d,p as default,n as i,i as r,c as s,e as sc,t as w};

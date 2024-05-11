@@ -1,0 +1,1 @@
+const t=[{p:"tǒng",pp:"tong3",d:"old variant of 統|统[tong3]",t:"綂",w:"綂"}],o=13,s="糸",c=["糸"],n=[],d=[],a=[],p={s:t,sc:o,r:s,c,d:n,w:d,i:a};export{c,n as d,p as default,a as i,s as r,t as s,o as sc,d as w};

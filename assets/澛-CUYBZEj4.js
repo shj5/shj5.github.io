@@ -1,1 +1,0 @@
-const s=[{p:"lǔ",pp:"lu3",d:"(used in place names)/old variant of 滷|卤[lu3]",t:"瀂",w:"澛"}],c=["氵"],t=[],n=[],o=[],a="水",d=15,l={s,c,d:t,w:n,i:o,r:a,sc:d};export{c,t as d,l as default,o as i,a as r,s,d as sc,n as w};

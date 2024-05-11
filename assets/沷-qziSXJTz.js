@@ -1,0 +1,1 @@
+const s=[{p:"fā",pp:"fa1",d:"to remove evil/to cleanse/to wash away",t:"沷",w:"沷"}],t=8,c="水",o=["氵","犮"],n=[],a=[],e=[],w={s,sc:t,r:c,c:o,d:n,w:a,i:e};export{o as c,n as d,w as default,e as i,c as r,s,t as sc,a as w};

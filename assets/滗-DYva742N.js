@@ -1,0 +1,1 @@
+const t=[{p:"bì",pp:"bi4",d:"to pour off (the liquid); to decant; to strain off",t:"潷",w:"滗"}],o=13,s="水",c=["氵","笔"],n=[],d=[],i=[],f={s:t,sc:o,r:s,c,d:n,w:d,i};export{c,n as d,f as default,i,s as r,t as s,o as sc,d as w};

@@ -1,0 +1,1 @@
+const s=[{p:"guài",pp:"guai4",d:"(literary) serious illness/(Cantonese) variant of 攰[gui4]",t:"癐",w:"𤶊"}],t=0,c="",n=[],o=[],i=[],a=[],e={s,sc:t,r:c,c:n,d:o,w:i,i:a};export{n as c,o as d,e as default,a as i,c as r,s,t as sc,i as w};

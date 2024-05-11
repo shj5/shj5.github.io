@@ -1,0 +1,1 @@
+const c=[{p:"guǐ",pp:"gui3",d:"(literary) perverse; unreasonable/(literary) eccentric; enigmatic/(literary) by chance; all of a sudden",t:"佹",w:"佹"}],s=8,t="人",e=["亻","危"],n=[],r=[],a=[],o={s:c,sc:s,r:t,c:e,d:n,w:r,i:a};export{e as c,n as d,o as default,a as i,t as r,c as s,s as sc,r as w};

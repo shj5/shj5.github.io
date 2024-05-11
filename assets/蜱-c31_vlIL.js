@@ -1,1 +1,0 @@
-const o=[{p:"pí",pp:"pi2",d:"tick (zoology)",t:"蜱",w:"蜱"}],s=["虫","卑"],n=[],t=[{w:"蜱咬病",p:"pí yǎo bìng",d:"tick-bite sickness/informal term for 發熱伴血小板減少綜合徵|发热伴血小板减少综合征[fa1 re4 ban4 xue4 xiao3 ban3 jian3 shao3 zong1 he2 zheng1]",t:"蜱咬病"}],c=[],i="虫",a=14,e={s:o,c:s,d:n,w:t,i:c,r:i,sc:a};export{s as c,n as d,e as default,c as i,i as r,o as s,a as sc,t as w};

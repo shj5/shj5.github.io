@@ -1,1 +1,0 @@
-const s=[{p:"shān",pp:"shan1",d:"samarium (chemistry)",t:"釤",w:"钐"},{p:"shàn",pp:"shan4",d:"to cut with a sickle/large sickle",t:"釤",w:"钐"}],t=["彡"],c=[],n=[{w:"钐刀",p:"shàn dāo",d:"scythe",t:"釤刀"},{w:"钐镰",p:"shàn lián",d:"scythe",t:"釤鐮"}],o=[],h="金",p=8,a={s,c:t,d:c,w:n,i:o,r:h,sc:p};export{t as c,c as d,a as default,o as i,h as r,s,p as sc,n as w};

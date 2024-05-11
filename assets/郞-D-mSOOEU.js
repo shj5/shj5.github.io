@@ -1,0 +1,1 @@
+const n=[{p:"Láng",pp:"Lang2",d:"surname Lang (variant of 郎[Lang2])",t:"郞",w:"郞"},{p:"láng",pp:"lang2",d:"variant of 郎[lang2]",t:"郞",w:"郞"}],s=10,t="邑",a=[],c=[],o=[],g=[],p={s:n,sc:s,r:t,c:a,d:c,w:o,i:g};export{a as c,c as d,p as default,g as i,t as r,n as s,s as sc,o as w};

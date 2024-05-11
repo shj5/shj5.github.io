@@ -1,1 +1,0 @@
-const s=[{p:"piān",pp:"pian1",d:"expression of contempt equivalent to 呸[pei1]",t:"囨",w:"囨"}],t=["囗","不"],c=[],n=[],o=[],p="囗",e=7,i={s,c:t,d:c,w:n,i:o,r:p,sc:e};export{t as c,c as d,i as default,o as i,p as r,s,e as sc,n as w};

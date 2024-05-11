@@ -1,0 +1,1 @@
+const t=[{p:"bì",pp:"bi4",d:"careful/to prevent",t:"毖",w:"毖"}],e=9,o="比",s=["比","必"],n=[],c=[],i=[{w:"惩前毖后",p:"chéng qián bì hòu",d:"lit. to punish those before to prevent those after (idiom); to criticize former mistakes firmly to prevent them happening again",t:"懲前毖後"}],r={s:t,sc:e,r:o,c:s,d:n,w:c,i};export{s as c,n as d,r as default,i,o as r,t as s,e as sc,c as w};

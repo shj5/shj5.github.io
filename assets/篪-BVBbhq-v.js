@@ -1,1 +1,0 @@
-const c=[{p:"chí",pp:"chi2",d:"bamboo flute with 7 or 8 holes",t:"篪",w:"篪"}],o=["竹","虒"],t=[],s=[{w:"杨洁篪",p:"Yáng Jié chí",d:"Yang Jiechi (1950-), Chinese politician and diplomat, foreign minister of PRC 2007-2013",t:"楊潔篪"}],i=[],n="竹",e=16,a={s:c,c:o,d:t,w:s,i,r:n,sc:e};export{o as c,t as d,a as default,i,n as r,c as s,e as sc,s as w};

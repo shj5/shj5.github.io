@@ -1,0 +1,1 @@
+const t=[{p:"wū",pp:"wu1",d:"variant of 污/dirty/filthy/foul/corrupt/to smear/to defile/dirt/filth",t:"汙",w:"汙"}],o=6,c="水",s=["氵","于"],n=[],r=[{w:"贪汙腐化",p:"tān wū fǔ huà",d:"corruption",t:"貪汙腐化"}],i=[],d={s:t,sc:o,r:c,c:s,d:n,w:r,i};export{s as c,n as d,d as default,i,c as r,t as s,o as sc,r as w};

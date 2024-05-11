@@ -1,1 +1,0 @@
-const t=[{p:"fǔ",pp:"fu3",d:"pat",t:"拊",w:"拊"}],s=["扌","付"],c=[],o=[{w:"拊掌",p:"fǔ zhǎng",d:"to clap hands",t:"拊掌"},{w:"拊髀",p:"fǔ bì",d:"to slap one's own buttocks in excitement or despair",t:"拊髀"}],n=[],p="手",d=8,a={s:t,c:s,d:c,w:o,i:n,r:p,sc:d};export{s as c,c as d,a as default,n as i,p as r,t as s,d as sc,o as w};

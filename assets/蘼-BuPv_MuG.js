@@ -1,0 +1,1 @@
+const c=[{p:"mí",pp:"mi2",d:"millet",t:"蘼",w:"蘼"}],s=22,t="艸",o=["艹","靡"],n=[],r=[{w:"蘼芜",p:"mí wú",d:"Gracilaria confervoides (a fragrant herb)",t:"蘼蕪"}],a=[],i={s:c,sc:s,r:t,c:o,d:n,w:r,i:a};export{o as c,n as d,i as default,a as i,t as r,c as s,s as sc,r as w};

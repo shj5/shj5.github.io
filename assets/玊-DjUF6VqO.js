@@ -1,1 +1,0 @@
-const s=[{p:"sù",pp:"su4",d:"jade with a blemish/person who cuts and polishes jade",t:"玊",w:"玊"}],c=["丶","王"],t=[],o=[],n=[],d="玉",e=5,a={s,c,d:t,w:o,i:n,r:d,sc:e};export{c,t as d,a as default,n as i,d as r,s,e as sc,o as w};

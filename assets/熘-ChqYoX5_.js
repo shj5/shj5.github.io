@@ -1,1 +1,0 @@
-const t=[{p:"liū",pp:"liu1",d:"quick-fry/sim. to stir-frying, but with cornstarch added/also written 溜",t:"熘",w:"熘"}],s=["火","留"],c=[],o=[],n=[],i="火",r=14,d={s:t,c:s,d:c,w:o,i:n,r:i,sc:r};export{s as c,c as d,d as default,n as i,i as r,t as s,r as sc,o as w};

@@ -1,1 +1,0 @@
-const o=[{p:"wā",pp:"wa1",d:"to form hollow/pit",t:"溛",w:"溛"}],s=["氵"],t=[],c=[],n=[],w="水",p=13,d={s:o,c:s,d:t,w:c,i:n,r:w,sc:p};export{s as c,t as d,d as default,n as i,w as r,o as s,p as sc,c as w};

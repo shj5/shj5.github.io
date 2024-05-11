@@ -1,1 +1,0 @@
-const c=[{p:"chuāng",pp:"chuang1",d:"variant of 窗[chuang1]",t:"囪",w:"囱"},{p:"cōng",pp:"cong1",d:"chimney",t:"囪",w:"囱"}],n=["夕"],s=["窗"],t=[{w:"深海烟囱",p:"shēn hǎi yān cōng",d:"deep-sea vent/black smoker",t:"深海煙囪"},{w:"烟囱",p:"yān cōng",d:"chimney",t:"煙囪"}],o=[],p="囗",e=7,a={s:c,c:n,d:s,w:t,i:o,r:p,sc:e};export{n as c,s as d,a as default,o as i,p as r,c as s,e as sc,t as w};

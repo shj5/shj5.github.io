@@ -1,1 +1,0 @@
-const c=[{p:"èr",pp:"er4",d:"acid variety of jujube plum",t:"樲",w:"樲"}],s=["木"],t=[],o=[],n=[],r="木",d=16,e={s:c,c:s,d:t,w:o,i:n,r,sc:d};export{s as c,t as d,e as default,n as i,r,c as s,d as sc,o as w};

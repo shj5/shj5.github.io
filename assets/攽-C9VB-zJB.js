@@ -1,0 +1,1 @@
+const s=[{p:"bān",pp:"ban1",d:"variant of 頒|颁[ban1]",t:"攽",w:"攽"}],c=8,n="攵",t=["分","攵"],o=[],a=[],d=[],p={s,sc:c,r:n,c:t,d:o,w:a,i:d};export{t as c,o as d,p as default,d as i,n as r,s,c as sc,a as w};

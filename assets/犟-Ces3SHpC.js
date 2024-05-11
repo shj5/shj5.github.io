@@ -1,0 +1,1 @@
+const n=[{p:"jiàng",pp:"jiang4",d:"variant of 強|强[jiang4]",t:"犟",w:"犟"}],t=16,c="牛",s=["牛","强"],i=[],a=[{w:"犟劲",p:"jiàng jìn",d:"obstinacy/tenacity",t:"犟勁"},{w:"犟劲儿",p:"jiàng jìn r",d:"erhua variant of 犟勁|犟劲[jiang4 jin4]",t:"犟勁兒"}],o=[],j={s:n,sc:t,r:c,c:s,d:i,w:a,i:o};export{s as c,i as d,j as default,o as i,c as r,n as s,t as sc,a as w};

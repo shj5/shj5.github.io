@@ -1,1 +1,0 @@
-const s=[{p:"juǎn",pp:"juan3",d:"Japanese variant of 卷[juan3]",t:"巻",w:"巻"}],n=["己","关"],c=["圏"],t=[],o=[],a="己",p=9,d={s,c:n,d:c,w:t,i:o,r:a,sc:p};export{n as c,c as d,d as default,o as i,a as r,s,p as sc,t as w};

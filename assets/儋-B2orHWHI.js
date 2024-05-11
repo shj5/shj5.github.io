@@ -1,1 +1,0 @@
-const n=[{p:"dān",pp:"dan1",d:"carry",t:"儋",w:"儋"}],t=["亻","詹"],c=[],s=[{w:"儋州",p:"Dān zhōu",d:"Danzhou City, Hainan",t:"儋州"},{w:"儋州市",p:"Dān zhōu shì",d:"Danzhou city, Hainan",t:"儋州市"},{w:"儋县",p:"Dān xiàn",d:"Dan county, Hainan",t:"儋縣"}],a=[],o="人",d=15,i={s:n,c:t,d:c,w:s,i:a,r:o,sc:d};export{t as c,c as d,i as default,a as i,o as r,n as s,d as sc,s as w};

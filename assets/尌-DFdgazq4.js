@@ -1,1 +1,0 @@
-const s=[{p:"shù",pp:"shu4",d:"standing up/to stand (something) up",t:"尌",w:"尌"}],t=["寸","壴"],c=[],n=[],o=[],d="寸",p=12,a={s,c:t,d:c,w:n,i:o,r:d,sc:p};export{t as c,c as d,a as default,o as i,d as r,s,p as sc,n as w};

@@ -1,1 +1,0 @@
-const o=[{p:"Xiáo",pp:"Xiao2",d:"name of a mountain in Henan/also pr. [Yao2]",t:"崤",w:"崤"}],n=["山","肴"],s=[],c=[],t=[],a="山",i=11,p={s:o,c:n,d:s,w:c,i:t,r:a,sc:i};export{n as c,s as d,p as default,t as i,a as r,o as s,i as sc,c as w};

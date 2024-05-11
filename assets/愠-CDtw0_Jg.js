@@ -1,0 +1,1 @@
+const n=[{p:"yùn",pp:"yun4",d:"indignant/feel hurt",t:"慍",w:"愠"}],t=12,s="心",c=["忄"],d=[],o=[{w:"不愠不火",p:"bù yùn bù huǒ",d:"calm/unruffled",t:"不慍不火"},{w:"愠怒",p:"yùn nù",d:"inwardly angry/indignant/sulking/sullen",t:"慍怒"}],i=[],l={s:n,sc:t,r:s,c,d,w:o,i};export{c,d,l as default,i,s as r,n as s,t as sc,o as w};

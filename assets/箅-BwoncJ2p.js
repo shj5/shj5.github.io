@@ -1,1 +1,0 @@
-const o=[{p:"bì",pp:"bi4",d:"(bound form) bamboo grid for steaming food",t:"箅",w:"箅"}],t=["竹","畀"],s=[],c=[{w:"箅子",p:"bì zi",d:"bamboo grid for steaming food/grate; grating; grid",t:"箅子"}],n=[],d="竹",r=14,i={s:o,c:t,d:s,w:c,i:n,r:d,sc:r};export{t as c,s as d,i as default,n as i,d as r,o as s,r as sc,c as w};

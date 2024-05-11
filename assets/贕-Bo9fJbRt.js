@@ -1,0 +1,1 @@
+const c=[{p:"dú",pp:"du2",d:"still-born chick (in unhatched egg)/variant of 殰|㱩[du2]",t:"贕",w:"贕"}],s=22,t="貝",n=["卵"],o=[],d=[],i=[],a={s:c,sc:s,r:t,c:n,d:o,w:d,i};export{n as c,o as d,a as default,i,t as r,c as s,s as sc,d as w};

@@ -1,1 +1,0 @@
-const c=[{p:"náo",pp:"nao2",d:"macaque (zoology)/brisk and nimble/to scratch",t:"猱",w:"猱"}],o=["犭","柔"],s=[],t=[],n=[],a="犬",d=12,r={s:c,c:o,d:s,w:t,i:n,r:a,sc:d};export{o as c,s as d,r as default,n as i,a as r,c as s,d as sc,t as w};

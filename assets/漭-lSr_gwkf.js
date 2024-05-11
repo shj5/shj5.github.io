@@ -1,1 +1,0 @@
-const s=[{p:"mǎng",pp:"mang3",d:"vast/expansive (of water)",t:"漭",w:"漭"}],n=["氵","莽"],t=[],c=[{w:"溟漭",p:"míng mǎng",d:"vast and boundless",t:"溟漭"}],o=[],a="水",d=14,e={s,c:n,d:t,w:c,i:o,r:a,sc:d};export{n as c,t as d,e as default,o as i,a as r,s,d as sc,c as w};

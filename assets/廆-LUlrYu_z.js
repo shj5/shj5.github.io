@@ -1,0 +1,1 @@
+const s=[{p:"huì",pp:"hui4",d:"a room/the wall of a house/a man's name",t:"廆",w:"廆"}],o=13,c="广",t=["广","鬼"],n=[],a=[],e=[],d={s,sc:o,r:c,c:t,d:n,w:a,i:e};export{t as c,n as d,d as default,e as i,c as r,s,o as sc,a as w};

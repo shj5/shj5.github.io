@@ -1,1 +1,0 @@
-const s=[{p:"guǎn",pp:"guan3",d:"Ochetobius elongatus, species of cyprinid fish found in eastern Asia",t:"䲘",w:"鳤"}],c=["鱼","管"],n=[],t=[],o=[],i="魚",e=22,a={s,c,d:n,w:t,i:o,r:i,sc:e};export{c,n as d,a as default,o as i,i as r,s,e as sc,t as w};

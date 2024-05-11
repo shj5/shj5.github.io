@@ -1,0 +1,1 @@
+const t=[{p:"shěn",pp:"shen3",d:"to investigate/to try (in court)",t:"讅",w:"谉"}],s=10,c="言",n=["讠","审"],o=[],e=[],i=[],r={s:t,sc:s,r:c,c:n,d:o,w:e,i};export{n as c,o as d,r as default,i,c as r,t as s,s as sc,e as w};

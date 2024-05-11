@@ -1,1 +1,0 @@
-const s=[{p:"huā",pp:"hua1",d:"holmium (chemistry) (old)",t:"錵",w:"錵"}],c=["花","金"],t=[],o=[],n=[],d="金",h=16,i={s,c,d:t,w:o,i:n,r:d,sc:h};export{c,t as d,i as default,n as i,d as r,s,h as sc,o as w};

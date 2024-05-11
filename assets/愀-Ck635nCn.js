@@ -1,1 +1,0 @@
-const c=[{p:"qiǎo",pp:"qiao3",d:"change countenance/worry",t:"愀",w:"愀"}],o=["忄","秋"],s=[],n=[],t=[],a="心",e=12,r={s:c,c:o,d:s,w:n,i:t,r:a,sc:e};export{o as c,s as d,r as default,t as i,a as r,c as s,e as sc,n as w};

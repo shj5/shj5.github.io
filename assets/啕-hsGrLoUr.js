@@ -1,1 +1,0 @@
-const o=[{p:"táo",pp:"tao2",d:"wail",t:"啕",w:"啕"}],t=["口","匋"],c=[],s=[{w:"嚎啕",p:"háo táo",d:"variant of 號啕|号啕[hao2 tao2]",t:"嚎啕"},{w:"号啕",p:"háo táo",d:"to cry/to wail loudly",t:"號啕"}],a=[{w:"嚎啕大哭",p:"háo táo dà kū",d:"to wail/to bawl (idiom)",t:"嚎啕大哭"}],d="口",w=11,n={s:o,c:t,d:c,w:s,i:a,r:d,sc:w};export{t as c,c as d,n as default,a as i,d as r,o as s,w as sc,s as w};

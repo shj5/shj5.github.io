@@ -1,0 +1,1 @@
+const s=[{p:"yù",pp:"yu4",d:"see 薯蕷|薯蓣[shu3 yu4]",t:"蕷",w:"蓣"}],c=13,t="艸",o=["艹","预"],n=[],e=[{w:"薯蓣",p:"shǔ yù",d:"Chinese yam (Dioscorea polystachya)",t:"薯蕷"}],y=[],a={s,sc:c,r:t,c:o,d:n,w:e,i:y};export{o as c,n as d,a as default,y as i,t as r,s,c as sc,e as w};

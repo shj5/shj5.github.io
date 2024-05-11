@@ -1,1 +1,0 @@
-const o=[{p:"héng",pp:"heng2",d:"(onom.) for sound of bell (arch.)",t:"鑅",w:"鑅"}],s=["金"],c=[],n=[],t=[],d="金",r=22,e={s:o,c:s,d:c,w:n,i:t,r:d,sc:r};export{s as c,c as d,e as default,t as i,d as r,o as s,r as sc,n as w};

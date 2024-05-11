@@ -1,0 +1,1 @@
+const s=[{p:"jì",pp:"ji4",d:"Buddhist hymn/gatha/Buddhist verse",t:"偈",w:"偈"},{p:"jié",pp:"jie2",d:"forceful/martial",t:"偈",w:"偈"}],t=11,c="人",o=["亻","曷"],d=[],n=[],i=[],p={s,sc:t,r:c,c:o,d,w:n,i};export{o as c,d,p as default,i,c as r,s,t as sc,n as w};

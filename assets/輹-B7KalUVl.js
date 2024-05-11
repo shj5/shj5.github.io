@@ -1,1 +1,0 @@
-const s=[{p:"fù",pp:"fu4",d:"parts of cart holding the axle",t:"輹",w:"輹"}],t=["复"],c=[],o=[],n=[],a="車",d=16,p={s,c:t,d:c,w:o,i:n,r:a,sc:d};export{t as c,c as d,p as default,n as i,a as r,s,d as sc,o as w};

@@ -1,0 +1,1 @@
+const n=[{p:"lìn",pp:"lin4",d:"(Minnan dialect) male genitals/penis",t:"𡳞",w:"𡳞"}],s=0,c="",t=[],o=[],i=[],a=[],e={s:n,sc:s,r:c,c:t,d:o,w:i,i:a};export{t as c,o as d,e as default,a as i,c as r,n as s,s as sc,i as w};

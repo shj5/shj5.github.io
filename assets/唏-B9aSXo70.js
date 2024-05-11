@@ -1,1 +1,0 @@
-const o=[{p:"xī",pp:"xi1",d:"sound of sobbing",t:"唏",w:"唏"}],t=["口","希"],s=[],c=[{w:"唏哩哗啦",p:"xī lī huā lā",d:"(onom.) clatter (of mahjong tiles etc)",t:"唏哩嘩啦"},{w:"唏嘘",p:"xī xū",d:"(onom.) to sigh/to sob",t:"唏噓"}],n=[],d="口",i=10,p={s:o,c:t,d:s,w:c,i:n,r:d,sc:i};export{t as c,s as d,p as default,n as i,d as r,o as s,i as sc,c as w};

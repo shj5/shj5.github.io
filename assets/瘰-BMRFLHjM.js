@@ -1,1 +1,0 @@
-const s=[{p:"luǒ",pp:"luo3",d:"scrofula/tuberculosis of glands",t:"瘰",w:"瘰"}],c=["疒","累"],t=[],o=[{w:"瘰疬",p:"luǒ lì",d:"scrofula (in Chinese medicine)",t:"瘰癧"},{w:"瘰螈",p:"luǒ yuán",d:"triton",t:"瘰螈"}],n=[],l="疒",u=16,d={s,c,d:t,w:o,i:n,r:l,sc:u};export{c,t as d,d as default,n as i,l as r,s,u as sc,o as w};

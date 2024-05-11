@@ -1,1 +1,0 @@
-const s=[{p:"lán",pp:"lan2",d:"ragged garments",t:"襤",w:"褴"}],t=["衤","监"],c=[],n=[{w:"褴褛",p:"lán lǚ",d:"ragged/shabby",t:"襤褸"}],o=[],a="衣",d=16,r={s,c:t,d:c,w:n,i:o,r:a,sc:d};export{t as c,c as d,r as default,o as i,a as r,s,d as sc,n as w};

@@ -1,0 +1,1 @@
+const n=[{p:"nán",pp:"nan2",d:"name of a country",t:"暔",w:"暔"}],c=13,s="日",t=["日","南"],o=[],a=[],d=[],p={s:n,sc:c,r:s,c:t,d:o,w:a,i:d};export{t as c,o as d,p as default,d as i,s as r,n as s,c as sc,a as w};

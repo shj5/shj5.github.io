@@ -1,1 +1,0 @@
-const s=[{p:"yóu",pp:"you2",d:"scallops along lower edge of flag",t:"斿",w:"斿"}],o=["子","方"],c=["游","蝣"],t=[],n=[],l="方",a=9,d={s,c:o,d:c,w:t,i:n,r:l,sc:a};export{o as c,c as d,d as default,n as i,l as r,s,a as sc,t as w};

@@ -1,1 +1,0 @@
-const s=[{p:"què",pp:"que4",d:"(literary) to end; to stop/one of the stanzas (usually two) of a ci poem 詞|词[ci2]/classifier for songs or ci poems",t:"闋",w:"阕"}],o=["门","癸"],t=[],c=[],n=[],e="門",a=12,i={s,c:o,d:t,w:c,i:n,r:e,sc:a};export{o as c,t as d,i as default,n as i,e as r,s,a as sc,c as w};

@@ -1,1 +1,0 @@
-const o=[{p:"lìn",pp:"lin4",d:"variant of 躪|躏, to trample down/to oppress/to overrun",t:"躙",w:"躙"}],t=["足"],s=[],n=[],c=[],r="足",p=23,a={s:o,c:t,d:s,w:n,i:c,r,sc:p};export{t as c,s as d,a as default,c as i,r,o as s,p as sc,n as w};

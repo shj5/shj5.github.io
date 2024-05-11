@@ -1,1 +1,0 @@
-const c=[{p:"kǎ",pp:"ka3",d:"(chemistry) cadmium (old)/(Tw) californium",t:"鉲",w:"鉲"}],s=["卡","金"],t=[],o=[],n=[],d="金",i=13,a={s:c,c:s,d:t,w:o,i:n,r:d,sc:i};export{s as c,t as d,a as default,n as i,d as r,c as s,i as sc,o as w};

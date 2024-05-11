@@ -1,1 +1,0 @@
-const c=[{p:"chàng",pp:"chang4",d:"(old) variant of 唱[chang4]",t:"誯",w:"誯"}],s=["昌"],n=[],t=[],o=[],a="言",d=15,p={s:c,c:s,d:n,w:t,i:o,r:a,sc:d};export{s as c,n as d,p as default,o as i,a as r,c as s,d as sc,t as w};

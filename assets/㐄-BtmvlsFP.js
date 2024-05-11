@@ -1,1 +1,0 @@
-const c=[{p:"kuà",pp:"kua4",d:"component in Chinese characters, mirror image of 夂[zhi3]",t:"㐄",w:"㐄"}],s=[],o=[],t=[],n=[],r="",e=0,i={s:c,c:s,d:o,w:t,i:n,r,sc:e};export{s as c,o as d,i as default,n as i,r,c as s,e as sc,t as w};

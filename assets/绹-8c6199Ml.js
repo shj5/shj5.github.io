@@ -1,1 +1,0 @@
-const t=[{p:"táo",pp:"tao2",d:"bind/cord/twist",t:"綯",w:"绹"}],s=["纟","匋"],c=[],o=[],n=[],d="糸",i=11,p={s:t,c:s,d:c,w:o,i:n,r:d,sc:i};export{s as c,c as d,p as default,n as i,d as r,t as s,i as sc,o as w};

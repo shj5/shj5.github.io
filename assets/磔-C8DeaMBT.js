@@ -1,0 +1,1 @@
+const s=[{p:"zhé",pp:"zhe2",d:"old term for the right-falling stroke in Chinese characters (e.g. the last stroke of 大[da4]), now called 捺[na4]/sound made by birds (onom.)/(literary) to dismember (form of punishment)/to spread",t:"磔",w:"磔"}],t=15,o="石",e=["石","桀"],n=[],r=[],c=[],a={s,sc:t,r:o,c:e,d:n,w:r,i:c};export{e as c,n as d,a as default,c as i,o as r,s,t as sc,r as w};

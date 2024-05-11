@@ -1,0 +1,1 @@
+const t=[{p:"wā",pp:"wa1",d:"to clutch/to grab/to capture",t:"搲",w:"搲"},{p:"wǎ",pp:"wa3",d:"to crawl/to climb/to scoop up",t:"搲",w:"搲"},{p:"wà",pp:"wa4",d:"to pull/to drag",t:"搲",w:"搲"}],o=13,c="手",p=["扌","窊"],s=[],w=[],a=[],n={s:t,sc:o,r:c,c:p,d:s,w,i:a};export{p as c,s as d,n as default,a as i,c as r,t as s,o as sc,w};

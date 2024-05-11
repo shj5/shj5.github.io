@@ -1,0 +1,1 @@
+const s=[{p:"hóng",pp:"hong2",d:"used in 葒草|荭草[hong2 cao3]",t:"葒",w:"荭"}],c=9,n="艸",o=["艹","红"],t=[],a=[{w:"荭草",p:"hóng cǎo",d:"(botany) Persicaria orientalis",t:"葒草"}],i=[],d={s,sc:c,r:n,c:o,d:t,w:a,i};export{o as c,t as d,d as default,i,n as r,s,c as sc,a as w};

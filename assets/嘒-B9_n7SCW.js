@@ -1,0 +1,1 @@
+const s=[{p:"huì",pp:"hui4",d:"shrill sound/twinkling",t:"嘒",w:"嘒"}],c=14,t="口",n=["口","彗"],o=[],i=[],d=[],l={s,sc:c,r:t,c:n,d:o,w:i,i:d};export{n as c,o as d,l as default,d as i,t as r,s,c as sc,i as w};

@@ -1,0 +1,1 @@
+const t=[{p:"mái",pp:"mai2",d:"haze",t:"霾",w:"霾"}],s=22,o="雨",c=["雨"],n=[],d=[{w:"灰霾",p:"huī mái",d:"dust haze/dust storm",t:"灰霾"},{w:"烟霾",p:"yān mái",d:"smoke/pollution",t:"煙霾"},{w:"阴霾",p:"yīn mái",d:"haze",t:"陰霾"},{w:"雾霾",p:"wù mái",d:"haze/smog",t:"霧霾"}],i=[],m={s:t,sc:s,r:o,c,d:n,w:d,i};export{c,n as d,m as default,i,o as r,t as s,s as sc,d as w};

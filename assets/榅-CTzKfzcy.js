@@ -1,1 +1,0 @@
-const n=[{p:"wēn",pp:"wen1",d:"used in 榲桲|榅桲[wen1po5]",t:"榲",w:"榅"}],o=["木"],s=[],c=[{w:"榅桲",p:"wēn po",d:"quince (Cydonia oblonga)",t:"榲桲"}],t=[],w="木",d=13,p={s:n,c:o,d:s,w:c,i:t,r:w,sc:d};export{o as c,s as d,p as default,t as i,w as r,n as s,d as sc,c as w};

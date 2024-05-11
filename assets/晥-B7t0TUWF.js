@@ -1,0 +1,1 @@
+const s=[{p:"Wǎn",pp:"Wan3",d:"old variant of 皖[Wan3]",t:"晥",w:"晥"}],c=11,n="日",t=["日","完"],o=[],a=[],d=[],p={s,sc:c,r:n,c:t,d:o,w:a,i:d};export{t as c,o as d,p as default,d as i,n as r,s,c as sc,a as w};

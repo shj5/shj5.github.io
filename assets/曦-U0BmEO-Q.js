@@ -1,1 +1,0 @@
-const n=[{p:"xī",pp:"xi1",d:"(literary) sunlight (usu. in early morning)",t:"曦",w:"曦"}],s=["日","羲"],t=[],o=[{w:"晨曦",p:"chén xī",d:"first rays of morning sun/first glimmer of dawn",t:"晨曦"},{w:"朝曦",p:"zhāo xī",d:"early morning sunlight",t:"朝曦"}],r=[],c="日",i=20,a={s:n,c:s,d:t,w:o,i:r,r:c,sc:i};export{s as c,t as d,a as default,r as i,c as r,n as s,i as sc,o as w};

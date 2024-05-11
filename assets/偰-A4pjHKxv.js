@@ -1,1 +1,0 @@
-const c=[{p:"xiè",pp:"xie4",d:"contract (variant of 契[qi4])",t:"偰",w:"偰"}],t=["亻","契"],s=[],o=[],n=[],i="人",a=11,r={s:c,c:t,d:s,w:o,i:n,r:i,sc:a};export{t as c,s as d,r as default,n as i,i as r,c as s,a as sc,o as w};

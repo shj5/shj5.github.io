@@ -1,0 +1,1 @@
+const o=[{p:"bāo",pp:"bao1",d:"old variant of 褒[bao1]/to praise",t:"闁",w:"闁"}],s=16,t="門",c=[],n=[],a=[],d=[],p={s:o,sc:s,r:t,c,d:n,w:a,i:d};export{c,n as d,p as default,d as i,t as r,o as s,s as sc,a as w};

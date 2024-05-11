@@ -1,0 +1,1 @@
+const n=[{p:"xué",pp:"xue2",d:"to store grain by enclosing it in a woven mat rolled into a vertical cylinder",t:"茓",w:"茓"}],t=8,o="艸",c=["艹","穴"],s=[],i=[{w:"茓子",p:"xué zi",d:"long woven mat used to form a cylindrical grain bin",t:"茓子"}],a=[],e={s:n,sc:t,r:o,c,d:s,w:i,i:a};export{c,s as d,e as default,a as i,o as r,n as s,t as sc,i as w};

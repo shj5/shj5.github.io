@@ -1,1 +1,0 @@
-const t=[{p:"shēn",pp:"shen1",d:"(literary) two mountains standing next to each other",t:"屾",w:"屾"}],s=["山"],n=[],c=[],o=[],e="山",a=6,r={s:t,c:s,d:n,w:c,i:o,r:e,sc:a};export{s as c,n as d,r as default,o as i,e as r,t as s,a as sc,c as w};

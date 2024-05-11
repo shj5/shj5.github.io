@@ -1,1 +1,0 @@
-const s=[{p:"jiǎng",pp:"jiang3",d:"Japanese variant of 獎|奖[jiang3]",t:"奨",w:"奨"}],n=["大","将"],c=[],t=[],o=[],a="大",i=13,p={s,c:n,d:c,w:t,i:o,r:a,sc:i};export{n as c,c as d,p as default,o as i,a as r,s,i as sc,t as w};

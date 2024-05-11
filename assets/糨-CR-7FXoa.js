@@ -1,1 +1,0 @@
-const t=[{p:"jiàng",pp:"jiang4",d:"(of soup, paste etc) thick",t:"糨",w:"糨"}],s=["米","强"],n=[],c=[{w:"糨子",p:"jiàng zi",d:"(coll.) paste",t:"糨子"},{w:"糨糊",p:"jiàng hu",d:"paste/also written 漿糊|浆糊[jiang4 hu5]/Taiwan pr. [jiang4 hu2]",t:"糨糊"}],o=[],i="米",a=17,p={s:t,c:s,d:n,w:c,i:o,r:i,sc:a};export{s as c,n as d,p as default,o as i,i as r,t as s,a as sc,c as w};

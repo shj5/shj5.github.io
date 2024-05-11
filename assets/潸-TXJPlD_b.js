@@ -1,0 +1,1 @@
+const s=[{p:"shān",pp:"shan1",d:"tearfully",t:"潸",w:"潸"}],t=15,n="水",c=["氵"],o=[],d=[],i=[{w:"潸然泪下",p:"shān rán lèi xià",d:"to shed silent tears (idiom)",t:"潸然淚下"}],e={s,sc:t,r:n,c,d:o,w:d,i};export{c,o as d,e as default,i,n as r,s,t as sc,d as w};

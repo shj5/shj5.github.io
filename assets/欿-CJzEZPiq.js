@@ -1,0 +1,1 @@
+const s=[{p:"kǎn",pp:"kan3",d:"discontented with oneself",t:"欿",w:"欿"}],n=12,t="欠",c=["欠","臽"],o=[],d=[{w:"欿然",p:"kǎn rán",d:"dissatisfied/discontented/lacking happiness",t:"欿然"}],e=[],i={s,sc:n,r:t,c,d:o,w:d,i:e};export{c,o as d,i as default,e as i,t as r,s,n as sc,d as w};

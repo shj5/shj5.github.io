@@ -1,0 +1,1 @@
+const s=[{p:"shān",pp:"shan1",d:'"bristle" radical in Chinese characters (Kangxi radical 59)',t:"彡",w:"彡"}],c=3,n="*",t=[],a=["尨","形","彤","杉","肜","辵","钐","彦","耏","衫","须","修","彧","彨","髟","彩","彪","彬","彭","彰","影"],o=[],i=[],r={s,sc:c,r:n,c:t,d:a,w:o,i};export{t as c,a as d,r as default,i,n as r,s,c as sc,o as w};

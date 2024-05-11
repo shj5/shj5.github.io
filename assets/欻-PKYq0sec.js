@@ -1,1 +1,0 @@
-const s=[{p:"chuā",pp:"chua1",d:"(onom.) crashing sound",t:"欻",w:"欻"},{p:"xū",pp:"xu1",d:"suddenly/also pr. [hu1]",t:"欻",w:"欻"}],c=["欠","炎"],o=[],n=[],t=[],d="欠",p=12,u={s,c,d:o,w:n,i:t,r:d,sc:p};export{c,o as d,u as default,t as i,d as r,s,p as sc,n as w};

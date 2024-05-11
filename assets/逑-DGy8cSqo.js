@@ -1,1 +1,0 @@
-const c=[{p:"qiú",pp:"qiu2",d:"collect/to match",t:"逑",w:"逑"}],t=["辶","求"],s=[],o=[],n=[],d="辵",i=11,p={s:c,c:t,d:s,w:o,i:n,r:d,sc:i};export{t as c,s as d,p as default,n as i,d as r,c as s,i as sc,o as w};

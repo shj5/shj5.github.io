@@ -1,1 +1,0 @@
-const o=[{p:"guǎng",pp:"guang3",d:"rough/uncouth/boorish",t:"獷",w:"犷"}],s=["犭","广"],t=[],c=[{w:"粗犷",p:"cū guǎng",d:"rough/rude/boorish/straightforward/uninhibited",t:"粗獷"}],n=[],r="犬",u=6,g={s:o,c:s,d:t,w:c,i:n,r,sc:u};export{s as c,t as d,g as default,n as i,r,o as s,u as sc,c as w};

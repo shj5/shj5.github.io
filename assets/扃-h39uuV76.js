@@ -1,1 +1,0 @@
-const o=[{p:"jiōng",pp:"jiong1",d:"(literary) to shut or bolt a door/door",t:"扃",w:"扃"}],t=["冋"],s=[],c=[],n=[],r="戶",d=9,i={s:o,c:t,d:s,w:c,i:n,r,sc:d};export{t as c,s as d,i as default,n as i,r,o as s,d as sc,c as w};

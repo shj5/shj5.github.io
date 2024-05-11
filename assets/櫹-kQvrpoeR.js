@@ -1,0 +1,1 @@
+const c=[{p:"xiāo",pp:"xiao1",d:"a type of big tree (archaic)",t:"櫹",w:"櫹"}],s=20,t="木",o=["木"],n=[],a=[],i=[],e={s:c,sc:s,r:t,c:o,d:n,w:a,i};export{o as c,n as d,e as default,i,t as r,c as s,s as sc,a as w};

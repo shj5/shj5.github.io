@@ -1,0 +1,1 @@
+const s=[{p:"Yì",pp:"Yi4",d:"surname Yi/name of a legendary archer (also called 后羿[Hou4 Yi4])",t:"羿",w:"羿"}],c=9,o="羽",e=["廾","羽"],a=[],n=[{w:"后羿",p:"Hòu Yì",d:"Houyi, mythological Chinese archer whose wife was Chang'e",t:"后羿"}],t=[],i={s,sc:c,r:o,c:e,d:a,w:n,i:t};export{e as c,a as d,i as default,t as i,o as r,s,c as sc,n as w};

@@ -1,1 +1,0 @@
-const o=[{p:"pán",pp:"pan2",d:"classifier for strips of land or bamboo, shops, factories etc/slit bamboo or chopped wood (dialect)",t:"爿",w:"爿"}],s=[],c=["戕","斨","牁","牂","牄"],t=[],n=[],p="*",a=4,r={s:o,c:s,d:c,w:t,i:n,r:p,sc:a};export{s as c,c as d,r as default,n as i,p as r,o as s,a as sc,t as w};

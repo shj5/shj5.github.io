@@ -1,0 +1,1 @@
+const n=[{p:"gān",pp:"gan1",d:"used in 矸石[gan1shi2]",t:"矸",w:"矸"}],s=8,t="石",c=["干","石"],g=[],i=[{w:"煤矸石",p:"méi gān shí",d:"(mining) coal gangue",t:"煤矸石"},{w:"矸子",p:"gān zi",d:"see 矸石[gan1shi2]",t:"矸子"},{w:"矸石",p:"gān shí",d:"(mining) gangue",t:"矸石"}],o=[],a={s:n,sc:s,r:t,c,d:g,w:i,i:o};export{c,g as d,a as default,o as i,t as r,n as s,s as sc,i as w};

@@ -1,1 +1,0 @@
-const t=[{p:"dǐ",pp:"di3",d:"baffle (pier)/whetstone",t:"砥",w:"砥"}],o=["石","氐"],n=[],s=[{w:"砥砺",p:"dǐ lì",d:"whetstone/(lit. and fig.) to hone; to sharpen/to encourage",t:"砥礪"}],e=[{w:"中流砥柱",p:"zhōng liú dǐ zhù",d:"mainstay/cornerstone/tower of strength",t:"中流砥柱"}],c="石",d=10,r={s:t,c:o,d:n,w:s,i:e,r:c,sc:d};export{o as c,n as d,r as default,e as i,c as r,t as s,d as sc,s as w};

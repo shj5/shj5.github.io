@@ -1,0 +1,1 @@
+const n=[{p:"kuāng",pp:"kuang1",d:"(onom.) crash; bang; clang",t:"哐",w:"哐"}],c=9,t="口",s=["口","匡"],o=[],a=[{w:"哐哐啷啷",p:"kuāng kuāng lāng lāng",d:"(onom.) crash/clank/clatter",t:"哐哐啷啷"},{w:"哐啷",p:"kuāng lāng",d:"(onom.) clang; clatter; bang; crash; clank",t:"哐啷"}],g=[],l={s:n,sc:c,r:t,c:s,d:o,w:a,i:g};export{s as c,o as d,l as default,g as i,t as r,n as s,c as sc,a as w};

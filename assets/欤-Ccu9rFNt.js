@@ -1,1 +1,0 @@
-const s=[{p:"yú",pp:"yu2",d:"(literary) (final particle similar to 嗎|吗[ma5], 呢[ne5] or 啊[a1])",t:"歟",w:"欤"}],t=["欠"],c=[],o=[],n=[],a="欠",r=8,i={s,c:t,d:c,w:o,i:n,r:a,sc:r};export{t as c,c as d,i as default,n as i,a as r,s,r as sc,o as w};

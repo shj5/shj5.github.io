@@ -1,1 +1,0 @@
-const o=[{p:"gū",pp:"gu1",d:"goblet/rule/law",t:"觚",w:"觚"}],t=["瓜","角"],s=[],c=[{w:"操觚",p:"cāo gū",d:"to write/to compose",t:"操觚"}],n=[{w:"率尔操觚",p:"shuài ěr cāo gū",d:"to compose in off-hand way (idiom); to dash off",t:"率爾操觚"}],d="角",p=12,w={s:o,c:t,d:s,w:c,i:n,r:d,sc:p};export{t as c,s as d,w as default,n as i,d as r,o as s,p as sc,c as w};

@@ -1,1 +1,0 @@
-const s=[{p:"páng",pp:"pang2",d:"variant of 龐|庞[pang2], huge/enormous",t:"龎",w:"厐"}],n=["厂","龙"],c=[],o=[],t=[],p="厂",a=7,r={s,c:n,d:c,w:o,i:t,r:p,sc:a};export{n as c,c as d,r as default,t as i,p as r,s,a as sc,o as w};

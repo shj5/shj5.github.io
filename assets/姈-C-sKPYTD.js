@@ -1,1 +1,0 @@
-const s=[{p:"líng",pp:"ling2",d:"(literary) (of a woman) intelligent/(used mostly in female names)",t:"姈",w:"姈"}],n=["女","令"],t=[],c=[],o=[],e="女",l=8,a={s,c:n,d:t,w:c,i:o,r:e,sc:l};export{n as c,t as d,a as default,o as i,e as r,s,l as sc,c as w};

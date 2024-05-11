@@ -1,1 +1,0 @@
-const s=[{p:"dì",pp:"di4",d:"wife of a younger brother",t:"娣",w:"娣"}],o=["女","弟"],c=[],t=[{w:"娣姒",p:"dì sì",d:"sisters-in-law (old)/various concubines of a husband (old)",t:"娣姒"}],n=[],d="女",i=10,r={s,c:o,d:c,w:t,i:n,r:d,sc:i};export{o as c,c as d,r as default,n as i,d as r,s,i as sc,t as w};

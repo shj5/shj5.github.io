@@ -1,1 +1,0 @@
-const n=[{p:"juàn",pp:"juan4",d:"old variant of 餋[juan4]",t:"飬",w:"飬"},{p:"yǎng",pp:"yang3",d:"old variant of 養|养[yang3]",t:"飬",w:"飬"}],t=["关","良"],o=["媵","瀁"],s=[],c=[],a="食",d=13,p={s:n,c:t,d:o,w:s,i:c,r:a,sc:d};export{t as c,o as d,p as default,c as i,a as r,n as s,d as sc,s as w};

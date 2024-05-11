@@ -1,1 +1,0 @@
-const c=[{p:"zhú",pp:"zhu2",d:"(weed)/Phytolacca acinosa",t:"蓫",w:"蓫"}],s=["艹"],t=[],o=[],n=[],a="艸",d=14,e={s:c,c:s,d:t,w:o,i:n,r:a,sc:d};export{s as c,t as d,e as default,n as i,a as r,c as s,d as sc,o as w};

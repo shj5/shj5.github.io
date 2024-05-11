@@ -1,1 +1,0 @@
-const s=[{p:"chú",pp:"chu2",d:"old variant of 芻|刍[chu2]",t:"蒭",w:"蒭"}],t=["艹"],c=[],o=[{w:"蒭藁增二",p:"chú gǎo zēng èr",d:"same as 米拉, Mira (red giant star, Omicron Ceti), variable star with period of 330 days",t:"蒭藁增二"}],a=[],n="艸",r=13,i={s,c:t,d:c,w:o,i:a,r:n,sc:r};export{t as c,c as d,i as default,a as i,n as r,s,r as sc,o as w};

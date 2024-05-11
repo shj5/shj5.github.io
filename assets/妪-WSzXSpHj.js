@@ -1,1 +1,0 @@
-const o=[{p:"yù",pp:"yu4",d:"old woman/to brood over/to protect",t:"嫗",w:"妪"}],t=["女","区"],c=[],s=[{w:"老妪",p:"lǎo yù",d:"old woman (formal writing)",t:"老嫗"}],n=[],d="女",r=7,w={s:o,c:t,d:c,w:s,i:n,r:d,sc:r};export{t as c,c as d,w as default,n as i,d as r,o as s,r as sc,s as w};

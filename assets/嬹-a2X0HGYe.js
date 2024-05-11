@@ -1,0 +1,1 @@
+const s=[{p:"xìng",pp:"xing4",d:"old variant of 興|兴[xing4]",t:"嬹",w:"嬹"}],c=19,n="女",t=["女"],o=[],d=[],i=[],a={s,sc:c,r:n,c:t,d:o,w:d,i};export{t as c,o as d,a as default,i,n as r,s,c as sc,d as w};

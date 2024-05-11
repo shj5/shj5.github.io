@@ -1,0 +1,1 @@
+const s=[{p:"xiān",pp:"xian1",d:"shovel/variant of 鍁|锨[xian1]",t:"杴",w:"杴"}],c=8,n="木",t=["木","欠"],o=[],a=[],i=[],d={s,sc:c,r:n,c:t,d:o,w:a,i};export{t as c,o as d,d as default,i,n as r,s,c as sc,a as w};

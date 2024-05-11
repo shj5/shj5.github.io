@@ -1,1 +1,0 @@
-const o=[{p:"tiáo",pp:"tiao2",d:"broom",t:"笤",w:"笤"}],s=["召","竹"],t=[],c=[{w:"笤帚",p:"tiáo zhou",d:"whisk broom/small broom/CL:把[ba3]",t:"笤帚"}],n=[],i="竹",r=11,a={s:o,c:s,d:t,w:c,i:n,r:i,sc:r};export{s as c,t as d,a as default,n as i,i as r,o as s,r as sc,c as w};

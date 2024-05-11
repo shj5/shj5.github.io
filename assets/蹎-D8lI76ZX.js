@@ -1,1 +1,0 @@
-const s=[{p:"diān",pp:"dian1",d:"to fall forward (variant of 顛|颠[dian1])",t:"蹎",w:"蹎"}],t=["足","真"],c=[],n=[],o=[],a="足",d=17,i={s,c:t,d:c,w:n,i:o,r:a,sc:d};export{t as c,c as d,i as default,o as i,a as r,s,d as sc,n as w};

@@ -1,1 +1,0 @@
-const c=[{p:"wèn",pp:"wen4",d:"a crack (in porcelain, glassware etc)/CL:道[dao4]",t:"璺",w:"璺"}],s=["玉"],t=[],n=[{w:"裂璺",p:"liè wèn",d:"crack/split/fracture line",t:"裂璺"}],o=[],a="玉",r=19,e={s:c,c:s,d:t,w:n,i:o,r:a,sc:r};export{s as c,t as d,e as default,o as i,a as r,c as s,r as sc,n as w};

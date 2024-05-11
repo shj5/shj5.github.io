@@ -1,0 +1,1 @@
+const t=[{p:"òu",pp:"ou4",d:"to annoy/to irritate/to be annoyed/to sulk",t:"慪",w:"怄"}],o=7,s="心",c=["忄","区"],n=[],u=[{w:"怄气",p:"òu qì",d:"to sulk/to squabble",t:"慪氣"}],a=[],d={s:t,sc:o,r:s,c,d:n,w:u,i:a};export{c,n as d,d as default,a as i,s as r,t as s,o as sc,u as w};

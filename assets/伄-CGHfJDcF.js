@@ -1,1 +1,0 @@
-const s=[{p:"diào",pp:"diao4",d:"used in 伄儅[diao4 dang1]",t:"伄",w:"伄"}],o=["亻","引"],d=[],c=[{w:"伄儅",p:"diào dāng",d:"seldom/irregularly",t:"伄儅"}],t=[],n="人",i=6,a={s,c:o,d,w:c,i:t,r:n,sc:i};export{o as c,d,a as default,t as i,n as r,s,i as sc,c as w};

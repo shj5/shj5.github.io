@@ -1,0 +1,1 @@
+const s=[{p:"shàn",pp:"shan4",d:"level spot for sacrifices",t:"墠",w:"𫮃"}],c=0,t="",o=[],n=[],e=[],p=[],r={s,sc:c,r:t,c:o,d:n,w:e,i:p};export{o as c,n as d,r as default,p as i,t as r,s,c as sc,e as w};

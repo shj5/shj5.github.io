@@ -1,0 +1,1 @@
+const s=[{p:"fà",pp:"fa4",d:"Japanese variant of 髮|发",t:"髪",w:"髪"}],c=14,t="髟",n=["友","髟"],o=[],a=[],p=[],d={s,sc:c,r:t,c:n,d:o,w:a,i:p};export{n as c,o as d,d as default,p as i,t as r,s,c as sc,a as w};

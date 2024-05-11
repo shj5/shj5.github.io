@@ -1,1 +1,0 @@
-const t=[{p:"dié",pp:"die2",d:"Japanese variant of 疊|叠[die2]/Japanese tatami matting",t:"畳",w:"畳"}],s=["田","且"],c=[],n=[],a=[],o="田",e=12,i={s:t,c:s,d:c,w:n,i:a,r:o,sc:e};export{s as c,c as d,i as default,a as i,o as r,t as s,e as sc,n as w};

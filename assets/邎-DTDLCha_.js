@@ -1,0 +1,1 @@
+const o=[{p:"yáo",pp:"yao2",d:"variant of 遙|遥[yao2]",t:"邎",w:"邎"}],s=21,c="辵",t=["辶"],n=[],a=[],d=[],p={s:o,sc:s,r:c,c:t,d:n,w:a,i:d};export{t as c,n as d,p as default,d as i,c as r,o as s,s as sc,a as w};

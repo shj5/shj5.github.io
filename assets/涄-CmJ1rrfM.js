@@ -1,1 +1,0 @@
-const s=[{p:"pīng",pp:"ping1",d:"(literary) runny; watery; fluid",t:"涄",w:"涄"}],t=["氵","甹"],c=[],n=[],o=[],r="水",p=10,d={s,c:t,d:c,w:n,i:o,r,sc:p};export{t as c,c as d,d as default,o as i,r,s,p as sc,n as w};

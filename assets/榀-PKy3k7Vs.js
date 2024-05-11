@@ -1,1 +1,0 @@
-const s=[{p:"pǐn",pp:"pin3",d:"classifier for roof beams and trusses",t:"榀",w:"榀"}],c=["木","品"],o=[],t=[],n=[],r="木",p=13,a={s,c,d:o,w:t,i:n,r,sc:p};export{c,o as d,a as default,n as i,r,s,p as sc,t as w};

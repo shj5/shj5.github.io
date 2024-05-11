@@ -1,0 +1,1 @@
+const o=[{p:"jiào",pp:"jiao4",d:"to perform sacrifice",t:"醮",w:"醮"}],c=19,s="酉",t=["酉","焦"],r=["蘸"],i=[{w:"再醮",p:"zài jiào",d:"to remarry",t:"再醮"}],n=[],p={s:o,sc:c,r:s,c:t,d:r,w:i,i:n};export{t as c,r as d,p as default,n as i,s as r,o as s,c as sc,i as w};

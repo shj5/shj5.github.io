@@ -1,0 +1,1 @@
+const s=[{p:"dàn",pp:"dan4",d:"dread/fear/dislike",t:"憚",w:"惮"}],t=11,e="心",n=["忄","单"],d=[],c=[{w:"忌惮",p:"jì dàn",d:"to be afraid of the consequences/restraining fear",t:"忌憚"}],o=[{w:"肆无忌惮",p:"sì wú jì dàn",d:"absolutely unrestrained/unbridled/without the slightest scruple",t:"肆無忌憚"}],r={s,sc:t,r:e,c:n,d,w:c,i:o};export{n as c,d,r as default,o as i,e as r,s,t as sc,c as w};

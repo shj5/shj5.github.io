@@ -1,1 +1,0 @@
-const o=[{p:"zào",pp:"zao4",d:"old variant of 灶[zao4]",t:"竃",w:"竃"}],s=[],c=[],t=[],n=[],a="穴",d=21,p={s:o,c:s,d:c,w:t,i:n,r:a,sc:d};export{s as c,c as d,p as default,n as i,a as r,o as s,d as sc,t as w};

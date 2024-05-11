@@ -1,1 +1,0 @@
-const t=[{p:"chéng",pp:"cheng2",d:"(literary) inebriated/hungover",t:"酲",w:"酲"}],c=["酉","呈"],o=[],s=[{w:"解酲",p:"jiě chéng",d:"to sober up/to sleep off the effect of drink",t:"解酲"}],n=[],e="酉",r=14,d={s:t,c,d:o,w:s,i:n,r:e,sc:r};export{c,o as d,d as default,n as i,e as r,t as s,r as sc,s as w};

@@ -1,1 +1,0 @@
-const n=[{p:"pīng",pp:"ping1",d:"used in 伶俜[ling2ping1]",t:"俜",w:"俜"}],s=["亻","甹"],t=[],c=[{w:"伶俜",p:"líng pīng",d:"(literary) lonely; all alone; solitary",t:"伶俜"}],o=[],l="人",p=9,i={s:n,c:s,d:t,w:c,i:o,r:l,sc:p};export{s as c,t as d,i as default,o as i,l as r,n as s,p as sc,c as w};

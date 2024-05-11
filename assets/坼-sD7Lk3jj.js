@@ -1,0 +1,1 @@
+const c=[{p:"chè",pp:"che4",d:"to crack/to split/to break/to chap",t:"坼",w:"坼"}],t=8,s="土",o=["土","斥"],n=[],p=[],a=[],r={s:c,sc:t,r:s,c:o,d:n,w:p,i:a};export{o as c,n as d,r as default,a as i,s as r,c as s,t as sc,p as w};

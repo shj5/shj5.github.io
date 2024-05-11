@@ -1,1 +1,0 @@
-const s=[{p:"wù",pp:"wu4",d:"used in 阢隉|阢陧[wu4nie4]",t:"阢",w:"阢"}],n=["兀"],t=[],c=[{w:"阢陧",p:"wù niè",d:"variant of 杌隉|杌陧[wu4nie4]",t:"阢隉"}],o=[],w="阜",i=6,d={s,c:n,d:t,w:c,i:o,r:w,sc:i};export{n as c,t as d,d as default,o as i,w as r,s,i as sc,c as w};

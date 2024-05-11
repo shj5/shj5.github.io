@@ -1,0 +1,1 @@
+const t=[{p:"Lín",pp:"Lin2",d:"surname Lin",t:"遴",w:"遴"},{p:"lín",pp:"lin2",d:"(literary) to select",t:"遴",w:"遴"}],s=16,c="辵",n=["辶"],o=[],e=[{w:"遴选",p:"lín xuǎn",d:"to pick/to choose/to select",t:"遴選"}],p=[],i={s:t,sc:s,r:c,c:n,d:o,w:e,i:p};export{n as c,o as d,i as default,p as i,c as r,t as s,s as sc,e as w};

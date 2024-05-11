@@ -1,1 +1,0 @@
-const t=[{p:"hé",pp:"he2",d:"obstruct",t:"閡",w:"阂"}],s=["门","亥"],c=[],n=[{w:"隔阂",p:"gé hé",d:"misunderstanding/estrangement/(language etc) barrier",t:"隔閡"}],e=[],o="門",r=9,a={s:t,c:s,d:c,w:n,i:e,r:o,sc:r};export{s as c,c as d,a as default,e as i,o as r,t as s,r as sc,n as w};

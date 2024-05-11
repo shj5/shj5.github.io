@@ -1,1 +1,0 @@
-const t=[{p:"jiā",pp:"jia1",d:"mythical ape/variant of 豭[jia1]",t:"猳",w:"猳"}],c=["犭"],s=[],a=[{w:"猳国",p:"Jiā guó",d:"name of mythical ape",t:"猳國"}],o=[],n="犬",i=12,p={s:t,c,d:s,w:a,i:o,r:n,sc:i};export{c,s as d,p as default,o as i,n as r,t as s,i as sc,a as w};

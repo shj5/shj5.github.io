@@ -1,0 +1,1 @@
+const t=[{p:"Jū",pp:"Ju1",d:"(the name of a river to the east of Beijing)/Taiwan pr. [Ju4]",t:"泃",w:"泃"}],s=8,o="水",c=["氵","句"],e=[],n=[{w:"泃河",p:"Jū Hé",d:"Ju River, to the east of Beijing",t:"泃河"}],i=[],a={s:t,sc:s,r:o,c,d:e,w:n,i};export{c,e as d,a as default,i,o as r,t as s,s as sc,n as w};

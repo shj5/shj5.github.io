@@ -1,0 +1,1 @@
+const s=[{p:"sǒng",pp:"song3",d:"(literary) to stand upright/(dialect) to push/to shove",t:"㩳",w:"㧐"}],t=0,o="",c=[],n=[],d=[],p=[],r={s,sc:t,r:o,c,d:n,w:d,i:p};export{c,n as d,r as default,p as i,o as r,s,t as sc,d as w};

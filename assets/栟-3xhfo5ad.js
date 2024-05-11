@@ -1,1 +1,0 @@
-const c=[{p:"bīng",pp:"bing1",d:"Trachycarpus excelsa",t:"栟",w:"栟"}],s=["木","并"],t=[],n=[],o=[],a="木",p=10,r={s:c,c:s,d:t,w:n,i:o,r:a,sc:p};export{s as c,t as d,r as default,o as i,a as r,c as s,p as sc,n as w};

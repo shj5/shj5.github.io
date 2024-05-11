@@ -1,1 +1,0 @@
-const s=[{p:"sūn",pp:"sun1",d:"fragrant grass",t:"蓀",w:"荪"}],n=["艹","孙"],t=[],o=[{w:"竹荪",p:"zhú sūn",d:"bamboo fungus; veiled lady mushroom (Phallus indusiatus)",t:"竹蓀"}],c=[],a="艸",d=9,u={s,c:n,d:t,w:o,i:c,r:a,sc:d};export{n as c,t as d,u as default,c as i,a as r,s,d as sc,o as w};

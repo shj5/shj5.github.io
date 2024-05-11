@@ -1,0 +1,1 @@
+const n=[{p:"Zhuàng",pp:"Zhuang4",d:"old variant of 壯|壮, Zhuang ethnic group of Guangxi",t:"獞",w:"獞"},{p:"tóng",pp:"tong2",d:"name of a variety of dog/wild tribes in South China",t:"獞",w:"獞"}],t=15,o="犬",s=["犭","童"],c=[],a=[],i=[],d={s:n,sc:t,r:o,c:s,d:c,w:a,i};export{s as c,c as d,d as default,i,o as r,n as s,t as sc,a as w};

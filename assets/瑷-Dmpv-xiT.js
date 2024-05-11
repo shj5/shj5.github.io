@@ -1,0 +1,1 @@
+const s=[{p:"ài",pp:"ai4",d:"fine quality jade",t:"璦",w:"瑷"}],t=14,n="玉",c=["王","爱"],i=[],o=[{w:"瑷珲条约",p:"Ài hún Tiáo yuē",d:"Treaty of Aigun, 1858 unequal treaty forced on Qing China by Tsarist Russia",t:"璦琿條約"}],a=[],e={s,sc:t,r:n,c,d:i,w:o,i:a};export{c,i as d,e as default,a as i,n as r,s,t as sc,o as w};

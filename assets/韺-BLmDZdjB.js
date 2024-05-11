@@ -1,0 +1,1 @@
+const s=[{p:"yīng",pp:"ying1",d:"music of legendary emperor Gu",t:"韺",w:"韺"}],c=18,n="音",o=["英","音"],t=[],e=[],r=[],d={s,sc:c,r:n,c:o,d:t,w:e,i:r};export{o as c,t as d,d as default,r as i,n as r,s,c as sc,e as w};

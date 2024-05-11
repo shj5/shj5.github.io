@@ -1,1 +1,0 @@
-const c=[{p:"cùn",pp:"cun4",d:"inch (English)",t:"吋",w:"吋"}],s=["口","寸"],n=[],t=[],o=[],d="口",i=6,p={s:c,c:s,d:n,w:t,i:o,r:d,sc:i};export{s as c,n as d,p as default,o as i,d as r,c as s,i as sc,t as w};

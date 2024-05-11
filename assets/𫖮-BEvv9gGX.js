@@ -1,1 +1,0 @@
-const s=[{p:"yǐ",pp:"yi3",d:"pleasing/respectful manner",t:"顗",w:"𫖮"}],t=[],c=[],n=[{w:"智𫖮",p:"Zhì yǐ",d:"Zhiyi (538-597), founder of the Tiantai sect of Buddhism",t:"智顗"}],o=[],e="",i=0,d={s,c:t,d:c,w:n,i:o,r:e,sc:i};export{t as c,c as d,d as default,o as i,e as r,s,i as sc,n as w};

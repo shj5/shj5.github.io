@@ -1,0 +1,1 @@
+const t=[{p:"yòu",pp:"you4",d:"park/to limit/be limited to",t:"囿",w:"囿"}],s=9,c="囗",o=["囗","有"],n=[],p=[{w:"园囿",p:"yuán yòu",d:"park",t:"園囿"}],d=[],i={s:t,sc:s,r:c,c:o,d:n,w:p,i:d};export{o as c,n as d,i as default,d as i,c as r,t as s,s as sc,p as w};

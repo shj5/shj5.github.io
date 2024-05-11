@@ -1,1 +1,0 @@
-const t=[{p:"mó",pp:"mo2",d:"tiny/insignificant",t:"麼",w:"麽"}],n=["么","麻"],c=["嬷"],s=[{w:"这麽",p:"zhè me",d:"variant of 這麼|这么[zhe4 me5]",t:"這麽"},{w:"那麽",p:"nà me",d:"variant of 那麼|那么[na4 me5]",t:"那麽"}],i=[{w:"幺麽小丑",p:"yāo mó xiǎo chǒu",d:"insignificant wretch",t:"么麼小醜"}],o="麻",a=14,e={s:t,c:n,d:c,w:s,i,r:o,sc:a};export{n as c,c as d,e as default,i,o as r,t as s,a as sc,s as w};

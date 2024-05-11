@@ -1,0 +1,1 @@
+const t=[{p:"wǔ",pp:"wu3",d:"disobedient/unfilial",t:"忤",w:"忤"}],s=7,o="心",n=["忄","午"],d=[],c=[{w:"乖忤",p:"guāi wǔ",d:"stubborn/contrary/disobedient",t:"乖忤"},{w:"忤逆",p:"wǔ nì",d:"disobedient to parents",t:"忤逆"},{w:"违忤",p:"wéi wǔ",d:"to disobey",t:"違忤"}],i=[],w={s:t,sc:s,r:o,c:n,d,w:c,i};export{n as c,d,w as default,i,o as r,t as s,s as sc,c as w};

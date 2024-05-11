@@ -1,1 +1,0 @@
-const n=[{p:"lǎn",pp:"lan3",d:"variant of 漤[lan3]",t:"灠",w:"灠"},{p:"làn",pp:"lan4",d:"variant of 濫|滥[lan4]",t:"灠",w:"灠"}],t=["氵"],s=[],c=[],o=[],a="水",l=24,p={s:n,c:t,d:s,w:c,i:o,r:a,sc:l};export{t as c,s as d,p as default,o as i,a as r,n as s,l as sc,c as w};

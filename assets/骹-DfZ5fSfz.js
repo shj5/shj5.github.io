@@ -1,0 +1,1 @@
+const o=[{p:"qiāo",pp:"qiao1",d:"shank (the leg from knee to ankle)/leg (from hip to ankle)/(horse anatomy) pastern",t:"骹",w:"骹"}],s=16,t="骨",n=["交","骨"],c=[],e=[],a=[],r={s:o,sc:s,r:t,c:n,d:c,w:e,i:a};export{n as c,c as d,r as default,a as i,t as r,o as s,s as sc,e as w};

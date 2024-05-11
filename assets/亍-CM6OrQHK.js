@@ -1,1 +1,0 @@
-const t=[{p:"chù",pp:"chu4",d:"to step with the right foot (used in 彳亍[chi4chu4])",t:"亍",w:"亍"}],c=["亅","二"],s=[],o=[{w:"彳亍",p:"chì chù",d:"(literary) to walk slowly",t:"彳亍"}],h=[],n="二",i=3,w={s:t,c,d:s,w:o,i:h,r:n,sc:i};export{c,s as d,w as default,h as i,n as r,t as s,i as sc,o as w};

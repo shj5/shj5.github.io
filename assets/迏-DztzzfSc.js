@@ -1,0 +1,1 @@
+const s=[{p:"dá",pp:"da2",d:"old variant of 達|达[da2]",t:"迏",w:"迏"}],c=8,t="辵",o=["辶","太"],n=[],d=[],a=[],p={s,sc:c,r:t,c:o,d:n,w:d,i:a};export{o as c,n as d,p as default,a as i,t as r,s,c as sc,d as w};

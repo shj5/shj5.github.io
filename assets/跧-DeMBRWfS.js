@@ -1,1 +1,0 @@
-const c=[{p:"quán",pp:"quan2",d:"to curl up/to crouch",t:"跧",w:"跧"}],s=["全","足"],t=[],o=[],n=[],u="足",p=13,r={s:c,c:s,d:t,w:o,i:n,r:u,sc:p};export{s as c,t as d,r as default,n as i,u as r,c as s,p as sc,o as w};

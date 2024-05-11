@@ -1,0 +1,1 @@
+const s=[{p:"xī",pp:"xi1",d:"large turtles",t:"蠵",w:"蠵"}],t=24,c="虫",o=["虫","巂"],n=[],a=[{w:"觜蠵",p:"zī xī",d:"name of constellation, possibly same as 觜宿",t:"觜蠵"}],e=[],l={s,sc:t,r:c,c:o,d:n,w:a,i:e};export{o as c,n as d,l as default,e as i,c as r,s,t as sc,a as w};

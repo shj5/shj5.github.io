@@ -1,0 +1,1 @@
+const s=[{p:"sōng",pp:"song1",d:"(cabbage)/Brassica chinensis",t:"菘",w:"菘"}],c=11,n="艸",t=["艹","松"],o=[],a=[{w:"菘蓝",p:"sōng lán",d:"Isatis tinctoria (woad, a brassica producing blue dye)",t:"菘藍"}],i=[],d={s,sc:c,r:n,c:t,d:o,w:a,i};export{t as c,o as d,d as default,i,n as r,s,c as sc,a as w};

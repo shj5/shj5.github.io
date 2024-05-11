@@ -1,1 +1,0 @@
-const n=[{p:"nǎng",pp:"nang3",d:"muddy/thick, muddy water",t:"灢",w:"灢"}],s=["氵","囊"],t=[],c=[{w:"沱灢",p:"Tuó nǎng",d:"see 峴港|岘港[Xian4 gang3]",t:"沱灢"}],d=[],o="水",a=25,e={s:n,c:s,d:t,w:c,i:d,r:o,sc:a};export{s as c,t as d,e as default,d as i,o as r,n as s,a as sc,c as w};

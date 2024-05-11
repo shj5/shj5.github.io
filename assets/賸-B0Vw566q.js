@@ -1,0 +1,1 @@
+const s=[{p:"shèng",pp:"sheng4",d:"have as remainder/trad. variant of 剩[sheng4]",t:"賸",w:"賸"}],n=17,t="貝",c=["月"],o=[],a=[],e=[],r={s,sc:n,r:t,c,d:o,w:a,i:e};export{c,o as d,r as default,e as i,t as r,s,n as sc,a as w};

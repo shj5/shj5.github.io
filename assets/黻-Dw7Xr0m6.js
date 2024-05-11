@@ -1,1 +1,0 @@
-const c=[{p:"fú",pp:"fu2",d:"(archaic) embroidery using black and blue thread",t:"黻",w:"黻"}],s=["犮","黹"],t=[],n=[],o=[],a="黹",d=17,r={s:c,c:s,d:t,w:n,i:o,r:a,sc:d};export{s as c,t as d,r as default,o as i,a as r,c as s,d as sc,n as w};

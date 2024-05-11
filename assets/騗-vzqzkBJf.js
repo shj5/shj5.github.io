@@ -1,0 +1,1 @@
+const n=[{p:"piàn",pp:"pian4",d:"old variant of 騙|骗[pian4]/to get on a horse by swinging one leg over",t:"騗",w:"騗"}],o=19,s="馬",t=["扁"],c=[],i=[],a=[],e={s:n,sc:o,r:s,c:t,d:c,w:i,i:a};export{t as c,c as d,e as default,a as i,s as r,n as s,o as sc,i as w};

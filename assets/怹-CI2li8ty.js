@@ -1,1 +1,0 @@
-const s=[{p:"tān",pp:"tan1",d:"he/she/(courteous, as opposed to 他[ta1])",t:"怹",w:"怹"}],t=["心","他"],o=[],c=[],n=[],e="心",p=9,a={s,c:t,d:o,w:c,i:n,r:e,sc:p};export{t as c,o as d,a as default,n as i,e as r,s,p as sc,c as w};

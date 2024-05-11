@@ -1,1 +1,0 @@
-const n=[{p:"jiān",pp:"jian1",d:"variant of 間|间[jian1]",t:"閒",w:"閒"},{p:"jiàn",pp:"jian4",d:"variant of 間|间[jian4]",t:"閒",w:"閒"}],t=["月"],s=["僩","憪","撊","蕑","燗","礀","鐗"],c=[],o=[],a="門",i=12,p={s:n,c:t,d:s,w:c,i:o,r:a,sc:i};export{t as c,s as d,p as default,o as i,a as r,n as s,i as sc,c as w};

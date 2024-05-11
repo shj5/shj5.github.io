@@ -1,1 +1,0 @@
-const c=[{p:"chì",pp:"chi4",d:"used in 瘛瘲|瘛疭[chi4zong4]/Taiwan pr. [qi4]",t:"瘛",w:"瘛"}],n=["疒","恝"],s=[],o=[{w:"瘛疭",p:"chì zòng",d:"(TCM) clonic convulsion",t:"瘛瘲"}],t=[],i="疒",d=15,p={s:c,c:n,d:s,w:o,i:t,r:i,sc:d};export{n as c,s as d,p as default,t as i,i as r,c as s,d as sc,o as w};

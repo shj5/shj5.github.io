@@ -1,1 +1,0 @@
-const t=[{p:"líng",pp:"ling2",d:"withered (plant, herb etc)",t:"蕶",w:"蕶"}],c=["艹","零"],s=[],n=[],o=[],e="艸",d=16,p={s:t,c,d:s,w:n,i:o,r:e,sc:d};export{c,s as d,p as default,o as i,e as r,t as s,d as sc,n as w};

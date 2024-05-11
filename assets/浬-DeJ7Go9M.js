@@ -1,0 +1,1 @@
+const c=[{p:"lǐ",pp:"li3",d:"nautical mile",t:"浬",w:"浬"}],s=10,t="水",n=["氵","里"],o=[],i=[],l=[],a={s:c,sc:s,r:t,c:n,d:o,w:i,i:l};export{n as c,o as d,a as default,l as i,t as r,c as s,s as sc,i as w};

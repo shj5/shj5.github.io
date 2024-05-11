@@ -1,1 +1,0 @@
-const o=[{p:"láo",pp:"lao2",d:"variant of 牢[lao2]",t:"窂",w:"窂"}],s=["牛","穴"],c=[],t=[],n=[],a="穴",d=9,l={s:o,c:s,d:c,w:t,i:n,r:a,sc:d};export{s as c,c as d,l as default,n as i,a as r,o as s,d as sc,t as w};

@@ -1,0 +1,1 @@
+const n=[{p:"Tán",pp:"Tan2",d:"surname Tan",t:"鐔",w:"镡"},{p:"xín",pp:"xin2",d:"guard (on a sword handle)/pommel (on a sword handle)/dagger/Taiwan pr. [tan2]",t:"鐔",w:"镡"}],s=17,a="金",o=["覃"],t=[],c=[],d=[],p={s:n,sc:s,r:a,c:o,d:t,w:c,i:d};export{o as c,t as d,p as default,d as i,a as r,n as s,s as sc,c as w};

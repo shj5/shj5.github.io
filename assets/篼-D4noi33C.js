@@ -1,1 +1,0 @@
-const o=[{p:"dōu",pp:"dou1",d:"bamboo, rattan or wicker basket/sedan chair for mountain use (Cantonese)",t:"篼",w:"篼"}],s=["竹","兜"],t=[],c=[{w:"箢篼",p:"yuān dōu",d:"(dialect) scoop-shaped woven bamboo basket",t:"箢篼"}],n=[],a="竹",e=17,d={s:o,c:s,d:t,w:c,i:n,r:a,sc:e};export{s as c,t as d,d as default,n as i,a as r,o as s,e as sc,c as w};

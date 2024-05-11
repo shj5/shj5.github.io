@@ -1,0 +1,1 @@
+const s=[{p:"zōng",pp:"zong1",d:"dog giving birth to three puppies",t:"猣",w:"猣"}],t=12,c="犬",o=["犭"],n=[],p=[],i=[],d={s,sc:t,r:c,c:o,d:n,w:p,i};export{o as c,n as d,d as default,i,c as r,s,t as sc,p as w};

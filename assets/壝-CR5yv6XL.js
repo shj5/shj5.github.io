@@ -1,1 +1,0 @@
-const t=[{p:"wěi",pp:"wei3",d:"mound/embankment/the earthen altar to the god of the soil",t:"壝",w:"壝"}],o=["土"],s=[],c=[],n=[],e="土",a=19,d={s:t,c:o,d:s,w:c,i:n,r:e,sc:a};export{o as c,s as d,d as default,n as i,e as r,t as s,a as sc,c as w};

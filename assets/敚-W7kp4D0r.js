@@ -1,0 +1,1 @@
+const o=[{p:"duó",pp:"duo2",d:"old variant of 奪|夺[duo2]",t:"敓",w:"敚"}],s=11,c="攵",t=["攵"],n=[],d=[],a=[],p={s:o,sc:s,r:c,c:t,d:n,w:d,i:a};export{t as c,n as d,p as default,a as i,c as r,o as s,s as sc,d as w};

@@ -1,1 +1,0 @@
-const t=[{p:"zāo",pp:"zao1",d:"see 蹧蹋[zao1 ta4]",t:"蹧",w:"蹧"}],o=["足","曹"],s=[],a=[{w:"蹧塌",p:"zāo tà",d:"variant of 糟蹋[zao1 ta4]",t:"蹧塌"},{w:"蹧蹋",p:"zāo tà",d:"variant of 糟蹋[zao1 ta4]",t:"蹧蹋"}],c=[],n="足",z=18,d={s:t,c:o,d:s,w:a,i:c,r:n,sc:z};export{o as c,s as d,d as default,c as i,n as r,t as s,z as sc,a as w};

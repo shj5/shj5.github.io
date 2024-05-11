@@ -1,1 +1,0 @@
-const c=[{p:"nóng",pp:"nong2",d:"cold in the head catarrh of the nose",t:"齈",w:"齈"}],n=["鼻"],s=[],t=[],o=[],d="鼻",e=27,a={s:c,c:n,d:s,w:t,i:o,r:d,sc:e};export{n as c,s as d,a as default,o as i,d as r,c as s,e as sc,t as w};

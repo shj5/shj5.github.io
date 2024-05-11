@@ -1,1 +1,0 @@
-const c=[{p:"xíng",pp:"xing2",d:"soup cauldron/(arch.) sacrificial tripod with two handles and a lid/old variant of 硎[xing2]",t:"鉶",w:"铏"}],s=["刑"],n=[],o=[],t=[],a="金",i=11,d={s:c,c:s,d:n,w:o,i:t,r:a,sc:i};export{s as c,n as d,d as default,t as i,a as r,c as s,i as sc,o as w};

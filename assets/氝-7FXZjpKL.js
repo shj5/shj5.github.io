@@ -1,1 +1,0 @@
-const n=[{p:"nèi",pp:"nei4",d:"neon Ne (chemistry) (now written 氖[nai3])",t:"氝",w:"氝"}],s=["气","内"],t=[],c=[],o=[],e="气",i=8,r={s:n,c:s,d:t,w:c,i:o,r:e,sc:i};export{s as c,t as d,r as default,o as i,e as r,n as s,i as sc,c as w};
