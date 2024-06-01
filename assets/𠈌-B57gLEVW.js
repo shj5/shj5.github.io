@@ -1,0 +1,1 @@
+const n=[{p:"yú",pp:"yu2",d:"(archaic) variant of 虞[yu2]/used in 人從眾𠈌|人从众𠈌[ren2cong2zhong4yu2]",t:"𠈌",w:"𠈌"}],c=0,o="",s=[],t=[],e=[{w:"人从众𠈌",p:"rén cóng zhòng yú",d:"(Internet slang) huge crowds of people (emphatic form of 人[ren2])",t:"人從眾𠈌"}],r=[],a={s:n,sc:c,r:o,c:s,d:t,w:e,i:r};export{s as c,t as d,a as default,r as i,o as r,n as s,c as sc,e as w};

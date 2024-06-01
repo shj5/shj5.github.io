@@ -1,0 +1,1 @@
+const t=[{p:"qiàng",pp:"qiang4",d:"to briefly boil (a vegetable etc), then dress with soy sauce, oil, vinegar etc/to briefly stir-fry (meat, chopped spring onions etc), then add to other ingredients and cook further",t:"熗",w:"炝"}],e=8,o="火",s=["火","仓"],n=[],c=[],i=[],r={s:t,sc:e,r:o,c:s,d:n,w:c,i};export{s as c,n as d,r as default,i,o as r,t as s,e as sc,c as w};

@@ -1,1 +1,0 @@
-const t=[{p:"qiàng",pp:"qiang4",d:"to stir-fry then cook with sauce and water/to boil food briefly then dress with soy etc/to choke; to irritate (throat etc)",t:"熗",w:"炝"}],o=8,s="火",c=["火","仓"],n=[],e=[],i=[],r={s:t,sc:o,r:s,c,d:n,w:e,i};export{c,n as d,r as default,i,s as r,t as s,o as sc,e as w};

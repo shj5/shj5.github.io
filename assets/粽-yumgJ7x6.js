@@ -1,1 +1,0 @@
-const n=[{p:"zòng",pp:"zong4",d:"rice dumplings wrapped in leaves",t:"粽",w:"粽"},{p:"zòng",pp:"zong4",d:"variant of 粽[zong4]",t:"糉",w:"粽"}],o=14,s="米",c=["米","宗"],t=[],e=[{w:"粽子",p:"zòng zi",d:"glutinous rice and choice of filling wrapped in leaves and steamed or boiled",t:"粽子"}],i=[],d={s:n,sc:o,r:s,c,d:t,w:e,i};export{c,t as d,d as default,i,s as r,n as s,o as sc,e as w};

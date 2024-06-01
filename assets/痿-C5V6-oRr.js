@@ -1,0 +1,1 @@
+const c=[{p:"wěi",pp:"wei3",d:"atrophy",t:"痿",w:"痿"}],t=13,s="疒",n=["疒","委"],o=[],i=[{w:"阳痿",p:"yáng wěi",d:"(medicine) impotence",t:"陽痿"}],e=[],p={s:c,sc:t,r:s,c:n,d:o,w:i,i:e};export{n as c,o as d,p as default,e as i,s as r,c as s,t as sc,i as w};

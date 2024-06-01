@@ -1,0 +1,1 @@
+const t=[{p:"Xíng",pp:"Xing2",d:"surname Xing/place name",t:"邢",w:"邢"}],e=7,n="邑",c=["开"],i=[],s=[{w:"邢台",p:"Xíng tái",d:"Xingtai, a prefecture-level city in Hebei",t:"邢臺"},{w:"邢台市",p:"Xíng tái Shì",d:"Xingtai, a prefecture-level city in Hebei",t:"邢臺市"}],a=[],o={s:t,sc:e,r:n,c,d:i,w:s,i:a};export{c,i as d,o as default,a as i,n as r,t as s,e as sc,s as w};

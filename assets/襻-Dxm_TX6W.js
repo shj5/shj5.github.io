@@ -1,1 +1,0 @@
-const t=[{p:"pàn",pp:"pan4",d:"loop/belt/band/to tie together/to stitch together",t:"襻",w:"襻"}],o=25,n="衣",s=["衤","攀"],c=[],p=[{w:"纽襻",p:"niǔ pàn",d:"button loop",t:"紐襻"},{w:"扣襻",p:"kòu pàn",d:"fastening",t:"釦襻"}],e=[],d={s:t,sc:o,r:n,c:s,d:c,w:p,i:e};export{s as c,c as d,d as default,e as i,n as r,t as s,o as sc,p as w};

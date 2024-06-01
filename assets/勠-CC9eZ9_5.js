@@ -1,0 +1,1 @@
+const o=[{p:"lù",pp:"lu4",d:"(bound form) to join (forces)",t:"勠",w:"勠"}],t=13,s="力",c=["力","翏"],n=[],r=[{w:"勠力",p:"lù lì",d:"(literary) to join forces; to exert every effort",t:"勠力"}],e=[],d={s:o,sc:t,r:s,c,d:n,w:r,i:e};export{c,n as d,d as default,e as i,s as r,o as s,t as sc,r as w};

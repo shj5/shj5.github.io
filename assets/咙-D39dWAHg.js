@@ -1,1 +1,0 @@
-const t=[{p:"lóng",pp:"long2",d:"used in 喉嚨|喉咙[hou2 long2]",t:"嚨",w:"咙"}],s=8,n="口",o=["口","龙"],c=[],d=[{w:"喉咙",p:"hóu lóng",d:"the throat",t:"喉嚨"}],l=[],p={s:t,sc:s,r:n,c:o,d:c,w:d,i:l};export{o as c,c as d,p as default,l as i,n as r,t as s,s as sc,d as w};

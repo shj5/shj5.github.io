@@ -1,0 +1,1 @@
+const s=[{p:"lái",pp:"lai2",d:"used in 鶆䴈|𱉵𬸩[lai2ao3]",t:"鶆",w:"𱉵"}],c=0,o="",t=[],n=[],i=[{w:"𱉵𬸩",p:"lái ǎo",d:"rhea (bird of genus Rhea)",t:"鶆䴈"}],a=[],d={s,sc:c,r:o,c:t,d:n,w:i,i:a};export{t as c,n as d,d as default,a as i,o as r,s,c as sc,i as w};

@@ -1,1 +1,0 @@
-const c=[{p:"pí",pp:"pi2",d:"place name",t:"郫",w:"郫"}],n=11,s="邑",t=["卑"],o=[],p=[{w:"郫县",p:"Pí xiàn",d:"Pi county in Chengdu 成都[Cheng2 du1], Sichuan",t:"郫縣"}],d=[],i={s:c,sc:n,r:s,c:t,d:o,w:p,i:d};export{t as c,o as d,i as default,d as i,s as r,c as s,n as sc,p as w};
