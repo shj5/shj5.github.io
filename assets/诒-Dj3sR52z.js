@@ -1,1 +1,0 @@
-const t=[{p:"yí",pp:"yi2",d:"(archaic) to present/to bequeath/variant of 貽|贻[yi2]",t:"詒",w:"诒"}],s=7,o="言",c=["讠","台"],n=[],e=[{w:"诶诒",p:"ēi yí",d:"to rave/to babble in one's sleep",t:"誒詒"}],a=[],i={s:t,sc:s,r:o,c,d:n,w:e,i:a};export{c,n as d,i as default,a as i,o as r,t as s,s as sc,e as w};

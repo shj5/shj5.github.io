@@ -1,0 +1,1 @@
+const s=[{p:"gè",pp:"ge4",d:"used in 虼蚤[ge4zao5]/used in 虼螂[ge4lang2]",t:"虼",w:"虼"}],n=9,c="虫",t=["乞","虫"],o=[],e=[{w:"虼蚤",p:"gè zao",d:"(coll.) flea",t:"虼蚤"},{w:"虼螂",p:"gè láng",d:"see 蜣螂[qiang1lang2]",t:"虼螂"}],g=[],a={s,sc:n,r:c,c:t,d:o,w:e,i:g};export{t as c,o as d,a as default,g as i,c as r,s,n as sc,e as w};
