@@ -1,0 +1,1 @@
+const s=[{p:"yī",pp:"yi1",d:"excellent/precious/rare/fine/(used in given names)",t:"禕",w:"祎"}],c=9,n="示",t=["韦"],e=[],o="",i=[],r=[],d={s,sc:c,r:n,c:t,d:e,ux:o,w:i,i:r};export{t as c,e as d,d as default,r as i,n as r,s,c as sc,o as ux,i as w};

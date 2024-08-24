@@ -1,1 +1,0 @@
-const t=[{p:"pú",pp:"pu2",d:"place name",t:"莆",w:"莆"}],c=10,n="艸",e=["艹","甫"],s=[],i=[{w:"莆田",p:"Pú tián",d:"Putian, prefecture-level city in Fujian",t:"莆田"},{w:"莆田市",p:"Pú tián shì",d:"Putian, prefecture-level city in Fujian",t:"莆田市"}],p=[],o={s:t,sc:c,r:n,c:e,d:s,w:i,i:p};export{e as c,s as d,o as default,p as i,n as r,t as s,c as sc,i as w};

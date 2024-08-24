@@ -1,1 +1,0 @@
-const o=[{p:"bié",pp:"bie2",d:"to limp/to sprain (an ankle or wrist)/to move carefully, as if evading a danger/to scurry",t:"蹩",w:"蹩"}],s=19,t="足",c=["足","敝"],n=[],i=[{w:"蹩脚",p:"bié jiǎo",d:"inferior/shoddy/lousy/lame",t:"蹩腳"}],r=[],a={s:o,sc:s,r:t,c,d:n,w:i,i:r};export{c,n as d,a as default,r as i,t as r,o as s,s as sc,i as w};

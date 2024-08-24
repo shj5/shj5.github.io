@@ -1,1 +1,0 @@
-const s=[{p:"cāng",pp:"cang1",d:"Japanese variant of 蒼|苍 house-fly",t:"螥",w:"螥"}],c=16,n="虫",t=["虫"],o=[],a=[],e=[],p={s,sc:c,r:n,c:t,d:o,w:a,i:e};export{t as c,o as d,p as default,e as i,n as r,s,c as sc,a as w};

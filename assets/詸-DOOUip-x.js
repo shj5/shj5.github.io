@@ -1,0 +1,1 @@
+const s=[{p:"mí",pp:"mi2",d:"variant of 謎|谜[mi2]",t:"詸",w:"詸"}],c=13,t="言",o=["米"],n=[],i="",a=[],d=[],p={s,sc:c,r:t,c:o,d:n,ux:i,w:a,i:d};export{o as c,n as d,p as default,d as i,t as r,s,c as sc,i as ux,a as w};

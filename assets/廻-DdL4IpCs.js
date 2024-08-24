@@ -1,1 +1,0 @@
-const s=[{p:"huí",pp:"hui2",d:"variant of 迴|回[hui2]",t:"廻",w:"廻"}],c=9,t="廴",o=["廴","回"],n=[],i=[],a=[],d={s,sc:c,r:t,c:o,d:n,w:i,i:a};export{o as c,n as d,d as default,a as i,t as r,s,c as sc,i as w};

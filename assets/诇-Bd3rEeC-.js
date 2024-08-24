@@ -1,0 +1,1 @@
+const t=[{p:"xiòng",pp:"xiong4",d:"(literary) to spy/to pry into",t:"詗",w:"诇"}],s=7,o="言",c=["讠","冋"],n=[],i="",p=[],r=[],x={s:t,sc:s,r:o,c,d:n,ux:i,w:p,i:r};export{c,n as d,x as default,r as i,o as r,t as s,s as sc,i as ux,p as w};

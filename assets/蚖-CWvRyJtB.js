@@ -1,0 +1,1 @@
+const t=[{p:"yuán",pp:"yuan2",d:"Protura (soil dwelling primitive hexapod)/variant of 螈, salamander/newt/triton",t:"蚖",w:"蚖"}],n=10,o="虫",s=["元","虫"],c=[],i="",a=[{w:"蚖虫",p:"yuán chóng",d:"Protura (soil dwelling primitive hexapod)",t:"蚖蟲"}],r=[],d={s:t,sc:n,r:o,c:s,d:c,ux:i,w:a,i:r};export{s as c,c as d,d as default,r as i,o as r,t as s,n as sc,i as ux,a as w};

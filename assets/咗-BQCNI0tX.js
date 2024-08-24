@@ -1,0 +1,1 @@
+const t=[{p:"zuǒ",pp:"zuo3",d:"Cantonese particle equivalent to 了[le5] or 過|过[guo4]",t:"咗",w:"咗"}],o=8,s="口",c=["口","左"],n=[],e="",u=[],a=[],p={s:t,sc:o,r:s,c,d:n,ux:e,w:u,i:a};export{c,n as d,p as default,a as i,s as r,t as s,o as sc,e as ux,u as w};

@@ -1,1 +1,0 @@
-const s=[{p:"bì",pp:"bi4",d:"used in transliterating Buddhist books",t:"驆",w:"驆"}],t=21,c="馬",n=[],o=[],d=[],i=[],r={s,sc:t,r:c,c:n,d:o,w:d,i};export{n as c,o as d,r as default,i,c as r,s,t as sc,d as w};

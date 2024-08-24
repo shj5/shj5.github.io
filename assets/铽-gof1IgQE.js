@@ -1,0 +1,1 @@
+const t=[{p:"tè",pp:"te4",d:"terbium (chemistry)",t:"鋱",w:"铽"}],s=12,c="金",o=["忒"],n=[],e="",r=[],d=[],i={s:t,sc:s,r:c,c:o,d:n,ux:e,w:r,i:d};export{o as c,n as d,i as default,d as i,c as r,t as s,s as sc,e as ux,r as w};

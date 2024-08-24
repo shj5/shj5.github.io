@@ -1,0 +1,1 @@
+const s=[{p:"mǎo",pp:"mao3",d:"the Pleiades",t:"昴",w:"昴"}],t=9,o="日",c=["日","卯"],n=[],d="",e=[{w:"昴宿星团",p:"Mǎo xiù xīng tuán",d:"Pleiades M45",t:"昴宿星團"},{w:"昴星团",p:"Mǎo xīng tuán",d:"Pleiades M45",t:"昴星團"}],a=[],i={s,sc:t,r:o,c,d:n,ux:d,w:e,i:a};export{c,n as d,i as default,a as i,o as r,s,t as sc,d as ux,e as w};

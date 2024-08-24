@@ -1,0 +1,1 @@
+const o=[{p:"yáo",pp:"yao2",d:"compulsory service",t:"徭",w:"徭"}],c=13,s="彳",t=["彳"],n=[],r="",e=[{w:"徭役",p:"yáo yì",d:"forced labor/corvee",t:"徭役"}],d=[],p={s:o,sc:c,r:s,c:t,d:n,ux:r,w:e,i:d};export{t as c,n as d,p as default,d as i,s as r,o as s,c as sc,r as ux,e as w};

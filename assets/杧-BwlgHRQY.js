@@ -1,0 +1,1 @@
+const n=[{p:"máng",pp:"mang2",d:"used in 杧果[mang2 guo3]",t:"杧",w:"杧"}],s=7,t="木",c=["亡","木"],o=[],g="",a=[{w:"杧果",p:"máng guǒ",d:"variant of 芒果[mang2 guo3]",t:"杧果"}],u=[],d={s:n,sc:s,r:t,c,d:o,ux:g,w:a,i:u};export{c,o as d,d as default,u as i,t as r,n as s,s as sc,g as ux,a as w};

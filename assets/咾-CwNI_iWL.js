@@ -1,0 +1,1 @@
+const s=[{p:"lǎo",pp:"lao3",d:"a noise/a sound",t:"咾",w:"咾"}],o=9,t="口",c=["口","老"],n=[],a="",d=[{w:"咕咾肉",p:"gū lǎo ròu",d:"sweet and sour meat (pork)",t:"咕咾肉"}],e=[],p={s,sc:o,r:t,c,d:n,ux:a,w:d,i:e};export{c,n as d,p as default,e as i,t as r,s,o as sc,a as ux,d as w};

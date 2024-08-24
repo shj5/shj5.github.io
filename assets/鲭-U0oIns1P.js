@@ -1,1 +1,0 @@
-const t=[{p:"qīng",pp:"qing1",d:"mackerel",t:"鯖",w:"鲭"},{p:"zhēng",pp:"zheng1",d:"(literary) boiled stew of fish and meat",t:"鯖",w:"鲭"}],s=16,c="魚",n=["鱼","青"],e=[],o=[{w:"鲭鱼",p:"qīng yú",d:"mackerel",t:"鯖魚"}],d=[],p={s:t,sc:s,r:c,c:n,d:e,w:o,i:d};export{n as c,e as d,p as default,d as i,c as r,t as s,s as sc,o as w};

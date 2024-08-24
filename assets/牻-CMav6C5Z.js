@@ -1,1 +1,0 @@
-const t=[{p:"máng",pp:"mang2",d:"(literary) black and white cattle",t:"牻",w:"牻"}],c=11,n="牛",s=["尨"],a=[],e=[{w:"牻牛儿苗科",p:"máng niú r miáo kē",d:"Geraniaceae (the geranium family)",t:"牻牛兒苗科"}],o=[],i={s:t,sc:c,r:n,c:s,d:a,w:e,i:o};export{s as c,a as d,i as default,o as i,n as r,t as s,c as sc,e as w};

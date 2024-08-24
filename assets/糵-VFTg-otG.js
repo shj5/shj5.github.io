@@ -1,0 +1,1 @@
+const s=[{p:"niè",pp:"nie4",d:"(literary) yeast used for brewing wine",t:"糵",w:"糵"}],t=23,c="米",n=["米"],o=[],e="",i=[],r=[],d={s,sc:t,r:c,c:n,d:o,ux:e,w:i,i:r};export{n as c,o as d,d as default,r as i,c as r,s,t as sc,e as ux,i as w};

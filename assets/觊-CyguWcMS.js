@@ -1,0 +1,1 @@
+const t=[{p:"jì",pp:"ji4",d:"to covet/to long for",t:"覬",w:"觊"}],o=10,c="見",s=["见","岂"],n=[],e="",r=[{w:"觊觎",p:"jì yú",d:"(literary) to covet; to cast greedy eyes on",t:"覬覦"}],d=[],p={s:t,sc:o,r:c,c:s,d:n,ux:e,w:r,i:d};export{s as c,n as d,p as default,d as i,c as r,t as s,o as sc,e as ux,r as w};

@@ -1,0 +1,1 @@
+const t=[{p:"tiáo",pp:"tiao2",d:"to jump/to climb over/to leap/to posture/a gangway",t:"趒",w:"趒"}],o=13,s="走",c=["兆","走"],n=[],a="",p=[],e=[],i={s:t,sc:o,r:s,c,d:n,ux:a,w:p,i:e};export{c,n as d,i as default,e as i,s as r,t as s,o as sc,a as ux,p as w};

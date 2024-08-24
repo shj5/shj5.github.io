@@ -1,0 +1,1 @@
+const n=[{p:"qiǎn",pp:"qian3",d:"used in 繾綣|缱绻[qian3quan3]",t:"繾",w:"缱"}],s=16,t="糸",c=["纟","遣"],o=[],i="",a=[{w:"缱绻",p:"qiǎn quǎn",d:"(literary) in love and inseparable",t:"繾綣"}],d=[],e={s:n,sc:s,r:t,c,d:o,ux:i,w:a,i:d};export{c,o as d,e as default,d as i,t as r,n as s,s as sc,i as ux,a as w};

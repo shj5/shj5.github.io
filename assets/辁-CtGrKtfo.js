@@ -1,1 +1,0 @@
-const t=[{p:"quán",pp:"quan2",d:"limited (of talent or ability)/(archaic) solid wheel (without spokes)",t:"輇",w:"辁"}],s=10,c="車",o=["车","全"],n=[],i=[],a=[],e={s:t,sc:s,r:c,c:o,d:n,w:i,i:a};export{o as c,n as d,e as default,a as i,c as r,t as s,s as sc,i as w};

@@ -1,0 +1,1 @@
+const t=[{p:"léi",pp:"lei2",d:"basket for carrying earth",t:"蔂",w:"蔂"},{p:"léi",pp:"lei2",d:"to entwine/creeper; bramble/(literary) basket for carrying soil",t:"虆",w:"蔂"}],s=14,c="艸",r=["艹","累"],e=[],o="",n=[],i=[],a={s:t,sc:s,r:c,c:r,d:e,ux:o,w:n,i};export{r as c,e as d,a as default,i,c as r,t as s,s as sc,o as ux,n as w};

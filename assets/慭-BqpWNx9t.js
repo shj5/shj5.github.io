@@ -1,1 +1,0 @@
-const t=[{p:"yìn",pp:"yin4",d:"(literary) to wish; to prefer to/(literary) to incur damage or loss",t:"憖",w:"慭"}],s=16,o="心",c=["心"],n=[],r=[],e=[],i={s:t,sc:s,r:o,c,d:n,w:r,i:e};export{c,n as d,i as default,e as i,o as r,t as s,s as sc,r as w};

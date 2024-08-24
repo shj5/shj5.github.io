@@ -1,1 +1,0 @@
-const s=[{p:"nǔ",pp:"nu3",d:"flint/(metonym) arrowhead",t:"砮",w:"砮"}],t=10,c="石",n=["奴","石"],o=[],d=[],r=[],a={s,sc:t,r:c,c:n,d:o,w:d,i:r};export{n as c,o as d,a as default,r as i,c as r,s,t as sc,d as w};

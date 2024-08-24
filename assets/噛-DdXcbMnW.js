@@ -1,0 +1,1 @@
+const s=[{p:"niè",pp:"nie4",d:"old variant of 嚙|啮[nie4]",t:"噛",w:"噛"}],c=15,n="口",t=["口","歯"],o=[],i="",d=[],a=[],e={s,sc:c,r:n,c:t,d:o,ux:i,w:d,i:a};export{t as c,o as d,e as default,a as i,n as r,s,c as sc,i as ux,d as w};

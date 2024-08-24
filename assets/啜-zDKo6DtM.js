@@ -1,1 +1,0 @@
-const t=[{p:"chuò",pp:"chuo4",d:"(literary) to drink/to sip/to sob",t:"啜",w:"啜"}],o=11,s="口",c=["口","叕"],n=[],p=[{w:"啜泣",p:"chuò qì",d:"to sob",t:"啜泣"},{w:"啜饮",p:"chuò yǐn",d:"to sip",t:"啜飲"}],d=[],i={s:t,sc:o,r:s,c,d:n,w:p,i:d};export{c,n as d,i as default,d as i,s as r,t as s,o as sc,p as w};

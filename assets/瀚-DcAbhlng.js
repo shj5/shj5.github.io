@@ -1,0 +1,1 @@
+const s=[{p:"hàn",pp:"han4",d:"ocean/vastness",t:"瀚",w:"瀚"}],n=19,c="水",o=["氵","翰"],t=[],a="",d=[{w:"浩瀚",p:"hào hàn",d:"vast (of ocean)/boundless",t:"浩瀚"}],e=[],p={s,sc:n,r:c,c:o,d:t,ux:a,w:d,i:e};export{o as c,t as d,p as default,e as i,c as r,s,n as sc,a as ux,d as w};

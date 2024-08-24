@@ -1,1 +1,0 @@
-const t=[{p:"yù",pp:"yu4",d:"(arch. introductory particle)/then/and then",t:"聿",w:"聿"}],c=6,n="*",s=["二"],o=["垏","建","律","津","珒","畵","肄","肆","肇","衋"],e=[{w:"贝聿铭",p:"Bèi Yù míng",d:"Pei Ieoh Ming or I.M. Pei (1917-2019), Chinese-American architect",t:"貝聿銘"}],i=[],r={s:t,sc:c,r:n,c:s,d:o,w:e,i};export{s as c,o as d,r as default,i,n as r,t as s,c as sc,e as w};

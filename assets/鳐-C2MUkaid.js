@@ -1,0 +1,1 @@
+const s=[{p:"yáo",pp:"yao2",d:"skate (cartilaginous fish belonging to the family Rajidae)/ray (fish)",t:"鰩",w:"鳐"}],t=18,o="魚",c=["鱼"],n=[],a="",i=[],e=[],d={s,sc:t,r:o,c,d:n,ux:a,w:i,i:e};export{c,n as d,d as default,e as i,o as r,s,t as sc,a as ux,i as w};

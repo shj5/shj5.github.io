@@ -1,1 +1,0 @@
-const s=[{p:"sōu",pp:"sou1",d:"classifier for ships/Taiwan pr. [sao1]",t:"艘",w:"艘"}],c=16,o="舟",t=["舟","叟"],n=[],a=[],i=[],p={s,sc:c,r:o,c:t,d:n,w:a,i};export{t as c,n as d,p as default,i,o as r,s,c as sc,a as w};

@@ -1,1 +1,0 @@
-const o=[{p:"ráo",pp:"rao2",d:"fuel/grass",t:"蕘",w:"荛"}],s=9,c="艸",t=["艹","尧"],r=[],n=[{w:"刍荛",p:"chú ráo",d:"to mow grass and cut firewood/grass mower/woodman",t:"芻蕘"}],a=[],d={s:o,sc:s,r:c,c:t,d:r,w:n,i:a};export{t as c,r as d,d as default,a as i,c as r,o as s,s as sc,n as w};

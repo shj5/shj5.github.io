@@ -1,0 +1,1 @@
+const s=[{p:"fēi",pp:"fei1",d:"side horse (in a team of harnessed horses)/horse",t:"騑",w:"騑"}],o=18,c="馬",t=["非"],n=[],e="",r=[],d=[],i={s,sc:o,r:c,c:t,d:n,ux:e,w:r,i:d};export{t as c,n as d,i as default,d as i,c as r,s,o as sc,e as ux,r as w};

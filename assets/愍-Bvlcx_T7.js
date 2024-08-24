@@ -1,1 +1,0 @@
-const s=[{p:"mǐn",pp:"min3",d:"variant of 憫|悯[min3]",t:"愍",w:"愍"}],c=13,n="心",t=["心","敃"],o=[],i=[],a=[],d={s,sc:c,r:n,c:t,d:o,w:i,i:a};export{t as c,o as d,d as default,a as i,n as r,s,c as sc,i as w};

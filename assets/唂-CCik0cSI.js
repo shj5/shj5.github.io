@@ -1,0 +1,1 @@
+const c=[{p:"gū",pp:"gu1",d:"(onom.) bird call",t:"唂",w:"唂"}],s=10,o="口",t=["口","谷"],n=[],d="",p=[],r=[],u={s:c,sc:s,r:o,c:t,d:n,ux:d,w:p,i:r};export{t as c,n as d,u as default,r as i,o as r,c as s,s as sc,d as ux,p as w};

@@ -1,1 +1,0 @@
-const c=[{p:"qián",pp:"qian2",d:"big iron pot/cauldron/variant of 甑[zeng4], rice pot",t:"鬵",w:"鬵"}],n=18,o="鬲",t=["旡","鬲"],s=[],i=[],r=[],a={s:c,sc:n,r:o,c:t,d:s,w:i,i:r};export{t as c,s as d,a as default,r as i,o as r,c as s,n as sc,i as w};

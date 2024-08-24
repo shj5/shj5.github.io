@@ -1,1 +1,0 @@
-const s=[{p:"qiè",pp:"qie4",d:"to leave/to abandon",t:"朅",w:"朅"}],t=14,c="曰",o=["去","曷"],n=[],a=[],d=[],e={s,sc:t,r:c,c:o,d:n,w:a,i:d};export{o as c,n as d,e as default,d as i,c as r,s,t as sc,a as w};

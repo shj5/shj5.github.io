@@ -1,1 +1,0 @@
-const n=[{p:"yīn",pp:"yin1",d:"bury/mound/to dam/close",t:"堙",w:"堙"},{p:"yīn",pp:"yin1",d:"variant of 堙[yin1]/to block",t:"陻",w:"堙"}],o=12,t="土",c=["土","垔"],s=[],d=[],p=[],i={s:n,sc:o,r:t,c,d:s,w:d,i:p};export{c,s as d,i as default,p as i,t as r,n as s,o as sc,d as w};

@@ -1,0 +1,1 @@
+const c=[{p:"méi",pp:"mei2",d:"americium (chemistry) (Tw)/(archaic) metal chain",t:"鋂",w:"鋂"}],s=15,t="金",n=["每","金"],o=[],i="",a=[],e=[],m={s:c,sc:s,r:t,c:n,d:o,ux:i,w:a,i:e};export{n as c,o as d,m as default,e as i,t as r,c as s,s as sc,i as ux,a as w};

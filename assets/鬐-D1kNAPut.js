@@ -1,1 +1,0 @@
-const s=[{p:"qí",pp:"qi2",d:"dorsal fins/horse's mane",t:"鬐",w:"鬐"}],c=20,o="髟",t=["髟","耆"],n=[],d=[],r=[],a={s,sc:c,r:o,c:t,d:n,w:d,i:r};export{t as c,n as d,a as default,r as i,o as r,s,c as sc,d as w};

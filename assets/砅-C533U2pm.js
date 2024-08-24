@@ -1,1 +1,0 @@
-const s=[{p:"lì",pp:"li4",d:"cross stream by stepping on stones",t:"砅",w:"砅"}],t=9,c="石",o=["水","石"],n=[],p=[],e=[],r={s,sc:t,r:c,c:o,d:n,w:p,i:e};export{o as c,n as d,r as default,e as i,c as r,s,t as sc,p as w};

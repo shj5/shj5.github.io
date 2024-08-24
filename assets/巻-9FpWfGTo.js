@@ -1,0 +1,1 @@
+const s=[{p:"juǎn",pp:"juan3",d:"Japanese variant of 卷[juan3]",t:"巻",w:"巻"}],n=9,c="己",t=["己","关"],o=["圏"],a="",u=[],p=[],d={s,sc:n,r:c,c:t,d:o,ux:a,w:u,i:p};export{t as c,o as d,d as default,p as i,c as r,s,n as sc,a as ux,u as w};

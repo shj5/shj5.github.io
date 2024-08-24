@@ -1,1 +1,0 @@
-const n=[{p:"lǐn",pp:"lin3",d:"ancient name for east Roman empire",t:"菻",w:"菻"}],s=11,c="艸",t=["艹","林"],o=[],e=[],a=[],i={s:n,sc:s,r:c,c:t,d:o,w:e,i:a};export{t as c,o as d,i as default,a as i,c as r,n as s,s as sc,e as w};

@@ -1,1 +1,0 @@
-const c=[{p:"cǎn",pp:"can3",d:"dark/dim/gloomy/bleak",t:"黲",w:"黪"}],s=20,o="黑",t=["参","黑"],n=[],d=[],a=[],p={s:c,sc:s,r:o,c:t,d:n,w:d,i:a};export{t as c,n as d,p as default,a as i,o as r,c as s,s as sc,d as w};

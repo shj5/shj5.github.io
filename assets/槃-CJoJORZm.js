@@ -1,1 +1,0 @@
-const n=[{p:"pán",pp:"pan2",d:"variant of 盤|盘/wooden tray",t:"槃",w:"槃"}],t=14,s="木",o=["木","般"],a=[],c=[{w:"光槃",p:"guāng pán",d:"variant of 光盤|光盘[guang1 pan2]",t:"光槃"},{w:"涅槃",p:"niè pán",d:"nirvana (Buddhism)",t:"涅槃"}],p=[],d={s:n,sc:t,r:s,c:o,d:a,w:c,i:p};export{o as c,a as d,d as default,p as i,s as r,n as s,t as sc,c as w};

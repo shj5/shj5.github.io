@@ -1,1 +1,0 @@
-const s=[{p:"huá",pp:"hua2",d:"old variant of 華|华[hua2]",t:"蕐",w:"蕐"}],c=15,t="艸",o=["艹"],n=[],a=[],d=[],p={s,sc:c,r:t,c:o,d:n,w:a,i:d};export{o as c,n as d,p as default,d as i,t as r,s,c as sc,a as w};

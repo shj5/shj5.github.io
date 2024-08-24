@@ -1,1 +1,0 @@
-const s=[{p:"fú",pp:"fu2",d:"(literary) variant of 韍|韨[fu2]",t:"巿",w:"巿"}],t=4,c="巾",o=["一","巾"],n=["沛","芾","肺"],r=[],a=[],f={s,sc:t,r:c,c:o,d:n,w:r,i:a};export{o as c,n as d,f as default,a as i,c as r,s,t as sc,r as w};

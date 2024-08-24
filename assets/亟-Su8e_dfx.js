@@ -1,1 +1,0 @@
-const t=[{p:"jí",pp:"ji2",d:"urgent",t:"亟",w:"亟"},{p:"qì",pp:"qi4",d:"repeatedly/frequently",t:"亟",w:"亟"}],e=8,n="二",d=["二"],o=["殛"],s=[{w:"亟待",p:"jí dài",d:"to need urgently; to need doing without delay",t:"亟待"},{w:"亟需",p:"jí xū",d:"to urgently need/urgent need",t:"亟需"}],c=[],p={s:t,sc:e,r:n,c:d,d:o,w:s,i:c};export{d as c,o as d,p as default,c as i,n as r,t as s,e as sc,s as w};

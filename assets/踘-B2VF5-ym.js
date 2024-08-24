@@ -1,0 +1,1 @@
+const c=[{p:"jū",pp:"ju1",d:"leather ball/Taiwan pr. [ju2]",t:"踘",w:"踘"}],t=15,s="足",n=["足","匊"],o=[],a="",u=[{w:"蹴踘",p:"cù jū",d:"variant of 蹴鞠[cu4 ju1]",t:"蹴踘"}],p=[],r={s:c,sc:t,r:s,c:n,d:o,ux:a,w:u,i:p};export{n as c,o as d,r as default,p as i,s as r,c as s,t as sc,a as ux,u as w};

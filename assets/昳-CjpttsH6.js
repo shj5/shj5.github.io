@@ -1,1 +1,0 @@
-const s=[{p:"dié",pp:"die2",d:"the declining sun in the west",t:"昳",w:"昳"}],t=9,c="日",n=["日","失"],o=[],d=[],e=[],i={s,sc:t,r:c,c:n,d:o,w:d,i:e};export{n as c,o as d,i as default,e as i,c as r,s,t as sc,d as w};

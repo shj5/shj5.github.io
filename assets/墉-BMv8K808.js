@@ -1,0 +1,1 @@
+const t=[{p:"yōng",pp:"yong1",d:"fortified wall/city wall",t:"墉",w:"墉"}],c=14,s="土",n=["土","庸"],o=[],l="",w=[{w:"墉垣",p:"yōng yuán",d:"city wall",t:"墉垣"}],d=[],i={s:t,sc:c,r:s,c:n,d:o,ux:l,w,i:d};export{n as c,o as d,i as default,d as i,s as r,t as s,c as sc,l as ux,w};

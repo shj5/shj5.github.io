@@ -1,1 +1,0 @@
-const t=[{p:"guō",pp:"guo1",d:"raucous/clamor/unpleasantly noisy",t:"聒",w:"聒"}],o=12,s="耳",c=["耳","舌"],n=[],a=[{w:"絮聒",p:"xù guō",d:"noisy prattle/to chatter loudly",t:"絮聒"},{w:"聒噪",p:"guō zào",d:"a clamor/noisy",t:"聒噪"},{w:"聒耳",p:"guō ěr",d:"raucous/ear-splitting",t:"聒耳"}],u=[],r={s:t,sc:o,r:s,c,d:n,w:a,i:u};export{c,n as d,r as default,u as i,s as r,t as s,o as sc,a as w};

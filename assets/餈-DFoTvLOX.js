@@ -1,1 +1,0 @@
-const c=[{p:"cí",pp:"ci2",d:"fried rice cake",t:"餈",w:"餈"}],s=15,t="食",o=["次","食"],n=[],d=[],e=[],i={s:c,sc:s,r:t,c:o,d:n,w:d,i:e};export{o as c,n as d,i as default,e as i,t as r,c as s,s as sc,d as w};

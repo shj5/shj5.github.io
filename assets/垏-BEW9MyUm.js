@@ -1,0 +1,1 @@
+const s=[{p:"lǜ",pp:"lu:4",d:"(literary) earth ridge between fields/(used in place names)",t:"垏",w:"垏"}],t=9,c="土",e=["土","聿"],n=[],o="",d=[],r=[],a={s,sc:t,r:c,c:e,d:n,ux:o,w:d,i:r};export{e as c,n as d,a as default,r as i,c as r,s,t as sc,o as ux,d as w};

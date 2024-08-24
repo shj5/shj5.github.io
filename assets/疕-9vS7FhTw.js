@@ -1,0 +1,1 @@
+const s=[{p:"bǐ",pp:"bi3",d:"facial skin disease/mange",t:"疕",w:"疕"}],c=7,t="疒",n=["匕","疒"],o=[],a="",i=[],d=[],e={s,sc:c,r:t,c:n,d:o,ux:a,w:i,i:d};export{n as c,o as d,e as default,d as i,t as r,s,c as sc,a as ux,i as w};

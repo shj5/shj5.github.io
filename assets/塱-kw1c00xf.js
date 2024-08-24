@@ -1,1 +1,0 @@
-const s=[{p:"lǎng",pp:"lang3",d:"raised bank/mud wall",t:"塱",w:"塱"}],c=13,n="土",t=["土","朗"],o=[],a=[],d=[],l={s,sc:c,r:n,c:t,d:o,w:a,i:d};export{t as c,o as d,l as default,d as i,n as r,s,c as sc,a as w};

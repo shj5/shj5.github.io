@@ -1,1 +1,0 @@
-const s=[{p:"là",pp:"la4",d:"used in 蝲蛄[la4 gu3]/used in 蝲蝲蛄[la4 la4 gu3]",t:"蝲",w:"蝲"}],c=15,t="虫",a=["虫","剌"],l=[],o=[{w:"蝲蛄",p:"là gǔ",d:"freshwater crayfish (Procambarus clarkii)",t:"蝲蛄"},{w:"蝲蝲蛄",p:"là là gǔ",d:"mole cricket",t:"蝲蝲蛄"}],n=[],r={s,sc:c,r:t,c:a,d:l,w:o,i:n};export{a as c,l as d,r as default,n as i,t as r,s,c as sc,o as w};

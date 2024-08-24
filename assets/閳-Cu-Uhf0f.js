@@ -1,0 +1,1 @@
+const c=[{p:"chǎn",pp:"chan3",d:"old variant of 闡|阐[chan3]",t:"閳",w:"閳"}],s=15,n="門",t=[],o=[],a="",d=[],p=[],r={s:c,sc:s,r:n,c:t,d:o,ux:a,w:d,i:p};export{t as c,o as d,r as default,p as i,n as r,c as s,s as sc,a as ux,d as w};

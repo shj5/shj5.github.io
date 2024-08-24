@@ -1,1 +1,0 @@
-const o=[{p:"yùn",pp:"yun4",d:"to brew",t:"醞",w:"酝"}],s=11,t="酉",n=["云","酉"],c=[],e=[{w:"酝酿",p:"yùn niàng",d:"(of alcohol) to ferment/(of a crisis) to be brewing/to mull over (an issue)/to hold exploratory discussions",t:"醞釀"}],r=[],i={s:o,sc:s,r:t,c:n,d:c,w:e,i:r};export{n as c,c as d,i as default,r as i,t as r,o as s,s as sc,e as w};

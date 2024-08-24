@@ -1,1 +1,0 @@
-const s=[{p:"liǎng",pp:"liang3",d:"ounce (British imperial system) (old)",t:"啢",w:"唡"}],c=10,t="口",n=["口","两"],o=[],i=[],d=[],e={s,sc:c,r:t,c:n,d:o,w:i,i:d};export{n as c,o as d,e as default,d as i,t as r,s,c as sc,i as w};

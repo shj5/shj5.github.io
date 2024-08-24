@@ -1,1 +1,0 @@
-const n=[{p:"dīng",pp:"ding1",d:"jingling/tinkling",t:"玎",w:"玎"}],s=6,c="玉",t=["丁","王"],o=[],i=[{w:"玎玲",p:"dīng líng",d:"(onom.) ding-a-ling/clink of jewels",t:"玎玲"}],d=[],g={s:n,sc:s,r:c,c:t,d:o,w:i,i:d};export{t as c,o as d,g as default,d as i,c as r,n as s,s as sc,i as w};

@@ -1,0 +1,1 @@
+const c=[{p:"xiè",pp:"xie4",d:"contract (variant of 契[qi4])",t:"偰",w:"偰"}],t=11,s="人",o=["亻","契"],n=[],i="",a=[],r=[],x={s:c,sc:t,r:s,c:o,d:n,ux:i,w:a,i:r};export{o as c,n as d,x as default,r as i,s as r,c as s,t as sc,i as ux,a as w};

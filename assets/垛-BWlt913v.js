@@ -1,0 +1,1 @@
+const t=[{p:"duǒ",pp:"duo3",d:"battlement/target",t:"垛",w:"垛"},{p:"duò",pp:"duo4",d:"pile",t:"垛",w:"垛"},{p:"duǒ",pp:"duo3",d:"variant of 垛[duo3]",t:"垜",w:"垛"}],d=9,o="土",c=["土","朵"],s=[],n="",p=[{w:"垛口",p:"duǒ kǒu",d:"crenel",t:"垛口"}],u=[],e={s:t,sc:d,r:o,c,d:s,ux:n,w:p,i:u};export{c,s as d,e as default,u as i,o as r,t as s,d as sc,n as ux,p as w};

@@ -1,1 +1,0 @@
-const n=[{p:"mín",pp:"min2",d:"name of a river in Sichuan",t:"岷",w:"岷"}],i=8,c="山",s=["山","民"],t=[],o=[{w:"岷江",p:"Mín Jiāng",d:"Min River, Sichuan",t:"岷江"},{w:"岷县",p:"Mín xiàn",d:"Min county in Dingxi 定西[Ding4 xi1], Gansu",t:"岷縣"}],a=[],d={s:n,sc:i,r:c,c:s,d:t,w:o,i:a};export{s as c,t as d,d as default,a as i,c as r,n as s,i as sc,o as w};

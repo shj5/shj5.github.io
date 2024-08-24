@@ -1,0 +1,1 @@
+const s=[{p:"bō",pp:"bo1",d:"bohrium (chemistry)",t:"𨨏",w:"𬭛"}],c=0,t="",o=[],n=[],r="E",d=[],i=[],p={s,sc:c,r:t,c:o,d:n,ux:r,w:d,i};export{o as c,n as d,p as default,i,t as r,s,c as sc,r as ux,d as w};

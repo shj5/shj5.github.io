@@ -1,1 +1,0 @@
-const s=[{p:"yūn",pp:"yun1",d:"deep and broad (expanse of water)/abyss",t:"奫",w:"奫"}],c=14,n="大",t=["大"],o=[],a=[],d=[],e={s,sc:c,r:n,c:t,d:o,w:a,i:d};export{t as c,o as d,e as default,d as i,n as r,s,c as sc,a as w};

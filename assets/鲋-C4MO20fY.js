@@ -1,1 +1,0 @@
-const s=[{p:"fù",pp:"fu4",d:"silver carp",t:"鮒",w:"鲋"}],t=13,c="魚",i=["付","鱼"],o=[],n=[],r=[{w:"涸辙之鲋",p:"hé zhé zhī fù",d:"lit. a fish in a dried-out rut (idiom)/fig. a person in dire straits",t:"涸轍之鮒"}],d={s,sc:t,r:c,c:i,d:o,w:n,i:r};export{i as c,o as d,d as default,r as i,c as r,s,t as sc,n as w};

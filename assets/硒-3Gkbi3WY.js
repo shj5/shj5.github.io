@@ -1,0 +1,1 @@
+const s=[{p:"xī",pp:"xi1",d:"selenium (chemistry)",t:"硒",w:"硒"}],t=11,c="石",n=["石","西"],o=[],e="",r=[{w:"硒鼓",p:"xī gǔ",d:"toner cartridge",t:"硒鼓"}],d=[],i={s,sc:t,r:c,c:n,d:o,ux:e,w:r,i:d};export{n as c,o as d,i as default,d as i,c as r,s,t as sc,e as ux,r as w};

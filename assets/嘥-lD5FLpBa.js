@@ -1,1 +1,0 @@
-const s=[{p:"sāi",pp:"sai1",d:"to waste (Cantonese)",t:"嘥",w:"嘥"}],t=14,c="口",o=["口","徙"],n=[],a=[],e=[],d={s,sc:t,r:c,c:o,d:n,w:a,i:e};export{o as c,n as d,d as default,e as i,c as r,s,t as sc,a as w};

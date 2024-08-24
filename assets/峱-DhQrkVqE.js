@@ -1,0 +1,1 @@
+const n=[{p:"náo",pp:"nao2",d:"name of a mountain",t:"峱",w:"峱"}],o=10,s="山",c=["犭"],t=[],a="",d=[],p=[],u={s:n,sc:o,r:s,c,d:t,ux:a,w:d,i:p};export{c,t as d,u as default,p as i,s as r,n as s,o as sc,a as ux,d as w};

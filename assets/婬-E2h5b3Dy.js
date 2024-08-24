@@ -1,1 +1,0 @@
-const s=[{p:"yín",pp:"yin2",d:"obscene, licentious, lewd",t:"婬",w:"婬"}],c=11,n="女",t=["女"],o=[],e=[],d=[],i={s,sc:c,r:n,c:t,d:o,w:e,i:d};export{t as c,o as d,i as default,d as i,n as r,s,c as sc,e as w};

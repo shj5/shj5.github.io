@@ -1,0 +1,1 @@
+const s=[{p:"gāi",pp:"gai1",d:"old variant of 賅|赅[gai1]",t:"賌",w:"賌"}],c=13,t="貝",o=["亥"],n=[],a="",i=[],d=[],p={s,sc:c,r:t,c:o,d:n,ux:a,w:i,i:d};export{o as c,n as d,p as default,d as i,t as r,s,c as sc,a as ux,i as w};

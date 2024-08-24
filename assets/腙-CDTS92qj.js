@@ -1,1 +1,0 @@
-const s=[{p:"zōng",pp:"zong1",d:"hydrazone (chemistry)",t:"腙",w:"腙"}],c=12,t="肉",n=["月","宗"],o=[],d=[],r=[],e={s,sc:c,r:t,c:n,d:o,w:d,i:r};export{n as c,o as d,e as default,r as i,t as r,s,c as sc,d as w};

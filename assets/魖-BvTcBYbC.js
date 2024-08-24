@@ -1,1 +1,0 @@
-const c=[{p:"xū",pp:"xu1",d:"used in 黑魖魖[hei1xu1xu1]",t:"魖",w:"魖"}],s=22,t="鬼",n=["虚","鬼"],o=[],d=[{w:"黑魖魖",p:"hēi xū xū",d:"pitch-black; dark",t:"黑魖魖"}],x=[],i={s:c,sc:s,r:t,c:n,d:o,w:d,i:x};export{n as c,o as d,i as default,x as i,t as r,c as s,s as sc,d as w};

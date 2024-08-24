@@ -1,0 +1,1 @@
+const t=[{p:"jí",pp:"ji2",d:"Houttuynia cordata",t:"蕺",w:"蕺"}],c=16,o="艸",s=["艹","戢"],n=[],a="",d=[{w:"蕺菜",p:"jí cài",d:"Houttuynia cordata",t:"蕺菜"}],u=[],i={s:t,sc:c,r:o,c:s,d:n,ux:a,w:d,i:u};export{s as c,n as d,i as default,u as i,o as r,t as s,c as sc,a as ux,d as w};

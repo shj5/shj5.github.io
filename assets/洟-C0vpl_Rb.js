@@ -1,0 +1,1 @@
+const s=[{p:"tì",pp:"ti4",d:"nasal mucus/Taiwan pr. [yi2]",t:"洟",w:"洟"}],c=9,t="水",n=["氵","夷"],o=[],a="",i=[],p=[],u={s,sc:c,r:t,c:n,d:o,ux:a,w:i,i:p};export{n as c,o as d,u as default,p as i,t as r,s,c as sc,a as ux,i as w};

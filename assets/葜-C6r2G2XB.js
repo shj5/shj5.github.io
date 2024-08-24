@@ -1,0 +1,1 @@
+const c=[{p:"qiā",pp:"qia1",d:"used in 菝葜[ba2qia1]",t:"葜",w:"葜"}],s=12,t="艸",n=["艹","契"],o=[],i="",a=[{w:"菝葜",p:"bá qiā",d:"chinaroot (Smilax china)",t:"菝葜"}],d=[],p={s:c,sc:s,r:t,c:n,d:o,ux:i,w:a,i:d};export{n as c,o as d,p as default,d as i,t as r,c as s,s as sc,i as ux,a as w};

@@ -1,1 +1,0 @@
-const s=[{p:"è",pp:"e4",d:"astatine (chemistry) (Tw)",t:"砈",w:"砈"}],t=9,c="石",n=["厄","石"],o=[],e=[],a=[],d={s,sc:t,r:c,c:n,d:o,w:e,i:a};export{n as c,o as d,d as default,a as i,c as r,s,t as sc,e as w};

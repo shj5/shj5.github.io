@@ -1,0 +1,1 @@
+const s=[{p:"Yū",pp:"Yu1",d:"surname Yu/Taiwan pr. [Yu2]",t:"於",w:"於"},{p:"wū",pp:"wu1",d:"(literary) Oh!/Ah!",t:"於",w:"於"}],t=8,c="方",n=["方","仒"],o=["唹","淤","菸","阏","棜","瘀","箊"],p="",u=[],r=[],w={s,sc:t,r:c,c:n,d:o,ux:p,w:u,i:r};export{n as c,o as d,w as default,r as i,c as r,s,t as sc,p as ux,u as w};

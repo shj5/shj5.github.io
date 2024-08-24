@@ -1,1 +1,0 @@
-const t=[{p:"tuǒ",pp:"tuo3",d:"length of 2 outstretched arms",t:"庹",w:"庹"}],s=11,c="广",o=["尺"],n=[],d=[],e=[],r={s:t,sc:s,r:c,c:o,d:n,w:d,i:e};export{o as c,n as d,r as default,e as i,c as r,t as s,s as sc,d as w};

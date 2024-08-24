@@ -1,1 +1,0 @@
-const c=[{p:"fú",pp:"fu2",d:"(literary) a kind of jade/(literary) jade color",t:"琈",w:"琈"}],s=11,t="玉",o=["王","孚"],n=[],r=[],a=[],d={s:c,sc:s,r:t,c:o,d:n,w:r,i:a};export{o as c,n as d,d as default,a as i,t as r,c as s,s as sc,r as w};

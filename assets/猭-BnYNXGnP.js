@@ -1,1 +1,0 @@
-const s=[{p:"yuán",pp:"yuan2",d:"ape/Hylobates agilis",t:"猭",w:"猭"}],c=12,t="犬",n=["犭","彖"],o=[],a=[],p=[],d={s,sc:c,r:t,c:n,d:o,w:a,i:p};export{n as c,o as d,d as default,p as i,t as r,s,c as sc,a as w};

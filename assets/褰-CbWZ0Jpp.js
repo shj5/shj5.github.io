@@ -1,1 +1,0 @@
-const s=[{p:"qiān",pp:"qian1",d:"to lift (clothes, sheets)/lower garments",t:"褰",w:"褰"}],t=16,c="衣",o=["衣"],n=["攐"],e=[],i=[],r={s,sc:t,r:c,c:o,d:n,w:e,i};export{o as c,n as d,r as default,i,c as r,s,t as sc,e as w};

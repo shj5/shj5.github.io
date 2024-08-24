@@ -1,1 +1,0 @@
-const t=[{p:"jí",pp:"ji2",d:"Tribulus terrestris",t:"蒺",w:"蒺"}],s=13,c="艸",r=["艹","疾"],i=[],o=[{w:"蒺藜",p:"jí li",d:"(botany) caltrop; puncture vine (Tribulus terrestris)/barbed object",t:"蒺藜"},{w:"铁蒺藜",p:"tiě jí li",d:"(military) caltrop",t:"鐵蒺藜"}],n=[],e={s:t,sc:s,r:c,c:r,d:i,w:o,i:n};export{r as c,i as d,e as default,n as i,c as r,t as s,s as sc,o as w};

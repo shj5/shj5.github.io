@@ -1,0 +1,1 @@
+const c=[{p:"bǎi kè",pp:"bai3 ke4",d:"hectogram (old) (single-character equivalent of 百克[bai3 ke4])",t:"兡",w:"兡"}],s=13,t="儿",o=["百","克"],n=[],e="",a=[],i=[],r={s:c,sc:s,r:t,c:o,d:n,ux:e,w:a,i};export{o as c,n as d,r as default,i,t as r,c as s,s as sc,e as ux,a as w};

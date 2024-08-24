@@ -1,0 +1,1 @@
+const s=[{p:"bà",pp:"ba4",d:"the part of a bow grasped when shooting",t:"弝",w:"弝"}],t=7,o="弓",c=["弓","巴"],n=[],a="",p=[],d=[],e={s,sc:t,r:o,c,d:n,ux:a,w:p,i:d};export{c,n as d,e as default,d as i,o as r,s,t as sc,a as ux,p as w};

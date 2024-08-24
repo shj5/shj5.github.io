@@ -1,1 +1,0 @@
-const s=[{p:"líng",pp:"ling2",d:"lattice work on front and sides",t:"軨",w:"軨"}],t=12,c="車",n=["令"],o=[],d=[],i=[],r={s,sc:t,r:c,c:n,d:o,w:d,i};export{n as c,o as d,r as default,i,c as r,s,t as sc,d as w};

@@ -1,0 +1,1 @@
+const t=[{p:"lù",pp:"lu4",d:"bribe/bribery",t:"賂",w:"赂"}],s=10,c="貝",o=["贝","各"],b=[],n="",r=[{w:"性贿赂",p:"xìng huì lù",d:"to sexually bribe",t:"性賄賂"},{w:"贿赂",p:"huì lù",d:"to bribe/a bribe",t:"賄賂"}],e=[],i={s:t,sc:s,r:c,c:o,d:b,ux:n,w:r,i:e};export{o as c,b as d,i as default,e as i,c as r,t as s,s as sc,n as ux,r as w};

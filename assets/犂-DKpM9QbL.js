@@ -1,1 +1,0 @@
-const s=[{p:"lí",pp:"li2",d:"see 犂靬[Li2 jian1]/variant of 犁[li2]",t:"犂",w:"犂"}],t=12,n="牛",c=["牛"],i=[],o=[{w:"犂靬",p:"Lí jiān",d:"variant of 犁靬[Li2 jian1]",t:"犂靬"}],a=[],d={s,sc:t,r:n,c,d:i,w:o,i:a};export{c,i as d,d as default,a as i,n as r,s,t as sc,o as w};

@@ -1,1 +1,0 @@
-const s=[{p:"miàn",pp:"mian4",d:"variant of 麵|面[mian4]/rice noodles/rice fragments",t:"糆",w:"糆"}],c=15,n="米",t=["米","面"],o=[],i=[],a=[],r={s,sc:c,r:n,c:t,d:o,w:i,i:a};export{t as c,o as d,r as default,a as i,n as r,s,c as sc,i as w};

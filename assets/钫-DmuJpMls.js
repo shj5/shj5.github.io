@@ -1,0 +1,1 @@
+const c=[{p:"fāng",pp:"fang1",d:"francium (chemistry)",t:"鈁",w:"钫"}],s=9,t="金",n=["方"],o=[],r="",a=[],d=[],f={s:c,sc:s,r:t,c:n,d:o,ux:r,w:a,i:d};export{n as c,o as d,f as default,d as i,t as r,c as s,s as sc,r as ux,a as w};

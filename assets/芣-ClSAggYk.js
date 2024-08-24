@@ -1,0 +1,1 @@
+const s=[{p:"fú",pp:"fu2",d:"plantain herb (Plantago)/Taiwan pr. [fou2]",t:"芣",w:"芣"}],t=7,c="艸",n=["艹","不"],o=[],a="",p=[],r=[],u={s,sc:t,r:c,c:n,d:o,ux:a,w:p,i:r};export{n as c,o as d,u as default,r as i,c as r,s,t as sc,a as ux,p as w};

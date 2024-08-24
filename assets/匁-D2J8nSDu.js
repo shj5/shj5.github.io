@@ -1,1 +1,0 @@
-const s=[{p:"xx",pp:"xx5",d:"(Japanese kokuji) momme (Japanese unit of weight equal to 3.75 grams)",t:"匁",w:"匁"}],t=4,o="勹",c=["勹"],n=[],e=[],a=[],p={s,sc:t,r:o,c,d:n,w:e,i:a};export{c,n as d,p as default,a as i,o as r,s,t as sc,e as w};

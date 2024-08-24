@@ -1,1 +1,0 @@
-const t=[{p:"méng",pp:"meng2",d:"cover",t:"幪",w:"幪"}],s=17,c="巾",n=["巾","蒙"],o=[],e=[{w:"帡幪",p:"píng méng",d:"(literary) tent/to shelter",t:"帡幪"}],r=[],p={s:t,sc:s,r:c,c:n,d:o,w:e,i:r};export{n as c,o as d,p as default,r as i,c as r,t as s,s as sc,e as w};

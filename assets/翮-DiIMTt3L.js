@@ -1,0 +1,1 @@
+const n=[{p:"hé",pp:"he2",d:"quill",t:"翮",w:"翮"}],t=16,o="羽",s=["羽","鬲"],c=[],i="",a=[{w:"金天翮",p:"Jīn Tiān hé",d:"Jin Tianhe (1874-1947), late-Qing poet and novelist, co-author of A Flower in a Sinful Sea 孽海花[Nie4hai3hua1]",t:"金天翮"}],e=[],h={s:n,sc:t,r:o,c:s,d:c,ux:i,w:a,i:e};export{s as c,c as d,h as default,e as i,o as r,n as s,t as sc,i as ux,a as w};

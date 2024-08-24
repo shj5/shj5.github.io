@@ -1,1 +1,0 @@
-const t=[{p:"zuàn",pp:"zuan4",d:"(coll.) to hold/to grip/to grasp",t:"攥",w:"攥"}],o=23,s="手",c=["扌","纂"],n=[],p=[{w:"拢攥",p:"lǒng zuàn",d:"to grasp/to clutch",t:"攏攥"},{w:"攥拳头",p:"zuàn quán tou",d:"to clench one's fists",t:"攥拳頭"}],u=[],d={s:t,sc:o,r:s,c,d:n,w:p,i:u};export{c,n as d,d as default,u as i,s as r,t as s,o as sc,p as w};

@@ -1,0 +1,1 @@
+const t=[{p:"shān",pp:"shan1",d:"straw mat/thatch",t:"苫",w:"苫"}],s=8,n="艸",o=["艹","占"],c=[],i="",a=[],r=[{w:"寝苫枕块",p:"qǐn shān zhěn kuài",d:"bed of straw and pillow of clay (idiom)/the correct etiquette for a filial son during the mourning period",t:"寢苫枕塊"}],d={s:t,sc:s,r:n,c:o,d:c,ux:i,w:a,i:r};export{o as c,c as d,d as default,r as i,n as r,t as s,s as sc,i as ux,a as w};

@@ -1,1 +1,0 @@
-const t=[{p:"qióng",pp:"qiong2",d:"(literary) to gaze in terror/(literary) alone; unaided",t:"瞏",w:"瞏"}],n=15,o="目",s=["罒","袁"],c=[],r=[],e=[],i={s:t,sc:n,r:o,c:s,d:c,w:r,i:e};export{s as c,c as d,i as default,e as i,o as r,t as s,n as sc,r as w};

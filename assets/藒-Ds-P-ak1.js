@@ -1,0 +1,1 @@
+const c=[{p:"qiè",pp:"qie4",d:"see 藒車|藒车[qie4 che1]",t:"藒",w:"藒"}],s=17,t="艸",e=["艹"],o=[],r="",a=[{w:"藒车",p:"qiè chē",d:"a variety of aromatic herb used as a fragrance or bug repeller (old)",t:"藒車"}],n=[],i={s:c,sc:s,r:t,c:e,d:o,ux:r,w:a,i:n};export{e as c,o as d,i as default,n as i,t as r,c as s,s as sc,r as ux,a as w};

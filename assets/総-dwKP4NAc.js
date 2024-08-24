@@ -1,1 +1,0 @@
-const s=[{p:"zǒng",pp:"zong3",d:"Japanese variant of 總|总",t:"総",w:"総"}],c=14,n="糸",t=["糸"],o=[],a=[],p=[],d={s,sc:c,r:n,c:t,d:o,w:a,i:p};export{t as c,o as d,d as default,p as i,n as r,s,c as sc,a as w};

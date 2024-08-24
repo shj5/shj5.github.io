@@ -1,0 +1,1 @@
+const s=[{p:"piě",pp:"pie3",d:"used in 苤藍|苤蓝[pie3 lan5]",t:"苤",w:"苤"}],c=8,t="艸",n=["艹","丕"],o=[],a="",i=[{w:"苤蓝",p:"piě lan",d:"kohlrabi (Brassica oleracea)",t:"苤藍"}],p=[],e={s,sc:c,r:t,c:n,d:o,ux:a,w:i,i:p};export{n as c,o as d,e as default,p as i,t as r,s,c as sc,a as ux,i as w};

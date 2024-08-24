@@ -1,1 +1,0 @@
-const t=[{p:"fù",pp:"fu4",d:"used in 吩咐[fen1fu5] and 囑咐|嘱咐[zhu3fu5]",t:"咐",w:"咐"}],o=8,s="口",c=["口","付"],n=[],u=[{w:"吩咐",p:"fēn fu",d:"to tell; to instruct; to command",t:"吩咐"},{w:"嘱咐",p:"zhǔ fu",d:"to urge; to exhort",t:"囑咐"}],d=[],f={s:t,sc:o,r:s,c,d:n,w:u,i:d};export{c,n as d,f as default,d as i,s as r,t as s,o as sc,u as w};

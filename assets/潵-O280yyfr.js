@@ -1,0 +1,1 @@
+const s=[{p:"Sǎ",pp:"Sa3",d:"name of a river in Hebei Province",t:"潵",w:"潵"},{p:"sǎ",pp:"sa3",d:"old variant of 撒[sa3]",t:"潵",w:"潵"},{p:"sàn",pp:"san4",d:"to disperse water",t:"潵",w:"潵"}],t=15,n="水",o=["氵","散"],c=[],a="",p=[],e=[],r={s,sc:t,r:n,c:o,d:c,ux:a,w:p,i:e};export{o as c,c as d,r as default,e as i,n as r,s,t as sc,a as ux,p as w};

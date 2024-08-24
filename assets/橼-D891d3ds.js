@@ -1,0 +1,1 @@
+const t=[{p:"yuán",pp:"yuan2",d:"Citrus medica",t:"櫞",w:"橼"}],c=16,s="木",n=["木","缘"],o=[],u="",i=[{w:"枸橼",p:"jǔ yuán",d:"citron (Citrus medica)/grapefruit",t:"枸櫞"},{w:"香橼",p:"xiāng yuán",d:"grapefruit",t:"香櫞"}],r=[],d={s:t,sc:c,r:s,c:n,d:o,ux:u,w:i,i:r};export{n as c,o as d,d as default,r as i,s as r,t as s,c as sc,u as ux,i as w};

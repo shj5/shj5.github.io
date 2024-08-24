@@ -1,0 +1,1 @@
+const n=[{p:"shè",pp:"she4",d:"name of a district in Anhui",t:"歙",w:"歙"}],s=16,t="欠",c=["欠","翕"],o=[],i="",a=[{w:"歙县",p:"Shè Xiàn",d:"She County in Huangshan 黃山|黄山[Huang2 shan1], Anhui",t:"歙縣"}],h=[],u={s:n,sc:s,r:t,c,d:o,ux:i,w:a,i:h};export{c,o as d,u as default,h as i,t as r,n as s,s as sc,i as ux,a as w};

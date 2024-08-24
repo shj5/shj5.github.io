@@ -1,0 +1,1 @@
+const s=[{p:"jué",pp:"jue2",d:"coarse grass used to show rank",t:"蕝",w:"蕝"}],c=15,o="艸",t=["艹"],n=[],r="",u=[],a=[],d={s,sc:c,r:o,c:t,d:n,ux:r,w:u,i:a};export{t as c,n as d,d as default,a as i,o as r,s,c as sc,r as ux,u as w};

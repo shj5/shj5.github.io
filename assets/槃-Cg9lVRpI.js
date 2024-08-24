@@ -1,0 +1,1 @@
+const n=[{p:"pán",pp:"pan2",d:"variant of 盤|盘/wooden tray",t:"槃",w:"槃"}],s=14,t="木",c=["木","般"],o=[],a="",d=[{w:"涅槃",p:"niè pán",d:"nirvana (Buddhism)",t:"涅槃"}],p=[],i={s:n,sc:s,r:t,c,d:o,ux:a,w:d,i:p};export{c,o as d,i as default,p as i,t as r,n as s,s as sc,a as ux,d as w};

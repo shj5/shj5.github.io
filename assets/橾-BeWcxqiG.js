@@ -1,0 +1,1 @@
+const o=[{p:"qiāo",pp:"qiao1",d:"old variant of 鍬|锹[qiao1]",t:"橾",w:"橾"},{p:"shū",pp:"shu1",d:"the hole in the center of a wheel accommodating the axle (archaic)",t:"橾",w:"橾"}],t=17,c="木",s=["木","喿"],n=[],a="",e=[],i=[],h={s:o,sc:t,r:c,c:s,d:n,ux:a,w:e,i};export{s as c,n as d,h as default,i,c as r,o as s,t as sc,a as ux,e as w};

@@ -1,1 +1,0 @@
-const n=[{p:"Zhuān",pp:"Zhuan1",d:"surname Zhuan",t:"鱄",w:"鱄"},{p:"zhuān",pp:"zhuan1",d:"fish (meaning variable: mackerel, anchovy, fresh-water fish)",t:"鱄",w:"鱄"}],s=22,c="魚",t=[],a=[],o=[],e=[],h={s:n,sc:s,r:c,c:t,d:a,w:o,i:e};export{t as c,a as d,h as default,e as i,c as r,n as s,s as sc,o as w};

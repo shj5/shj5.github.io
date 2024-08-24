@@ -1,0 +1,1 @@
+const s=[{p:"gěng",pp:"geng3",d:"(literary) well rope (for drawing water)",t:"綆",w:"绠"}],t=10,c="糸",n=["纟","更"],o=[],r="",e=[],w=[],a={s,sc:t,r:c,c:n,d:o,ux:r,w:e,i:w};export{n as c,o as d,a as default,w as i,c as r,s,t as sc,r as ux,e as w};

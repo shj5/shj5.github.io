@@ -1,1 +1,0 @@
-const s=[{p:"yé",pp:"ye2",d:"used in 鏌鋣|镆铘[Mo4ye2]",t:"鋣",w:"铘"}],o=11,e="金",t=["邪"],c=[],d=[{w:"镆铘",p:"Mò yé",d:"Moye, the name of a legendary double-edged sword",t:"鏌鋣"}],n=[],y={s,sc:o,r:e,c:t,d:c,w:d,i:n};export{t as c,c as d,y as default,n as i,e as r,s,o as sc,d as w};

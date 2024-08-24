@@ -1,0 +1,1 @@
+const s=[{p:"máo",pp:"mao2",d:"bang (hair)/fashionable/mane",t:"髦",w:"髦"}],o=14,t="髟",n=["毛","髟"],c=[],a="",e=[{w:"时髦",p:"shí máo",d:"in vogue/fashionable",t:"時髦"},{w:"赶时髦",p:"gǎn shí máo",d:"to keep up with the latest fashion",t:"趕時髦"}],h=[],i={s,sc:o,r:t,c:n,d:c,ux:a,w:e,i:h};export{n as c,c as d,i as default,h as i,t as r,s,o as sc,a as ux,e as w};

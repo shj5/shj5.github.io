@@ -1,0 +1,1 @@
+const o=[{p:"dān",pp:"dan1",d:"ears without rim",t:"聃",w:"聃"}],t=11,s="耳",n=["冉","耳"],c=[],a="",d=[{w:"老聃",p:"Lǎo Dān",d:"another name for Laozi 老子[Lao3 zi3]",t:"老聃"}],r=[],i={s:o,sc:t,r:s,c:n,d:c,ux:a,w:d,i:r};export{n as c,c as d,i as default,r as i,s as r,o as s,t as sc,a as ux,d as w};

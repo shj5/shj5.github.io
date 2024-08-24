@@ -1,1 +1,0 @@
-const t=[{p:"qí",pp:"qi2",d:"god of the earth",t:"祇",w:"祇"}],s=8,c="示",o=["氏"],d=[],n=[{w:"地祇",p:"dì qí",d:"earth spirit",t:"地祇"},{w:"神祇",p:"shén qí",d:"god/deity",t:"神祇"}],p=[],e={s:t,sc:s,r:c,c:o,d,w:n,i:p};export{o as c,d,e as default,p as i,c as r,t as s,s as sc,n as w};

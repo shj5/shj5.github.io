@@ -1,0 +1,1 @@
+const t=[{p:"wù",pp:"wu4",d:"to disobey/contrary/against/to go against/to violate/obscure character, possibly variant of 惡|恶[e4]",t:"蘁",w:"蘁"}],o=19,s="艸",c=["艹","噩"],n=[],a="",r=[],i=[],e={s:t,sc:o,r:s,c,d:n,ux:a,w:r,i};export{c,n as d,e as default,i,s as r,t as s,o as sc,a as ux,r as w};

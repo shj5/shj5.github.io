@@ -1,0 +1,1 @@
+const n=[{p:"gēng",pp:"geng1",d:"variant of 羹[geng1], used in restaurants and night markets in Taiwan",t:"焿",w:"焿"}],s=12,t="火",c=["火"],o=[],a="",e=[],g=[],i={s:n,sc:s,r:t,c,d:o,ux:a,w:e,i:g};export{c,o as d,i as default,g as i,t as r,n as s,s as sc,a as ux,e as w};

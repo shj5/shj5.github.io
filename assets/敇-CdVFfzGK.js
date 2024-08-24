@@ -1,1 +1,0 @@
-const c=[{p:"chì",pp:"chi4",d:"Imperial command or edict",t:"敇",w:"敇"}],s=10,t="攵",o=["攵","朿"],n=[],d=[],i=[],p={s:c,sc:s,r:t,c:o,d:n,w:d,i};export{o as c,n as d,p as default,i,t as r,c as s,s as sc,d as w};

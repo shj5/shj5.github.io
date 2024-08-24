@@ -1,1 +1,0 @@
-const o=[{p:"chá",pp:"cha2",d:"a raft made of bamboo or wood/to fell trees/to hew",t:"槎",w:"槎"}],t=14,c="木",s=["木","差"],n=[],a=[],e=[],d={s:o,sc:t,r:c,c:s,d:n,w:a,i:e};export{s as c,n as d,d as default,e as i,c as r,o as s,t as sc,a as w};

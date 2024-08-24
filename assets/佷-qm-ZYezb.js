@@ -1,1 +1,0 @@
-const t=[{p:"hěn",pp:"hen3",d:"to act contrary to",t:"佷",w:"佷"}],c=8,s="人",o=["亻","艮"],n=[],r=[],a=[],d={s:t,sc:c,r:s,c:o,d:n,w:r,i:a};export{o as c,n as d,d as default,a as i,s as r,t as s,c as sc,r as w};

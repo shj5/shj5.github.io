@@ -1,1 +1,0 @@
-const s=[{p:"zhù",pp:"zhu4",d:"ramie (Boehmeria nivea)",t:"紵",w:"纻"}],c=7,t="糸",o=["纟"],n=[],e=[],a=[],i={s,sc:c,r:t,c:o,d:n,w:e,i:a};export{o as c,n as d,i as default,a as i,t as r,s,c as sc,e as w};

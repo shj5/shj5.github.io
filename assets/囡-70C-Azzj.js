@@ -1,1 +1,0 @@
-const n=[{p:"nān",pp:"nan1",d:"child/daughter",t:"囡",w:"囡"}],t=6,s="囗",c=["囗","女"],d=[],e=[{w:"囡囡",p:"nān nān",d:"little darling/baby",t:"囡囡"},{w:"阿囡",p:"ā nān",d:"honey (endearment in addressing a little girl)",t:"阿囡"}],o=[],a={s:n,sc:t,r:s,c,d,w:e,i:o};export{c,d,a as default,o as i,s as r,n as s,t as sc,e as w};

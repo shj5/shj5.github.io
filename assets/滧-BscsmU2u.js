@@ -1,1 +1,0 @@
-const s=[{p:"yáo",pp:"yao2",d:"(dialect) natural branching stream/(used in place names)/also pr. [xiao4]",t:"滧",w:"滧"}],c=13,t="水",n=["氵"],o=[],a=[],e=[],r={s,sc:c,r:t,c:n,d:o,w:a,i:e};export{n as c,o as d,r as default,e as i,t as r,s,c as sc,a as w};

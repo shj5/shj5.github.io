@@ -1,1 +1,0 @@
-const s=[{p:"jí",pp:"ji2",d:"germanium (old)",t:"鈒",w:"钑"},{p:"sà",pp:"sa4",d:"(literary) small halberd with an iron handle, used as a weapon or agricultural tool/(literary) to inlay/Taiwan pr. [se4]",t:"鈒",w:"钑"}],a=8,t="金",o=["及"],n=[],r=[],c=[],l={s,sc:a,r:t,c:o,d:n,w:r,i:c};export{o as c,n as d,l as default,c as i,t as r,s,a as sc,r as w};

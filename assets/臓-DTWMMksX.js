@@ -1,1 +1,0 @@
-const s=[{p:"zàng",pp:"zang4",d:"Japanese variant of 臟|脏",t:"臓",w:"臓"}],c=18,n="肉",t=["月"],o=[],a=[],p=[],d={s,sc:c,r:n,c:t,d:o,w:a,i:p};export{t as c,o as d,d as default,p as i,n as r,s,c as sc,a as w};

@@ -1,1 +1,0 @@
-const t=[{p:"lū",pp:"lu1",d:"(dialect) to rub one's hand along/to fire (an employee)/to reprimand",t:"擼",w:"撸"}],o=15,n="手",s=["扌","鲁"],c=[],l=[{w:"撸管",p:"lū guǎn",d:"(slang) to masturbate",t:"擼管"},{w:"撸铁",p:"lū tiě",d:"(coll.) to pump iron/to work out",t:"擼鐵"}],a=[],e={s:t,sc:o,r:n,c:s,d:c,w:l,i:a};export{s as c,c as d,e as default,a as i,n as r,t as s,o as sc,l as w};

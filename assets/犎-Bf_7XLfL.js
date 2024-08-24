@@ -1,0 +1,1 @@
+const s=[{p:"fēng",pp:"feng1",d:"zebu/indicus cattle/humped ox",t:"犎",w:"犎"}],c=13,n="牛",t=["牛","封"],o=[],d="",e=[{w:"犎牛",p:"fēng niú",d:"bison",t:"犎牛"}],i=[],p={s,sc:c,r:n,c:t,d:o,ux:d,w:e,i};export{t as c,o as d,p as default,i,n as r,s,c as sc,d as ux,e as w};

@@ -1,1 +1,0 @@
-const s=[{p:"yú",pp:"yu2",d:"used in 蛞蝓[kuo4yu2]",t:"蝓",w:"蝓"}],o=15,t="虫",c=["虫"],n=[],u=[{w:"海蛞蝓",p:"hǎi kuò yú",d:"sea slug",t:"海蛞蝓"},{w:"蛞蝓",p:"kuò yú",d:"(zoology) slug",t:"蛞蝓"}],d=[],p={s,sc:o,r:t,c,d:n,w:u,i:d};export{c,n as d,p as default,d as i,t as r,s,o as sc,u as w};

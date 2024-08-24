@@ -1,0 +1,1 @@
+const s=[{p:"bī",pp:"bi1",d:"the ponyfishes, aka slipmouths (Leiognathidae, a family of fishes in the order Perciformes)/Taiwan pr. [bi4]",t:"鰏",w:"鲾"}],o=18,t="魚",c=["鱼"],i=[],n="",e=[],a=[],r={s,sc:o,r:t,c,d:i,ux:n,w:e,i:a};export{c,i as d,r as default,a as i,t as r,s,o as sc,n as ux,e as w};

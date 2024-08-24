@@ -1,1 +1,0 @@
-const t=[{p:"wēi",pp:"wei1",d:"to cuddle",t:"偎",w:"偎"}],s=11,o="人",c=["亻","畏"],n=[],w=[{w:"依偎",p:"yī wēi",d:"to nestle against/to snuggle up to",t:"依偎"},{w:"偎傍",p:"wēi bàng",d:"to snuggle up to",t:"偎傍"}],d=[],e={s:t,sc:s,r:o,c,d:n,w,i:d};export{c,n as d,e as default,d as i,o as r,t as s,s as sc,w};

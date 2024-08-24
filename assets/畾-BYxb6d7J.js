@@ -1,0 +1,1 @@
+const s=[{p:"léi",pp:"lei2",d:"fields divided by dikes",t:"畾",w:"畾"}],c=15,t="田",o=["田"],d=["儡","攂","藟","礧","罍","靁","鸓"],n="",i=[],e=[],l={s,sc:c,r:t,c:o,d,ux:n,w:i,i:e};export{o as c,d,l as default,e as i,t as r,s,c as sc,n as ux,i as w};

@@ -1,0 +1,1 @@
+const s=[{p:"huáng",pp:"huang2",d:"music of bell and drum",t:"韹",w:"韹"}],c=18,n="音",t=["音","皇"],o=[],u="",d=[],a=[],p={s,sc:c,r:n,c:t,d:o,ux:u,w:d,i:a};export{t as c,o as d,p as default,a as i,n as r,s,c as sc,u as ux,d as w};

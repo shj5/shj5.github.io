@@ -1,0 +1,1 @@
+const s=[{p:"liú",pp:"liu2",d:"old variant of 騮|骝[liu2]",t:"駵",w:"駵"}],c=17,t="馬",o=["丣"],n=[],i="",d=[],l=[],u={s,sc:c,r:t,c:o,d:n,ux:i,w:d,i:l};export{o as c,n as d,u as default,l as i,t as r,s,c as sc,i as ux,d as w};

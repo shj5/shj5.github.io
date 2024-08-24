@@ -1,1 +1,0 @@
-const s=[{p:"lí",pp:"li2",d:"basket for removing earth/spade",t:"梩",w:"梩"}],t=11,c="木",o=["木","里"],n=[],e=[],r=[],a={s,sc:t,r:c,c:o,d:n,w:e,i:r};export{o as c,n as d,a as default,r as i,c as r,s,t as sc,e as w};

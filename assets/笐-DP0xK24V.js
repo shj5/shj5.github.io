@@ -1,0 +1,1 @@
+const s=[{p:"gāng",pp:"gang1",d:"bamboos placed across wooden frames on which grain may be stored in damp climates",t:"笐",w:"笐"}],c=10,o="竹",n=["亢","竹"],t=[],a="",d=[],e=[],r={s,sc:c,r:o,c:n,d:t,ux:a,w:d,i:e};export{n as c,t as d,r as default,e as i,o as r,s,c as sc,a as ux,d as w};

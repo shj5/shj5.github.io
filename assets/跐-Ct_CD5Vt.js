@@ -1,0 +1,1 @@
+const t=[{p:"cǐ",pp:"ci3",d:"to trample/to step/to walk on the ball of the foot",t:"跐",w:"跐"}],o=12,c="足",s=["此","足"],n=[],e="",p=[],a=[],l={s:t,sc:o,r:c,c:s,d:n,ux:e,w:p,i:a};export{s as c,n as d,l as default,a as i,c as r,t as s,o as sc,e as ux,p as w};

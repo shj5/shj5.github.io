@@ -1,1 +1,0 @@
-const t=[{p:"guī",pp:"gui1",d:"to comply with/to follow",t:"皈",w:"皈"}],o=9,c="白",s=["反","白"],n=[],p=[{w:"皈依",p:"guī yī",d:"to convert to (a religion)",t:"皈依"},{w:"皈依者",p:"guī yī zhě",d:"a convert",t:"皈依者"}],w=[],d={s:t,sc:o,r:c,c:s,d:n,w:p,i:w};export{s as c,n as d,d as default,w as i,c as r,t as s,o as sc,p as w};

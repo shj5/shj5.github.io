@@ -1,0 +1,1 @@
+const s=[{p:"hé",pp:"he2",d:"crossbill/long-tailed pheasant",t:"鶡",w:"鹖"}],c=14,t="鳥",o=["鸟","曷"],n=[],a="",d=[],e=[],l={s,sc:c,r:t,c:o,d:n,ux:a,w:d,i:e};export{o as c,n as d,l as default,e as i,t as r,s,c as sc,a as ux,d as w};

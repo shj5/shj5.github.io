@@ -1,1 +1,0 @@
-const t=[{p:"tiǎo",pp:"tiao3",d:"(dialect) to exchange/to replace",t:"斢",w:"斢"},{p:"tǒu",pp:"tou3",d:"yellow (archaic)",t:"斢",w:"斢"}],c=16,o="斗",s=["斗"],n=[],a=[],e=[],p={s:t,sc:c,r:o,c:s,d:n,w:a,i:e};export{s as c,n as d,p as default,e as i,o as r,t as s,c as sc,a as w};

@@ -1,1 +1,0 @@
-const s=[{p:"qiáo",pp:"qiao2",d:"the pommel and cantle of a saddle",t:"鞽",w:"鞒"}],c=15,o="革",t=["乔","革"],n=[],a=[],d=[],e={s,sc:c,r:o,c:t,d:n,w:a,i:d};export{t as c,n as d,e as default,d as i,o as r,s,c as sc,a as w};

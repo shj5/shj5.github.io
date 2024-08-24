@@ -1,0 +1,1 @@
+const c=[{p:"fēn kè",pp:"fen1 ke4",d:"decigram (old) (single-character equivalent of 分克[fen1 ke4])",t:"兝",w:"兝"}],s=11,n="儿",t=["分","克"],o=[],e="",a=[],d=[],r={s:c,sc:s,r:n,c:t,d:o,ux:e,w:a,i:d};export{t as c,o as d,r as default,d as i,n as r,c as s,s as sc,e as ux,a as w};

@@ -1,1 +1,0 @@
-const s=[{p:"qián",pp:"qian2",d:"pliers/pincers/to clamp",t:"拑",w:"拑"}],c=8,t="手",n=["扌","甘"],o=["箝"],p=[],i=[],r={s,sc:c,r:t,c:n,d:o,w:p,i};export{n as c,o as d,r as default,i,t as r,s,c as sc,p as w};

@@ -1,0 +1,1 @@
+const s=[{p:"yōng",pp:"yong1",d:"see 鱅魚|鳙鱼[yong1 yu2]",t:"鱅",w:"鳙"}],c=19,t="魚",n=["鱼","庸"],o=[],p="",y=[{w:"鳙鱼",p:"yōng yú",d:"bighead carp/Hypophthalmichthys nobilis",t:"鱅魚"}],d=[],i={s,sc:c,r:t,c:n,d:o,ux:p,w:y,i:d};export{n as c,o as d,i as default,d as i,t as r,s,c as sc,p as ux,y as w};

@@ -1,1 +1,0 @@
-const s=[{p:"yū",pp:"yu1",d:"to wither/dried leaves/faded/withered",t:"菸",w:"菸"}],t=11,c="艸",o=["艹","於"],d=[],e=[],n=[],r={s,sc:t,r:c,c:o,d,w:e,i:n};export{o as c,d,r as default,n as i,c as r,s,t as sc,e as w};

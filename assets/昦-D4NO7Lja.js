@@ -1,1 +1,0 @@
-const o=[{p:"hào",pp:"hao4",d:"variant of 昊[hao4]",t:"昦",w:"昦"}],s=9,c="日",t=["日"],n=[],a=[],d=[],p={s:o,sc:s,r:c,c:t,d:n,w:a,i:d};export{t as c,n as d,p as default,d as i,c as r,o as s,s as sc,a as w};

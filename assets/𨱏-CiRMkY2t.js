@@ -1,1 +1,0 @@
-const t=[{p:"tǎ",pp:"ta3",d:"technetium (chemistry) (Tw)",t:"鎝",w:"𨱏"}],c=0,s="",n=[],o=[],e=[],d=[],i={s:t,sc:c,r:s,c:n,d:o,w:e,i:d};export{n as c,o as d,i as default,d as i,s as r,t as s,c as sc,e as w};

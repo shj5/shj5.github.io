@@ -1,0 +1,1 @@
+const t=[{p:"jié",pp:"jie2",d:"stone tablet",t:"碣",w:"碣"}],s=14,c="石",n=["石","曷"],o=[],i="",e=[{w:"碑碣",p:"bēi jié",d:"stone tablet (with inscription)",t:"碑碣"}],p=[],d={s:t,sc:s,r:c,c:n,d:o,ux:i,w:e,i:p};export{n as c,o as d,d as default,p as i,c as r,t as s,s as sc,i as ux,e as w};

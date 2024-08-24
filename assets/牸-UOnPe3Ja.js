@@ -1,1 +1,0 @@
-const s=[{p:"zì",pp:"zi4",d:"female of domestic animals",t:"牸",w:"牸"}],c=10,t="牛",o=["字"],n=[],d=[{w:"牸牛",p:"zì niú",d:"cow",t:"牸牛"},{w:"牸马",p:"zì mǎ",d:"mare",t:"牸馬"}],a=[],e={s,sc:c,r:t,c:o,d:n,w:d,i:a};export{o as c,n as d,e as default,a as i,t as r,s,c as sc,d as w};

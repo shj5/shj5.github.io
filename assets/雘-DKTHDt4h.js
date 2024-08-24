@@ -1,1 +1,0 @@
-const s=[{p:"huò",pp:"huo4",d:"red earth used for paints",t:"雘",w:"雘"}],t=18,c="隹",o=["蒦"],n=[],d=[],r=[],e={s,sc:t,r:c,c:o,d:n,w:d,i:r};export{o as c,n as d,e as default,r as i,c as r,s,t as sc,d as w};

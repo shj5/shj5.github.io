@@ -1,1 +1,0 @@
-const s=[{p:"qì",pp:"qi4",d:"Japanese variant of 氣|气",t:"気",w:"気"}],c=6,t="气",n=["乂","气"],o=[],a=[],p=[],d={s,sc:c,r:t,c:n,d:o,w:a,i:p};export{n as c,o as d,d as default,p as i,t as r,s,c as sc,a as w};

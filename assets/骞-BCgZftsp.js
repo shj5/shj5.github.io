@@ -1,0 +1,1 @@
+const n=[{p:"qiān",pp:"qian1",d:"(literary) to hold high",t:"騫",w:"骞"}],t=13,s="馬",c=["马"],o=[],a="",d=[{w:"张骞",p:"Zhāng Qiān",d:"Zhang Qian (-114 BC), Han dynasty explorer of 2nd century BC",t:"張騫"}],i=[],r={s:n,sc:t,r:s,c,d:o,ux:a,w:d,i};export{c,o as d,r as default,i,s as r,n as s,t as sc,a as ux,d as w};

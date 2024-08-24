@@ -1,1 +1,0 @@
-const s=[{p:"qiāo",pp:"qiao1",d:"sled/sleigh",t:"橇",w:"橇"}],o=16,t="木",e=["木","毳"],d=[],l=[{w:"冰橇",p:"bīng qiāo",d:"sled/sledge/sleigh",t:"冰橇"},{w:"阿拉斯加雪橇犬",p:"Ā lā sī jiā xuě qiāo quǎn",d:"Alaskan malamute",t:"阿拉斯加雪橇犬"},{w:"雪橇",p:"xuě qiāo",d:"sled/sledge/sleigh/bobsled",t:"雪橇"}],c=[],i={s,sc:o,r:t,c:e,d,w:l,i:c};export{e as c,d,i as default,c as i,t as r,s,o as sc,l as w};

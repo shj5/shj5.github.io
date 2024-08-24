@@ -1,0 +1,1 @@
+const s=[{p:"yīng",pp:"ying1",d:"(used in names)/British thermal unit (BTU)",t:"煐",w:"煐"}],t=13,n="火",c=["火","英"],o=[],i="",d=[],e=[],r={s,sc:t,r:n,c,d:o,ux:i,w:d,i:e};export{c,o as d,r as default,e as i,n as r,s,t as sc,i as ux,d as w};

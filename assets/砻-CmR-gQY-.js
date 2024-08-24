@@ -1,1 +1,0 @@
-const t=[{p:"lóng",pp:"long2",d:"(dialect) tool used to hull rice (similar to a grain mill)/(dialect) to hull rice using this tool",t:"礱",w:"砻"}],o=10,c="石",n=["龙","石"],s=[],i=[{w:"雅砻江",p:"Yǎ lóng jiāng",d:"Yalong river of Tibet and Sichuan",t:"雅礱江"}],l=[],a={s:t,sc:o,r:c,c:n,d:s,w:i,i:l};export{n as c,s as d,a as default,l as i,c as r,t as s,o as sc,i as w};

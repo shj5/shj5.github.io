@@ -1,1 +1,0 @@
-const o=[{p:"huáng",pp:"huang2",d:"(bamboo)/bamboo grove",t:"篁",w:"篁"}],s=15,c="竹",t=["竹","皇"],n=[],a=[],b=[],d={s:o,sc:s,r:c,c:t,d:n,w:a,i:b};export{t as c,n as d,d as default,b as i,c as r,o as s,s as sc,a as w};

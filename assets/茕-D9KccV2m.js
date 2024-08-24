@@ -1,0 +1,1 @@
+const n=[{p:"qióng",pp:"qiong2",d:"alone/desolate",t:"煢",w:"茕"}],s=11,t="艸",o=["艹","卂"],c=[],a="",d=[],i=[{w:"茕茕孑立",p:"qióng qióng jié lì",d:"to stand all alone",t:"煢煢孑立"}],l={s:n,sc:s,r:t,c:o,d:c,ux:a,w:d,i};export{o as c,c as d,l as default,i,t as r,n as s,s as sc,a as ux,d as w};

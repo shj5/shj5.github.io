@@ -1,1 +1,0 @@
-const t=[{p:"niǎn",pp:"nian3",d:"to expel/to oust/(dialect) to chase after/to try to catch up with",t:"攆",w:"撵"}],o=15,c="手",s=["扌","辇"],n=[],e=[{w:"撵出",p:"niǎn chū",d:"to expel/to drive out/to oust",t:"攆出"},{w:"撵走",p:"niǎn zǒu",d:"to drive out/to oust",t:"攆走"}],i=[],d={s:t,sc:o,r:c,c:s,d:n,w:e,i};export{s as c,n as d,d as default,i,c as r,t as s,o as sc,e as w};

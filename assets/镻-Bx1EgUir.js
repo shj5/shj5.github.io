@@ -1,1 +1,0 @@
-const s=[{p:"dié",pp:"die2",d:"name of poisonous snake in ancient text",t:"镻",w:"镻"}],n=13,t="長",c=["失","镸"],o=[],e=[],i=[],d={s,sc:n,r:t,c,d:o,w:e,i};export{c,o as d,d as default,i,t as r,s,n as sc,e as w};

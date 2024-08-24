@@ -1,1 +1,0 @@
-const o=[{p:"fǔ",pp:"fu3",d:"(archaic) motif of axes with black handles and white heads, a symbol of authority embroidered on ceremonial robes",t:"黼",w:"黼"}],s=19,c="黹",t=["甫","黹"],a=[],e=[],n=[],d={s:o,sc:s,r:c,c:t,d:a,w:e,i:n};export{t as c,a as d,d as default,n as i,c as r,o as s,s as sc,e as w};

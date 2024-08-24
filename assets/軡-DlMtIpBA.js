@@ -1,0 +1,1 @@
+const s=[{p:"Qián",pp:"Qian2",d:"old variant of 黔[Qian2]",t:"軡",w:"軡"}],c=11,n="車",t=["今"],o=[],a="",i=[],d=[],p={s,sc:c,r:n,c:t,d:o,ux:a,w:i,i:d};export{t as c,o as d,p as default,d as i,n as r,s,c as sc,a as ux,i as w};

@@ -1,0 +1,1 @@
+const s=[{p:"qū",pp:"qu1",d:"Japanese variant of 驅|驱/to gallop",t:"駆",w:"駆"}],t=14,c="馬",o=["区"],n=[],a="",p=[],d=[],e={s,sc:t,r:c,c:o,d:n,ux:a,w:p,i:d};export{o as c,n as d,e as default,d as i,c as r,s,t as sc,a as ux,p as w};

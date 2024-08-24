@@ -1,1 +1,0 @@
-const t=[{p:"jiù",pp:"jiu4",d:"(literary) to rent; to hire; to lease",t:"僦",w:"僦"}],s=14,c="人",o=["亻","就"],n=[],e=[],r=[],i={s:t,sc:s,r:c,c:o,d:n,w:e,i:r};export{o as c,n as d,i as default,r as i,c as r,t as s,s as sc,e as w};

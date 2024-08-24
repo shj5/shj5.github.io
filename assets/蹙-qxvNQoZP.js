@@ -1,0 +1,1 @@
+const s=[{p:"cù",pp:"cu4",d:"to knit (one's brows)/wrinkled (of brows)/to hesitate/distressed",t:"蹙",w:"蹙"}],t=18,o="足",c=["足","戚"],n=[],d="",e=[{w:"穷蹙",p:"qióng cù",d:"hard-up/in dire straits/desperate",t:"窮蹙"},{w:"蹙眉",p:"cù méi",d:"to frown",t:"蹙眉"}],r=[],i={s,sc:t,r:o,c,d:n,ux:d,w:e,i:r};export{c,n as d,i as default,r as i,o as r,s,t as sc,d as ux,e as w};

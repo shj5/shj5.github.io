@@ -1,0 +1,1 @@
+const s=[{p:"guī",pp:"gui1",d:"nonstandard simplified variant of 槼|规[gui1]",t:"椝",w:"椝"}],t=12,c="木",n=["木"],o=[],i="",d=[],a=[],u={s,sc:t,r:c,c:n,d:o,ux:i,w:d,i:a};export{n as c,o as d,u as default,a as i,c as r,s,t as sc,i as ux,d as w};

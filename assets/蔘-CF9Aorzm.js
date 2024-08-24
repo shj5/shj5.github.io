@@ -1,0 +1,1 @@
+const s=[{p:"shēn",pp:"shen1",d:"ginseng",t:"蔘",w:"蔘"}],c=14,n="艸",t=["艹"],o=[],d="",e=[],p=[],i={s,sc:c,r:n,c:t,d:o,ux:d,w:e,i:p};export{t as c,o as d,i as default,p as i,n as r,s,c as sc,d as ux,e as w};

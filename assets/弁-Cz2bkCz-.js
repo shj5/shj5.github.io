@@ -1,0 +1,1 @@
+const c=[{p:"biàn",pp:"bian4",d:"(old) cap (garment)/military officer of low rank (in former times)/preceding",t:"弁",w:"弁"}],n=5,o="廾",s=["厶","廾"],t=["弃","拚","昪","笲"],i="",r=[],e=[],a={s:c,sc:n,r:o,c:s,d:t,ux:i,w:r,i:e};export{s as c,t as d,a as default,e as i,o as r,c as s,n as sc,i as ux,r as w};

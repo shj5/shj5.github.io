@@ -1,1 +1,0 @@
-const t=[{p:"zhòu",pp:"zhou4",d:"crepe/wrinkle",t:"縐",w:"绉"}],o=8,s="糸",c=["纟","刍"],n=[],e=[{w:"文绉绉",p:"wén zhōu zhōu",d:"bookish/genteel/erudite",t:"文縐縐"},{w:"绉褶",p:"zhòu zhě",d:"variant of 皺褶|皱褶[zhou4 zhe3]",t:"縐褶"}],h=[],u={s:t,sc:o,r:s,c,d:n,w:e,i:h};export{c,n as d,u as default,h as i,s as r,t as s,o as sc,e as w};

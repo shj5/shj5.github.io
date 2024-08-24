@@ -1,1 +1,0 @@
-const s=[{p:"xī",pp:"xi1",d:"a polypus",t:"瘜",w:"瘜"}],t=15,c="疒",o=["疒","息"],n=[],p=[{w:"瘜肉",p:"xī ròu",d:"variant of 息肉[xi1 rou4]",t:"瘜肉"}],r=[],a={s,sc:t,r:c,c:o,d:n,w:p,i:r};export{o as c,n as d,a as default,r as i,c as r,s,t as sc,p as w};

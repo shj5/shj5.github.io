@@ -1,0 +1,1 @@
+const o=[{p:"kuí",pp:"kui2",d:"in opposition to/separated from",t:"暌",w:"暌"}],t=13,s="日",c=["日","癸"],e=[],n="",r=[{w:"暌违",p:"kuí wéi",d:"(literary) to be separated (from a friend, one's homeland etc) for a period of time",t:"暌違"}],i=[],a={s:o,sc:t,r:s,c,d:e,ux:n,w:r,i};export{c,e as d,a as default,i,s as r,o as s,t as sc,n as ux,r as w};

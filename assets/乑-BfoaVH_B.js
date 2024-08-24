@@ -1,1 +1,0 @@
-const s=[{p:"zhòng",pp:"zhong4",d:"to stand side by side/variant of 眾|众[zhong4]",t:"乑",w:"乑"}],t=6,n="丿",o=[],c=[],d=[],a=[],i={s,sc:t,r:n,c:o,d:c,w:d,i:a};export{o as c,c as d,i as default,a as i,n as r,s,t as sc,d as w};

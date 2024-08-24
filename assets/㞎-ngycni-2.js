@@ -1,1 +1,0 @@
-const t=[{p:"bǎ",pp:"ba3",d:"(dialect) poo/(dialect) to shit",t:"㞎",w:"㞎"}],o=0,c="",s=[],p=[],a=[{w:"㞎㞎",p:"bǎ ba",d:"(baby talk) poop",t:"㞎㞎"},{w:"拉㞎㞎",p:"lā bǎ ba",d:"to poo-poo (kiddie talk)",t:"拉㞎㞎"}],d=[],b={s:t,sc:o,r:c,c:s,d:p,w:a,i:d};export{s as c,p as d,b as default,d as i,c as r,t as s,o as sc,a as w};

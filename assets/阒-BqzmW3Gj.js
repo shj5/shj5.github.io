@@ -1,1 +1,0 @@
-const t=[{p:"qù",pp:"qu4",d:"quiet/to live alone",t:"闃",w:"阒"}],s=12,n="門",c=["门"],o=[],e=[{w:"空阒",p:"kōng qù",d:"empty and quiet",t:"空闃"},{w:"阒寂",p:"qù jì",d:"still/quiet",t:"闃寂"},{w:"阒然",p:"qù rán",d:"quiet/still and silent",t:"闃然"}],i=[],d={s:t,sc:s,r:n,c,d:o,w:e,i};export{c,o as d,d as default,i,n as r,t as s,s as sc,e as w};

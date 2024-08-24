@@ -1,0 +1,1 @@
+const c=[{p:"bó",pp:"bo2",d:"culter, a generic term for cyprinid fish of genera Culter and Erythroculter",t:"鮊",w:"鲌"}],t=13,s="魚",o=["白","鱼"],n=[],r="",e=[],d=[],i={s:c,sc:t,r:s,c:o,d:n,ux:r,w:e,i:d};export{o as c,n as d,i as default,d as i,s as r,c as s,t as sc,r as ux,e as w};

@@ -1,1 +1,0 @@
-const c=[{p:"jué",pp:"jue2",d:"to hiccup/the humours of the body",t:"瘚",w:"瘚"}],s=15,t="疒",o=["疒"],n=[],u=[],d=[],e={s:c,sc:s,r:t,c:o,d:n,w:u,i:d};export{o as c,n as d,e as default,d as i,t as r,c as s,s as sc,u as w};

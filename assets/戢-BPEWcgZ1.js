@@ -1,1 +1,0 @@
-const t=[{p:"Jí",pp:"Ji2",d:"surname Ji",t:"戢",w:"戢"},{p:"jí",pp:"ji2",d:"to restrain oneself/to collect/to hoard/to store up/to cease",t:"戢",w:"戢"}],o=13,s="戈",c=["戈","咠"],n=["濈","蕺"],e=[],p=[],r={s:t,sc:o,r:s,c,d:n,w:e,i:p};export{c,n as d,r as default,p as i,s as r,t as s,o as sc,e as w};

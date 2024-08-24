@@ -1,1 +1,0 @@
-const c=[{p:"cǎi",pp:"cai3",d:"variant of 彩[cai3]",t:"綵",w:"䌽"}],t=0,n="",o=[],s=[],i=[{w:"剪䌽",p:"jiǎn cǎi",d:"to cut the ribbon (at an opening)",t:"剪綵"}],a=[],p={s:c,sc:t,r:n,c:o,d:s,w:i,i:a};export{o as c,s as d,p as default,a as i,n as r,c as s,t as sc,i as w};

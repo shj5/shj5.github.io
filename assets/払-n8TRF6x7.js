@@ -1,0 +1,1 @@
+const t=[{p:"fǎn",pp:"fan3",d:"to take/to fetch",t:"払",w:"払"},{p:"fú",pp:"fu2",d:"Japanese variant of 拂[fu2]",t:"払",w:"払"}],s=5,c="手",n=["厶","扌"],o=[],a="",f=[],p=[],e={s:t,sc:s,r:c,c:n,d:o,ux:a,w:f,i:p};export{n as c,o as d,e as default,p as i,c as r,t as s,s as sc,a as ux,f as w};

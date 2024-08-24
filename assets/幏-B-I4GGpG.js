@@ -1,0 +1,1 @@
+const c=[{p:"jià",pp:"jia4",d:"cloth (archaic), esp. of southern ethnic groups",t:"幏",w:"幏"}],s=13,t="巾",o=["巾","家"],n=[],i="",p=[],r=[],a={s:c,sc:s,r:t,c:o,d:n,ux:i,w:p,i:r};export{o as c,n as d,a as default,r as i,t as r,c as s,s as sc,i as ux,p as w};

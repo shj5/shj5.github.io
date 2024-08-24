@@ -1,1 +1,0 @@
-const t=[{p:"wàng",pp:"wang4",d:"to deceive/to scare/to travel",t:"迋",w:"迋"}],c=8,s="辵",o=["辶","王"],n=[],e=[],a=[],d={s:t,sc:c,r:s,c:o,d:n,w:e,i:a};export{o as c,n as d,d as default,a as i,s as r,t as s,c as sc,e as w};

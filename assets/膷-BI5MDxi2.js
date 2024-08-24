@@ -1,0 +1,1 @@
+const s=[{p:"xiāng",pp:"xiang1",d:"hashed beef/soup",t:"膷",w:"膷"}],c=17,t="肉",n=["月"],o=[],d="",e=[],p=[],x={s,sc:c,r:t,c:n,d:o,ux:d,w:e,i:p};export{n as c,o as d,x as default,p as i,t as r,s,c as sc,d as ux,e as w};

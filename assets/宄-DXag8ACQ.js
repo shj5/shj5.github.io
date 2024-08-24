@@ -1,0 +1,1 @@
+const t=[{p:"guǐ",pp:"gui3",d:"traitor",t:"宄",w:"宄"}],c=5,s="宀",o=["九","宀"],n=[],r="",d=[{w:"奸宄",p:"jiān guǐ",d:"evildoer; malefactor",t:"奸宄"}],i=[],u={s:t,sc:c,r:s,c:o,d:n,ux:r,w:d,i};export{o as c,n as d,u as default,i,s as r,t as s,c as sc,r as ux,d as w};

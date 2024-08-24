@@ -1,0 +1,1 @@
+const n=[{p:"dāng",pp:"dang1",d:"(literary) pendant ornament/earring/eunuch",t:"璫",w:"珰"}],t=10,c="玉",s=["王","当"],o=[],r="",a=[],d=[],e={s:n,sc:t,r:c,c:s,d:o,ux:r,w:a,i:d};export{s as c,o as d,e as default,d as i,c as r,n as s,t as sc,r as ux,a as w};

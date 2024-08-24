@@ -1,1 +1,0 @@
-const n=[{p:"lá",pp:"la2",d:"a huge boulder/a towering rock",t:"砬",w:"砬"}],t=10,s="石",o=["石","立"],c=[],a=[{w:"白石砬子",p:"bái shí lá zi",d:"national nature reserve at Kuandian 寬甸|宽甸 in Liaoning",t:"白石砬子"}],i=[],e={s:n,sc:t,r:s,c:o,d:c,w:a,i};export{o as c,c as d,e as default,i,s as r,n as s,t as sc,a as w};

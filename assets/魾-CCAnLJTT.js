@@ -1,0 +1,1 @@
+const s=[{p:"pī",pp:"pi1",d:"Bagarius, an Asian genus of catfishes",t:"魾",w:"魾"}],c=16,t="魚",n=["丕"],o=[],a="",i=[],p=[],u={s,sc:c,r:t,c:n,d:o,ux:a,w:i,i:p};export{n as c,o as d,u as default,p as i,t as r,s,c as sc,a as ux,i as w};

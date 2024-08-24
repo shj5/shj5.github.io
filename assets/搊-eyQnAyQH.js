@@ -1,1 +1,0 @@
-const c=[{p:"chōu",pp:"chou1",d:"pluck (stringed instrument)",t:"搊",w:"搊"}],s=13,t="手",n=["扌"],o=[],d=[],p=[],r={s:c,sc:s,r:t,c:n,d:o,w:d,i:p};export{n as c,o as d,r as default,p as i,t as r,c as s,s as sc,d as w};

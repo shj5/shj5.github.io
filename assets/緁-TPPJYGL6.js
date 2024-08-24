@@ -1,0 +1,1 @@
+const s=[{p:"jié",pp:"jie2",d:"to join/to splice/to braid",t:"緁",w:"緁"}],t=14,c="糸",o=["糸"],n=[],i="",d=[],p=[],e={s,sc:t,r:c,c:o,d:n,ux:i,w:d,i:p};export{o as c,n as d,e as default,p as i,c as r,s,t as sc,i as ux,d as w};

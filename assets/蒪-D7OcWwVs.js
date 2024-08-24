@@ -1,0 +1,1 @@
+const s=[{p:"pò",pp:"po4",d:"myoga ginger (Zingiber mioga)",t:"蒪",w:"蒪"}],c=13,o="艸",t=["艹"],n=[],i="",p=[],g=[],r={s,sc:c,r:o,c:t,d:n,ux:i,w:p,i:g};export{t as c,n as d,r as default,g as i,o as r,s,c as sc,i as ux,p as w};

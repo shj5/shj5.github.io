@@ -1,1 +1,0 @@
-const c=[{p:"zé",pp:"ze2",d:"turban/head-covering",t:"幘",w:"帻"}],s=11,t="巾",n=["巾","责"],o=[],d=[],e=[],r={s:c,sc:s,r:t,c:n,d:o,w:d,i:e};export{n as c,o as d,r as default,e as i,t as r,c as s,s as sc,d as w};

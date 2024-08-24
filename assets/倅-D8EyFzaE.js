@@ -1,1 +1,0 @@
-const s=[{p:"cuì",pp:"cui4",d:"auxiliary/spare/deputy/second/sub-",t:"倅",w:"倅"}],c=10,t="人",o=["亻","卒"],n=[],d=[],p=[],u={s,sc:c,r:t,c:o,d:n,w:d,i:p};export{o as c,n as d,u as default,p as i,t as r,s,c as sc,d as w};

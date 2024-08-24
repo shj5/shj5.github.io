@@ -1,1 +1,0 @@
-const t=[{p:"kuài",pp:"kuai4",d:"to make a top knot",t:"鬠",w:"鬠"}],s=23,c="髟",o=["髟"],n=[],a=[],p=[],d={s:t,sc:s,r:c,c:o,d:n,w:a,i:p};export{o as c,n as d,d as default,p as i,c as r,t as s,s as sc,a as w};

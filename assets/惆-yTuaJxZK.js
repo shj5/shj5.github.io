@@ -1,0 +1,1 @@
+const c=[{p:"chóu",pp:"chou2",d:"forlorn/vexed/disappointed",t:"惆",w:"惆"}],o=11,s="心",n=["忄","周"],t=[],d="",e=[{w:"惆怅",p:"chóu chàng",d:"melancholy/depression",t:"惆悵"},{w:"惆怅若失",p:"chóu chàng ruò shī",d:"to feel despondent (idiom)",t:"惆悵若失"}],p=[],h={s:c,sc:o,r:s,c:n,d:t,ux:d,w:e,i:p};export{n as c,t as d,h as default,p as i,s as r,c as s,o as sc,d as ux,e as w};

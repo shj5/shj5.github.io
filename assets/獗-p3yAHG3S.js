@@ -1,1 +1,0 @@
-const t=[{p:"jué",pp:"jue2",d:"unruly/rude",t:"獗",w:"獗"}],c=15,s="犬",n=["犭","厥"],o=[],u=[{w:"猖獗",p:"chāng jué",d:"to be rampant/to run wild",t:"猖獗"}],d=[],r={s:t,sc:c,r:s,c:n,d:o,w:u,i:d};export{n as c,o as d,r as default,d as i,s as r,t as s,c as sc,u as w};

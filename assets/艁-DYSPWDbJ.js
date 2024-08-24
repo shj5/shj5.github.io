@@ -1,1 +1,0 @@
-const t=[{p:"zào",pp:"zao4",d:"variant of 造, to make/to build/to invent/to manufacture",t:"艁",w:"艁"}],o=13,c="舟",s=["舟","告"],n=[],a=[],d=[],e={s:t,sc:o,r:c,c:s,d:n,w:a,i:d};export{s as c,n as d,e as default,d as i,c as r,t as s,o as sc,a as w};

@@ -1,1 +1,0 @@
-const c=[{p:"chēng",pp:"cheng1",d:"variant of 撐|撑[cheng1]",t:"牚",w:"牚"}],s=12,n="牙",t=["牙","尚"],o=["橕"],a=[],d=[],e={s:c,sc:s,r:n,c:t,d:o,w:a,i:d};export{t as c,o as d,e as default,d as i,n as r,c as s,s as sc,a as w};

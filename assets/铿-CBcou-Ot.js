@@ -1,1 +1,0 @@
-const n=[{p:"kēng",pp:"keng1",d:"(onom.) clang/jingling of metals/to strike",t:"鏗",w:"铿"}],s=12,o="金",t=["坚"],c=[],r=[{w:"铿然",p:"kēng rán",d:"(literary) resonant",t:"鏗然"},{w:"铿锵",p:"kēng qiāng",d:"sonorous/resounding/fig. resounding words",t:"鏗鏘"}],g=[],i={s:n,sc:s,r:o,c:t,d:c,w:r,i:g};export{t as c,c as d,i as default,g as i,o as r,n as s,s as sc,r as w};

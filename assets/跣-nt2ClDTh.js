@@ -1,0 +1,1 @@
+const t=[{p:"xiǎn",pp:"xian3",d:"barefooted",t:"跣",w:"跣"}],n=13,s="足",c=["先","足"],o=[],e="",a=[],d=[{w:"蓬头跣足",p:"péng tóu xiǎn zú",d:"matted hair and bare feet/unkempt",t:"蓬頭跣足"}],p={s:t,sc:n,r:s,c,d:o,ux:e,w:a,i:d};export{c,o as d,p as default,d as i,s as r,t as s,n as sc,e as ux,a as w};

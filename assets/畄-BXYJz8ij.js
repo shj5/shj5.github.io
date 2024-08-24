@@ -1,0 +1,1 @@
+const s=[{p:"liú",pp:"liu2",d:"old variant of 留[liu2]",t:"畄",w:"畄"}],c=8,t="田",o=["小","田"],n=["単","巣"],i="",d=[],l=[],u={s,sc:c,r:t,c:o,d:n,ux:i,w:d,i:l};export{o as c,n as d,u as default,l as i,t as r,s,c as sc,i as ux,d as w};

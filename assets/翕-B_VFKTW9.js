@@ -1,1 +1,0 @@
-const t=[{p:"xī",pp:"xi1",d:"to open and close (the mouth etc)/friendly/compliant/Taiwan pr. [xi4]",t:"翕",w:"翕"}],o=12,c="羽",n=["合","羽"],s=["噏","嶖","潝","歙","闟"],e=[{w:"翕动",p:"xī dòng",d:"to open and close (the mouth etc)",t:"翕動"}],d=[],p={s:t,sc:o,r:c,c:n,d:s,w:e,i:d};export{n as c,s as d,p as default,d as i,c as r,t as s,o as sc,e as w};

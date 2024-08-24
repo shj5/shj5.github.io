@@ -1,1 +1,0 @@
-const t=[{p:"fèng",pp:"feng4",d:"(literary) gift (of money etc) to a bereaved family/to contribute to funeral expenses",t:"賵",w:"赗"}],o=13,s="貝",c=["贝","冒"],e=[],n=[],r=[],a={s:t,sc:o,r:s,c,d:e,w:n,i:r};export{c,e as d,a as default,r as i,s as r,t as s,o as sc,n as w};

@@ -1,0 +1,1 @@
+const c=[{p:"xx",pp:"xx5",d:"phonetic dap or dābo/rice paddy (Korean gugja)",t:"畓",w:"畓"}],o=9,s="田",t=["水","田"],n=[],d="",p=[],x=[],a={s:c,sc:o,r:s,c:t,d:n,ux:d,w:p,i:x};export{t as c,n as d,a as default,x as i,s as r,c as s,o as sc,d as ux,p as w};

@@ -1,1 +1,0 @@
-const o=[{p:"xiào",pp:"xiao4",d:"old variant of 嘯|啸[xiao4]",t:"歗",w:"歗"}],s=16,c="欠",t=["欠"],n=[],a=[],i=[],d={s:o,sc:s,r:c,c:t,d:n,w:a,i};export{t as c,n as d,d as default,i,c as r,o as s,s as sc,a as w};

@@ -1,0 +1,1 @@
+const s=[{p:"xiān",pp:"xian1",d:"Japanese variant of 纖|纤",t:"繊",w:"繊"}],c=17,n="糸",t=["糸"],o=[],a="",i=[],p=[],x={s,sc:c,r:n,c:t,d:o,ux:a,w:i,i:p};export{t as c,o as d,x as default,p as i,n as r,s,c as sc,a as ux,i as w};

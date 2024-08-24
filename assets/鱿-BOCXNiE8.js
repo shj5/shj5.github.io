@@ -1,0 +1,1 @@
+const s=[{p:"yóu",pp:"you2",d:"cuttlefish",t:"魷",w:"鱿"}],t=12,c="魚",o=["尤","鱼"],n=[],u="",d=[{w:"炒鱿鱼",p:"chǎo yóu yú",d:"(coll.) to fire sb/to sack sb",t:"炒魷魚"},{w:"鱿鱼",p:"yóu yú",d:"squid",t:"魷魚"}],p=[],y={s,sc:t,r:c,c:o,d:n,ux:u,w:d,i:p};export{o as c,n as d,y as default,p as i,c as r,s,t as sc,u as ux,d as w};

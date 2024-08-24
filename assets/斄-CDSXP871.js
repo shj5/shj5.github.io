@@ -1,0 +1,1 @@
+const n=[{p:"Tái",pp:"Tai2",d:"ancient place name (a Han dynasty town in Shaanxi)/variant of 邰[Tai2]",t:"斄",w:"斄"}],t=19,c="攵",s=[],a=[],o="",i=[],d=[],e={s:n,sc:t,r:c,c:s,d:a,ux:o,w:i,i:d};export{s as c,a as d,e as default,d as i,c as r,n as s,t as sc,o as ux,i as w};

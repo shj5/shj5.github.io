@@ -1,1 +1,0 @@
-const n=[{p:"guì",pp:"gui4",d:"minnow",t:"鱥",w:"鱥"}],c=24,s="魚",t=[],o=[],i=[{w:"丁鱥",p:"dīng guì",d:"tench (Tinca tinca)",t:"丁鱥"},{w:"尖头鱥",p:"jiān tóu guì",d:"Chinese minnow (Phoxinus oxycephalus)",t:"尖頭鱥"}],u=[],d={s:n,sc:c,r:s,c:t,d:o,w:i,i:u};export{t as c,o as d,d as default,u as i,s as r,n as s,c as sc,i as w};

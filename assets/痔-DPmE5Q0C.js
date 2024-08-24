@@ -1,1 +1,0 @@
-const s=[{p:"zhì",pp:"zhi4",d:"piles/hemorrhoid",t:"痔",w:"痔"}],c=11,o="疒",t=["疒","寺"],n=[],h=[{w:"痔疮",p:"zhì chuāng",d:"hemorrhoid",t:"痔瘡"}],d=[],r={s,sc:c,r:o,c:t,d:n,w:h,i:d};export{t as c,n as d,r as default,d as i,o as r,s,c as sc,h as w};

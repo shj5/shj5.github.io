@@ -1,1 +1,0 @@
-const s=[{p:"qīng",pp:"qing1",d:"variant of 清[qing1]",t:"淸",w:"淸"}],c=11,n="水",t=["氵","靑"],o=[],i=[],a=[],d={s,sc:c,r:n,c:t,d:o,w:i,i:a};export{t as c,o as d,d as default,a as i,n as r,s,c as sc,i as w};

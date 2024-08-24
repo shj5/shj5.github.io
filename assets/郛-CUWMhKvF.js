@@ -1,1 +1,0 @@
-const s=[{p:"fú",pp:"fu2",d:"suburbs",t:"郛",w:"郛"}],c=10,o="邑",t=["孚"],n=[],d=[{w:"众说郛",p:"zhòng shuō fú",d:"hub for diverse opinions",t:"眾說郛"}],p=[],r={s,sc:c,r:o,c:t,d:n,w:d,i:p};export{t as c,n as d,r as default,p as i,o as r,s,c as sc,d as w};

@@ -1,0 +1,1 @@
+const t=[{p:"yī",pp:"yi1",d:"variant of 噫, yeah (interjection of approval)/to belch",t:"譩",w:"譩"}],c=20,o="言",s=["意"],n=[],a="",e=[],i=[],p={s:t,sc:c,r:o,c:s,d:n,ux:a,w:e,i};export{s as c,n as d,p as default,i,o as r,t as s,c as sc,a as ux,e as w};

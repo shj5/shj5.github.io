@@ -1,1 +1,0 @@
-const s=[{p:"shī",pp:"shi1",d:"yarrow (Achillea millefolium)",t:"蓍",w:"蓍"}],c=13,o="艸",t=["艹","耆"],n=[],i=[],l=[],r={s,sc:c,r:o,c:t,d:n,w:i,i:l};export{t as c,n as d,r as default,l as i,o as r,s,c as sc,i as w};

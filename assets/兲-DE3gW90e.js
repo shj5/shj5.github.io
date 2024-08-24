@@ -1,1 +1,0 @@
-const t=[{p:"tiān",pp:"tian1",d:"variant of 天[tian1]",t:"兲",w:"兲"}],n=6,s="八",c=["八","王"],i=[],o=[{w:"兲朝",p:"Tiān cháo",d:"(derog.) the Chinese Communist regime (variant of 天朝[Tian1 chao2] Celestial Empire, invented to circumvent censorship)",t:"兲朝"}],e=[],a={s:t,sc:n,r:s,c,d:i,w:o,i:e};export{c,i as d,a as default,e as i,s as r,t as s,n as sc,o as w};

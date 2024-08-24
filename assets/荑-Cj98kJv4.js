@@ -1,1 +1,0 @@
-const t=[{p:"tí",pp:"ti2",d:"(grass)",t:"荑",w:"荑"},{p:"yí",pp:"yi2",d:"to weed",t:"荑",w:"荑"}],s=9,c="艸",n=["艹","夷"],o=[],p=[{w:"柔荑花序",p:"róu tí huā xù",d:"catkin (botany)",t:"柔荑花序"},{w:"葇荑花序",p:"róu tí huā xù",d:"catkin (botany)",t:"葇荑花序"}],d=[],a={s:t,sc:s,r:c,c:n,d:o,w:p,i:d};export{n as c,o as d,a as default,d as i,c as r,t as s,s as sc,p as w};

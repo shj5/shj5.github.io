@@ -1,1 +1,0 @@
-const t=[{p:"mán",pp:"man2",d:"to deceive",t:"謾",w:"谩"},{p:"màn",pp:"man4",d:"to slander/to be disrespectful/to slight",t:"謾",w:"谩"}],s=13,o="言",c=["讠","曼"],n=[],e=[{w:"谩骂",p:"màn mà",d:"to hurl abuse/to deride/to call sb names",t:"謾罵"}],d=[],p={s:t,sc:s,r:o,c,d:n,w:e,i:d};export{c,n as d,p as default,d as i,o as r,t as s,s as sc,e as w};

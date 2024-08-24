@@ -1,0 +1,1 @@
+const s=[{p:"nián",pp:"nian2",d:"sheatfish (Parasilurus asotus)/oriental catfish/see also 鯰|鲶[nian2]",t:"鮎",w:"鲇"}],n=13,t="魚",c=["占","鱼"],o=[],a="",i=[],e=[],r={s,sc:n,r:t,c,d:o,ux:a,w:i,i:e};export{c,o as d,r as default,e as i,t as r,s,n as sc,a as ux,i as w};

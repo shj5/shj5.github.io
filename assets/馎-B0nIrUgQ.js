@@ -1,1 +1,0 @@
-const o=[{p:"bó",pp:"bo2",d:"used in 餺飥|馎饦[bo2tuo1]",t:"餺",w:"馎"}],t=13,s="食",c=["饣"],n=[],d=[{w:"馎饦",p:"bó tuō",d:"a type of short and wide noodle",t:"餺飥"}],e=[],p={s:o,sc:t,r:s,c,d:n,w:d,i:e};export{c,n as d,p as default,e as i,s as r,o as s,t as sc,d as w};

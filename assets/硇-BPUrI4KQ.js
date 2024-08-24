@@ -1,1 +1,0 @@
-const s=[{p:"náo",pp:"nao2",d:"used in 硇砂[nao2sha1]",t:"硇",w:"硇"}],n=11,o="石",c=["石","囟"],t=[],a=[{w:"硇砂",p:"náo shā",d:"(mineralogy) salammoniac",t:"硇砂"}],d=[],i={s,sc:n,r:o,c,d:t,w:a,i:d};export{c,t as d,i as default,d as i,o as r,s,n as sc,a as w};

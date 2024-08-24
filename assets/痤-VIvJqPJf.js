@@ -1,0 +1,1 @@
+const c=[{p:"cuó",pp:"cuo2",d:"acne",t:"痤",w:"痤"}],n=12,s="疒",t=["疒","坐"],o=[],u="",d=[{w:"氯痤疮",p:"lǜ cuó chuāng",d:"chloracne",t:"氯痤瘡"},{w:"痤疮",p:"cuó chuāng",d:"acne",t:"痤瘡"}],p=[],a={s:c,sc:n,r:s,c:t,d:o,ux:u,w:d,i:p};export{t as c,o as d,a as default,p as i,s as r,c as s,n as sc,u as ux,d as w};

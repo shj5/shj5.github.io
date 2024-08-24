@@ -1,0 +1,1 @@
+const t=[{p:"tīng",pp:"ting1",d:"variant of 聽|听[ting1]",t:"聼",w:"聼"}],s=19,c="耳",n=[],o=[],i="",a=[],d=[],p={s:t,sc:s,r:c,c:n,d:o,ux:i,w:a,i:d};export{n as c,o as d,p as default,d as i,c as r,t as s,s as sc,i as ux,a as w};

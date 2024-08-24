@@ -1,1 +1,0 @@
-const s=[{p:"chī",pp:"chi1",d:"manjack or cordia (genus Cordia)",t:"樆",w:"樆"},{p:"lí",pp:"li2",d:"rowan or mountain ash (genus Sorbus)",t:"樆",w:"樆"}],c=15,o="木",n=["木","离"],t=[],a=[],r=[],d={s,sc:c,r:o,c:n,d:t,w:a,i:r};export{n as c,t as d,d as default,r as i,o as r,s,c as sc,a as w};

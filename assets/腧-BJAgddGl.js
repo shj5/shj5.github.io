@@ -1,1 +1,0 @@
-const t=[{p:"shù",pp:"shu4",d:"insertion point in acupuncture/acupoint",t:"腧",w:"腧"}],c=13,s="肉",n=["月","俞"],o=[],p=[{w:"腧穴",p:"shù xué",d:"acupuncture point",t:"腧穴"}],u=[],i={s:t,sc:c,r:s,c:n,d:o,w:p,i:u};export{n as c,o as d,i as default,u as i,s as r,t as s,c as sc,p as w};

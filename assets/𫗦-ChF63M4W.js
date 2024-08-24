@@ -1,0 +1,1 @@
+const s=[{p:"bù",pp:"bu4",d:"used in 餔子|𫗦子[bu4zi5]",t:"餔",w:"𫗦"}],c=0,t="",o=[],n=[],d="C",b=[{w:"𫗦子",p:"bù zi",d:"baby food",t:"餔子"}],u=[],i={s,sc:c,r:t,c:o,d:n,ux:d,w:b,i:u};export{o as c,n as d,i as default,u as i,t as r,s,c as sc,d as ux,b as w};

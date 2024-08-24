@@ -1,1 +1,0 @@
-const s=[{p:"zhí",pp:"zhi2",d:"early-planted crop",t:"稙",w:"稙"}],c=13,t="禾",o=["禾","直"],n=[],a=[{w:"足利义稙",p:"Zú lì Yì zhí",d:"Ashikaga Yoshitane (1466-1523), Japanese Muromachi shogun 1490-93",t:"足利義稙"}],p=[],e={s,sc:c,r:t,c:o,d:n,w:a,i:p};export{o as c,n as d,e as default,p as i,t as r,s,c as sc,a as w};

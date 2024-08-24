@@ -1,0 +1,1 @@
+const t=[{p:"miǎo",pp:"miao3",d:"the limit/tip of branch",t:"杪",w:"杪"}],o=8,s="木",c=["木","少"],n=[],i="",a=[{w:"月杪",p:"yuè miǎo",d:"last few days of the month",t:"月杪"}],d=[],p={s:t,sc:o,r:s,c,d:n,ux:i,w:a,i:d};export{c,n as d,p as default,d as i,s as r,t as s,o as sc,i as ux,a as w};

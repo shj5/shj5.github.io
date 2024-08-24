@@ -1,0 +1,1 @@
+const c=[{p:"xié",pp:"xie2",d:"used in 㐖毒[Xie2 du2]",t:"㐖",w:"㐖"}],s=0,t="",n=[],o=[],d="A",i=[{w:"㐖毒",p:"Xié dú",d:"India (archaic)",t:"㐖毒"}],a=[],e={s:c,sc:s,r:t,c:n,d:o,ux:d,w:i,i:a};export{n as c,o as d,e as default,a as i,t as r,c as s,s as sc,d as ux,i as w};

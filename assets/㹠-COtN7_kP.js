@@ -1,1 +1,0 @@
-const t=[{p:"tún",pp:"tun2",d:"old variant of 豚[tun2]",t:"㹠",w:"㹠"}],s=0,c="",n=[],o=[],d=[],a=[],p={s:t,sc:s,r:c,c:n,d:o,w:d,i:a};export{n as c,o as d,p as default,a as i,c as r,t as s,s as sc,d as w};

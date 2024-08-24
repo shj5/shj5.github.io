@@ -1,0 +1,1 @@
+const s=[{p:"dài",pp:"dai4",d:"Japanese variant of 帶|带",t:"帯",w:"帯"}],c=10,t="巾",n=["巾","丗"],o=[],a="",d=[],i=[],p={s,sc:c,r:t,c:n,d:o,ux:a,w:d,i};export{n as c,o as d,p as default,i,t as r,s,c as sc,a as ux,d as w};

@@ -1,1 +1,0 @@
-const s=[{p:"guó",pp:"guo2",d:"variant of 國|国[guo2]",t:"囯",w:"囯"}],c=7,o="囗",t=["囗","王"],n=[],a=[],d=[],p={s,sc:c,r:o,c:t,d:n,w:a,i:d};export{t as c,n as d,p as default,d as i,o as r,s,c as sc,a as w};

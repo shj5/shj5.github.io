@@ -1,0 +1,1 @@
+const o=[{p:"lín",pp:"lin2",d:"(Cantonese) to topple/to collapse/to coax/flower bud",t:"冧",w:"冧"}],t=10,s="冖",c=["冖","林"],n=[],e="",l=[],p=[],a={s:o,sc:t,r:s,c,d:n,ux:e,w:l,i:p};export{c,n as d,a as default,p as i,s as r,o as s,t as sc,e as ux,l as w};

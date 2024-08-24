@@ -1,0 +1,1 @@
+const s=[{p:"bǎn",pp:"ban3",d:"(Hakka cuisine) snacks made from glutinous rice flour (rice cakes, noodles etc)",t:"粄",w:"粄"}],c=10,n="米",o=["反","米"],t=[],e="",a=[],i=[],r={s,sc:c,r:n,c:o,d:t,ux:e,w:a,i};export{o as c,t as d,r as default,i,n as r,s,c as sc,e as ux,a as w};

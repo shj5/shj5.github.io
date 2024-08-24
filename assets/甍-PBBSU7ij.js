@@ -1,1 +1,0 @@
-const o=[{p:"méng",pp:"meng2",d:"rafters supporting tiles/ridge of a roof",t:"甍",w:"甍"}],t=16,n="瓦",s=["瓦"],c=[],r=[{w:"鸱甍",p:"chī méng",d:"a kind of ornament on the roof ridge",t:"鴟甍"}],e=[],d={s:o,sc:t,r:n,c:s,d:c,w:r,i:e};export{s as c,c as d,d as default,e as i,n as r,o as s,t as sc,r as w};

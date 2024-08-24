@@ -1,0 +1,1 @@
+const t=[{p:"duò",pp:"duo4",d:"old variant of 惰[duo4]",t:"媠",w:"媠"},{p:"tuó",pp:"tuo2",d:"beautiful",t:"媠",w:"媠"}],o=12,s="女",c=["女"],n=[],u="",d=[],p=[],a={s:t,sc:o,r:s,c,d:n,ux:u,w:d,i:p};export{c,n as d,a as default,p as i,s as r,t as s,o as sc,u as ux,d as w};

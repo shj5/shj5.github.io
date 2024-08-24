@@ -1,1 +1,0 @@
-const s=[{p:"qiāng",pp:"qiang1",d:"(onom.) tinkling of gems",t:"瑲",w:"玱"}],n=8,c="玉",o=["王","仓"],t=[],i=[],d=[],g={s,sc:n,r:c,c:o,d:t,w:i,i:d};export{o as c,t as d,g as default,d as i,c as r,s,n as sc,i as w};

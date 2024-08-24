@@ -1,0 +1,1 @@
+const s=[{p:"sóng",pp:"song2",d:"(coll.) semen/(coll.) weak and incompetent",t:"㞞",w:"𪨊"}],c=0,n="",o=[],t=[],e="C",d=[],l=[],p={s,sc:c,r:n,c:o,d:t,ux:e,w:d,i:l};export{o as c,t as d,p as default,l as i,n as r,s,c as sc,e as ux,d as w};

@@ -1,0 +1,1 @@
+const n=[{p:"yī",pp:"yi1",d:"black and shining ebony",t:"黟",w:"黟"}],s=18,c="黑",t=["多","黑"],o=[],i="",a=[{w:"黟县",p:"Yī Xiàn",d:"Yi County in Huangshan 黃山|黄山[Huang2shan1], Anhui",t:"黟縣"}],u=[],d={s:n,sc:s,r:c,c:t,d:o,ux:i,w:a,i:u};export{t as c,o as d,d as default,u as i,c as r,n as s,s as sc,i as ux,a as w};

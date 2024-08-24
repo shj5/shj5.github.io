@@ -1,0 +1,1 @@
+const o=[{p:"zhòu",pp:"zhou4",d:"variant of 胄[zhou4]",t:"冑",w:"冑"}],t=9,s="冂",c=["冃","由"],n=[],u="",a=[{w:"甲冑",p:"jiǎ zhòu",d:"variant of 甲胄[jia3 zhou4]",t:"甲冑"}],i=[],d={s:o,sc:t,r:s,c,d:n,ux:u,w:a,i};export{c,n as d,d as default,i,s as r,o as s,t as sc,u as ux,a as w};

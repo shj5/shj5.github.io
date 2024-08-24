@@ -1,1 +1,0 @@
-const c=[{p:"chū",pp:"chu1",d:"simaroubaceae",t:"樗",w:"樗"}],s=15,t="木",o=["木","雩"],n=[],a=[{w:"樗蒱",p:"chū pú",d:"a kind of ancient game played with a set of two-sided dice",t:"樗蒱"}],d=[],e={s:c,sc:s,r:t,c:o,d:n,w:a,i:d};export{o as c,n as d,e as default,d as i,t as r,c as s,s as sc,a as w};

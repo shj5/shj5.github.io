@@ -1,1 +1,0 @@
-const t=[{p:"yé",pp:"ye2",d:"to gesticulate/to play antics",t:"揶",w:"揶"}],c=12,s="手",o=["扌","耶"],n=[],d=[{w:"揶揄",p:"yé yú",d:"to mock/to ridicule",t:"揶揄"}],e=[],i={s:t,sc:c,r:s,c:o,d:n,w:d,i:e};export{o as c,n as d,i as default,e as i,s as r,t as s,c as sc,d as w};

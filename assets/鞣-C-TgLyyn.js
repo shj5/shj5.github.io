@@ -1,0 +1,1 @@
+const n=[{p:"róu",pp:"rou2",d:"suede/chamois/tannin/to tan",t:"鞣",w:"鞣"}],t=18,s="革",c=["革","柔"],o=[],a="",u=[{w:"鞣制",p:"róu zhì",d:"to tan (leather)/tanning",t:"鞣製"},{w:"鞣质",p:"róu zhì",d:"tannin",t:"鞣質"},{w:"鞣酸",p:"róu suān",d:"tannin",t:"鞣酸"}],r=[],d={s:n,sc:t,r:s,c,d:o,ux:a,w:u,i:r};export{c,o as d,d as default,r as i,s as r,n as s,t as sc,a as ux,u as w};

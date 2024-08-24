@@ -1,0 +1,1 @@
+const t=[{p:"tǎng",pp:"tang3",d:"old variant of 钂|镋[tang3]",t:"鎲",w:"镋"},{p:"tǎng",pp:"tang3",d:"ancient weapon resembling a pitchfork",t:"钂",w:"镋"}],n=15,c="金",s=["党"],o=[],a="",p=[],d=[],e={s:t,sc:n,r:c,c:s,d:o,ux:a,w:p,i:d};export{s as c,o as d,e as default,d as i,c as r,t as s,n as sc,a as ux,p as w};

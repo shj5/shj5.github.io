@@ -1,0 +1,1 @@
+const o=[{p:"mò",pp:"mo4",d:"name of a wild tribe/silent",t:"貊",w:"貊"}],n=13,c="豸",s=["百","豸"],t=[],e="",r=[{w:"濊貊",p:"Huì mò",d:"Yemaek, ancient ethnic group of Manchuria and Korea, precursors of Korean Goguryeo kingdom",t:"濊貊"}],a=[],i={s:o,sc:n,r:c,c:s,d:t,ux:e,w:r,i:a};export{s as c,t as d,i as default,a as i,c as r,o as s,n as sc,e as ux,r as w};

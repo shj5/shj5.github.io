@@ -1,1 +1,0 @@
-const s=[{p:"huì",pp:"hui4",d:"three edged spear/(used in given names)",t:"鏸",w:"鏸"}],c=20,t="金",n=["金","惠"],e=[],o=[],d=[],i={s,sc:c,r:t,c:n,d:e,w:o,i:d};export{n as c,e as d,i as default,d as i,t as r,s,c as sc,o as w};

@@ -1,0 +1,1 @@
+const c=[{p:"yǐn",pp:"yin3",d:"traces (of a carriage)",t:"靷",w:"靷"}],s=13,t="革",n=["引","革"],o=[],a="",r=[],d=[],e={s:c,sc:s,r:t,c:n,d:o,ux:a,w:r,i:d};export{n as c,o as d,e as default,d as i,t as r,c as s,s as sc,a as ux,r as w};

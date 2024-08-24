@@ -1,0 +1,1 @@
+const n=[{p:"cuǐ",pp:"cui3",d:"having the appearance of depth",t:"漼",w:"漼"}],t=14,c="水",o=["氵","崔"],e=[],s="",i=[{w:"李漼",p:"Lǐ Cuǐ",d:"Li Cui, personal name of eighteenth Tang emperor Yizong 懿宗[Yi4 zong1] (833-873), reigned 859-873",t:"李漼"}],p=[],a={s:n,sc:t,r:c,c:o,d:e,ux:s,w:i,i:p};export{o as c,e as d,a as default,p as i,c as r,n as s,t as sc,s as ux,i as w};

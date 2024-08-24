@@ -1,0 +1,1 @@
+const s=[{p:"yīng",pp:"ying1",d:"used in 蘡薁|𮐨薁[ying1yu4]",t:"蘡",w:"𮐨"}],n=0,t="",c=[],o=[],i="F",y=[{w:"𮐨薁",p:"yīng yù",d:"Vitis bryoniifolia",t:"蘡薁"}],d=[],p={s,sc:n,r:t,c,d:o,ux:i,w:y,i:d};export{c,o as d,p as default,d as i,t as r,s,n as sc,i as ux,y as w};

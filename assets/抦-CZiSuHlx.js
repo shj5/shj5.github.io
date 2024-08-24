@@ -1,0 +1,1 @@
+const n=[{p:"bǐng",pp:"bing3",d:"old variant of 秉[bing3]/variant of 柄[bing3]/handle/shaft",t:"抦",w:"抦"}],s=8,t="手",c=["扌","丙"],o=[],a="",i=[],d=[],r={s:n,sc:s,r:t,c,d:o,ux:a,w:i,i:d};export{c,o as d,r as default,d as i,t as r,n as s,s as sc,a as ux,i as w};

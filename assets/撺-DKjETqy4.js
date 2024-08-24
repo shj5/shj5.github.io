@@ -1,1 +1,0 @@
-const s=[{p:"cuān",pp:"cuan1",d:"rush/stir up/throw/fling/hurry/rage",t:"攛",w:"撺"}],c=15,t="手",n=["扌","窜"],o=[],r=[{w:"撺掇",p:"cuān duo",d:"to urge sb on",t:"攛掇"}],u=[],d={s,sc:c,r:t,c:n,d:o,w:r,i:u};export{n as c,o as d,d as default,u as i,t as r,s,c as sc,r as w};

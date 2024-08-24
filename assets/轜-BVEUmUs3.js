@@ -1,0 +1,1 @@
+const s=[{p:"ér",pp:"er2",d:"variant of 輀[er2]",t:"轜",w:"轜"}],c=21,t="車",o=["需"],n=[],r="",a=[],d=[],e={s,sc:c,r:t,c:o,d:n,ux:r,w:a,i:d};export{o as c,n as d,e as default,d as i,t as r,s,c as sc,r as ux,a as w};

@@ -1,0 +1,1 @@
+const s=[{p:"hm",pp:"hm5",d:"interjection expressing disagreement, reproach or dissatisfaction",t:"噷",w:"噷"}],t=16,c="口",n=["口","歆"],o=[],e="",i=[],r=[],a={s,sc:t,r:c,c:n,d:o,ux:e,w:i,i:r};export{n as c,o as d,a as default,r as i,c as r,s,t as sc,e as ux,i as w};

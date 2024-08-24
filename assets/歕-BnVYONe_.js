@@ -1,1 +1,0 @@
-const s=[{p:"pēn",pp:"pen1",d:"old variant of 噴|喷[pen1]",t:"歕",w:"歕"}],c=16,n="欠",t=["欠"],o=[],p=[],d=[],a={s,sc:c,r:n,c:t,d:o,w:p,i:d};export{t as c,o as d,a as default,d as i,n as r,s,c as sc,p as w};

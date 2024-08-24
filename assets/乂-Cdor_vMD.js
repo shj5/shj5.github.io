@@ -1,1 +1,0 @@
-const o=[{p:"yì",pp:"yi4",d:"to regulate/to govern/to control/to mow",t:"乂",w:"乂"}],t=2,c="丿",s=[],n=["刈","艾","気"],r=[],e=[],d={s:o,sc:t,r:c,c:s,d:n,w:r,i:e};export{s as c,n as d,d as default,e as i,c as r,o as s,t as sc,r as w};

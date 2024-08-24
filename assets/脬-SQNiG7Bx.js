@@ -1,0 +1,1 @@
+const s=[{p:"pāo",pp:"pao1",d:"bladder",t:"脬",w:"脬"}],c=11,o="肉",t=["月","孚"],d=[],n="",p=[{w:"尿脬",p:"suī pāo",d:"bladder",t:"尿脬"}],a=[],r={s,sc:c,r:o,c:t,d,ux:n,w:p,i:a};export{t as c,d,r as default,a as i,o as r,s,c as sc,n as ux,p as w};

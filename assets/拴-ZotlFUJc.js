@@ -1,1 +1,0 @@
-const t=[{p:"shuān",pp:"shuan1",d:"to tie up",t:"拴",w:"拴"}],s=9,o="手",c=["扌","全"],n=[],e=[{w:"拴住",p:"shuān zhù",d:"to tether/to tie up/(fig.) to restrict/to keep a hold on",t:"拴住"}],p=[],d={s:t,sc:s,r:o,c,d:n,w:e,i:p};export{c,n as d,d as default,p as i,o as r,t as s,s as sc,e as w};

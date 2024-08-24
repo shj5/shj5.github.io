@@ -1,1 +1,0 @@
-const n=[{p:"gōng",pp:"gong1",d:"used in 蜈蚣[wu2gong1]",t:"蚣",w:"蚣"}],s=10,c="虫",t=["公","虫"],o=[],g=[{w:"蜈蚣",p:"wú gōng",d:"centipede",t:"蜈蚣"}],d=[],e={s:n,sc:s,r:c,c:t,d:o,w:g,i:d};export{t as c,o as d,e as default,d as i,c as r,n as s,s as sc,g as w};

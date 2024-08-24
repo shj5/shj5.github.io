@@ -1,1 +1,0 @@
-const c=[{p:"tái",pp:"tai2",d:"mackerel/Pacific mackerel (Pneumatophorus japonicus)",t:"鮐",w:"鲐"}],s=13,t="魚",n=["台","鱼"],o=[],a=[{w:"羽鳃鲐",p:"yǔ sāi tái",d:"Indian mackerel",t:"羽鰓鮐"}],i=[],e={s:c,sc:s,r:t,c:n,d:o,w:a,i};export{n as c,o as d,e as default,i,t as r,c as s,s as sc,a as w};

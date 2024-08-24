@@ -1,1 +1,0 @@
-const s=[{p:"ài",pp:"ai4",d:"einsteinium (chemistry) (Tw)/ionium (former name of thorium)",t:"鑀",w:"鑀"}],t=21,c="金",o=["金"],n=[],i=[],e=[],r={s,sc:t,r:c,c:o,d:n,w:i,i:e};export{o as c,n as d,r as default,e as i,c as r,s,t as sc,i as w};

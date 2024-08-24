@@ -1,1 +1,0 @@
-const s=[{p:"cóng",pp:"cong2",d:"a place where small streams flow into a large one",t:"漎",w:"漎"}],c=14,o="水",t=["氵"],n=[],a=[],e=[],l={s,sc:c,r:o,c:t,d:n,w:a,i:e};export{t as c,n as d,l as default,e as i,o as r,s,c as sc,a as w};

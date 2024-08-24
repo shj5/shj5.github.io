@@ -1,0 +1,1 @@
+const s=[{p:"héng",pp:"heng2",d:"used in 揘畢|揘毕[heng2bi4]",t:"揘",w:"揘"}],t=12,n="手",c=["扌","皇"],o=[],d="",e=[{w:"揘毕",p:"héng bì",d:"to stab with a spear",t:"揘畢"}],p=[],a={s,sc:t,r:n,c,d:o,ux:d,w:e,i:p};export{c,o as d,a as default,p as i,n as r,s,t as sc,d as ux,e as w};

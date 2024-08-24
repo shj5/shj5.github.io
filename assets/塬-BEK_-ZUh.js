@@ -1,1 +1,0 @@
-const s=[{p:"yuán",pp:"yuan2",d:"plateau, esp. Loess Plateau of northwest China 黃土高原|黄土高原[Huang2 tu3 Gao1 yuan2]",t:"塬",w:"塬"}],t=13,o="土",a=["土","原"],n=[],c=[{w:"塬地",p:"yuán dì",d:"fertile arable soil of loess plateau",t:"塬地"}],e=[],u={s,sc:t,r:o,c:a,d:n,w:c,i:e};export{a as c,n as d,u as default,e as i,o as r,s,t as sc,c as w};

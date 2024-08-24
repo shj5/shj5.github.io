@@ -1,1 +1,0 @@
-const s=[{p:"dāi",pp:"dai1",d:"variant of 呆[dai1]/foolish/also pr. [ai2]",t:"獃",w:"獃"}],o=13,c="犬",t=["犬"],n=[],a=[],i=[],d={s,sc:o,r:c,c:t,d:n,w:a,i};export{t as c,n as d,d as default,i,c as r,s,o as sc,a as w};

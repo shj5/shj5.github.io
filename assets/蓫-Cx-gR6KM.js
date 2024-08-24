@@ -1,0 +1,1 @@
+const c=[{p:"zhú",pp:"zhu2",d:"(weed)/Phytolacca acinosa",t:"蓫",w:"蓫"}],s=14,t="艸",o=["艹"],n=[],a="",d=[],e=[],p={s:c,sc:s,r:t,c:o,d:n,ux:a,w:d,i:e};export{o as c,n as d,p as default,e as i,t as r,c as s,s as sc,a as ux,d as w};

@@ -1,0 +1,1 @@
+const t=[{p:"zhuó",pp:"zhuo2",d:"bracelet",t:"鐲",w:"镯"}],c=18,s="金",o=["蜀"],n=[],e="",u=[{w:"手镯",p:"shǒu zhuó",d:"bracelet",t:"手鐲"},{w:"镯子",p:"zhuó zi",d:"bracelet/CL:隻|只[zhi1]",t:"鐲子"}],d=[],h={s:t,sc:c,r:s,c:o,d:n,ux:e,w:u,i:d};export{o as c,n as d,h as default,d as i,s as r,t as s,c as sc,e as ux,u as w};

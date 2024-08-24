@@ -1,1 +1,0 @@
-const t=[{p:"jiǎ",pp:"jia3",d:"obstruction in the intestine",t:"瘕",w:"瘕"}],s=14,c="疒",n=["疒"],o=[],i=[],e=[],d={s:t,sc:s,r:c,c:n,d:o,w:i,i:e};export{n as c,o as d,d as default,e as i,c as r,t as s,s as sc,i as w};

@@ -1,1 +1,0 @@
-const s=[{p:"dàng",pp:"dang4",d:"to fall/to sway/to cross",t:"逿",w:"逿"}],t=13,c="辵",o=["辶","昜"],n=[],d=[],a=[],p={s,sc:t,r:c,c:o,d:n,w:d,i:a};export{o as c,n as d,p as default,a as i,c as r,s,t as sc,d as w};

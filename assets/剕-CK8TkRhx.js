@@ -1,0 +1,1 @@
+const s=[{p:"fèi",pp:"fei4",d:"amputation of limbs as corporal punishment/variant of 腓, calf",t:"剕",w:"剕"}],t=10,c="刀",o=["刂","非"],n=[],a="",i=[],p=[],f={s,sc:t,r:c,c:o,d:n,ux:a,w:i,i:p};export{o as c,n as d,f as default,p as i,c as r,s,t as sc,a as ux,i as w};

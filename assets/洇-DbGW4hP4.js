@@ -1,1 +1,0 @@
-const t=[{p:"yān",pp:"yan1",d:"variant of 湮[yan1]",t:"洇",w:"洇"},{p:"yīn",pp:"yin1",d:"to soak/to blotch/to splotch",t:"洇",w:"洇"}],o=9,s="水",n=["氵","因"],c=[],p=[{w:"洇湿",p:"yīn shī",d:"to soak",t:"洇濕"}],a=[],d={s:t,sc:o,r:s,c:n,d:c,w:p,i:a};export{n as c,c as d,d as default,a as i,s as r,t as s,o as sc,p as w};

@@ -1,1 +1,0 @@
-const s=[{p:"xū",pp:"xu1",d:"old variant of 虛|虚[xu1]",t:"虗",w:"虗"}],c=9,t="虍",o=["丘","虍"],n=[],d=[],a=[],p={s,sc:c,r:t,c:o,d:n,w:d,i:a};export{o as c,n as d,p as default,a as i,t as r,s,c as sc,d as w};

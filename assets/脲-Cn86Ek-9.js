@@ -1,0 +1,1 @@
+const o=[{p:"niào",pp:"niao4",d:"carbamide/urea (NH2)2CO/also written 尿素",t:"脲",w:"脲"}],s=11,t="肉",c=["月","尿"],n=[],a="",d=[{w:"脲醛",p:"niào quán",d:"urea formaldehyde",t:"脲醛"}],e=[],r={s:o,sc:s,r:t,c,d:n,ux:a,w:d,i:e};export{c,n as d,r as default,e as i,t as r,o as s,s as sc,a as ux,d as w};

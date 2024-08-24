@@ -1,0 +1,1 @@
+const t=[{p:"jué",pp:"jue2",d:"to pick out/to single out",t:"抉",w:"抉"}],o=7,s="手",c=["扌","夬"],n=[],u="",e=[{w:"抉择",p:"jué zé",d:"to choose (literary)",t:"抉擇"}],p=[],d={s:t,sc:o,r:s,c,d:n,ux:u,w:e,i:p};export{c,n as d,d as default,p as i,s as r,t as s,o as sc,u as ux,e as w};

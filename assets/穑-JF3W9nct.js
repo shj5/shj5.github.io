@@ -1,0 +1,1 @@
+const s=[{p:"sè",pp:"se4",d:"gather in harvest",t:"穡",w:"穑"}],t=16,c="禾",n=["禾","啬"],o=[],r="",a=[{w:"稼穑",p:"jià sè",d:"(literary) sowing and reaping/farm work",t:"稼穡"}],e=[],i={s,sc:t,r:c,c:n,d:o,ux:r,w:a,i:e};export{n as c,o as d,i as default,e as i,c as r,s,t as sc,r as ux,a as w};

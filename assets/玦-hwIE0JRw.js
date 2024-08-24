@@ -1,0 +1,1 @@
+const n=[{p:"jué",pp:"jue2",d:"penannular jade pendant",t:"玦",w:"玦"}],o=8,s="玉",t=["王","夬"],a=[],e="",c=[{w:"玉玦",p:"yù jué",d:"penannular jade pendant (often used as a symbol of separation or resolution, for homophony reasons)",t:"玉玦"}],p=[],d={s:n,sc:o,r:s,c:t,d:a,ux:e,w:c,i:p};export{t as c,a as d,d as default,p as i,s as r,n as s,o as sc,e as ux,c as w};

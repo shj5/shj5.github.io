@@ -1,1 +1,0 @@
-const t=[{p:"jiū",pp:"jiu1",d:"to strangle/to inquire into",t:"摎",w:"摎"}],s=14,c="手",o=["扌","翏"],n=[],i=[],r=[],d={s:t,sc:s,r:c,c:o,d:n,w:i,i:r};export{o as c,n as d,d as default,r as i,c as r,t as s,s as sc,i as w};

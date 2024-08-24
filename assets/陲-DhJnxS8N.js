@@ -1,1 +1,0 @@
-const c=[{p:"chuí",pp:"chui2",d:"frontier",t:"陲",w:"陲"}],t=11,s="阜",o=["垂"],n=[],r=[{w:"边陲",p:"biān chuí",d:"border area/frontier",t:"邊陲"}],d=[],e={s:c,sc:t,r:s,c:o,d:n,w:r,i:d};export{o as c,n as d,e as default,d as i,s as r,c as s,t as sc,r as w};

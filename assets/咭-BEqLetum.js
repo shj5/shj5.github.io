@@ -1,0 +1,1 @@
+const s=[{p:"jī",pp:"ji1",d:"variant of 嘰|叽[ji1]",t:"咭",w:"咭"}],o=9,t="口",c=["口","吉"],n=[],i="",g=[{w:"咭咭呱呱",p:"jī jī guā guā",d:"(onom.) giggling noise",t:"咭咭呱呱"}],d=[],j={s,sc:o,r:t,c,d:n,ux:i,w:g,i:d};export{c,n as d,j as default,d as i,t as r,s,o as sc,i as ux,g as w};

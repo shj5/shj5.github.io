@@ -1,0 +1,1 @@
+const c=[{p:"náo",pp:"nao2",d:"macaque (zoology)/brisk and nimble/to scratch",t:"猱",w:"猱"}],o=12,s="犬",t=["犭","柔"],n=[],a="",d=[],r=[],e={s:c,sc:o,r:s,c:t,d:n,ux:a,w:d,i:r};export{t as c,n as d,e as default,r as i,s as r,c as s,o as sc,a as ux,d as w};

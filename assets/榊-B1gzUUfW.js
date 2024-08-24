@@ -1,0 +1,1 @@
+const s=[{p:"shén",pp:"shen2",d:"(Japanese kokuji) sakaki (Cleyera japonica), evergreen tree used in Shinto to decorate sacred spaces",t:"榊",w:"榊"}],e=14,c="木",n=["木","神"],t=[],o="",a=[],r=[],d={s,sc:e,r:c,c:n,d:t,ux:o,w:a,i:r};export{n as c,t as d,d as default,r as i,c as r,s,e as sc,o as ux,a as w};

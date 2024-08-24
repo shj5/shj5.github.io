@@ -1,1 +1,0 @@
-const s=[{p:"láo",pp:"lao2",d:"used in 髝髞[lao2sao4]",t:"髝",w:"髝"}],o=22,c="高",t=["高"],n=[],a=[{w:"髝髞",p:"láo sào",d:"boorish and irascible/tall",t:"髝髞"}],l=[],d={s,sc:o,r:c,c:t,d:n,w:a,i:l};export{t as c,n as d,d as default,l as i,c as r,s,o as sc,a as w};

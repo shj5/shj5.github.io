@@ -1,0 +1,1 @@
+const s=[{p:"ní",pp:"ni2",d:"Cryptobranchus japonicus/salamander",t:"鯢",w:"鲵"}],n=16,c="魚",t=["鱼"],a=[],o="",d=[{w:"大鲵",p:"dà ní",d:"giant salamander (Andrias japonicus)",t:"大鯢"}],p=[],r={s,sc:n,r:c,c:t,d:a,ux:o,w:d,i:p};export{t as c,a as d,r as default,p as i,c as r,s,n as sc,o as ux,d as w};

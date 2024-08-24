@@ -1,1 +1,0 @@
-const s=[{p:"wěng",pp:"weng3",d:"(of clouds) to rise/(of water) to swell",t:"滃",w:"滃"}],o=13,t="水",c=["氵","翁"],n=[],w=[],e=[],d={s,sc:o,r:t,c,d:n,w,i:e};export{c,n as d,d as default,e as i,t as r,s,o as sc,w};

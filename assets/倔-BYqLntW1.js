@@ -1,1 +1,0 @@
-const s=[{p:"jué",pp:"jue2",d:"used in 倔強|倔强[jue2jiang4]",t:"倔",w:"倔"},{p:"juè",pp:"jue4",d:"gruff; surly",t:"倔",w:"倔"}],t=10,n="人",u=["亻","屈"],c=[],o=[{w:"倔强",p:"jué jiàng",d:"stubborn; obstinate; unbending",t:"倔強"},{w:"倔头",p:"juè tóu",d:"a surly, irascible person",t:"倔頭"}],e=[],p={s,sc:t,r:n,c:u,d:c,w:o,i:e};export{u as c,c as d,p as default,e as i,n as r,s,t as sc,o as w};

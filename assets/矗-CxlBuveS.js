@@ -1,1 +1,0 @@
-const t=[{p:"chù",pp:"chu4",d:"lofty/upright",t:"矗",w:"矗"}],c=24,o="目",s=["直"],n=[],d=[{w:"矗立",p:"chù lì",d:"to tower/standing tall and upright (of large building)",t:"矗立"},{w:"高矗",p:"gāo chù",d:"towering",t:"高矗"}],i=[],p={s:t,sc:c,r:o,c:s,d:n,w:d,i};export{s as c,n as d,p as default,i,o as r,t as s,c as sc,d as w};

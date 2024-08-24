@@ -1,0 +1,1 @@
+const c=[{p:"yòu",pp:"you4",d:"larva",t:"蚴",w:"蚴"}],s=11,t="虫",a=["幼","虫"],o=[],i="",r=[{w:"尾蚴",p:"wěi yòu",d:"tailed larva/Cercaria (microscopic larva of parasitic Miracidium flatworm)",t:"尾蚴"}],n=[],d={s:c,sc:s,r:t,c:a,d:o,ux:i,w:r,i:n};export{a as c,o as d,d as default,n as i,t as r,c as s,s as sc,i as ux,r as w};

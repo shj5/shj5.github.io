@@ -1,1 +1,0 @@
-const s=[{p:"xū",pp:"xu1",d:"mistress, concubine/weak",t:"嬬",w:"嬬"}],c=17,t="女",n=["女","需"],o=[],e=[],d=[],i={s,sc:c,r:t,c:n,d:o,w:e,i:d};export{n as c,o as d,i as default,d as i,t as r,s,c as sc,e as w};

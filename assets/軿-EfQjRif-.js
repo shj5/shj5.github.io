@@ -1,0 +1,1 @@
+const t=[{p:"píng",pp:"ping2",d:"curtained carriage used by women/to gather together/to assemble",t:"軿",w:"軿"}],s=13,c="車",o=["并"],n=[],e="",r=[],a=[],d={s:t,sc:s,r:c,c:o,d:n,ux:e,w:r,i:a};export{o as c,n as d,d as default,a as i,c as r,t as s,s as sc,e as ux,r as w};

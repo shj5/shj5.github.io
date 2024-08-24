@@ -1,1 +1,0 @@
-const t=[{p:"bèn",pp:"ben4",d:"dust/to dust/a bank of earth/to bring together/to dig/also pr. [fen4]",t:"坋",w:"坋"}],s=7,o="土",n=["土","分"],c=[],d=[{w:"坋土",p:"bèn tǔ",d:"(geology) silt",t:"坋土"},{w:"坋粒",p:"bèn lì",d:"silt particle",t:"坋粒"}],e=[],p={s:t,sc:s,r:o,c:n,d:c,w:d,i:e};export{n as c,c as d,p as default,e as i,o as r,t as s,s as sc,d as w};

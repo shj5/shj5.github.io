@@ -1,1 +1,0 @@
-const s=[{p:"luò",pp:"luo4",d:"string on which coins are strung",t:"纙",w:"纙"}],c=25,t="糸",n=["糸"],o=[],r=[],i=[],d={s,sc:c,r:t,c:n,d:o,w:r,i};export{n as c,o as d,d as default,i,t as r,s,c as sc,r as w};

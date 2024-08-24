@@ -1,0 +1,1 @@
+const s=[{p:"zào",pp:"zao4",d:"Chinese honey locust (Gleditsia sinensis)/now written zào jiá 皂莢|皂荚",t:"梍",w:"梍"}],o=11,t="木",n=["木","皂"],c=[],i="",e=[],d=[],w={s,sc:o,r:t,c:n,d:c,ux:i,w:e,i:d};export{n as c,c as d,w as default,d as i,t as r,s,o as sc,i as ux,e as w};

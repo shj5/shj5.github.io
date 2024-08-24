@@ -1,1 +1,0 @@
-const c=[{p:"tāo",pp:"tao1",d:"bow case/to cover",t:"弢",w:"弢"}],o=8,s="弓",t=["弓"],n=[],a=[],d=[],e={s:c,sc:o,r:s,c:t,d:n,w:a,i:d};export{t as c,n as d,e as default,d as i,s as r,c as s,o as sc,a as w};

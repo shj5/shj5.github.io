@@ -1,0 +1,1 @@
+const t=[{p:"lí",pp:"li2",d:"a divide, to partition",t:"劙",w:"劙"}],s=23,c="刀",o=["刂","蠡"],n=[],i="",d=[],p=[],a={s:t,sc:s,r:c,c:o,d:n,ux:i,w:d,i:p};export{o as c,n as d,a as default,p as i,c as r,t as s,s as sc,i as ux,d as w};

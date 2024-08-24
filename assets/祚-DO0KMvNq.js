@@ -1,1 +1,0 @@
-const t=[{p:"zuò",pp:"zuo4",d:"blessing/the throne",t:"祚",w:"祚"}],o=10,s="示",n=["示","乍"],c=[],e=[{w:"亨祚",p:"hēng zuò",d:"to prosper; to flourish",t:"亨祚"},{w:"国祚",p:"guó zuò",d:"the period over which a dynasty or nation endures",t:"國祚"}],r=[],d={s:t,sc:o,r:s,c:n,d:c,w:e,i:r};export{n as c,c as d,d as default,r as i,s as r,t as s,o as sc,e as w};

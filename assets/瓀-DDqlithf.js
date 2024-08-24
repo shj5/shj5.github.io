@@ -1,1 +1,0 @@
-const s=[{p:"ruǎn",pp:"ruan3",d:"opaque/white quartz",t:"瓀",w:"瓀"}],t=18,c="玉",n=["王","需"],o=[],r=[],a=[],p={s,sc:t,r:c,c:n,d:o,w:r,i:a};export{n as c,o as d,p as default,a as i,c as r,s,t as sc,r as w};

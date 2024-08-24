@@ -1,1 +1,0 @@
-const s=[{p:"liè",pp:"lie4",d:"(literary) equal/enclosure/dike/embankment/Taiwan pr. [le4]",t:"埒",w:"埒"}],c=10,t="土",n=["土"],e=[],o=[],a=[],i={s,sc:c,r:t,c:n,d:e,w:o,i:a};export{n as c,e as d,i as default,a as i,t as r,s,c as sc,o as w};

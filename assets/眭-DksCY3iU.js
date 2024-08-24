@@ -1,0 +1,1 @@
+const s=[{p:"Suī",pp:"Sui1",d:"surname Sui",t:"眭",w:"眭"},{p:"suī",pp:"sui1",d:"to have a deep or piercing gaze",t:"眭",w:"眭"}],c=11,t="目",o=["目","圭"],n=[],p="",u=[],e=[],i={s,sc:c,r:t,c:o,d:n,ux:p,w:u,i:e};export{o as c,n as d,i as default,e as i,t as r,s,c as sc,p as ux,u as w};

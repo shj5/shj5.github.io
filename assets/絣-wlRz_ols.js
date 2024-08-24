@@ -1,1 +1,0 @@
-const s=[{p:"bǐng",pp:"bing3",d:"Ikat, a type of woven silk/Kasuri",t:"絣",w:"絣"}],t=12,c="糸",n=["糸","并"],o=[],a=[],i=[],p={s,sc:t,r:c,c:n,d:o,w:a,i};export{n as c,o as d,p as default,i,c as r,s,t as sc,a as w};

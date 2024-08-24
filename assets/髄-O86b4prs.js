@@ -1,0 +1,1 @@
+const s=[{p:"suǐ",pp:"sui3",d:"variant of 髓[sui3]",t:"髄",w:"髄"}],c=19,t="骨",o=["骨","迶"],n=[],u="",i=[],a=[],d={s,sc:c,r:t,c:o,d:n,ux:u,w:i,i:a};export{o as c,n as d,d as default,a as i,t as r,s,c as sc,u as ux,i as w};

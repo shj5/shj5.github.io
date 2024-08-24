@@ -1,1 +1,0 @@
-const t=[{p:"zhuó",pp:"zhuo2",d:"used in 鸑鷟|𬸚𬸦[yue4zhuo2]",t:"鷟",w:"𬸦"}],c=0,s="",o=[],i=[],a=[{w:"𬸚𬸦",p:"yuè zhuó",d:"(literary) mythical bird similar to a phoenix/(archaic) waterbird similar to a large duck",t:"鸑鷟"}],r=[],n={s:t,sc:c,r:s,c:o,d:i,w:a,i:r};export{o as c,i as d,n as default,r as i,s as r,t as s,c as sc,a as w};

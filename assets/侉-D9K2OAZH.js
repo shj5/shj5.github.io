@@ -1,1 +1,0 @@
-const c=[{p:"kuǎ",pp:"kua3",d:"foreign accent",t:"侉",w:"侉"}],s=8,t="人",n=["亻","夸"],o=[],e=[{w:"侉子",p:"kuǎ zi",d:"person speaking with a foreign accent",t:"侉子"}],a=[],i={s:c,sc:s,r:t,c:n,d:o,w:e,i:a};export{n as c,o as d,i as default,a as i,t as r,c as s,s as sc,e as w};

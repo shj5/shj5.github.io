@@ -1,1 +1,0 @@
-const c=[{p:"èr",pp:"er4",d:"archaic variant of 貳|贰, banker's anti-fraud numeral two",t:"弍",w:"弍"}],s=5,t="弋",n=["二","弋"],o=[],a=[],r=[],d={s:c,sc:s,r:t,c:n,d:o,w:a,i:r};export{n as c,o as d,d as default,r as i,t as r,c as s,s as sc,a as w};

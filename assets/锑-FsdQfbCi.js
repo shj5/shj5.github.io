@@ -1,1 +1,0 @@
-const t=[{p:"tī",pp:"ti1",d:"antimony (chemistry)",t:"銻",w:"锑"}],s=12,c="金",n=["弟"],o=[],i=[],d=[],p={s:t,sc:s,r:c,c:n,d:o,w:i,i:d};export{n as c,o as d,p as default,d as i,c as r,t as s,s as sc,i as w};

@@ -1,0 +1,1 @@
+const s=[{p:"zhí",pp:"zhi2",d:"variant of 值[zhi2]",t:"値",w:"値"}],c=10,t="人",o=["亻","直"],n=[],i="",a=[],d=[],p={s,sc:c,r:t,c:o,d:n,ux:i,w:a,i:d};export{o as c,n as d,p as default,d as i,t as r,s,c as sc,i as ux,a as w};

@@ -1,1 +1,0 @@
-const t=[{p:"ē",pp:"e1",d:"(dialect) to excrete (urine or feces)",t:"屙",w:"屙"}],c=11,s="尸",e=["尸","阿"],o=[],n=[{w:"屙尿",p:"ē niào",d:"to urinate",t:"屙尿"},{w:"屙屎",p:"ē shǐ",d:"to defecate",t:"屙屎"}],d=[],r={s:t,sc:c,r:s,c:e,d:o,w:n,i:d};export{e as c,o as d,r as default,d as i,s as r,t as s,c as sc,n as w};

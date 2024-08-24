@@ -1,1 +1,0 @@
-const o=[{p:"pí",pp:"pi2",d:"to comb/fine-toothed comb/trap for prawns",t:"笓",w:"笓"}],t=10,c="竹",s=["比","竹"],n=[],p=[],r=[],d={s:o,sc:t,r:c,c:s,d:n,w:p,i:r};export{s as c,n as d,d as default,r as i,c as r,o as s,t as sc,p as w};

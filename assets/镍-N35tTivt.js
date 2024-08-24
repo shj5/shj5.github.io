@@ -1,1 +1,0 @@
-const c=[{p:"niè",pp:"nie4",d:"nickel (chemistry)",t:"鎳",w:"镍"}],s=15,n="金",t=["臬"],o=[],e=[{w:"镍箔",p:"niè bó",d:"nickel sheet/CL:張|张[zhang1]",t:"鎳箔"}],i=[],d={s:c,sc:s,r:n,c:t,d:o,w:e,i};export{t as c,o as d,d as default,i,n as r,c as s,s as sc,e as w};

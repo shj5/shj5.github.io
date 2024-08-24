@@ -1,0 +1,1 @@
+const s=[{p:"mǐ",pp:"mi3",d:"formerly used for the chemical elements americium 鎇|镅[mei2] and osmium 鋨|锇[e2]",t:"銤",w:"銤"}],c=14,t="金",o=["米","金"],e=[],n="",m=[],i=[],r={s,sc:c,r:t,c:o,d:e,ux:n,w:m,i};export{o as c,e as d,r as default,i,t as r,s,c as sc,n as ux,m as w};

@@ -1,1 +1,0 @@
-const o=[{p:"zǎo",pp:"zao3",d:"pendant of pearls on coronet",t:"璪",w:"璪"}],s=17,c="玉",t=["王","喿"],n=[],p=[],a=[],d={s:o,sc:s,r:c,c:t,d:n,w:p,i:a};export{t as c,n as d,d as default,a as i,c as r,o as s,s as sc,p as w};

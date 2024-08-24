@@ -1,1 +1,0 @@
-const n=[{p:"Zhū",pp:"Zhu1",d:"surname Zhu",t:"洙",w:"洙"},{p:"zhū",pp:"zhu1",d:"name of a river",t:"洙",w:"洙"}],t=9,o="水",s=["氵","朱"],c=[],p=[{w:"韩昇洙",p:"Hán Shēng zhū",d:"Han Seung-soo (1936-), South Korean diplomat and politician, prime minister 2008-2009",t:"韓昇洙"}],a=[],i={s:n,sc:t,r:o,c:s,d:c,w:p,i:a};export{s as c,c as d,i as default,a as i,o as r,n as s,t as sc,p as w};

@@ -1,1 +1,0 @@
-const s=[{p:"suān",pp:"suan1",d:"variant of 酸[suan1]/to ache/to be sore",t:"痠",w:"痠"}],t=12,c="疒",o=["疒"],n=[],a=[],e=[],r={s,sc:t,r:c,c:o,d:n,w:a,i:e};export{o as c,n as d,r as default,e as i,c as r,s,t as sc,a as w};

@@ -1,1 +1,0 @@
-const s=[{p:"àn",pp:"an4",d:"used in 狴犴[bi4an4]",t:"犴",w:"犴"}],n=6,t="犬",o=["犭","干"],c=[],r=[{w:"狴犴",p:"bì àn",d:"(literary) mythical creature resembling a tiger whose image was painted on prison doors/(literary) prison",t:"狴犴"}],e=[],i={s,sc:n,r:t,c:o,d:c,w:r,i:e};export{o as c,c as d,i as default,e as i,t as r,s,n as sc,r as w};

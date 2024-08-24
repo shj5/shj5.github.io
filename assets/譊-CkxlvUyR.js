@@ -1,0 +1,1 @@
+const n=[{p:"náo",pp:"nao2",d:"wrangling, contention, to dispute",t:"譊",w:"譊"}],t=19,o="言",s=[],c=[],d="",i=[],p=[],a={s:n,sc:t,r:o,c:s,d:c,ux:d,w:i,i:p};export{s as c,c as d,a as default,p as i,o as r,n as s,t as sc,d as ux,i as w};

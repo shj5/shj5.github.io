@@ -1,0 +1,1 @@
+const s=[{p:"guān",pp:"guan1",d:"variant of 關|关[guan1]",t:"関",w:"関"}],c=14,n="門",t=["关"],o=[],a="",u=[],d=[],p={s,sc:c,r:n,c:t,d:o,ux:a,w:u,i:d};export{t as c,o as d,p as default,d as i,n as r,s,c as sc,a as ux,u as w};

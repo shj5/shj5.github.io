@@ -1,0 +1,1 @@
+const o=[{p:"chuán",pp:"chuan2",d:"to hurry/to go to and fro",t:"遄",w:"遄"}],t=13,n="辵",c=["辶"],s=[],r="",d=[{w:"遄征",p:"chuán zhēng",d:"to hurry forward on an expedition/to drive fast",t:"遄征"}],u=[],a={s:o,sc:t,r:n,c,d:s,ux:r,w:d,i:u};export{c,s as d,a as default,u as i,n as r,o as s,t as sc,r as ux,d as w};

@@ -1,0 +1,1 @@
+const o=[{p:"guà",pp:"gua4",d:"to hinder/to offend/to form/unique",t:"絓",w:"絓"},{p:"kuā",pp:"kua1",d:"type of coarse silk/bag used to wrap silk before washing",t:"絓",w:"絓"}],s=12,t="糸",c=["糸","圭"],n=[],e="",u=[],p=[],a={s:o,sc:s,r:t,c,d:n,ux:e,w:u,i:p};export{c,n as d,a as default,p as i,t as r,o as s,s as sc,e as ux,u as w};

@@ -1,0 +1,1 @@
+const c=[{p:"qū",pp:"qu1",d:"rugged",t:"嶇",w:"岖"}],s=7,t="山",o=["山","区"],n=[],d="",g=[{w:"崎岖",p:"qí qū",d:"rugged/craggy",t:"崎嶇"}],r=[],u={s:c,sc:s,r:t,c:o,d:n,ux:d,w:g,i:r};export{o as c,n as d,u as default,r as i,t as r,c as s,s as sc,d as ux,g as w};

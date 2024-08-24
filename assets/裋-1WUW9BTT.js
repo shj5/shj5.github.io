@@ -1,0 +1,1 @@
+const s=[{p:"shù",pp:"shu4",d:"used in 裋褐[shu4he4]",t:"裋",w:"裋"}],t=13,c="衣",o=["衤","豆"],n=[],r="",e=[{w:"裋褐",p:"shù hè",d:"(literary) coarse clothing; sackcloth (worn by the poor in former times)",t:"裋褐"}],h=[],i={s,sc:t,r:c,c:o,d:n,ux:r,w:e,i:h};export{o as c,n as d,i as default,h as i,c as r,s,t as sc,r as ux,e as w};

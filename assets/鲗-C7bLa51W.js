@@ -1,1 +1,0 @@
-const c=[{p:"zéi",pp:"zei2",d:"cuttlefish",t:"鰂",w:"鲗"}],s=14,t="魚",n=["则","鱼"],o=[],i=[{w:"鲗鱼涌",p:"Zéi yú chōng",d:"Quarry Bay (area in Hong Kong)",t:"鰂魚涌"}],a=[],r={s:c,sc:s,r:t,c:n,d:o,w:i,i:a};export{n as c,o as d,r as default,a as i,t as r,c as s,s as sc,i as w};

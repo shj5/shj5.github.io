@@ -1,0 +1,1 @@
+const s=[{p:"mù",pp:"mu4",d:"molybdenum (chemistry)",t:"鉬",w:"钼"}],c=10,t="金",o=["目"],n=[],d="",m=[],u=[],e={s,sc:c,r:t,c:o,d:n,ux:d,w:m,i:u};export{o as c,n as d,e as default,u as i,t as r,s,c as sc,d as ux,m as w};

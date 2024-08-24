@@ -1,0 +1,1 @@
+const s=[{p:"dì",pp:"di4",d:"variant of 地[di4]",t:"墬",w:"墬"}],c=15,t="土",o=["土"],n=[],d="",i=[],a=[],p={s,sc:c,r:t,c:o,d:n,ux:d,w:i,i:a};export{o as c,n as d,p as default,a as i,t as r,s,c as sc,d as ux,i as w};

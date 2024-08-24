@@ -1,1 +1,0 @@
-const s=[{p:"hóng",pp:"hong2",d:"school",t:"黌",w:"黉"}],o=17,c="黃",n=["小"],t=[],h=[{w:"黉舍",p:"hóng shè",d:"school building/school",t:"黌舍"}],d=[],l={s,sc:o,r:c,c:n,d:t,w:h,i:d};export{n as c,t as d,l as default,d as i,c as r,s,o as sc,h as w};

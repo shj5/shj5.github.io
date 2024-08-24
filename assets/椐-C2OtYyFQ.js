@@ -1,1 +1,0 @@
-const c=[{p:"jū",pp:"ju1",d:"Zelkowa acuminata",t:"椐",w:"椐"}],s=12,t="木",o=["木","居"],n=[],a=[],d=[],p={s:c,sc:s,r:t,c:o,d:n,w:a,i:d};export{o as c,n as d,p as default,d as i,t as r,c as s,s as sc,a as w};

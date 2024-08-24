@@ -1,1 +1,0 @@
-const s=[{p:"qì",pp:"qi4",d:"to whisper/to blame, to slander",t:"咠",w:"咠"}],t=9,c="口",o=["口","耳"],n=["揖","缉","葺","戢","楫","辑"],d=[],e=[],p={s,sc:t,r:c,c:o,d:n,w:d,i:e};export{o as c,n as d,p as default,e as i,c as r,s,t as sc,d as w};

@@ -1,1 +1,0 @@
-const s=[{p:"chūn",pp:"chun1",d:"see 鰆魚|䲠鱼[chun1 yu2]",t:"鰆",w:"䲠"}],c=0,n="",o=[],t=[],e=[{w:"䲠鱼",p:"chūn yú",d:"Japanese Spanish mackerel (Scomberomorus niphonius)/see 馬鮫魚|马鲛鱼[ma3 jiao1 yu2]",t:"鰆魚"}],a=[],p={s,sc:c,r:n,c:o,d:t,w:e,i:a};export{o as c,t as d,p as default,a as i,n as r,s,c as sc,e as w};

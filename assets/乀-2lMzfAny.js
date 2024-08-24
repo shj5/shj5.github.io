@@ -1,1 +1,0 @@
-const t=[{p:"fú",pp:"fu2",d:"stretch",t:"乀",w:"乀"},{p:"piě",pp:"pie3",d:"variant of 丿[pie3]",t:"乀",w:"乀"}],s=1,c="丿",o=[],p=["尺"],n=[],i=[],d={s:t,sc:s,r:c,c:o,d:p,w:n,i};export{o as c,p as d,d as default,i,c as r,t as s,s as sc,n as w};

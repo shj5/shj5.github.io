@@ -1,0 +1,1 @@
+const n=[{p:"xuàn",pp:"xuan4",d:"wash (color)",t:"渲",w:"渲"}],o=12,t="水",s=["氵","宣"],c=[],e="",a=[{w:"渲染",p:"xuàn rǎn",d:"rendering (computing)/to add washes of ink or color to a drawing (Chinese painting)/to exaggerate/to embellish",t:"渲染"}],r=[],i={s:n,sc:o,r:t,c:s,d:c,ux:e,w:a,i:r};export{s as c,c as d,i as default,r as i,t as r,n as s,o as sc,e as ux,a as w};

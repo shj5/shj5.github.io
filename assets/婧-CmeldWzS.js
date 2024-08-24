@@ -1,1 +1,0 @@
-const t=[{p:"jìng",pp:"jing4",d:"(literary) (of a woman) slender; delicate/(literary) (of a woman) talented",t:"婧",w:"婧"}],n=11,s="女",c=["女","青"],o=[],a=[],e=[],r={s:t,sc:n,r:s,c,d:o,w:a,i:e};export{c,o as d,r as default,e as i,s as r,t as s,n as sc,a as w};

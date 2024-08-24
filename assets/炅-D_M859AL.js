@@ -1,1 +1,0 @@
-const s=[{p:"Guì",pp:"Gui4",d:"surname Gui",t:"炅",w:"炅"},{p:"jiǒng",pp:"jiong3",d:"(literary) bright/shining/brilliance",t:"炅",w:"炅"}],n=8,t="火",c=["日","火"],i=[],o=[],r=[],p={s,sc:n,r:t,c,d:i,w:o,i:r};export{c,i as d,p as default,r as i,t as r,s,n as sc,o as w};

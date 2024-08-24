@@ -1,1 +1,0 @@
-const s=[{p:"huò",pp:"huo4",d:"sound of flesh being separated from the bone",t:"謋",w:"謋"}],o=17,t="言",c=["桀"],n=[],e=[],d=[],p={s,sc:o,r:t,c,d:n,w:e,i:d};export{c,n as d,p as default,d as i,t as r,s,o as sc,e as w};

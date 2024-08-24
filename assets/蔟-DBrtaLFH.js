@@ -1,0 +1,1 @@
+const c=[{p:"cù",pp:"cu4",d:"collect/frame for silk worm/nest",t:"蔟",w:"蔟"}],o=14,s="艸",t=["艹","族"],n=[],r="",d=[{w:"蚕蔟",p:"cán cù",d:"small bundle of straw etc provided for silkworms to spin cocoons on",t:"蠶蔟"}],e=[],l={s:c,sc:o,r:s,c:t,d:n,ux:r,w:d,i:e};export{t as c,n as d,l as default,e as i,s as r,c as s,o as sc,r as ux,d as w};

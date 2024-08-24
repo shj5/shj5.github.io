@@ -1,1 +1,0 @@
-const n=[{p:"bù",pp:"bu4",d:"used for transcription in 嗊吥|唝吥[Gong4 bu4]",t:"吥",w:"吥"}],o=7,t="口",s=["口","不"],c=[],a=[{w:"唝吥",p:"Gòng bù",d:"old name for Kampot province and Kampot town in Cambodia, now written 貢布|贡布[Gong4 bu4]",t:"嗊吥"}],d=[],i={s:n,sc:o,r:t,c:s,d:c,w:a,i:d};export{s as c,c as d,i as default,d as i,t as r,n as s,o as sc,a as w};

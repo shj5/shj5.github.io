@@ -1,0 +1,1 @@
+const t=[{p:"tuō",pp:"tuo1",d:"(literary) to entrust (variant of 託|托[tuo1])",t:"侂",w:"侂"}],s=8,o="人",c=["亻"],n=[],r="",u=[],a=[],d={s:t,sc:s,r:o,c,d:n,ux:r,w:u,i:a};export{c,n as d,d as default,a as i,o as r,t as s,s as sc,r as ux,u as w};

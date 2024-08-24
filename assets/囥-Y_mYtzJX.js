@@ -1,1 +1,0 @@
-const c=[{p:"kàng",pp:"kang4",d:"(dialect) to hide/to conceal",t:"囥",w:"囥"}],t=7,s="囗",o=["囗","亢"],n=[],d=[],a=[],e={s:c,sc:t,r:s,c:o,d:n,w:d,i:a};export{o as c,n as d,e as default,a as i,s as r,c as s,t as sc,d as w};

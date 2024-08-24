@@ -1,0 +1,1 @@
+const o=[{p:"lào",pp:"lao4",d:"a kind of farm tool (in the form of a rectangular frame) used to level the ground/to level the ground by dragging this tool",t:"耮",w:"耢"}],t=13,s="耒",n=["耒","劳"],c=[],e="",r=[],a=[],l={s:o,sc:t,r:s,c:n,d:c,ux:e,w:r,i:a};export{n as c,c as d,l as default,a as i,s as r,o as s,t as sc,e as ux,r as w};

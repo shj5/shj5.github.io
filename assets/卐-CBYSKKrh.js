@@ -1,0 +1,1 @@
+const s=[{p:"wàn",pp:"wan4",d:"swastika, a sacred and auspicious symbol in Hinduism, Buddhism, and Jainism, later adopted by Nazi Germany",t:"卐",w:"卐"}],n=6,a="十",c=[],t=[],o="",d=[],i=[],u={s,sc:n,r:a,c,d:t,ux:o,w:d,i};export{c,t as d,u as default,i,a as r,s,n as sc,o as ux,d as w};

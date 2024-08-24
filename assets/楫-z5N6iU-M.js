@@ -1,0 +1,1 @@
+const c=[{p:"jí",pp:"ji2",d:"oar (archaic)",t:"楫",w:"楫"},{p:"jí",pp:"ji2",d:"variant of 楫[ji2]",t:"檝",w:"楫"}],s=13,t="木",o=["木","咠"],n=[],a="",i=[],p=[],r={s:c,sc:s,r:t,c:o,d:n,ux:a,w:i,i:p};export{o as c,n as d,r as default,p as i,t as r,c as s,s as sc,a as ux,i as w};

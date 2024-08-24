@@ -1,0 +1,1 @@
+const s=[{p:"jí",pp:"ji2",d:"variant of 集[ji2]",t:"亼",w:"亼"}],c=3,t="人",o=["一","人"],n=["今","令","合","佘","余","佥","佱","命","侴","俞"],i="",a=[],d=[],p={s,sc:c,r:t,c:o,d:n,ux:i,w:a,i:d};export{o as c,n as d,p as default,d as i,t as r,s,c as sc,i as ux,a as w};

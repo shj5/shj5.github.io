@@ -1,1 +1,0 @@
-const t=[{p:"rèn",pp:"ren4",d:"brake",t:"軔",w:"轫"}],n=7,o="車",s=["刃","车"],c=[],e=[{w:"发轫",p:"fā rèn",d:"to set (sth) afoot/to initiate/beginning/origin/commencement",t:"發軔"}],i=[],r={s:t,sc:n,r:o,c:s,d:c,w:e,i};export{s as c,c as d,r as default,i,o as r,t as s,n as sc,e as w};

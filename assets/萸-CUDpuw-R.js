@@ -1,1 +1,0 @@
-const s=[{p:"yú",pp:"yu2",d:"used in 茱萸[zhu1yu2]",t:"萸",w:"萸"}],n=11,c="艸",o=["艹","臾"],t=[],p=[{w:"山茱萸",p:"shān zhū yú",d:"Japanese cornel (Cornus officinalis)",t:"山茱萸"},{w:"茱萸",p:"zhū yú",d:"cornel (Cornus spp.)",t:"茱萸"}],d=[],e={s,sc:n,r:c,c:o,d:t,w:p,i:d};export{o as c,t as d,e as default,d as i,c as r,s,n as sc,p as w};

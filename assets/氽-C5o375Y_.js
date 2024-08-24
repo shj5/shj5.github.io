@@ -1,0 +1,1 @@
+const t=[{p:"tǔn",pp:"tun3",d:"to float/to deep-fry",t:"氽",w:"氽"}],o=6,n="水",c=["人","水"],s=["黍"],p="",d=[{w:"氽汤",p:"tǔn tāng",d:"to prepare a soup",t:"氽湯"},{w:"氽烫",p:"tǔn tàng",d:"to blanch (cooking)",t:"氽燙"}],a=[],e={s:t,sc:o,r:n,c,d:s,ux:p,w:d,i:a};export{c,s as d,e as default,a as i,n as r,t as s,o as sc,p as ux,d as w};

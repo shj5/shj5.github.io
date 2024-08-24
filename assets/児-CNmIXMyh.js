@@ -1,1 +1,0 @@
-const s=[{p:"ér",pp:"er2",d:"Japanese variant of 兒|儿[er2]",t:"児",w:"児"}],c=7,t="儿",n=["儿","旧"],o=[],r=[],a=[],e={s,sc:c,r:t,c:n,d:o,w:r,i:a};export{n as c,o as d,e as default,a as i,t as r,s,c as sc,r as w};

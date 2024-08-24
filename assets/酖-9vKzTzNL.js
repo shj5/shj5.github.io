@@ -1,0 +1,1 @@
+const o=[{p:"dān",pp:"dan1",d:"addicted to liquor",t:"酖",w:"酖"},{p:"zhèn",pp:"zhen4",d:"poisonous/to poison",t:"酖",w:"酖"}],s=11,t="酉",n=["冘","酉"],c=[],d="",p=[],i=[],u={s:o,sc:s,r:t,c:n,d:c,ux:d,w:p,i};export{n as c,c as d,u as default,i,t as r,o as s,s as sc,d as ux,p as w};

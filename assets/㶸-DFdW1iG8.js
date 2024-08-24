@@ -1,0 +1,1 @@
+const n=[{p:"xié",pp:"xie2",d:"(precise meaning unknown, relates to iron)/variant of 協|协[xie2]",t:"㶸",w:"㶸"}],s=0,t="",c=[],o=[],e="A",i=[],r=[],a={s:n,sc:s,r:t,c,d:o,ux:e,w:i,i:r};export{c,o as d,a as default,r as i,t as r,n as s,s as sc,e as ux,i as w};

@@ -1,0 +1,1 @@
+const t=[{p:"jiē",pp:"jie1",d:"(archaic) tertian malaria",t:"痎",w:"痎"}],c=11,s="疒",a=["疒","亥"],n=[],i="",o=[{w:"痎疟",p:"jiē nüè",d:"(TCM) tertian malaria",t:"痎瘧"}],r=[],d={s:t,sc:c,r:s,c:a,d:n,ux:i,w:o,i:r};export{a as c,n as d,d as default,r as i,s as r,t as s,c as sc,i as ux,o as w};

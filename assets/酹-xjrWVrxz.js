@@ -1,1 +1,0 @@
-const s=[{p:"lèi",pp:"lei4",d:"pour out libation/sprinkle",t:"酹",w:"酹"}],t=14,c="酉",o=["酉"],n=[],i=[],p=[],l={s,sc:t,r:c,c:o,d:n,w:i,i:p};export{o as c,n as d,l as default,p as i,c as r,s,t as sc,i as w};

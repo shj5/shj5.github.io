@@ -1,0 +1,1 @@
+const t=[{p:"wēi",pp:"wei1",d:"the pivots, at the top and bottom of a Chinese door, on which the door turns",t:"椳",w:"椳"}],o=13,s="木",c=["木","畏"],n=[],e="",d=[],i=[],h={s:t,sc:o,r:s,c,d:n,ux:e,w:d,i};export{c,n as d,h as default,i,s as r,t as s,o as sc,e as ux,d as w};

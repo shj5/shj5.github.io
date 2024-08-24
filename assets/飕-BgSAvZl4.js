@@ -1,0 +1,1 @@
+const s=[{p:"sōu",pp:"sou1",d:"to blow (as of wind)/sound of wind/sough",t:"颼",w:"飕"}],o=14,n="風",t=["风","叟"],c=[],u="",d=[{w:"冷飕飕",p:"lěng sōu sōu",d:"chilling; chilly",t:"冷颼颼"},{w:"飕飕",p:"sōu sōu",d:"sound of the wind blowing or rain falling",t:"颼颼"}],i=[],l={s,sc:o,r:n,c:t,d:c,ux:u,w:d,i};export{t as c,c as d,l as default,i,n as r,s,o as sc,u as ux,d as w};

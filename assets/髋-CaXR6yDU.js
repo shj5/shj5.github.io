@@ -1,0 +1,1 @@
+const n=[{p:"kuān",pp:"kuan1",d:"pelvis/pelvic",t:"髖",w:"髋"}],s=20,t="骨",c=["骨","宽"],o=[],p="",i=[{w:"髋关节",p:"kuān guān jié",d:"pelvis/hip joint",t:"髖關節"},{w:"髋骨",p:"kuān gǔ",d:"hip bone",t:"髖骨"}],u=[],d={s:n,sc:s,r:t,c,d:o,ux:p,w:i,i:u};export{c,o as d,d as default,u as i,t as r,n as s,s as sc,p as ux,i as w};

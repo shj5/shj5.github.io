@@ -1,0 +1,1 @@
+const n=[{p:"màn",pp:"man4",d:"used in 爛熳|烂熳[lan4man4]",t:"熳",w:"熳"}],s=15,t="火",c=["火","曼"],o=[],a="",d=[{w:"烂熳",p:"làn màn",d:"variant of 爛漫|烂漫[lan4man4]",t:"爛熳"}],m=[],p={s:n,sc:s,r:t,c,d:o,ux:a,w:d,i:m};export{c,o as d,p as default,m as i,t as r,n as s,s as sc,a as ux,d as w};

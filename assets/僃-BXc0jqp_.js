@@ -1,1 +1,0 @@
-const s=[{p:"bèi",pp:"bei4",d:"old variant of 備|备[bei4]",t:"僃",w:"僃"}],c=13,t="人",o=["亻"],n=[],i=[],d=[],a={s,sc:c,r:t,c:o,d:n,w:i,i:d};export{o as c,n as d,a as default,d as i,t as r,s,c as sc,i as w};

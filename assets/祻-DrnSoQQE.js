@@ -1,1 +1,0 @@
-const s=[{p:"gù",pp:"gu4",d:"variant of 禍|祸, disaster",t:"祻",w:"祻"}],t=13,c="示",o=["固"],n=[],a=[],d=[],r={s,sc:t,r:c,c:o,d:n,w:a,i:d};export{o as c,n as d,r as default,d as i,c as r,s,t as sc,a as w};

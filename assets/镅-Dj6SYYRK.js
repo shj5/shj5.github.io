@@ -1,1 +1,0 @@
-const c=[{p:"méi",pp:"mei2",d:"americium (chemistry)",t:"鎇",w:"镅"}],s=14,t="金",o=["眉"],n=[],i=[],e=[],m={s:c,sc:s,r:t,c:o,d:n,w:i,i:e};export{o as c,n as d,m as default,e as i,t as r,c as s,s as sc,i as w};

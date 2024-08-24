@@ -1,0 +1,1 @@
+const s=[{p:"yù",pp:"yu4",d:"to sell, esp. in strained circumstances",t:"鬻",w:"鬻"}],t=22,c="鬲",n=["鬲","粥"],o=[],u="",a=[{w:"獯鬻",p:"Xūn yù",d:"variant of 葷粥|荤粥[Xun1yu4]",t:"獯鬻"}],d=[],e={s,sc:t,r:c,c:n,d:o,ux:u,w:a,i:d};export{n as c,o as d,e as default,d as i,c as r,s,t as sc,u as ux,a as w};

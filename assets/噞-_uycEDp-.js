@@ -1,1 +1,0 @@
-const t=[{p:"yǎn",pp:"yan3",d:"the movement of a fish's mouth at the surface of the water",t:"噞",w:"噞"}],s=16,c="口",o=["口"],n=[],e=[],a=[],f={s:t,sc:s,r:c,c:o,d:n,w:e,i:a};export{o as c,n as d,f as default,a as i,c as r,t as s,s as sc,e as w};

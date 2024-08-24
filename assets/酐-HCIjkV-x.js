@@ -1,0 +1,1 @@
+const s=[{p:"gān",pp:"gan1",d:"anhydride",t:"酐",w:"酐"}],c=10,n="酉",t=["干","酉"],o=[],d="",a=[],p=[],r={s,sc:c,r:n,c:t,d:o,ux:d,w:a,i:p};export{t as c,o as d,r as default,p as i,n as r,s,c as sc,d as ux,a as w};

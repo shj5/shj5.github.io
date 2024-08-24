@@ -1,1 +1,0 @@
-const t=[{p:"tǐng",pp:"ting3",d:"(literary) level and straight",t:"侹",w:"侹"}],s=9,c="人",n=["亻","廷"],o=[],r=[],a=[],d={s:t,sc:s,r:c,c:n,d:o,w:r,i:a};export{n as c,o as d,d as default,a as i,c as r,t as s,s as sc,r as w};

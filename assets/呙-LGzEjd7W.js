@@ -1,1 +1,0 @@
-const s=[{p:"Guō",pp:"Guo1",d:"surname Guo",t:"咼",w:"呙"},{p:"wāi",pp:"wai1",d:"lopsided/Taiwan pr. [kuai1]",t:"咼",w:"呙"}],c=7,o="口",t=["口","内"],n=["剐","埚","娲","涡","莴","脶","祸","窝","锅","蜗"],p=[],a=[],d={s,sc:c,r:o,c:t,d:n,w:p,i:a};export{t as c,n as d,d as default,a as i,o as r,s,c as sc,p as w};

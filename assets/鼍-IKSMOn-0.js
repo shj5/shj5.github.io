@@ -1,0 +1,1 @@
+const s=[{p:"tuó",pp:"tuo2",d:"Chinese alligator (Alligator sinensis)",t:"鼉",w:"鼍"}],t=20,n="黽",o=["黾"],c=[],i="",l=[{w:"鼍龙",p:"tuó lóng",d:"Chinese alligator (Alligator sinensis)",t:"鼉龍"}],a=[],e={s,sc:t,r:n,c:o,d:c,ux:i,w:l,i:a};export{o as c,c as d,e as default,a as i,n as r,s,t as sc,i as ux,l as w};

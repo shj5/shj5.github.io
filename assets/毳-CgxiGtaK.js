@@ -1,1 +1,0 @@
-const c=[{p:"cuì",pp:"cui4",d:"crisp/brittle/fine animal hair",t:"毳",w:"毳"}],s=12,t="毛",n=["毛"],o=["撬","橇","膬","竁"],i=[],r=[],a={s:c,sc:s,r:t,c:n,d:o,w:i,i:r};export{n as c,o as d,a as default,r as i,t as r,c as s,s as sc,i as w};

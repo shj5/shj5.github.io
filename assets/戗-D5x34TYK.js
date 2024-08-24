@@ -1,1 +1,0 @@
-const n=[{p:"qiāng",pp:"qiang1",d:"contrary/pushing against/bump/knock/used as equivalent for 搶|抢[qiang1]",t:"戧",w:"戗"}],t=8,s="戈",a=["仓","戈"],c=[],i=[{w:"够戗",p:"gòu qiàng",d:"variant of 夠嗆|够呛[gou4 qiang4]",t:"夠戧"},{w:"戗风",p:"qiāng fēng",d:"against the headwind",t:"戧風"}],o=[],g={s:n,sc:t,r:s,c:a,d:c,w:i,i:o};export{a as c,c as d,g as default,o as i,s as r,n as s,t as sc,i as w};

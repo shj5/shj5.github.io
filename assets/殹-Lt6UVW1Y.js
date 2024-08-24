@@ -1,1 +1,0 @@
-const c=[{p:"yì",pp:"yi4",d:"(archaic) (meaning unclear)/(final particle)",t:"殹",w:"殹"}],s=11,n="殳",t=["殳","医"],o=[],a=[],i=[],r={s:c,sc:s,r:n,c:t,d:o,w:a,i};export{t as c,o as d,r as default,i,n as r,c as s,s as sc,a as w};

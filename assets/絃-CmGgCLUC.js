@@ -1,0 +1,1 @@
+const n=[{p:"xián",pp:"xian2",d:"variant of 弦/bow string/string of musical instrument/watch spring/chord (straight line joining two points on a curve)/hypotenuse",t:"絃",w:"絃"}],t=11,s="糸",o=["玄","糸"],c=[],i="",r=[],a=[],e={s:n,sc:t,r:s,c:o,d:c,ux:i,w:r,i:a};export{o as c,c as d,e as default,a as i,s as r,n as s,t as sc,i as ux,r as w};

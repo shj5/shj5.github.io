@@ -1,1 +1,0 @@
-const t=[{p:"chù",pp:"chu4",d:"to twitch; to have a spasm",t:"搐",w:"搐"}],c=13,s="手",o=["扌","畜"],n=[],h=[{w:"抽搐",p:"chōu chù",d:"to twitch",t:"抽搐"}],p=[],w={s:t,sc:c,r:s,c:o,d:n,w:h,i:p};export{o as c,n as d,w as default,p as i,s as r,t as s,c as sc,h as w};

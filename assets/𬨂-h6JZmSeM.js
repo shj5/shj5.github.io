@@ -1,0 +1,1 @@
+const s=[{p:"qí",pp:"qi2",d:"end of axle",t:"軝",w:"𬨂"}],c=0,t="",o=[],n=[],d="E",e=[],p=[],x={s,sc:c,r:t,c:o,d:n,ux:d,w:e,i:p};export{o as c,n as d,x as default,p as i,t as r,s,c as sc,d as ux,e as w};

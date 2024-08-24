@@ -1,1 +1,0 @@
-const o=[{p:"pí",pp:"pi2",d:'used in the transcription of "okapi" 㺢㹢狓[huo4jia1pi2]',t:"狓",w:"狓"}],t=8,i="犬",p=["犭","皮"],s=[],n=[{w:"㺢㹢狓",p:"huò jiā pí",d:"variant of 霍加狓[huo4jia1pi2]",t:"㺢㹢狓"},{w:"霍加狓",p:"huò jiā pí",d:"okapi (Okapia johnstoni)",t:"霍加狓"}],c=[],a={s:o,sc:t,r:i,c:p,d:s,w:n,i:c};export{p as c,s as d,a as default,c as i,i as r,o as s,t as sc,n as w};

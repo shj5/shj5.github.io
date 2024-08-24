@@ -1,1 +1,0 @@
-const s=[{p:"méi",pp:"mei2",d:"heir-requesting sacrifice",t:"禖",w:"禖"}],c=14,t="示",n=["某"],o=[],i=[],e=[],r={s,sc:c,r:t,c:n,d:o,w:i,i:e};export{n as c,o as d,r as default,e as i,t as r,s,c as sc,i as w};

@@ -1,0 +1,1 @@
+const c=[{p:"wèi",pp:"wei4",d:"(bound form) hedgehog",t:"蝟",w:"猬"}],o=12,s="犬",t=["犭","胃"],n=[],d="",e=[{w:"刺猬",p:"cì wei",d:"hedgehog",t:"刺蝟"}],w=[],i={s:c,sc:o,r:s,c:t,d:n,ux:d,w:e,i:w};export{t as c,n as d,i as default,w as i,s as r,c as s,o as sc,d as ux,e as w};

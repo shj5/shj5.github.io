@@ -1,0 +1,1 @@
+const s=[{p:"cè",pp:"ce4",d:"plant genus Aconitum, aka monkshood or wolf's bane (used as poison and medicine)/Taiwan pr. [ze2]",t:"萴",w:"荝"}],n=9,o="艸",c=["艹","则"],t=[],a="",e=[],d=[],i={s,sc:n,r:o,c,d:t,ux:a,w:e,i:d};export{c,t as d,i as default,d as i,o as r,s,n as sc,a as ux,e as w};

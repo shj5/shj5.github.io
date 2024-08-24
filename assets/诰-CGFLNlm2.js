@@ -1,0 +1,1 @@
+const t=[{p:"gào",pp:"gao4",d:"to enjoin/to grant (a title)",t:"誥",w:"诰"}],o=9,s="言",c=["讠","告"],n=[],a="",d=[],e=[],i={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i:e};export{c,n as d,i as default,e as i,s as r,t as s,o as sc,a as ux,d as w};

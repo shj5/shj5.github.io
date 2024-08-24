@@ -1,0 +1,1 @@
+const o=[{p:"zòng",pp:"zong4",d:"old variant of 縱|纵[zong4]",t:"縦",w:"縦"}],s=16,c="糸",n=["糸","従"],t=[],d="",a=[],p=[],r={s:o,sc:s,r:c,c:n,d:t,ux:d,w:a,i:p};export{n as c,t as d,r as default,p as i,c as r,o as s,s as sc,d as ux,a as w};

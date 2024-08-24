@@ -1,0 +1,1 @@
+const s=[{p:"qī",pp:"qi1",d:"mask of a god used in ceremonies to exorcise demons and drive away pestilence/(archaic) ugly",t:"魌",w:"魌"}],c=18,o="鬼",n=["其","鬼"],t=[],e="",a=[],d=[],i={s,sc:c,r:o,c:n,d:t,ux:e,w:a,i:d};export{n as c,t as d,i as default,d as i,o as r,s,c as sc,e as ux,a as w};

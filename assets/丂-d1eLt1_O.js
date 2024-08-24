@@ -1,1 +1,0 @@
-const s=[{p:"kǎo",pp:"kao3",d:'"breath" or "sigh" component in Chinese characters',t:"丂",w:"丂"}],c=2,o="一",t=[],n=["亏","兮","号","巧","汅","朽","考","甹","粤"],e=[],r=[],a={s,sc:c,r:o,c:t,d:n,w:e,i:r};export{t as c,n as d,a as default,r as i,o as r,s,c as sc,e as w};

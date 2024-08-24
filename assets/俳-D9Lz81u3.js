@@ -1,0 +1,1 @@
+const s=[{p:"pái",pp:"pai2",d:"not serious/variety show",t:"俳",w:"俳"}],t=10,o="人",c=["亻","非"],i=[],n="",p=[{w:"俳佪",p:"pái huái",d:"variant of 徘徊[pai2 huai2]",t:"俳佪"},{w:"俳句",p:"pái jù",d:"haiku",t:"俳句"}],a=[],u={s,sc:t,r:o,c,d:i,ux:n,w:p,i:a};export{c,i as d,u as default,a as i,o as r,s,t as sc,n as ux,p as w};

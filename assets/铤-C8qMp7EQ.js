@@ -1,0 +1,1 @@
+const t=[{p:"dìng",pp:"ding4",d:"ingot",t:"鋌",w:"铤"},{p:"tǐng",pp:"ting3",d:"big arrow/walk fast",t:"鋌",w:"铤"}],n=11,o="金",s=["廷"],c=[],i="",d=[],p=[{w:"铤而走险",p:"tǐng ér zǒu xiǎn",d:"to take a risk out of desperation (idiom)",t:"鋌而走險"}],a={s:t,sc:n,r:o,c:s,d:c,ux:i,w:d,i:p};export{s as c,c as d,a as default,p as i,o as r,t as s,n as sc,i as ux,d as w};

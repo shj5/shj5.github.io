@@ -1,0 +1,1 @@
+const c=[{p:"xià",pp:"xia4",d:"crack/grudge",t:"罅",w:"罅"}],s=17,t="缶",i=["缶","虖"],r=[],o="",n=[{w:"石罅",p:"shí xià",d:"a crack in a rock",t:"石罅"},{w:"罅隙",p:"xià xì",d:"gap/crack/rift",t:"罅隙"},{w:"裂罅",p:"liè xià",d:"rift/crevice/fissure",t:"裂罅"}],a=[],x={s:c,sc:s,r:t,c:i,d:r,ux:o,w:n,i:a};export{i as c,r as d,x as default,a as i,t as r,c as s,s as sc,o as ux,n as w};

@@ -1,1 +1,0 @@
-const s=[{p:"jiāng",pp:"jiang1",d:"cicada (Cosmopsaltria opalifera)",t:"螿",w:"螀"}],c=15,o="虫",t=["虫","将"],n=[],a=[],i=[],p={s,sc:c,r:o,c:t,d:n,w:a,i};export{t as c,n as d,p as default,i,o as r,s,c as sc,a as w};

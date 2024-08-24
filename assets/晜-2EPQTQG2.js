@@ -1,0 +1,1 @@
+const s=[{p:"kūn",pp:"kun1",d:"descendant/elder brother",t:"晜",w:"晜"}],c=11,t="日",n=["日","弟"],o=[],d="",e=[],r=[],p={s,sc:c,r:t,c:n,d:o,ux:d,w:e,i:r};export{n as c,o as d,p as default,r as i,t as r,s,c as sc,d as ux,e as w};

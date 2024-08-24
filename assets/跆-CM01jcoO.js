@@ -1,0 +1,1 @@
+const t=[{p:"tái",pp:"tai2",d:"to trample, to kick",t:"跆",w:"跆"}],o=12,c="足",s=["台","足"],n=[],a="",d=[{w:"跆拳道",p:"tái quán dào",d:"taekwondo (Korean martial art)",t:"跆拳道"}],i=[],r={s:t,sc:o,r:c,c:s,d:n,ux:a,w:d,i};export{s as c,n as d,r as default,i,c as r,t as s,o as sc,a as ux,d as w};

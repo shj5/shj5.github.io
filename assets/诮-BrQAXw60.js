@@ -1,0 +1,1 @@
+const o=[{p:"qiào",pp:"qiao4",d:"ridicule/to blame",t:"誚",w:"诮"}],t=9,c="言",s=["讠","肖"],n=[],d="",i=[{w:"讥诮",p:"jī qiào",d:"to deride/to mock",t:"譏誚"}],e=[],p={s:o,sc:t,r:c,c:s,d:n,ux:d,w:i,i:e};export{s as c,n as d,p as default,e as i,c as r,o as s,t as sc,d as ux,i as w};

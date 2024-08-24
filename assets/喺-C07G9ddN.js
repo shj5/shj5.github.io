@@ -1,1 +1,0 @@
-const n=[{p:"xǐ",pp:"xi3",d:"to be at, in or on (Cantonese)/Mandarin equivalent: 在[zai4]",t:"喺",w:"喺"}],t=12,s="口",o=["口"],c=[],a=[],e=[],i={s:n,sc:t,r:s,c:o,d:c,w:a,i:e};export{o as c,c as d,i as default,e as i,s as r,n as s,t as sc,a as w};

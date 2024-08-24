@@ -1,1 +1,0 @@
-const t=[{p:"juē",pp:"jue1",d:"to protrude/to stick out/to pout (also written 噘)/to embarrass (people)",t:"撅",w:"撅"}],o=15,s="手",c=["扌","厥"],p=[],u=[{w:"撅嘴",p:"juē zuǐ",d:"to pout",t:"撅嘴"},{w:"直撅撅",p:"zhí juē juē",d:"completely straight",t:"直撅撅"}],e=[],n={s:t,sc:o,r:s,c,d:p,w:u,i:e};export{c,p as d,n as default,e as i,s as r,t as s,o as sc,u as w};

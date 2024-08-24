@@ -1,1 +1,0 @@
-const n=[{p:"yìn",pp:"yin4",d:"indene (chemistry)",t:"茚",w:"茚"}],s=9,t="艸",c=["艹","印"],o=[],e=[{w:"硫茚",p:"liú yìn",d:"benzothiophene (chemistry)",t:"硫茚"}],i=[],d={s:n,sc:s,r:t,c,d:o,w:e,i};export{c,o as d,d as default,i,t as r,n as s,s as sc,e as w};

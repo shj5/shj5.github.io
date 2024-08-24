@@ -1,1 +1,0 @@
-const o=[{p:"xx",pp:"xx5",d:"(Japanese kokuji) large staple driven into two pieces of wood to hold them together/pr. kasugai",t:"鎹",w:"鎹"}],t=18,s="金",c=["金","送"],e=[],n=[],a=[],p={s:o,sc:t,r:s,c,d:e,w:n,i:a};export{c,e as d,p as default,a as i,s as r,o as s,t as sc,n as w};

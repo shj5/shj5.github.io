@@ -1,1 +1,0 @@
-const s=[{p:"xiá",pp:"xia2",d:"variant of 狹|狭[xia2]/variant of 峽|峡[xia2]",t:"陜",w:"陜"}],t=10,c="阜",o=[],n=[],a=[],i=[],r={s,sc:t,r:c,c:o,d:n,w:a,i};export{o as c,n as d,r as default,i,c as r,s,t as sc,a as w};

@@ -1,1 +1,0 @@
-const o=[{p:"bó",pp:"bo2",d:"flail",t:"桲",w:"桲"},{p:"po",pp:"po5",d:"used in 榲桲|榅桲[wen1po5]/Taiwan pr. [bo2]",t:"桲",w:"桲"}],n=11,s="木",c=["木","孛"],p=[],t=[{w:"榅桲",p:"wēn po",d:"quince (Cydonia oblonga)",t:"榲桲"}],d=[],w={s:o,sc:n,r:s,c,d:p,w:t,i:d};export{c,p as d,w as default,d as i,s as r,o as s,n as sc,t as w};

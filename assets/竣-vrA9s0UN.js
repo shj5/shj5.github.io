@@ -1,0 +1,1 @@
+const t=[{p:"jùn",pp:"jun4",d:"complete/finish",t:"竣",w:"竣"}],o=12,c="立",n=["立"],s=[],e="",p=[{w:"告竣",p:"gào jùn",d:"(of a project) to be completed",t:"告竣"},{w:"竣工",p:"jùn gōng",d:"to complete a project",t:"竣工"}],d=[],j={s:t,sc:o,r:c,c:n,d:s,ux:e,w:p,i:d};export{n as c,s as d,j as default,d as i,c as r,t as s,o as sc,e as ux,p as w};

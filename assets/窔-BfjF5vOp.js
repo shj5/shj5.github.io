@@ -1,0 +1,1 @@
+const o=[{p:"yǎo",pp:"yao3",d:"dark/deep/southeast corner of room",t:"窔",w:"窔"}],s=11,c="穴",t=["穴","交"],n=[],r="",d=[],e=[],a={s:o,sc:s,r:c,c:t,d:n,ux:r,w:d,i:e};export{t as c,n as d,a as default,e as i,c as r,o as s,s as sc,r as ux,d as w};

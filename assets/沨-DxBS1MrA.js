@@ -1,0 +1,1 @@
+const n=[{p:"fēng",pp:"feng1",d:"(onom.) sound of flowing water/sound of wind/Taiwan pr. [feng2]",t:"渢",w:"沨"}],o=7,s="水",c=["氵","风"],t=[],d="",f=[],w=[],a={s:n,sc:o,r:s,c,d:t,ux:d,w:f,i:w};export{c,t as d,a as default,w as i,s as r,n as s,o as sc,d as ux,f as w};

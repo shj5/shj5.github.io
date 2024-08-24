@@ -1,1 +1,0 @@
-const s=[{p:"xì",pp:"xi4",d:"grain ration/sacrificial victim",t:"餼",w:"饩"}],t=7,c="食",n=["饣","气"],i=[],o=[{w:"饔饩",p:"yōng xì",d:"to present slaughtered or live animals",t:"饔餼"}],a=[],r={s,sc:t,r:c,c:n,d:i,w:o,i:a};export{n as c,i as d,r as default,a as i,c as r,s,t as sc,o as w};

@@ -1,0 +1,1 @@
+const o=[{p:"mù",pp:"mu4",d:"used in 仫佬族[Mu4 lao3 zu2], Mulao ethnic group of Guangxi",t:"仫",w:"仫"}],t=5,c="人",n=["亻","么"],u=[],s="",a=[{w:"仫佬",p:"Mù lǎo",d:"Mulao ethnic group of Guangxi",t:"仫佬"},{w:"仫佬族",p:"Mù lǎo zú",d:"Mulao ethnic group of Guangxi",t:"仫佬族"}],i=[],p={s:o,sc:t,r:c,c:n,d:u,ux:s,w:a,i};export{n as c,u as d,p as default,i,c as r,o as s,t as sc,s as ux,a as w};

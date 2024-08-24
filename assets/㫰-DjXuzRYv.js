@@ -1,0 +1,1 @@
+const t=[{p:"làng",pp:"lang4",d:"(dialect) to dry (sth) in the sun; to dry (sth) in the air",t:"㫰",w:"㫰"}],s=0,c="",n=[],o=[],d="A",i=[],r=[],a={s:t,sc:s,r:c,c:n,d:o,ux:d,w:i,i:r};export{n as c,o as d,a as default,r as i,c as r,t as s,s as sc,d as ux,i as w};

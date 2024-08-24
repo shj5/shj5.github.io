@@ -1,0 +1,1 @@
+const o=[{p:"táng",pp:"tang2",d:"half congealed/pond",t:"溏",w:"溏"}],t=13,n="水",s=["氵","唐"],c=[],d="",e=[{w:"溏便",p:"táng biàn",d:"(TCM) unformed stool/semiliquid stool",t:"溏便"},{w:"溏心",p:"táng xīn",d:"soft yolk (of a cooked egg)",t:"溏心"}],g=[],l={s:o,sc:t,r:n,c:s,d:c,ux:d,w:e,i:g};export{s as c,c as d,l as default,g as i,n as r,o as s,t as sc,d as ux,e as w};

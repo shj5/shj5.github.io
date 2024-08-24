@@ -1,1 +1,0 @@
-const s=[{p:"jú",pp:"ju2",d:"horse carriage (old)",t:"輂",w:"輂"}],c=13,o="車",t=["共"],n=[],r=[{w:"輂辇",p:"jú niǎn",d:"emperor's carriage",t:"輂輦"}],e=[],a={s,sc:c,r:o,c:t,d:n,w:r,i:e};export{t as c,n as d,a as default,e as i,o as r,s,c as sc,r as w};

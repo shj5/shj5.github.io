@@ -1,1 +1,0 @@
-const s=[{p:"kēng",pp:"keng1",d:"old variant of 鏗|铿[keng1]",t:"銵",w:"銵"}],c=15,n="金",t=["身","金"],o=[],d=[],a=[],e={s,sc:c,r:n,c:t,d:o,w:d,i:a};export{t as c,o as d,e as default,a as i,n as r,s,c as sc,d as w};

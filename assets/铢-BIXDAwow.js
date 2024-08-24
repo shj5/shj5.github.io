@@ -1,1 +1,0 @@
-const t=[{p:"zhū",pp:"zhu1",d:"twenty-fourth part of a tael (2 or 3 grams)",t:"銖",w:"铢"}],o=11,s="金",c=["朱"],n=[],a=[{w:"泰铢",p:"Tài zhū",d:"Thai baht",t:"泰銖"}],e=[{w:"锱铢必较",p:"zī zhū bì jiào",d:"to haggle over every cent (idiom)",t:"錙銖必較"}],r={s:t,sc:o,r:s,c,d:n,w:a,i:e};export{c,n as d,r as default,e as i,s as r,t as s,o as sc,a as w};

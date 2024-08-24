@@ -1,0 +1,1 @@
+const n=[{p:"pī",pp:"pi1",d:"multitudinous/powerful",t:"伾",w:"伾"}],o=7,c="人",s=["亻","丕"],t=[],a="",d=[{w:"王伾",p:"Wáng pī",d:"Wang Pi (-c. 806), Tang dynasty chancellor and a leader of failed Yongzhen reform 永貞革新|永贞革新 of 805",t:"王伾"}],e=[],p={s:n,sc:o,r:c,c:s,d:t,ux:a,w:d,i:e};export{s as c,t as d,p as default,e as i,c as r,n as s,o as sc,a as ux,d as w};

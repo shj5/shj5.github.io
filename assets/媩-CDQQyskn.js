@@ -1,1 +1,0 @@
-const s=[{p:"hú",pp:"hu2",d:"(used in female names) (old)",t:"媩",w:"媩"}],c=12,t="女",n=["女","胡"],o=[],d=[],e=[],a={s,sc:c,r:t,c:n,d:o,w:d,i:e};export{n as c,o as d,a as default,e as i,t as r,s,c as sc,d as w};

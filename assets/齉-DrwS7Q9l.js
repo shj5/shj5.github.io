@@ -1,0 +1,1 @@
+const s=[{p:"nàng",pp:"nang4",d:"stuffy (nose)/nasal (voice)",t:"齉",w:"齉"}],n=36,c="鼻",t=["鼻","囊"],o=[],a="",d=[],e=[],p={s,sc:n,r:c,c:t,d:o,ux:a,w:d,i:e};export{t as c,o as d,p as default,e as i,c as r,s,n as sc,a as ux,d as w};

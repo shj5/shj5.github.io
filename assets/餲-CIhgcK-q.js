@@ -1,1 +1,0 @@
-const o=[{p:"ài",pp:"ai4",d:"(literary) (of food) spoiled; sour; gone off",t:"餲",w:"餲"},{p:"hé",pp:"he2",d:"deep-fried noodle cake, also known as 饊子|馓子[san3zi5]",t:"餲",w:"餲"}],s=18,c="食",n=["食","曷"],t=[],e=[],d=[],p={s:o,sc:s,r:c,c:n,d:t,w:e,i:d};export{n as c,t as d,p as default,d as i,c as r,o as s,s as sc,e as w};

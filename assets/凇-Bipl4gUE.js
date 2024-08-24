@@ -1,1 +1,0 @@
-const s=[{p:"sōng",pp:"song1",d:"icicle",t:"凇",w:"凇"}],c=10,t="冫",o=["冫","松"],n=[],r=[{w:"雨凇",p:"yǔ sōng",d:"glaze ice; verglas; silver frost",t:"雨凇"},{w:"雾凇",p:"wù sōng",d:"rime/hoarfrost",t:"霧凇"}],e=[],i={s,sc:c,r:t,c:o,d:n,w:r,i:e};export{o as c,n as d,i as default,e as i,t as r,s,c as sc,r as w};

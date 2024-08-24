@@ -1,1 +1,0 @@
-const o=[{p:"jiào",pp:"jiao4",d:"old variant of 覺|觉[jiao4]",t:"覐",w:"覐"},{p:"jué",pp:"jue2",d:"old variant of 覺|觉[jue2]",t:"覐",w:"覐"}],t=11,s="見",c=["爻"],n=[],a=[],d=[],i={s:o,sc:t,r:s,c,d:n,w:a,i:d};export{c,n as d,i as default,d as i,s as r,o as s,t as sc,a as w};

@@ -1,1 +1,0 @@
-const o=[{p:"gé",pp:"ge2",d:"side door/variant of 閣|阁[ge2]/pavilion/cabinet/boudoir",t:"閤",w:"𬮤"},{p:"hé",pp:"he2",d:"variant of 闔|阖[he2]",t:"閤",w:"𬮤"}],t=0,s="",c=[],n=[],i=[],a=[],d={s:o,sc:t,r:s,c,d:n,w:i,i:a};export{c,n as d,d as default,a as i,s as r,o as s,t as sc,i as w};

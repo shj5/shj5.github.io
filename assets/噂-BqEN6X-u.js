@@ -1,1 +1,0 @@
-const t=[{p:"zǔn",pp:"zun3",d:"talk together",t:"噂",w:"噂"}],s=15,c="口",n=["口","尊"],o=[],d=[],e=[],p={s:t,sc:s,r:c,c:n,d:o,w:d,i:e};export{n as c,o as d,p as default,e as i,c as r,t as s,s as sc,d as w};

@@ -1,1 +1,0 @@
-const s=[{p:"zhē",pp:"zhe1",d:"to sting",t:"蜇",w:"蜇"},{p:"zhé",pp:"zhe2",d:"jellyfish",t:"蜇",w:"蜇"}],t=13,c="虫",e=["虫","折"],n=[],o=[{w:"海蜇",p:"hǎi zhé",d:"Rhopilema esculenta, an edible jellyfish",t:"海蜇"}],h=[],p={s,sc:t,r:c,c:e,d:n,w:o,i:h};export{e as c,n as d,p as default,h as i,c as r,s,t as sc,o as w};

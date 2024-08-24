@@ -1,0 +1,1 @@
+const s=[{p:"wěi",pp:"wei3",d:"(arch.) type of grass",t:"薳",w:"䓕"}],c=0,t="",o=[],n=[],p="A",r=[],w=[],a={s,sc:c,r:t,c:o,d:n,ux:p,w:r,i:w};export{o as c,n as d,a as default,w as i,t as r,s,c as sc,p as ux,r as w};

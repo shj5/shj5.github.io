@@ -1,1 +1,0 @@
-const c=[{p:"hān",pp:"han1",d:"small clam (Arca inflata)",t:"蚶",w:"蚶"}],t=11,a="虫",n=["甘","虫"],s=[],o=[{w:"蚶子",p:"hān zi",d:"blood clam",t:"蚶子"},{w:"魁蚶",p:"kuí hān",d:"arc clam (Arca inflata)",t:"魁蚶"}],l=[],d={s:c,sc:t,r:a,c:n,d:s,w:o,i:l};export{n as c,s as d,d as default,l as i,a as r,c as s,t as sc,o as w};

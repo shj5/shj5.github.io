@@ -1,0 +1,1 @@
+const s=[{p:"pàn",pp:"pan4",d:"disperse",t:"頖",w:"頖"}],c=14,t="頁",n=[],o=[],p="",d=[],e=[],r={s,sc:c,r:t,c:n,d:o,ux:p,w:d,i:e};export{n as c,o as d,r as default,e as i,t as r,s,c as sc,p as ux,d as w};

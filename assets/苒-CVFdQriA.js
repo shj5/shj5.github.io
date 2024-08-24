@@ -1,0 +1,1 @@
+const t=[{p:"rǎn",pp:"ran3",d:"luxuriant growth/passing (of time)",t:"苒",w:"苒"}],n=8,s="艸",o=["艹","冉"],c=[],r="",i=[{w:"荏苒",p:"rěn rǎn",d:"(literary) (of time) to slip away",t:"荏苒"}],a=[{w:"光阴荏苒",p:"guāng yīn - rěn rǎn",d:"(idiom) How time flies!",t:"光陰荏苒"}],p={s:t,sc:n,r:s,c:o,d:c,ux:r,w:i,i:a};export{o as c,c as d,p as default,a as i,s as r,t as s,n as sc,r as ux,i as w};

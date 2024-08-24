@@ -1,0 +1,1 @@
+const t=[{p:"táo",pp:"tao2",d:"hand drum used by peddlers",t:"鞀",w:"鼗"},{p:"táo",pp:"tao2",d:"a drum-shaped rattle (used by peddlers or as a toy)/rattle-drum",t:"鼗",w:"鼗"}],s=19,d="鼓",o=["兆","鼓"],c=[],a="",e=[],r=[],n={s:t,sc:s,r:d,c:o,d:c,ux:a,w:e,i:r};export{o as c,c as d,n as default,r as i,d as r,t as s,s as sc,a as ux,e as w};

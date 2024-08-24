@@ -1,0 +1,1 @@
+const o=[{p:"ěr",pp:"er3",d:"pearl or jade earring",t:"珥",w:"珥"}],s=10,c="玉",t=["王","耳"],n=[],r="",e=[{w:"约珥书",p:"Yuē ěr shū",d:"Book of Joel",t:"約珥書"}],d=[],p={s:o,sc:s,r:c,c:t,d:n,ux:r,w:e,i:d};export{t as c,n as d,p as default,d as i,c as r,o as s,s as sc,r as ux,e as w};

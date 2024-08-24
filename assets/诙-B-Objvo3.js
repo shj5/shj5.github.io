@@ -1,0 +1,1 @@
+const s=[{p:"huī",pp:"hui1",d:"whimsical/humorous",t:"詼",w:"诙"}],c=8,o="言",t=["讠","灰"],u=[],n="",h=[{w:"诙谐",p:"huī xié",d:"humorous/jocular/zany",t:"詼諧"}],i=[],r={s,sc:c,r:o,c:t,d:u,ux:n,w:h,i};export{t as c,u as d,r as default,i,o as r,s,c as sc,n as ux,h as w};

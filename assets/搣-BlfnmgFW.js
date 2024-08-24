@@ -1,1 +1,0 @@
-const t=[{p:"miè",pp:"mie4",d:"(literary) to pull out; to remove/(literary) to massage",t:"搣",w:"搣"}],s=13,o="手",c=["扌","戚"],e=[],n=[],r=[],a={s:t,sc:s,r:o,c,d:e,w:n,i:r};export{c,e as d,a as default,r as i,o as r,t as s,s as sc,n as w};

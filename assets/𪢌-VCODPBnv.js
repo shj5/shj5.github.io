@@ -1,1 +1,0 @@
-const n=[{p:"lán",pp:"lan2",d:"used in 㘓哰|𪢌哰[lan2lao2]",t:"㘓",w:"𪢌"}],s=0,t="",c=[],o=[],l=[{w:"𪢌哰",p:"lán láo",d:"incoherent; unintelligible",t:"㘓哰"}],e=[],i={s:n,sc:s,r:t,c,d:o,w:l,i:e};export{c,o as d,i as default,e as i,t as r,n as s,s as sc,l as w};

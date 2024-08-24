@@ -1,1 +1,0 @@
-const s=[{p:"zhí",pp:"zhi2",d:"variant of 值[zhi2]",t:"値",w:"値"}],c=10,t="人",o=["亻","直"],n=[],i=[],a=[],d={s,sc:c,r:t,c:o,d:n,w:i,i:a};export{o as c,n as d,d as default,a as i,t as r,s,c as sc,i as w};

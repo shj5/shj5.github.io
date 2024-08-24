@@ -1,0 +1,1 @@
+const s=[{p:"zhòu",pp:"zhou4",d:"(dialect) to wrap with straw/classifier for a bundle (of bowls, dishes etc) tied with straw",t:"葤",w:"荮"}],t=9,c="艸",o=["艹","纣"],n=[],i="",w=[],a=[],d={s,sc:t,r:c,c:o,d:n,ux:i,w,i:a};export{o as c,n as d,d as default,a as i,c as r,s,t as sc,i as ux,w};

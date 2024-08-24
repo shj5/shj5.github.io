@@ -1,1 +1,0 @@
-const s=[{p:"tóng",pp:"tong2",d:"sun about to rise",t:"曈",w:"曈"}],t=16,c="日",o=["日","童"],n=[],d=[],p=[],r={s,sc:t,r:c,c:o,d:n,w:d,i:p};export{o as c,n as d,r as default,p as i,c as r,s,t as sc,d as w};

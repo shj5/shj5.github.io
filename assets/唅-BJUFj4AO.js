@@ -1,1 +1,0 @@
-const t=[{p:"hán",pp:"han2",d:"(literary) to put in the mouth",t:"唅",w:"唅"}],o=10,n="口",s=["口","含"],c=[],e=[],r=[{w:"羹藜唅糗",p:"gēng lí hān qiǔ",d:"nothing but herb soup and dry provisions to eat (idiom); to survive on a coarse diet/à la guerre comme à la guerre",t:"羹藜唅糗"}],i={s:t,sc:o,r:n,c:s,d:c,w:e,i:r};export{s as c,c as d,i as default,r as i,n as r,t as s,o as sc,e as w};

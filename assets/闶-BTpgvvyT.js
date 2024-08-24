@@ -1,0 +1,1 @@
+const n=[{p:"kāng",pp:"kang1",d:"used in 閌閬|闶阆[kang1 lang2]/Taiwan pr. [kang4]",t:"閌",w:"闶"}],s=7,t="門",c=["门","亢"],a=[],o="",p=[{w:"闶阆",p:"kāng láng",d:"(dialect) open space within a structure",t:"閌閬"}],d=[],e={s:n,sc:s,r:t,c,d:a,ux:o,w:p,i:d};export{c,a as d,e as default,d as i,t as r,n as s,s as sc,o as ux,p as w};

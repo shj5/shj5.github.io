@@ -1,1 +1,0 @@
-const s=[{p:"fū",pp:"fu1",d:"the lapel of a garment",t:"衭",w:"衭"}],t=10,c="衣",o=["夫","衤"],n=[],a=[],e=[],p={s,sc:t,r:c,c:o,d:n,w:a,i:e};export{o as c,n as d,p as default,e as i,c as r,s,t as sc,a as w};

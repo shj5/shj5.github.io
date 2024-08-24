@@ -1,0 +1,1 @@
+const s=[{p:"kuài",pp:"kuai4",d:"broker",t:"儈",w:"侩"}],t=8,o="人",c=["亻","会"],n=[],u="",i=[{w:"市侩",p:"shì kuài",d:"unscrupulous businessperson/profiteer/philistine",t:"市儈"},{w:"牙侩",p:"yá kuài",d:"broker",t:"牙儈"}],r=[],p={s,sc:t,r:o,c,d:n,ux:u,w:i,i:r};export{c,n as d,p as default,r as i,o as r,s,t as sc,u as ux,i as w};

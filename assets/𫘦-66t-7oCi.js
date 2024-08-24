@@ -1,1 +1,0 @@
-const t=[{p:"táo",pp:"tao2",d:"used in 騊駼|𫘦𬳿[tao2tu2]",t:"騊",w:"𫘦"}],o=0,s="",e=[],n=[],c=[{w:"𫘦𬳿",p:"táo tú",d:"(literary) a well-regarded type of horse native to the northern regions, particularly associated with the Xiongnu people 匈奴[Xiong1nu2]",t:"騊駼"}],r=[],a={s:t,sc:o,r:s,c:e,d:n,w:c,i:r};export{e as c,n as d,a as default,r as i,s as r,t as s,o as sc,c as w};

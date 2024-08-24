@@ -1,1 +1,0 @@
-const s=[{p:"xī",pp:"xi1",d:"(literary) to wish/to hope/sad/sorrowful",t:"悕",w:"悕"}],o=10,t="心",c=["忄","希"],n=[],r=[],d=[],i={s,sc:o,r:t,c,d:n,w:r,i:d};export{c,n as d,i as default,d as i,t as r,s,o as sc,r as w};

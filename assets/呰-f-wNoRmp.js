@@ -1,1 +1,0 @@
-const s=[{p:"zǐ",pp:"zi3",d:"to slander/to blame/to revile",t:"呰",w:"呰"}],t=8,c="口",o=["口","此"],n=[],e=[],d=[],r={s,sc:t,r:c,c:o,d:n,w:e,i:d};export{o as c,n as d,r as default,d as i,c as r,s,t as sc,e as w};

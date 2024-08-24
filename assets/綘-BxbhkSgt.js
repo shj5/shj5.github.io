@@ -1,1 +1,0 @@
-const s=[{p:"féng",pp:"feng2",d:"variant of 縫|缝[feng2]",t:"綘",w:"綘"}],c=13,n="糸",t=["糸","夆"],o=[],f=[],a=[],d={s,sc:c,r:n,c:t,d:o,w:f,i:a};export{t as c,o as d,d as default,a as i,n as r,s,c as sc,f as w};

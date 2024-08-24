@@ -1,1 +1,0 @@
-const c=[{p:"lán",pp:"lan2",d:"old variant of 襴|襕[lan2]/brocade",t:"襽",w:"襽"}],s=23,n="衣",o=["衤"],t=[],a=[],d=[],l={s:c,sc:s,r:n,c:o,d:t,w:a,i:d};export{o as c,t as d,l as default,d as i,n as r,c as s,s as sc,a as w};

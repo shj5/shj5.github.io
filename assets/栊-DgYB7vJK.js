@@ -1,0 +1,1 @@
+const s=[{p:"lóng",pp:"long2",d:"(literary) window/(literary) cage for animals",t:"櫳",w:"栊"}],c=9,t="木",n=["木","龙"],o=[],r="",a=[],i=[],l={s,sc:c,r:t,c:n,d:o,ux:r,w:a,i};export{n as c,o as d,l as default,i,t as r,s,c as sc,r as ux,a as w};

@@ -1,0 +1,1 @@
+const s=[{p:"sōng",pp:"song1",d:"old variant of 松[song1]",t:"梥",w:"梥"}],o=11,c="木",n=["木"],t=[],d="",a=[],p=[],r={s,sc:o,r:c,c:n,d:t,ux:d,w:a,i:p};export{n as c,t as d,r as default,p as i,c as r,s,o as sc,d as ux,a as w};

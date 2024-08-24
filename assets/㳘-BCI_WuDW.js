@@ -1,0 +1,1 @@
+const o=[{p:"chōng",pp:"chong1",d:"(literary) (of a mountain stream) to flow down/(onom.) sound of flowing water",t:"㳘",w:"㳘"}],n=0,t="",s=[],c=[],a="A",r=[],w=[],d={s:o,sc:n,r:t,c:s,d:c,ux:a,w:r,i:w};export{s as c,c as d,d as default,w as i,t as r,o as s,n as sc,a as ux,r as w};

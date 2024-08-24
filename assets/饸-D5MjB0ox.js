@@ -1,1 +1,0 @@
-const o=[{p:"hé",pp:"he2",d:"used in 餄餎|饸饹[he2le5]",t:"餄",w:"饸"}],s=9,e="食",t=["饣","合"],c=[],n=[{w:"饸饹",p:"hé le",d:'"hele" noodles, a type of noodle made from buckwheat or sorghum flour',t:"餄餎"}],d=[],h={s:o,sc:s,r:e,c:t,d:c,w:n,i:d};export{t as c,c as d,h as default,d as i,e as r,o as s,s as sc,n as w};

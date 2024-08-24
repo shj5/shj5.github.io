@@ -1,1 +1,0 @@
-const s=[{p:"huàn",pp:"huan4",d:"soapberry (order Sapindales)",t:"槵",w:"槵"}],t=15,n="木",o=["木","患"],c=[],d=[{w:"槵子",p:"huàn zǐ",d:"fruit of the Sapindus trees (used for Buddhist prayer beads)",t:"槵子"}],r=[],e={s,sc:t,r:n,c:o,d:c,w:d,i:r};export{o as c,c as d,e as default,r as i,n as r,s,t as sc,d as w};

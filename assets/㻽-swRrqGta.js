@@ -1,1 +1,0 @@
-const s=[{p:"xuán",pp:"xuan2",d:"variant of 璿|璇[xuan2]/also pr. [sui4]",t:"㻽",w:"㻽"}],c=0,n="",t=[],o=[],a=[],p=[],r={s,sc:c,r:n,c:t,d:o,w:a,i:p};export{t as c,o as d,r as default,p as i,n as r,s,c as sc,a as w};

@@ -1,1 +1,0 @@
-const c=[{p:"jiù",pp:"jiu4",d:"bier",t:"柩",w:"柩"}],s=9,n="木",t=["木"],o=[],i=[{w:"灵柩",p:"líng jiù",d:"coffin containing a corpse",t:"靈柩"}],p=[],d={s:c,sc:s,r:n,c:t,d:o,w:i,i:p};export{t as c,o as d,d as default,p as i,n as r,c as s,s as sc,i as w};

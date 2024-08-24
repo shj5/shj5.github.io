@@ -1,0 +1,1 @@
+const s=[{p:"sǒng",pp:"song3",d:"respectful/horrified/to raise (one's shoulders)/to stand on tiptoe/to crane",t:"竦",w:"竦"}],o=12,t="立",n=["立","束"],c=[],r="",e=[{w:"竦然",p:"sǒng rán",d:"variant of 悚然[song3 ran2]",t:"竦然"}],a=[],d={s,sc:o,r:t,c:n,d:c,ux:r,w:e,i:a};export{n as c,c as d,d as default,a as i,t as r,s,o as sc,r as ux,e as w};

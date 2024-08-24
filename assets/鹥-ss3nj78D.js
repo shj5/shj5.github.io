@@ -1,0 +1,1 @@
+const s=[{p:"yī",pp:"yi1",d:"wigeon (Anas penelope, a Eurasian duck)/seagull (arch.)",t:"鷖",w:"鹥"}],c=16,n="鳥",o=["鸟"],t=[],a="",e=[],p=[],u={s,sc:c,r:n,c:o,d:t,ux:a,w:e,i:p};export{o as c,t as d,u as default,p as i,n as r,s,c as sc,a as ux,e as w};

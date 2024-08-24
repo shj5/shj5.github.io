@@ -1,1 +1,0 @@
-const n=[{p:"Xián",pp:"Xian2",d:"surname Xian",t:"伭",w:"伭"},{p:"xián",pp:"xian2",d:"(literary) cruel; ruthless/(literary) dark red; black",t:"伭",w:"伭"},{p:"xuán",pp:"xuan2",d:"variant of 玄[xuan2]/variant of 懸|悬[xuan2]",t:"伭",w:"伭"}],t=7,a="人",s=["亻","玄"],c=[],r=[],i=[],o={s:n,sc:t,r:a,c:s,d:c,w:r,i};export{s as c,c as d,o as default,i,a as r,n as s,t as sc,r as w};

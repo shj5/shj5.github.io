@@ -1,0 +1,1 @@
+const s=[{p:"shàn",pp:"shan4",d:"hernia",t:"疝",w:"疝"}],n=8,c="疒",t=["山","疒"],o=[],a="",d=[{w:"疝气",p:"shàn qì",d:"hernia",t:"疝氣"}],h=[],p={s,sc:n,r:c,c:t,d:o,ux:a,w:d,i:h};export{t as c,o as d,p as default,h as i,c as r,s,n as sc,a as ux,d as w};

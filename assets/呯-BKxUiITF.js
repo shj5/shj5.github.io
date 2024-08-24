@@ -1,1 +1,0 @@
-const n=[{p:"píng",pp:"ping2",d:"(onom.) bang! (gong, gun firing etc)",t:"呯",w:"呯"}],c=8,s="口",o=["口","平"],t=[],g=[],p=[],i={s:n,sc:c,r:s,c:o,d:t,w:g,i:p};export{o as c,t as d,i as default,p as i,s as r,n as s,c as sc,g as w};

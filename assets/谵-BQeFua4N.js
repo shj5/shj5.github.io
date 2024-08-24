@@ -1,1 +1,0 @@
-const t=[{p:"zhān",pp:"zhan1",d:"(literary) to rant; to rave; to be delirious",t:"譫",w:"谵"}],s=15,n="言",o=["讠","詹"],c=[],r=[{w:"谵妄",p:"zhān wàng",d:"delirium",t:"譫妄"}],d=[],e={s:t,sc:s,r:n,c:o,d:c,w:r,i:d};export{o as c,c as d,e as default,d as i,n as r,t as s,s as sc,r as w};

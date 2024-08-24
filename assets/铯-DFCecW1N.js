@@ -1,0 +1,1 @@
+const s=[{p:"sè",pp:"se4",d:"cesium (chemistry)",t:"銫",w:"铯"}],c=11,t="金",o=["色"],n=[],e="",d=[],i=[],p={s,sc:c,r:t,c:o,d:n,ux:e,w:d,i};export{o as c,n as d,p as default,i,t as r,s,c as sc,e as ux,d as w};

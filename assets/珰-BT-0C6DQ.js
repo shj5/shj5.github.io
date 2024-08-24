@@ -1,1 +1,0 @@
-const n=[{p:"dāng",pp:"dang1",d:"(literary) pendant ornament/earring/eunuch",t:"璫",w:"珰"}],t=10,c="玉",s=["王","当"],o=[],r=[],a=[],d={s:n,sc:t,r:c,c:s,d:o,w:r,i:a};export{s as c,o as d,d as default,a as i,c as r,n as s,t as sc,r as w};

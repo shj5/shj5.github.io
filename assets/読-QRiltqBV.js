@@ -1,1 +1,0 @@
-const s=[{p:"dú",pp:"du2",d:"Japanese variant of 讀|读[du2]",t:"読",w:"読"}],c=14,t="言",n=["売"],o=[],d=[],a=[],p={s,sc:c,r:t,c:n,d:o,w:d,i:a};export{n as c,o as d,p as default,a as i,t as r,s,c as sc,d as w};

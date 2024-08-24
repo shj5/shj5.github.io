@@ -1,1 +1,0 @@
-const n=[{p:"péng",pp:"peng2",d:"boron (chemistry)",t:"硼",w:"硼"}],s=13,o="石",t=["石","朋"],c=[],p=[{w:"三氟化硼",p:"sān fú huà péng",d:"boron trifluoride",t:"三氟化硼"},{w:"硼砂",p:"péng shā",d:"borax",t:"硼砂"},{w:"硼酸",p:"péng suān",d:"boric acid H3BO3",t:"硼酸"}],r=[],d={s:n,sc:s,r:o,c:t,d:c,w:p,i:r};export{t as c,c as d,d as default,r as i,o as r,n as s,s as sc,p as w};

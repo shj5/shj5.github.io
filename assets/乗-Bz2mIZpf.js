@@ -1,0 +1,1 @@
+const c=[{p:"chéng",pp:"cheng2",d:"Japanese variant of 乘[cheng2]",t:"乗",w:"乗"}],s=9,n="丿",t=["禾"],o=["剰"],a="",e=[],p=[],d={s:c,sc:s,r:n,c:t,d:o,ux:a,w:e,i:p};export{t as c,o as d,d as default,p as i,n as r,c as s,s as sc,a as ux,e as w};

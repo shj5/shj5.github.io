@@ -1,1 +1,0 @@
-const c=[{p:"chēng",pp:"cheng1",d:"(dialect) cooking pot/variant of 鐺|铛[cheng1]",t:"罉",w:"罉"}],t=18,n="缶",o=["缶","掌"],s=[],a=[],d=[],e={s:c,sc:t,r:n,c:o,d:s,w:a,i:d};export{o as c,s as d,e as default,d as i,n as r,c as s,t as sc,a as w};

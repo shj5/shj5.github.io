@@ -1,0 +1,1 @@
+const t=[{p:"bù",pp:"bu4",d:"(literary) to cover; to shelter/(literary) 76 years (unit of time in ancient calendars)",t:"蔀",w:"蔀"}],s=14,c="艸",n=["艹"],o=[],e="",r=[],a=[],i={s:t,sc:s,r:c,c:n,d:o,ux:e,w:r,i:a};export{n as c,o as d,i as default,a as i,c as r,t as s,s as sc,e as ux,r as w};

@@ -1,0 +1,1 @@
+const s=[{p:"yuān",pp:"yuan1",d:"firebird (mythology)",t:"鵷",w:"鹓"}],c=13,t="鳥",o=["鸟","宛"],n=[],d="",r=[],u=[],i={s,sc:c,r:t,c:o,d:n,ux:d,w:r,i:u};export{o as c,n as d,i as default,u as i,t as r,s,c as sc,d as ux,r as w};

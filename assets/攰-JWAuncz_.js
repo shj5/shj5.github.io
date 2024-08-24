@@ -1,0 +1,1 @@
+const t=[{p:"guì",pp:"gui4",d:"totally exhausted (Cantonese)/Mandarin equivalent: 累[lei4]",t:"攰",w:"攰"}],s=6,n="支",c=["力","支"],o=[],e="",a=[],u=[],d={s:t,sc:s,r:n,c,d:o,ux:e,w:a,i:u};export{c,o as d,d as default,u as i,n as r,t as s,s as sc,e as ux,a as w};

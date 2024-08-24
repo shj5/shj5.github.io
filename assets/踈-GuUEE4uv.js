@@ -1,1 +1,0 @@
-const s=[{p:"shū",pp:"shu1",d:"variant of 疏[shu1]",t:"踈",w:"踈"}],c=14,t="足",o=["足","束"],n=[],a=[],d=[],p={s,sc:c,r:t,c:o,d:n,w:a,i:d};export{o as c,n as d,p as default,d as i,t as r,s,c as sc,a as w};

@@ -1,1 +1,0 @@
-const s=[{p:"huī",pp:"hui1",d:"pheasant/golden pheasant/variegated/to fly",t:"翬",w:"翚"}],t=12,c="羽",n=["车","羽"],o=[],a=[],e=[],d={s,sc:t,r:c,c:n,d:o,w:a,i:e};export{n as c,o as d,d as default,e as i,c as r,s,t as sc,a as w};

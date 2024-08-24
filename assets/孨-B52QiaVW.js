@@ -1,1 +1,0 @@
-const s=[{p:"zhuǎn",pp:"zhuan3",d:"(Internet slang) the three 子's that symbolize success in life: a house, a car and a wife (房子[fang2 zi5], 車子|车子[che1 zi5] and 妻子[qi1 zi5])/(archaic) cautious/cowardly",t:"孨",w:"孨"}],c=9,t="子",n=["子"],a=["孱"],e=[],o=[],i={s,sc:c,r:t,c:n,d:a,w:e,i:o};export{n as c,a as d,i as default,o as i,t as r,s,c as sc,e as w};

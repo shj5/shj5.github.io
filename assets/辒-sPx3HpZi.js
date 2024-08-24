@@ -1,0 +1,1 @@
+const s=[{p:"wēn",pp:"wen1",d:"hearse",t:"轀",w:"辒"}],c=13,n="車",t=["车"],e=[],o="",w=[{w:"辒车",p:"wēn chē",d:"hearse",t:"轀車"},{w:"辒辌",p:"wēn liáng",d:"(sleeping) carriage/hearse",t:"轀輬"}],r=[],a={s,sc:c,r:n,c:t,d:e,ux:o,w,i:r};export{t as c,e as d,a as default,r as i,n as r,s,c as sc,o as ux,w};
