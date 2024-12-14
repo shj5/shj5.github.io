@@ -1,0 +1,1 @@
+const n=[{p:"chēng",pp:"cheng1",d:"tinkling of gems",t:"琤",w:"琤"}],t=12,o="玉",s=["王"],c=[],e="",i=[{w:"琤𪻐",p:"chēng cōng",d:"(literary) (onom.) tinkling of jade pendants; plashing of flowing water; musical notes of a zither",t:"琤瑽"}],a=[],g={s:n,sc:t,r:o,c:s,d:c,ux:e,w:i,i:a};export{s as c,c as d,g as default,a as i,o as r,n as s,t as sc,e as ux,i as w};

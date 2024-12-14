@@ -1,0 +1,1 @@
+const t=[{p:"qí",pp:"qi2",d:"used in 蠐螬|蛴螬[qi2 cao2]/used in 蝤蠐|蝤蛴[qiu2 qi2]",t:"蠐",w:"蛴"}],o=12,s="虫",c=["虫","齐"],n=[],a="",e=[{w:"蝤蛴",p:"qiú qí",d:"(literary) longhorn beetle larva",t:"蝤蠐"},{w:"蛴螬",p:"qí cáo",d:"scarab beetle larva; grub/CL:條|条[tiao2]",t:"蠐螬"}],i=[],r={s:t,sc:o,r:s,c,d:n,ux:a,w:e,i};export{c,n as d,r as default,i,s as r,t as s,o as sc,a as ux,e as w};

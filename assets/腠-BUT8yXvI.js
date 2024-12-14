@@ -1,0 +1,1 @@
+const t=[{p:"còu",pp:"cou4",d:"the tissue between the skin and the flesh",t:"腠",w:"腠"}],s=13,c="肉",n=["月","奏"],o=[],e="",u=[],d=[],h={s:t,sc:s,r:c,c:n,d:o,ux:e,w:u,i:d};export{n as c,o as d,h as default,d as i,c as r,t as s,s as sc,e as ux,u as w};

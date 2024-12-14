@@ -1,1 +1,0 @@
-const o=[{p:"yīn",pp:"yin1",d:"a kind of bamboo/old variant of 茵[yin1]",t:"筃",w:"筃"}],n=12,s="竹",c=["竹","因"],t=[],a="",d=[],i=[],p={s:o,sc:n,r:s,c,d:t,ux:a,w:d,i};export{c,t as d,p as default,i,s as r,o as s,n as sc,a as ux,d as w};

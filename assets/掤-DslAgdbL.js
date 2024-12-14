@@ -1,0 +1,1 @@
+const t=[{p:"bīng",pp:"bing1",d:"arrow-quiver cover",t:"掤",w:"掤"},{p:"péng",pp:"peng2",d:"to ward off (in tai chi)",t:"掤",w:"掤"}],n=11,o="手",c=["扌","朋"],s=[],p="",r=[],i=[],a={s:t,sc:n,r:o,c,d:s,ux:p,w:r,i};export{c,s as d,a as default,i,o as r,t as s,n as sc,p as ux,r as w};

@@ -1,1 +1,0 @@
-const s=[{p:"zhàn",pp:"zhan4",d:"Japanese variant of 棧|栈[zhan4]",t:"桟",w:"桟"}],n=10,c="木",t=["木"],o=[],a="",p=[],d=[],e={s,sc:n,r:c,c:t,d:o,ux:a,w:p,i:d};export{t as c,o as d,e as default,d as i,c as r,s,n as sc,a as ux,p as w};

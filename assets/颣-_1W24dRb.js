@@ -1,1 +1,0 @@
-const s=[{p:"lèi",pp:"lei4",d:"flaw/knot",t:"纇",w:"颣"}],c=18,t="頁",o=["页"],n=[],d="",i=[],l=[],p={s,sc:c,r:t,c:o,d:n,ux:d,w:i,i:l};export{o as c,n as d,p as default,l as i,t as r,s,c as sc,d as ux,i as w};

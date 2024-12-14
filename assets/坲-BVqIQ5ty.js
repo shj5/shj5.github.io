@@ -1,0 +1,1 @@
+const t=[{p:"fó",pp:"fo2",d:"(of dust) to rise in the air",t:"坲",w:"坲"}],s=8,o="土",c=["土","弗"],n=[],d="",e=[],f=[],i={s:t,sc:s,r:o,c,d:n,ux:d,w:e,i:f};export{c,n as d,i as default,f as i,o as r,t as s,s as sc,d as ux,e as w};

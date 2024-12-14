@@ -1,0 +1,1 @@
+const s=[{p:"jià",pp:"jia4",d:"Japanese variant of 價|价",t:"価",w:"価"}],t=8,c="人",n=["亻"],o=[],a="",p=[],e=[],i={s,sc:t,r:c,c:n,d:o,ux:a,w:p,i:e};export{n as c,o as d,i as default,e as i,c as r,s,t as sc,a as ux,p as w};

@@ -1,0 +1,1 @@
+const n=[{p:"diǎn",pp:"dian3",d:"variant of 點|点[dian3]",t:"奌",w:"奌"}],t=8,s="大",c=["大","占"],o=[],a="",d=[],i=[],p={s:n,sc:t,r:s,c,d:o,ux:a,w:d,i};export{c,o as d,p as default,i,s as r,n as s,t as sc,a as ux,d as w};

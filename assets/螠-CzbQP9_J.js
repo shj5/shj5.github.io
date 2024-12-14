@@ -1,0 +1,1 @@
+const o=[{p:"yì",pp:"yi4",d:"echiuroid (spoon worm)",t:"螠",w:"螠"}],s=16,c="虫",t=["虫","益"],n=[],p="",d=[],i=[],r={s:o,sc:s,r:c,c:t,d:n,ux:p,w:d,i};export{t as c,n as d,r as default,i,c as r,o as s,s as sc,p as ux,d as w};

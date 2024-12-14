@@ -1,0 +1,1 @@
+const o=[{p:"bó",pp:"bo2",d:"variant of 餺|馎[bo2]",t:"䬪",w:"䬪"}],t=0,s="",c=[],n=[],a="A",p=[],b=[],d={s:o,sc:t,r:s,c,d:n,ux:a,w:p,i:b};export{c,n as d,d as default,b as i,s as r,o as s,t as sc,a as ux,p as w};

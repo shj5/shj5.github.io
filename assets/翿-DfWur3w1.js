@@ -1,0 +1,1 @@
+const o=[{p:"dào",pp:"dao4",d:"feather banner or fan",t:"翿",w:"翿"}],t=20,n="羽",s=["羽"],c=[],a="",d=[],e=[],r={s:o,sc:t,r:n,c:s,d:c,ux:a,w:d,i:e};export{s as c,c as d,r as default,e as i,n as r,o as s,t as sc,a as ux,d as w};

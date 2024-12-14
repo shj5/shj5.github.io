@@ -1,0 +1,1 @@
+const o=[{p:"liáo",pp:"liao2",d:"clear sound/cry (of cranes etc)",t:"嘹",w:"嘹"}],n=15,t="口",c=["口"],s=[],a="",l=[{w:"嘹亮",p:"liáo liàng",d:"loud and clear/resonant",t:"嘹亮"},{w:"嘹喨",p:"liáo liàng",d:"variant of 嘹亮[liao2 liang4]",t:"嘹喨"}],i=[],d={s:o,sc:n,r:t,c,d:s,ux:a,w:l,i};export{c,s as d,d as default,i,t as r,o as s,n as sc,a as ux,l as w};

@@ -1,0 +1,1 @@
+const s=[{p:"yīn",pp:"yin1",d:"indium (chemistry)",t:"銦",w:"铟"}],t=11,c="金",n=["因"],o=[],i="",d=[],p=[],e={s,sc:t,r:c,c:n,d:o,ux:i,w:d,i:p};export{n as c,o as d,e as default,p as i,c as r,s,t as sc,i as ux,d as w};

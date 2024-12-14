@@ -1,0 +1,1 @@
+const n=[{p:"léng",pp:"leng2",d:"elevated bank around a field",t:"塄",w:"塄"}],t=12,s="土",c=["土"],o=[],e="",a=[],d=[],l={s:n,sc:t,r:s,c,d:o,ux:e,w:a,i:d};export{c,o as d,l as default,d as i,s as r,n as s,t as sc,e as ux,a as w};

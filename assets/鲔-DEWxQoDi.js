@@ -1,1 +1,0 @@
-const t=[{p:"wěi",pp:"wei3",d:"little tuna/Euthynnus alletteratus",t:"鮪",w:"鲔"}],s=14,c="魚",n=["有","鱼"],o=[],l="",u=[{w:"鲔鱼",p:"wěi yú",d:"(Tw) tuna",t:"鮪魚"},{w:"鲔鱼肚",p:"wěi yú dù",d:"(cuisine) tuna belly/(Tw) (fig.) (coll.) potbelly/paunch",t:"鮪魚肚"}],w=[],i={s:t,sc:s,r:c,c:n,d:o,ux:l,w:u,i:w};export{n as c,o as d,i as default,w as i,c as r,t as s,s as sc,l as ux,u as w};

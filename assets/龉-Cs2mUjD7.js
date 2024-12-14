@@ -1,0 +1,1 @@
+const t=[{p:"yǔ",pp:"yu3",d:"used in 齟齬|龃龉[ju3yu3]",t:"齬",w:"龉"}],s=15,n="齒",o=["吾","齿"],c=[],e="",d=[{w:"龃龉",p:"jǔ yǔ",d:"(literary) (of teeth) to be misaligned; (fig.) in disagreement; at odds",t:"齟齬"}],i=[],a={s:t,sc:s,r:n,c:o,d:c,ux:e,w:d,i};export{o as c,c as d,a as default,i,n as r,t as s,s as sc,e as ux,d as w};

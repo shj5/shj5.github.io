@@ -1,0 +1,1 @@
+const t=[{p:"xù",pp:"xu4",d:"variant of 緒|绪[xu4]",t:"緖",w:"緖"}],s=15,c="糸",o=["糸","者"],n=[],x="",a=[],p=[],u={s:t,sc:s,r:c,c:o,d:n,ux:x,w:a,i:p};export{o as c,n as d,u as default,p as i,c as r,t as s,s as sc,x as ux,a as w};

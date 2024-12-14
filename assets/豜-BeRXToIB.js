@@ -1,1 +1,0 @@
-const s=[{p:"jiān",pp:"jian1",d:"fully grown pig/3-year old pig",t:"豜",w:"豜"}],c=11,n="豕",o=["开","豕"],t=[],i="",p=[],d=[],r={s,sc:c,r:n,c:o,d:t,ux:i,w:p,i:d};export{o as c,t as d,r as default,d as i,n as r,s,c as sc,i as ux,p as w};

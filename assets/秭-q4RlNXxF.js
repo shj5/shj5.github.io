@@ -1,0 +1,1 @@
+const n=[{p:"zǐ",pp:"zi3",d:"billion",t:"秭",w:"秭"}],c=10,i="禾",t=["禾"],o=[],s="",u=[{w:"秭归",p:"Zǐ guī",d:"Zigui county in Yichang 宜昌[Yi2 chang1], Hubei",t:"秭歸"},{w:"秭归县",p:"Zǐ guī Xiàn",d:"Zigui county in Yichang 宜昌[Yi2 chang1], Hubei",t:"秭歸縣"}],g=[],a={s:n,sc:c,r:i,c:t,d:o,ux:s,w:u,i:g};export{t as c,o as d,a as default,g as i,i as r,n as s,c as sc,s as ux,u as w};

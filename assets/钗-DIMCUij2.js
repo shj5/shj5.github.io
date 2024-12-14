@@ -1,0 +1,1 @@
+const c=[{p:"chāi",pp:"chai1",d:"hairpin",t:"釵",w:"钗"}],o=8,t="金",a=["叉"],i=[],s="",n=[{w:"薛宝钗",p:"Xuē Bǎo chāi",d:"Xue Baochai, female character in Dream of Red Mansions, married to Jia Baoyu 賈寶玉|贾宝玉",t:"薛寶釵"},{w:"发钗",p:"fà chāi",d:"hair clip",t:"髮釵"}],e=[],r={s:c,sc:o,r:t,c:a,d:i,ux:s,w:n,i:e};export{a as c,i as d,r as default,e as i,t as r,c as s,o as sc,s as ux,n as w};

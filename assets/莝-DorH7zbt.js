@@ -1,0 +1,1 @@
+const c=[{p:"cuò",pp:"cuo4",d:"to chop straw fine for animals",t:"莝",w:"莝"}],o=10,s="艸",t=["艹","坐"],n=[],a="",p=[],r=[],u={s:c,sc:o,r:s,c:t,d:n,ux:a,w:p,i:r};export{t as c,n as d,u as default,r as i,s as r,c as s,o as sc,a as ux,p as w};

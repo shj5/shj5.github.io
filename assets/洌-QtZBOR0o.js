@@ -1,0 +1,1 @@
+const s=[{p:"liè",pp:"lie4",d:"pure/to cleanse",t:"洌",w:"洌"}],t=9,c="水",o=["氵","列"],n=[],e="",p=[],l=[],a={s,sc:t,r:c,c:o,d:n,ux:e,w:p,i:l};export{o as c,n as d,a as default,l as i,c as r,s,t as sc,e as ux,p as w};

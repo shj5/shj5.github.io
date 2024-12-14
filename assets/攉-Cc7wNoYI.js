@@ -1,0 +1,1 @@
+const o=[{p:"huō",pp:"huo1",d:"to shovel",t:"攉",w:"攉"}],s=19,t="手",c=["扌","霍"],n=[],h="",e=[{w:"攉煤机",p:"huō méi jī",d:"coal-shovel machine",t:"攉煤機"}],p=[],u={s:o,sc:s,r:t,c,d:n,ux:h,w:e,i:p};export{c,n as d,u as default,p as i,t as r,o as s,s as sc,h as ux,e as w};

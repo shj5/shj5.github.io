@@ -1,0 +1,1 @@
+const t=[{p:"mǔ",pp:"mu3",d:"old variant of 畝|亩[mu3]",t:"畒",w:"畒"}],o=9,s="田",c=["人","亩"],n=[],a="",d=[],p=[],u={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i:p};export{c,n as d,u as default,p as i,s as r,t as s,o as sc,a as ux,d as w};

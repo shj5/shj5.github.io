@@ -1,0 +1,1 @@
+const n=[{p:"zǒng",pp:"zong3",d:"variant of 總|总[zong3]",t:"縂",w:"縂"}],o=15,t="糸",s=["糸","总"],c=[],a="",p=[],d=[],g={s:n,sc:o,r:t,c:s,d:c,ux:a,w:p,i:d};export{s as c,c as d,g as default,d as i,t as r,n as s,o as sc,a as ux,p as w};

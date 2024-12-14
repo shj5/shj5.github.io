@@ -1,0 +1,1 @@
+const n=[{p:"yǒu",pp:"you3",d:"black/dark green",t:"黝",w:"黝"}],s=17,t="黑",c=["幼","黑"],o=[],u="",d=[{w:"黝暗",p:"yǒu àn",d:"murk/murkiness",t:"黝暗"},{w:"黝黑",p:"yǒu hēi",d:"dark/black/suntanned",t:"黝黑"}],a=[],r={s:n,sc:s,r:t,c,d:o,ux:u,w:d,i:a};export{c,o as d,r as default,a as i,t as r,n as s,s as sc,u as ux,d as w};

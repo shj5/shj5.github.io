@@ -1,0 +1,1 @@
+const t=[{p:"xì",pp:"xi4",d:"old variant of 隙[xi4]",t:"隟",w:"隟"}],o=14,s="阜",c=["巢"],n=[],x="",a=[],d=[],i={s:t,sc:o,r:s,c,d:n,ux:x,w:a,i:d};export{c,n as d,i as default,d as i,s as r,t as s,o as sc,x as ux,a as w};

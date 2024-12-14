@@ -1,1 +1,0 @@
-const s=[{p:"bó",pp:"bo2",d:"ancient musical intrument shaped as a bell/hoe/spade",t:"鎛",w:"镈"}],n=15,t="金",c=[],o=[],a="",e=[{w:"皇甫镈",p:"Huáng fǔ Bó",d:"Huangfu Bo (c. 800), Minister during early Tang",t:"皇甫鎛"}],u=[],d={s,sc:n,r:t,c,d:o,ux:a,w:e,i:u};export{c,o as d,d as default,u as i,t as r,s,n as sc,a as ux,e as w};

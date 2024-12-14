@@ -1,0 +1,1 @@
+const n=[{p:"kòng",pp:"kong4",d:"(literary) bridle (of a horse)",t:"鞚",w:"鞚"}],s=17,o="革",t=["空","革"],c=[],e="",g=[],i=[{w:"名𩉜利鞚",p:"míng jī - lì kòng",d:"see 名韁利鎖|名缰利锁[ming2jiang1-li4suo3]",t:"名鞿利鞚"}],r={s:n,sc:s,r:o,c:t,d:c,ux:e,w:g,i};export{t as c,c as d,r as default,i,o as r,n as s,s as sc,e as ux,g as w};

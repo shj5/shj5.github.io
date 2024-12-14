@@ -1,0 +1,1 @@
+const t=[{p:"bǐ",pp:"bi3",d:"old variant of 比[bi3]",t:"夶",w:"夶"}],o=6,s="大",c=["大"],n=[],a="",d=[],i=[],p={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i};export{c,n as d,p as default,i,s as r,t as s,o as sc,a as ux,d as w};

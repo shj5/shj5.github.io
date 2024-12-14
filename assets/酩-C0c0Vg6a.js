@@ -1,0 +1,1 @@
+const n=[{p:"mǐng",pp:"ming3",d:"used in 酩酊[ming3ding3]",t:"酩",w:"酩"}],d=13,s="酉",t=["名","酉"],o=[],c="",g=[{w:"酩酊",p:"mǐng dǐng",d:"blind drunk",t:"酩酊"}],i=[{w:"酩酊大醉",p:"mǐng dǐng - dà zuì",d:"(idiom) dead drunk; plastered; as drunk as a lord",t:"酩酊大醉"}],a={s:n,sc:d,r:s,c:t,d:o,ux:c,w:g,i};export{t as c,o as d,a as default,i,s as r,n as s,d as sc,c as ux,g as w};

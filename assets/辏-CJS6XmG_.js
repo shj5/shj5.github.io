@@ -1,1 +1,0 @@
-const c=[{p:"còu",pp:"cou4",d:"to converge/hub of wheel",t:"輳",w:"辏"}],o=13,s="車",t=["车","奏"],n=[],e="",u=[],d=[],p={s:c,sc:o,r:s,c:t,d:n,ux:e,w:u,i:d};export{t as c,n as d,p as default,d as i,s as r,c as s,o as sc,e as ux,u as w};

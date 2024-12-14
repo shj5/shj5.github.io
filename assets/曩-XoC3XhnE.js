@@ -1,1 +1,0 @@
-const s=[{p:"nǎng",pp:"nang3",d:"in former times",t:"曩",w:"曩"}],n=21,c="日",t=["日","襄"],o=[],r="",d=[],e=[],i={s,sc:n,r:c,c:t,d:o,ux:r,w:d,i:e};export{t as c,o as d,i as default,e as i,c as r,s,n as sc,r as ux,d as w};

@@ -1,0 +1,1 @@
+const s=[{p:"xián",pp:"xian2",d:"variant of 癇|痫, epilepsy",t:"癎",w:"癎"}],t=17,n="疒",c=["疒"],o=[],p="",a=[],i=[],e={s,sc:t,r:n,c,d:o,ux:p,w:a,i};export{c,o as d,e as default,i,n as r,s,t as sc,p as ux,a as w};

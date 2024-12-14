@@ -1,0 +1,1 @@
+const s=[{p:"sōu",pp:"sou1",d:"classifier for ships/Taiwan pr. [sao1]",t:"艘",w:"艘"}],o=16,c="舟",t=["舟","叟"],n=[],a="",p=[],i=[],r={s,sc:o,r:c,c:t,d:n,ux:a,w:p,i};export{t as c,n as d,r as default,i,c as r,s,o as sc,a as ux,p as w};

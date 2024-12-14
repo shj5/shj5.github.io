@@ -1,0 +1,1 @@
+const s=[{p:"dié",pp:"die2",d:"shuffle",t:"跕",w:"跕"}],t=12,c="足",o=["占","足"],n=[],d="",e=[],p=[],f={s,sc:t,r:c,c:o,d:n,ux:d,w:e,i:p};export{o as c,n as d,f as default,p as i,c as r,s,t as sc,d as ux,e as w};

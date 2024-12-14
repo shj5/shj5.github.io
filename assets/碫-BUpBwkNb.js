@@ -1,0 +1,1 @@
+const s=[{p:"duàn",pp:"duan4",d:"coarse stone (used for whetstone)",t:"碫",w:"碫"}],t=14,o="石",n=["石","段"],c=[],e="",d=[],u=[],a={s,sc:t,r:o,c:n,d:c,ux:e,w:d,i:u};export{n as c,c as d,a as default,u as i,o as r,s,t as sc,e as ux,d as w};

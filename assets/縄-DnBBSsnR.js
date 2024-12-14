@@ -1,0 +1,1 @@
+const s=[{p:"shéng",pp:"sheng2",d:"Japanese variant of 繩|绳",t:"縄",w:"縄"}],n=15,t="糸",c=["糸"],o=[],a="",e=[],p=[],d={s,sc:n,r:t,c,d:o,ux:a,w:e,i:p};export{c,o as d,d as default,p as i,t as r,s,n as sc,a as ux,e as w};

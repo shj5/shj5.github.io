@@ -1,0 +1,1 @@
+const s=[{p:"yì",pp:"yi4",d:"Japanese variant of 驛|驿[yi4]",t:"駅",w:"駅"}],t=14,c="馬",n=["尺"],o=[],a="",p=[],e=[],i={s,sc:t,r:c,c:n,d:o,ux:a,w:p,i:e};export{n as c,o as d,i as default,e as i,c as r,s,t as sc,a as ux,p as w};

@@ -1,1 +1,0 @@
-const s=[{p:"hù",pp:"hu4",d:"name of a district in Shaanxi",t:"鄠",w:"鄠"}],c=14,t="邑",n=[],o=[],a="",i=[],d=[],p={s,sc:c,r:t,c:n,d:o,ux:a,w:i,i:d};export{n as c,o as d,p as default,d as i,t as r,s,c as sc,a as ux,i as w};

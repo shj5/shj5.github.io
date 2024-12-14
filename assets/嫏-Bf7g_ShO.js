@@ -1,1 +1,0 @@
-const s=[{p:"láng",pp:"lang2",d:"used in 嫏嬛[Lang2huan2]",t:"嫏",w:"嫏"}],t=12,n="女",c=["女","郎"],o=[],e="",a=[{w:"嫏嬛",p:"Láng huán",d:"mythical place where the Celestial Emperor stores his books/(fig.) library",t:"嫏嬛"}],r=[],i={s,sc:t,r:n,c,d:o,ux:e,w:a,i:r};export{c,o as d,i as default,r as i,n as r,s,t as sc,e as ux,a as w};

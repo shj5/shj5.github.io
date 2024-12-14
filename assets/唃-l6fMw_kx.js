@@ -1,0 +1,1 @@
+const t=[{p:"gū",pp:"gu1",d:"old variant of 唂[gu1]",t:"唃",w:"唃"}],o=10,s="口",c=["口","角"],n=[],a="",d=[],p=[],u={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i:p};export{c,n as d,u as default,p as i,s as r,t as s,o as sc,a as ux,d as w};

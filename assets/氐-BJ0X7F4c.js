@@ -1,0 +1,1 @@
+const t=[{p:"Dī",pp:"Di1",d:"name of an ancient tribe",t:"氐",w:"氐"},{p:"dǐ",pp:"di3",d:"foundation/on the whole",t:"氐",w:"氐"}],n=5,o="氏",c=["丶","氏"],s=["低","厎","诋","呧","坻","底","弤","彽","抵","泜","邸","柢","牴","胝","砥","祗","鸱","羝","蚳","觝","骶"],d="",e=[],p=[],a={s:t,sc:n,r:o,c,d:s,ux:d,w:e,i:p};export{c,s as d,a as default,p as i,o as r,t as s,n as sc,d as ux,e as w};

@@ -1,0 +1,1 @@
+const t=[{p:"máo",pp:"mao2",d:"Spanish fly/grain-eating grub",t:"蟊",w:"蟊"}],n=17,o="虫",s=["矛"],c=[],e="",a=[{w:"蟊贼",p:"máo zéi",d:"insect that damages cereal crop seedlings/(lit. and fig.) vermin/a person harmful to the country and the people",t:"蟊賊"}],i=[],p={s:t,sc:n,r:o,c:s,d:c,ux:e,w:a,i};export{s as c,c as d,p as default,i,o as r,t as s,n as sc,e as ux,a as w};

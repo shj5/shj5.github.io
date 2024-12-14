@@ -1,0 +1,1 @@
+const t=[{p:"zì",pp:"zi4",d:"rotten meat/bones of dead animal",t:"胔",w:"胔"}],o=11,s="肉",n=["此","肉"],c=[],a="",e=[],d=[],p={s:t,sc:o,r:s,c:n,d:c,ux:a,w:e,i:d};export{n as c,c as d,p as default,d as i,s as r,t as s,o as sc,a as ux,e as w};

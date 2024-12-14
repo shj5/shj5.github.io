@@ -1,0 +1,1 @@
+const s=[{p:"dài",pp:"dai4",d:"used in place names/Japanese -nuta/Korean -dae",t:"垈",w:"垈"}],n=8,t="土",c=["土","代"],o=[],a="",e=[],d=[],p={s,sc:n,r:t,c,d:o,ux:a,w:e,i:d};export{c,o as d,p as default,d as i,t as r,s,n as sc,a as ux,e as w};

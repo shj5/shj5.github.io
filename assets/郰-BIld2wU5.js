@@ -1,0 +1,1 @@
+const o=[{p:"zōu",pp:"zou1",d:"birthplace of Confucius in Shandong",t:"郰",w:"郰"}],c=11,n="邑",s=["邓","耳"],t=[],u="",p=[],a=[],d={s:o,sc:c,r:n,c:s,d:t,ux:u,w:p,i:a};export{s as c,t as d,d as default,a as i,n as r,o as s,c as sc,u as ux,p as w};

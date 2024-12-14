@@ -1,0 +1,1 @@
+const n=[{p:"lán",pp:"lan2",d:"used in 囒哰[lan2lao2]/variant of 讕|谰[lan2]",t:"囒",w:"囒"}],t=24,o="口",l=["口"],s=[],c=[{w:"囒哰",p:"lán láo",d:"incoherent; unintelligible",t:"囒哰"},{w:"囒吨",p:"Lán dūn",d:"(old) London (now written 倫敦|伦敦[Lun2 dun1])",t:"囒噸"}],d=[],a={s:n,sc:t,r:o,c:l,d:s,w:c,i:d};export{l as c,s as d,a as default,d as i,o as r,n as s,t as sc,c as w};

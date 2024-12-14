@@ -1,0 +1,1 @@
+const t=[{p:"gǔ",pp:"gu3",d:"paper mulberry tree",t:"榖",w:"榖"}],s=14,c="木",o=["殳"],n=["濲"],e="",p=[],r=[],u={s:t,sc:s,r:c,c:o,d:n,ux:e,w:p,i:r};export{o as c,n as d,u as default,r as i,c as r,t as s,s as sc,e as ux,p as w};

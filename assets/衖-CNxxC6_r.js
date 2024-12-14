@@ -1,0 +1,1 @@
+const n=[{p:"xiàng",pp:"xiang4",d:"variant of 巷[xiang4]",t:"衖",w:"衖"}],t=12,s="行",c=["彳"],o=[],a="",i=[],x=[],p={s:n,sc:t,r:s,c,d:o,ux:a,w:i,i:x};export{c,o as d,p as default,x as i,s as r,n as s,t as sc,a as ux,i as w};

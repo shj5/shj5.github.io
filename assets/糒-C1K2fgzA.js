@@ -1,1 +1,0 @@
-const s=[{p:"bèi",pp:"bei4",d:"food for a journey/cakes",t:"糒",w:"糒"}],c=16,o="米",t=["米"],n=[],d="",e=[],r=[],a={s,sc:c,r:o,c:t,d:n,ux:d,w:e,i:r};export{t as c,n as d,a as default,r as i,o as r,s,c as sc,d as ux,e as w};

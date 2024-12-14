@@ -1,0 +1,1 @@
+const c=[{p:"yǐn",pp:"yin3",d:'"long stride" radical in Chinese characters (Kangxi radical 54), occurring in 建, 延, 廷 etc',t:"廴",w:"廴"}],n=3,s="*",t=[],o=["延","廷","廸","建","廻","颋"],i="",a=[],r=[],e={s:c,sc:n,r:s,c:t,d:o,ux:i,w:a,i:r};export{t as c,o as d,e as default,r as i,s as r,c as s,n as sc,i as ux,a as w};

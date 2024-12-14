@@ -1,0 +1,1 @@
+const s=[{p:"shāo",pp:"shao1",d:"serrated edges on a Chinese flag",t:"旓",w:"旓"}],o=13,t="方",c=["方","肖"],n=[],e="",a=[],d=[],p={s,sc:o,r:t,c,d:n,ux:e,w:a,i:d};export{c,n as d,p as default,d as i,t as r,s,o as sc,e as ux,a as w};

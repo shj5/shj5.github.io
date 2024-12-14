@@ -1,0 +1,1 @@
+const t=[{p:"máng",pp:"mang2",d:"crude saltpeter",t:"硭",w:"硭"}],s=12,c="石",n=["石","芒"],o=[],e="",p=[],a=[],d={s:t,sc:s,r:c,c:n,d:o,ux:e,w:p,i:a};export{n as c,o as d,d as default,a as i,c as r,t as s,s as sc,e as ux,p as w};

@@ -1,0 +1,1 @@
+const t=[{p:"bǎn",pp:"ban3",d:"metal plate/sheet of metal",t:"鈑",w:"钣"}],n=9,o="金",s=["反"],e=[],a="",c=[{w:"钣金",p:"bǎn jīn",d:"sheet metal working/auto body repair work/panel beating",t:"鈑金"}],p=[],l={s:t,sc:n,r:o,c:s,d:e,ux:a,w:c,i:p};export{s as c,e as d,l as default,p as i,o as r,t as s,n as sc,a as ux,c as w};

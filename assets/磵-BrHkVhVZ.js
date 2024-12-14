@@ -1,0 +1,1 @@
+const n=[{p:"jiàn",pp:"jian4",d:"variant of 澗|涧[jian4]",t:"磵",w:"磵"}],t=17,s="石",c=["石"],o=[],a="",i=[],p=[],d={s:n,sc:t,r:s,c,d:o,ux:a,w:i,i:p};export{c,o as d,d as default,p as i,s as r,n as s,t as sc,a as ux,i as w};

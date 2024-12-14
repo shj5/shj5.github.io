@@ -1,0 +1,1 @@
+const s=[{p:"shǔn",pp:"shun3",d:"draw forth/horizontal railing",t:"楯",w:"楯"}],t=13,n="木",o=["木","盾"],c=[],r="",a=[],d=[],h={s,sc:t,r:n,c:o,d:c,ux:r,w:a,i:d};export{o as c,c as d,h as default,d as i,n as r,s,t as sc,r as ux,a as w};

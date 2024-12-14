@@ -1,1 +1,0 @@
-const c=[{p:"xiè",pp:"xie4",d:"office",t:"廨",w:"廨"}],s=16,t="广",o=["广","解"],n=[],i="",x=[],d=[],e={s:c,sc:s,r:t,c:o,d:n,ux:i,w:x,i:d};export{o as c,n as d,e as default,d as i,t as r,c as s,s as sc,i as ux,x as w};

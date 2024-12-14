@@ -1,0 +1,1 @@
+const o=[{p:"náo",pp:"nao2",d:"used in 懊憹|懊𢙐[ao4nao2]",t:"憹",w:"𢙐"}],n=0,s="",t=[],c=[],a="B",d=[{w:"懊𢙐",p:"ào náo",d:"anxious/brooding",t:"懊憹"}],p=[],i={s:o,sc:n,r:s,c:t,d:c,ux:a,w:d,i:p};export{t as c,c as d,i as default,p as i,s as r,o as s,n as sc,a as ux,d as w};

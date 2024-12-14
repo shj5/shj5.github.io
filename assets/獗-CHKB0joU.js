@@ -1,0 +1,1 @@
+const t=[{p:"jué",pp:"jue2",d:"used in 猖獗[chang1jue2]",t:"獗",w:"獗"}],n=15,c="犬",s=["犭","厥"],o=[],u="",d=[{w:"猖獗",p:"chāng jué",d:"to be rampant/to run wild",t:"猖獗"}],e=[],p={s:t,sc:n,r:c,c:s,d:o,ux:u,w:d,i:e};export{s as c,o as d,p as default,e as i,c as r,t as s,n as sc,u as ux,d as w};

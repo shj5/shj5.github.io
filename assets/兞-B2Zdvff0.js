@@ -1,0 +1,1 @@
+const o=[{p:"háo kè",pp:"hao2 ke4",d:"milligram (old) (single-character equivalent of 毫克[hao2 ke4])",t:"兞",w:"兞"}],t=11,c="儿",s=["毛","克"],n=[],a="",e=[],l=[],i={s:o,sc:t,r:c,c:s,d:n,ux:a,w:e,i:l};export{s as c,n as d,i as default,l as i,c as r,o as s,t as sc,a as ux,e as w};

@@ -1,1 +1,0 @@
-const n=[{p:"dào",pp:"dao4",d:"big banner/feather banner or fan",t:"纛",w:"纛"}],s=25,c="糸",o=["毒"],t=[],a="",r=[],d=[],e={s:n,sc:s,r:c,c:o,d:t,ux:a,w:r,i:d};export{o as c,t as d,e as default,d as i,c as r,n as s,s as sc,a as ux,r as w};

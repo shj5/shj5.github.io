@@ -1,0 +1,1 @@
+const t=[{p:"jiǎng",pp:"jiang3",d:"(dialect) hill",t:"塂",w:"塂"}],c=12,s="土",n=["土","巷"],o=[],i="",a=[],d=[],l={s:t,sc:c,r:s,c:n,d:o,ux:i,w:a,i:d};export{n as c,o as d,l as default,d as i,s as r,t as s,c as sc,i as ux,a as w};

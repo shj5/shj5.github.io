@@ -1,0 +1,1 @@
+const t=[{p:"bèi",pp:"bei4",d:"used in 蓓蕾[bei4lei3]",t:"蓓",w:"蓓"}],o=13,s="艸",c=["艹","倍"],n=[],i="",l=[{w:"蓓蕾",p:"bèi lěi",d:"flower bud/young flower still tightly rolled up",t:"蓓蕾"}],e=[],d={s:t,sc:o,r:s,c,d:n,ux:i,w:l,i:e};export{c,n as d,d as default,e as i,s as r,t as s,o as sc,i as ux,l as w};

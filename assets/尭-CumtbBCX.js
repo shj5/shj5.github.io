@@ -1,0 +1,1 @@
+const o=[{p:"yáo",pp:"yao2",d:"Japanese variant of 堯|尧[yao2]",t:"尭",w:"尭"}],s=8,t="尢",c=["兀"],n=["暁"],a="",p=[],e=[],d={s:o,sc:s,r:t,c,d:n,ux:a,w:p,i:e};export{c,n as d,d as default,e as i,t as r,o as s,s as sc,a as ux,p as w};

@@ -1,1 +1,0 @@
-const s=[{p:"ài",pp:"ai4",d:"used in 令嬡|令嫒[ling4ai4]",t:"嬡",w:"嫒"}],n=13,t="女",c=["女","爱"],i=[],o="",a=[{w:"令嫒",p:"lìng ài",d:"variant of 令愛|令爱[ling4ai4]",t:"令嬡"}],d=[],p={s,sc:n,r:t,c,d:i,ux:o,w:a,i:d};export{c,i as d,p as default,d as i,t as r,s,n as sc,o as ux,a as w};

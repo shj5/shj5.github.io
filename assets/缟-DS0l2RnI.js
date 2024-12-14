@@ -1,0 +1,1 @@
+const t=[{p:"gǎo",pp:"gao3",d:"plain white silk",t:"縞",w:"缟"}],o=13,s="糸",n=["纟","高"],c=[],i="",e=[{w:"缟玛瑙",p:"gǎo mǎ nǎo",d:"onyx/white agate",t:"縞瑪瑙"},{w:"缟素",p:"gǎo sù",d:"white silk mourning dress",t:"縞素"}],p=[],w={s:t,sc:o,r:s,c:n,d:c,ux:i,w:e,i:p};export{n as c,c as d,w as default,p as i,s as r,t as s,o as sc,i as ux,e as w};

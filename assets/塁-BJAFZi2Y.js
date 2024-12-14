@@ -1,1 +1,0 @@
-const s=[{p:"lěi",pp:"lei3",d:"Japanese variant of 壘|垒",t:"塁",w:"塁"}],c=12,t="土",n=["土"],o=[],a="",e=[],i=[],p={s,sc:c,r:t,c:n,d:o,ux:a,w:e,i};export{n as c,o as d,p as default,i,t as r,s,c as sc,a as ux,e as w};

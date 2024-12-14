@@ -1,0 +1,1 @@
+const n=[{p:"yú",pp:"yu2",d:"place name in Shandong",t:"嵛",w:"嵛"}],c=12,s="山",t=["山","俞"],o=[],a="",p=[{w:"山嵛菜",p:"shān yú cài",d:"variant of 山萮菜[shan1 yu2 cai4]",t:"山嵛菜"}],d=[],i={s:n,sc:c,r:s,c:t,d:o,ux:a,w:p,i:d};export{t as c,o as d,i as default,d as i,s as r,n as s,c as sc,a as ux,p as w};

@@ -1,0 +1,1 @@
+const t=[{p:"tǔ",pp:"tu3",d:"thorium (chemistry)",t:"釷",w:"钍"}],s=8,c="金",o=["土"],n=[],p="",r=[],u=[],d={s:t,sc:s,r:c,c:o,d:n,ux:p,w:r,i:u};export{o as c,n as d,d as default,u as i,c as r,t as s,s as sc,p as ux,r as w};

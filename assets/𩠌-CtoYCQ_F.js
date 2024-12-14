@@ -1,1 +1,0 @@
-const s=[{p:"sòng",pp:"song4",d:"dish of food, usu. to be eaten with rice (Cantonese)",t:"餸",w:"𩠌"}],o=0,t="",c=[],n=[],e="B",d=[],i=[],u={s,sc:o,r:t,c,d:n,ux:e,w:d,i};export{c,n as d,u as default,i,t as r,s,o as sc,e as ux,d as w};

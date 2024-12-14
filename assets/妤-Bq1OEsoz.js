@@ -1,1 +1,0 @@
-const s=[{p:"yú",pp:"yu2",d:"handsome/fair",t:"妤",w:"妤"}],c=7,t="女",o=["女","予"],n=[],d="",a=[],p=[],r={s,sc:c,r:t,c:o,d:n,ux:d,w:a,i:p};export{o as c,n as d,r as default,p as i,t as r,s,c as sc,d as ux,a as w};

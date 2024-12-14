@@ -1,0 +1,1 @@
+const t=[{p:"là",pp:"la4",d:"old variant of 攋[la4]",t:"揦",w:"揦"}],s=12,o="手",c=["扌","剌"],n=[],l="",a=[{w:"揦子",p:"lá zi",d:"(dialect) glass bottle",t:"揦子"}],d=[],p={s:t,sc:s,r:o,c,d:n,ux:l,w:a,i:d};export{c,n as d,p as default,d as i,o as r,t as s,s as sc,l as ux,a as w};

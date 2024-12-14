@@ -1,0 +1,1 @@
+const t=[{p:"jiá",pp:"jia2",d:"variant of 頰|颊[jia2]",t:"頬",w:"頬"}],s=15,c="頁",o=["夹"],n=[],a="",i=[],p=[],d={s:t,sc:s,r:c,c:o,d:n,ux:a,w:i,i:p};export{o as c,n as d,d as default,p as i,c as r,t as s,s as sc,a as ux,i as w};

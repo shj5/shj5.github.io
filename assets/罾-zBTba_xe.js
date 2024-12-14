@@ -1,1 +1,0 @@
-const t=[{p:"zēng",pp:"zeng1",d:"large square net",t:"罾",w:"罾"}],s=17,n="网",c=["罒","曾"],o=[],e="",d=[{w:"扳罾",p:"bān zēng",d:"to lift the fishnet",t:"扳罾"}],p=[],r={s:t,sc:s,r:n,c,d:o,ux:e,w:d,i:p};export{c,o as d,r as default,p as i,n as r,t as s,s as sc,e as ux,d as w};

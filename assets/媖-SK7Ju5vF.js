@@ -1,1 +1,0 @@
-const c=[{p:"yīng",pp:"ying1",d:"(complimentary name for a woman)",t:"媖",w:"媖"}],n=12,s="女",o=["女","英"],t=[],a="",p=[],r=[],d={s:c,sc:n,r:s,c:o,d:t,ux:a,w:p,i:r};export{o as c,t as d,d as default,r as i,s as r,c as s,n as sc,a as ux,p as w};

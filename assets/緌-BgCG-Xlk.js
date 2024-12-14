@@ -1,0 +1,1 @@
+const s=[{p:"ruí",pp:"rui2",d:"strings of cap",t:"緌",w:"緌"}],t=14,c="糸",o=["糸","委"],n=[],p="",r=[],u=[],a={s,sc:t,r:c,c:o,d:n,ux:p,w:r,i:u};export{o as c,n as d,a as default,u as i,c as r,s,t as sc,p as ux,r as w};

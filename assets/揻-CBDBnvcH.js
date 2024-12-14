@@ -1,1 +1,0 @@
-const t=[{p:"wēi",pp:"wei1",d:"(dialect) to bend (a long and thin object)",t:"揻",w:"揻"}],c=12,s="手",n=["扌","威"],o=[],d="",e=[],i=[],a={s:t,sc:c,r:s,c:n,d:o,ux:d,w:e,i};export{n as c,o as d,a as default,i,s as r,t as s,c as sc,d as ux,e as w};

@@ -1,1 +1,0 @@
-const t=[{p:"diān",pp:"dian1",d:"to weigh in the hand/to estimate",t:"掂",w:"掂"}],n=11,i="手",o=["扌","店"],s=[],c="",d=[{w:"掂量",p:"diān liang",d:"to weigh in the hand/to consider; to weigh up/Taiwan pr. [dian1liang2]",t:"掂量"}],a=[],e={s:t,sc:n,r:i,c:o,d:s,ux:c,w:d,i:a};export{o as c,s as d,e as default,a as i,i as r,t as s,n as sc,c as ux,d as w};

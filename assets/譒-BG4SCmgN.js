@@ -1,0 +1,1 @@
+const t=[{p:"bò",pp:"bo4",d:"to promulgate/to spread",t:"譒",w:"譒"}],o=19,s="言",c=["番"],n=[],p="",a=[],d=[],e={s:t,sc:o,r:s,c,d:n,ux:p,w:a,i:d};export{c,n as d,e as default,d as i,s as r,t as s,o as sc,p as ux,a as w};

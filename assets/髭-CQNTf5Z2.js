@@ -1,1 +1,0 @@
-const s=[{p:"zī",pp:"zi1",d:"mustache",t:"髭",w:"髭"}],c=15,t="髟",n=["此","髟"],o=[],d="",a=[{w:"胡髭",p:"hú zī",d:"beard and mustache",t:"鬍髭"}],e=[],p={s,sc:c,r:t,c:n,d:o,ux:d,w:a,i:e};export{n as c,o as d,p as default,e as i,t as r,s,c as sc,d as ux,a as w};

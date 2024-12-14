@@ -1,1 +1,0 @@
-const n=[{p:"kàn",pp:"kan4",d:"dangerous sea-cliff",t:"磡",w:"磡"}],o=16,s="石",c=["石"],t=[],a="",d=[{w:"红磡",p:"Hóng kàn",d:"Hung Hom, a locality in Kowloon, Hong Kong",t:"紅磡"}],g=[],i={s:n,sc:o,r:s,c,d:t,ux:a,w:d,i:g};export{c,t as d,i as default,g as i,s as r,n as s,o as sc,a as ux,d as w};

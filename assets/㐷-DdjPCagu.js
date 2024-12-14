@@ -1,1 +1,0 @@
-const s=[{p:"mà",pp:"ma4",d:"variant of 罵|骂[ma4]",t:"傌",w:"㐷"}],c=0,t="",o=[],n=[],a="A",d=[],p=[],r={s,sc:c,r:t,c:o,d:n,ux:a,w:d,i:p};export{o as c,n as d,r as default,p as i,t as r,s,c as sc,a as ux,d as w};

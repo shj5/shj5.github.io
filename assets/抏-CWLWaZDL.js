@@ -1,0 +1,1 @@
+const t=[{p:"wán",pp:"wan2",d:"to consume/to exhaust/to play",t:"抏",w:"抏"}],o=7,n="手",s=["扌","元"],c=[],a="",w=[{w:"游抏",p:"yóu wán",d:"old variant of 遊玩|游玩[you2wan2]",t:"遊抏"}],p=[],u={s:t,sc:o,r:n,c:s,d:c,ux:a,w,i:p};export{s as c,c as d,u as default,p as i,n as r,t as s,o as sc,a as ux,w};

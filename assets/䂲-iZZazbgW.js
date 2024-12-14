@@ -1,1 +1,0 @@
-const s=[{p:"fǎ",pp:"fa3",d:"variant of 砝[fa3]",t:"䂲",w:"䂲"}],c=0,t="",o=[],n=[],a="A",f=[],d=[],p={s,sc:c,r:t,c:o,d:n,ux:a,w:f,i:d};export{o as c,n as d,p as default,d as i,t as r,s,c as sc,a as ux,f as w};

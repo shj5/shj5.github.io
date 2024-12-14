@@ -1,0 +1,1 @@
+const n=[{p:"wú",pp:"wu2",d:"oh (expression of agreement or surprise)/(Cantonese) not",t:"唔",w:"唔"}],t=10,o="口",s=["口","吾"],e=[],a="",c=[{w:"唔好睇",p:"wú hǎo dì",d:"unattractive (Cantonese)/Mandarin equivalent: 不好看[bu4 hao3 kan4]",t:"唔好睇"}],r=[],p={s:n,sc:t,r:o,c:s,d:e,ux:a,w:c,i:r};export{s as c,e as d,p as default,r as i,o as r,n as s,t as sc,a as ux,c as w};

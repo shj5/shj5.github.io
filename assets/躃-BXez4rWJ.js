@@ -1,1 +1,0 @@
-const s=[{p:"bì",pp:"bi4",d:"variant of 躄[bi4]",t:"躃",w:"躃"}],c=20,t="足",o=["足","辟"],n=[],i="",a=[],d=[],p={s,sc:c,r:t,c:o,d:n,ux:i,w:a,i:d};export{o as c,n as d,p as default,d as i,t as r,s,c as sc,i as ux,a as w};

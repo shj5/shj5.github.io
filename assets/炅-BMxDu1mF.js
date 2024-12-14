@@ -1,0 +1,1 @@
+const n=[{p:"Guì",pp:"Gui4",d:"surname Gui",t:"炅",w:"炅"},{p:"jiǒng",pp:"jiong3",d:"(literary) bright/shining/brilliance",t:"炅",w:"炅"}],t=8,s="火",c=["日","火"],i=[],o="",p=[],r=[],u={s:n,sc:t,r:s,c,d:i,ux:o,w:p,i:r};export{c,i as d,u as default,r as i,s as r,n as s,t as sc,o as ux,p as w};

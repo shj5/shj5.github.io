@@ -1,0 +1,1 @@
+const o=[{p:"chī",pp:"chi1",d:"dragon with horns not yet grown (in myth or heraldry)/variant of 魑[chi1]",t:"螭",w:"螭"}],n=17,s="虫",t=["虫","离"],c=[],r="",a=[{w:"螭首",p:"chī shǒu",d:"hornless dragon head (used as ornamentation, esp. gargoyles)",t:"螭首"}],h=[],e={s:o,sc:n,r:s,c:t,d:c,ux:r,w:a,i:h};export{t as c,c as d,e as default,h as i,s as r,o as s,n as sc,r as ux,a as w};

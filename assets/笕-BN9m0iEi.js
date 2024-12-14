@@ -1,0 +1,1 @@
+const o=[{p:"jiǎn",pp:"jian3",d:"bamboo conduit/water pipe of bamboo",t:"筧",w:"笕"}],t=10,c="竹",n=["见","竹"],s=[],a="",p=[],i=[],b={s:o,sc:t,r:c,c:n,d:s,ux:a,w:p,i};export{n as c,s as d,b as default,i,c as r,o as s,t as sc,a as ux,p as w};

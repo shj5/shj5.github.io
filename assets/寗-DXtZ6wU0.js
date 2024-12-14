@@ -1,1 +1,0 @@
-const n=[{p:"níng",pp:"ning2",d:"old variant of 甯|宁[ning2]",t:"寗",w:"寗"}],s=13,c="宀",t=["冉","宓"],o=[],d="",i=[],a=[],p={s:n,sc:s,r:c,c:t,d:o,ux:d,w:i,i:a};export{t as c,o as d,p as default,a as i,c as r,n as s,s as sc,d as ux,i as w};

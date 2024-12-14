@@ -1,1 +1,0 @@
-const s=[{p:"shē",pp:"she1",d:"used in 猞猁[she1li4]/Taiwan pr. [she4]",t:"猞",w:"猞"}],c=11,t="犬",n=["犭","舍"],o=[],d="",e=[{w:"猞猁",p:"shē lì",d:"lynx",t:"猞猁"}],p=[],h={s,sc:c,r:t,c:n,d:o,ux:d,w:e,i:p};export{n as c,o as d,h as default,p as i,t as r,s,c as sc,d as ux,e as w};

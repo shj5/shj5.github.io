@@ -1,1 +1,0 @@
-const s=[{p:"bí",pp:"bi2",d:"used in 荸薺|荸荠[bi2qi2]",t:"荸",w:"荸"}],c=10,t="艸",n=["艹","孛"],o=[],i="",e=[{w:"荸荠",p:"bí qí",d:"Chinese water chestnut (Eleocharis dulcis)",t:"荸薺"}],d=[],u={s,sc:c,r:t,c:n,d:o,ux:i,w:e,i:d};export{n as c,o as d,u as default,d as i,t as r,s,c as sc,i as ux,e as w};

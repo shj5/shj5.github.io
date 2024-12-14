@@ -1,0 +1,1 @@
+const n=[{p:"yàn",pp:"yan4",d:"(used in place names)",t:"覎",w:"觃"}],s=7,c="見",t=["子","见"],o=[],a="",e=[{w:"觃口",p:"Yàn kǒu",d:"Yankou, village in Zhejiang Province",t:"覎口"}],i=[],p={s:n,sc:s,r:c,c:t,d:o,ux:a,w:e,i};export{t as c,o as d,p as default,i,c as r,n as s,s as sc,a as ux,e as w};

@@ -1,0 +1,1 @@
+const s=[{p:"què",pp:"que4",d:"(of land) barren/stony",t:"埆",w:"埆"}],t=10,n="土",o=["土","角"],c=[],a="",d=[],e=[],p={s,sc:t,r:n,c:o,d:c,ux:a,w:d,i:e};export{o as c,c as d,p as default,e as i,n as r,s,t as sc,a as ux,d as w};

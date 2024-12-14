@@ -1,0 +1,1 @@
+const t=[{p:"léi",pp:"lei2",d:"to beat (old variant of 擂[lei2])",t:"攂",w:"攂"}],o=18,s="手",c=["扌","畾"],n=[],a="",e=[],i=[],l={s:t,sc:o,r:s,c,d:n,ux:a,w:e,i};export{c,n as d,l as default,i,s as r,t as s,o as sc,a as ux,e as w};

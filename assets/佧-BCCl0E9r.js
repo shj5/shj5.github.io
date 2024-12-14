@@ -1,0 +1,1 @@
+const n=[{p:"kǎ",pp:"ka3",d:"ancient name for an ethnic group in China",t:"佧",w:"佧"}],t=7,a="人",o=["亻","卡"],s=[],c="",i=[{w:"佧佤族",p:"Kǎ wǎ zú",d:"Wa, Kawa or Va ethnic group of Myanmar, south China and southeast Asia",t:"佧佤族"}],e=[],p={s:n,sc:t,r:a,c:o,d:s,ux:c,w:i,i:e};export{o as c,s as d,p as default,e as i,a as r,n as s,t as sc,c as ux,i as w};

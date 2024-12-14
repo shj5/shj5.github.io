@@ -1,1 +1,0 @@
-const t=[{p:"shěn",pp:"shen3",d:"(literary) to smile/to sneer",t:"哂",w:"哂"}],s=9,n="口",c=["口","西"],o=[],e="",r=[{w:"哂笑",p:"shěn xiào",d:"(literary) to sneer/to laugh at",t:"哂笑"},{w:"哂纳",p:"shěn nà",d:"(literary) please kindly accept",t:"哂納"}],a=[],i={s:t,sc:s,r:n,c,d:o,ux:e,w:r,i:a};export{c,o as d,i as default,a as i,n as r,t as s,s as sc,e as ux,r as w};

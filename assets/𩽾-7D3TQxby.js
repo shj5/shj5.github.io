@@ -1,0 +1,1 @@
+const n=[{p:"ān",pp:"an1",d:"used in 鮟鱇|𩽾𩾌[an1 kang1]/Taiwan pr. [an4]",t:"鮟",w:"𩽾"}],s=0,t="",c=[],o=[],a="B",p=[{w:"𩽾𩾌",p:"ān kāng",d:"anglerfish",t:"鮟鱇"}],d=[],e={s:n,sc:s,r:t,c,d:o,ux:a,w:p,i:d};export{c,o as d,e as default,d as i,t as r,n as s,s as sc,a as ux,p as w};

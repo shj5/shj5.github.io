@@ -1,0 +1,1 @@
+const t=[{p:"kuí",pp:"kui2",d:"consider/estimate",t:"揆",w:"揆"}],s=12,c="手",n=["扌","癸"],o=[],e="",i=[{w:"阁揆",p:"gé kuí",d:"premier/prime minister",t:"閣揆"}],p=[],r={s:t,sc:s,r:c,c:n,d:o,ux:e,w:i,i:p};export{n as c,o as d,r as default,p as i,c as r,t as s,s as sc,e as ux,i as w};

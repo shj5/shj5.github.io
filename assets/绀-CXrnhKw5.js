@@ -1,0 +1,1 @@
+const o=[{p:"gàn",pp:"gan4",d:"violet or purple",t:"紺",w:"绀"}],n=8,s="糸",t=["纟","甘"],c=[],e="",p=[{w:"发绀",p:"fā gàn",d:"cyanosis (blue skin due to lack of oxygen in blood)",t:"發紺"}],d=[],l={s:o,sc:n,r:s,c:t,d:c,ux:e,w:p,i:d};export{t as c,c as d,l as default,d as i,s as r,o as s,n as sc,e as ux,p as w};

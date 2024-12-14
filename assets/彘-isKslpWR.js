@@ -1,0 +1,1 @@
+const s=[{p:"zhì",pp:"zhi4",d:"swine",t:"彘",w:"彘"}],t=12,o="彐",c=["彑"],n=[],e="",i=[],a=[{w:"杀彘教子",p:"shā zhì jiào zǐ",d:"to kill a pig as a lesson to the children (idiom); parents must teach by example",t:"殺彘教子"}],p={s,sc:t,r:o,c,d:n,ux:e,w:i,i:a};export{c,n as d,p as default,a as i,o as r,s,t as sc,e as ux,i as w};

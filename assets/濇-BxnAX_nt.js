@@ -1,0 +1,1 @@
+const s=[{p:"sè",pp:"se4",d:"grating (of surfaces)",t:"濇",w:"濇"}],t=16,c="水",o=["氵"],n=[],a="",e=[],p=[],r={s,sc:t,r:c,c:o,d:n,ux:a,w:e,i:p};export{o as c,n as d,r as default,p as i,c as r,s,t as sc,a as ux,e as w};

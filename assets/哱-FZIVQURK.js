@@ -1,0 +1,1 @@
+const o=[{p:"bō",pp:"bo1",d:"used in 呼哱哱[hu1 bo1 bo1]",t:"哱",w:"哱"}],s=10,t="口",c=["口","孛"],n=[],b="",p=[{w:"呼哱哱",p:"hū bō bō",d:"(coll.) hoopoe",t:"呼哱哱"}],d=[],e={s:o,sc:s,r:t,c,d:n,ux:b,w:p,i:d};export{c,n as d,e as default,d as i,t as r,o as s,s as sc,b as ux,p as w};

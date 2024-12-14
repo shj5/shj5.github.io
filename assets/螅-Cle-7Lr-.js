@@ -1,0 +1,1 @@
+const s=[{p:"xī",pp:"xi1",d:"used in 水螅[shui3xi1]",t:"螅",w:"螅"}],t=16,o="虫",n=["虫","息"],c=[],e="",p=[{w:"水螅",p:"shuǐ xī",d:"Hydra (freshwater polyp)",t:"水螅"},{w:"水螅体",p:"shuǐ xī tǐ",d:"sessile polyp/sea anemone",t:"水螅體"}],d=[],x={s,sc:t,r:o,c:n,d:c,ux:e,w:p,i:d};export{n as c,c as d,x as default,d as i,o as r,s,t as sc,e as ux,p as w};

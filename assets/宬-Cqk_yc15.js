@@ -1,0 +1,1 @@
+const n=[{p:"chéng",pp:"cheng2",d:"(literary) archive room; library (esp. in the imperial palace in the Ming and Qing dynasties)",t:"宬",w:"宬"}],t=10,c="宀",s=["宀","成"],o=[],e="",i=[],a=[],r={s:n,sc:t,r:c,c:s,d:o,ux:e,w:i,i:a};export{s as c,o as d,r as default,a as i,c as r,n as s,t as sc,e as ux,i as w};

@@ -1,1 +1,0 @@
-const t=[{p:"quán",pp:"quan2",d:"bamboo fish trap",t:"筌",w:"筌"}],n=12,o="竹",s=["竹","全"],c=[],a="",i=[],r=[{w:"得鱼忘筌",p:"dé yú wàng quán",d:"lit. catch fish then forget the trap (idiom, from Zhuangzi 莊子|庄子[Zhuang1 zi3]); fig. to take help for granted",t:"得魚忘筌"}],d={s:t,sc:n,r:o,c:s,d:c,ux:a,w:i,i:r};export{s as c,c as d,d as default,r as i,o as r,t as s,n as sc,a as ux,i as w};

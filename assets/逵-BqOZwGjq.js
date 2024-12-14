@@ -1,0 +1,1 @@
+const t=[{p:"kuí",pp:"kui2",d:"crossroads/thoroughfare",t:"逵",w:"逵"}],o=12,s="辵",c=["辶","坴"],n=[],u="",a=[{w:"李逵",p:"Lǐ Kuí",d:"Li Kui, character in the novel Water Margin 水滸全傳|水浒全传[Shui3 hu3 quan2 zhuan4]",t:"李逵"}],r=[],e={s:t,sc:o,r:s,c,d:n,ux:u,w:a,i:r};export{c,n as d,e as default,r as i,s as r,t as s,o as sc,u as ux,a as w};

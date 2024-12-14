@@ -1,1 +1,0 @@
-const t=[{p:"dān",pp:"dan1",d:"garment without a lining",t:"襌",w:"襌"}],n=18,s="衣",c=["衤"],o=[],d="",a=[],i=[],p={s:t,sc:n,r:s,c,d:o,ux:d,w:a,i};export{c,o as d,p as default,i,s as r,t as s,n as sc,d as ux,a as w};

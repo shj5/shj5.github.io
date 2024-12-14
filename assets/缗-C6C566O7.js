@@ -1,1 +1,0 @@
-const s=[{p:"mín",pp:"min2",d:"cord/fishing-line/string of coins",t:"緡",w:"缗"}],c=12,n="糸",o=["纟"],t=[],i="",d=[],r=[],p={s,sc:c,r:n,c:o,d:t,ux:i,w:d,i:r};export{o as c,t as d,p as default,r as i,n as r,s,c as sc,i as ux,d as w};

@@ -1,0 +1,1 @@
+const t=[{p:"kǎi",pp:"kai3",d:"armor",t:"鎧",w:"铠"}],o=11,s="金",c=["岂"],n=[],r="",i=[{w:"甲铠",p:"jiǎ kǎi",d:"armor",t:"甲鎧"},{w:"铠甲",p:"kǎi jiǎ",d:"armor",t:"鎧甲"}],a=[],p={s:t,sc:o,r:s,c,d:n,ux:r,w:i,i:a};export{c,n as d,p as default,a as i,s as r,t as s,o as sc,r as ux,i as w};

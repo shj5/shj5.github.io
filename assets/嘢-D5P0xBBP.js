@@ -1,0 +1,1 @@
+const t=[{p:"yě",pp:"ye3",d:"(Cantonese) thing/matter/stuff",t:"嘢",w:"嘢"}],n=14,s="口",e=["口","野"],o=[],c="",a=[{w:"乜嘢",p:"miē yě",d:"what? (Cantonese) (Mandarin equivalent: 什麼|什么[shen2 me5])",t:"乜嘢"}],d=[],i={s:t,sc:n,r:s,c:e,d:o,ux:c,w:a,i:d};export{e as c,o as d,i as default,d as i,s as r,t as s,n as sc,c as ux,a as w};

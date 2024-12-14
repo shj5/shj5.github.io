@@ -1,0 +1,1 @@
+const n=[{p:"hóng",pp:"hong2",d:"(a kind of jade)/Taiwan pr. [gong1]",t:"玒",w:"玒"}],o=7,s="玉",t=["工","王"],c=[],a="",d=[],p=[],g={s:n,sc:o,r:s,c:t,d:c,ux:a,w:d,i:p};export{t as c,c as d,g as default,p as i,s as r,n as s,o as sc,a as ux,d as w};

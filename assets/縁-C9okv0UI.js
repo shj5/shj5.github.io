@@ -1,0 +1,1 @@
+const n=[{p:"yuán",pp:"yuan2",d:"Japanese variant of 緣|缘",t:"縁",w:"縁"}],s=15,t="糸",c=["糸"],o=[],a="",p=[],e=[],u={s:n,sc:s,r:t,c,d:o,ux:a,w:p,i:e};export{c,o as d,u as default,e as i,t as r,n as s,s as sc,a as ux,p as w};

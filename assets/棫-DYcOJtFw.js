@@ -1,0 +1,1 @@
+const s=[{p:"yù",pp:"yu4",d:"(oak)/thorny shrub",t:"棫",w:"棫"}],t=12,o="木",c=["木","或"],n=[],p="",r=[],u=[],a={s,sc:t,r:o,c,d:n,ux:p,w:r,i:u};export{c,n as d,a as default,u as i,o as r,s,t as sc,p as ux,r as w};

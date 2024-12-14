@@ -1,1 +1,0 @@
-const t=[{p:"xiá",pp:"xia2",d:"(phonetic)/crafty",t:"黠",w:"黠"}],c=18,s="黑",n=["吉","黑"],o=[],i="",p=[{w:"慧黠",p:"huì xiá",d:"intelligent/bright/sharp",t:"慧黠"},{w:"狡黠",p:"jiǎo xiá",d:"crafty/astute",t:"狡黠"}],a=[],r={s:t,sc:c,r:s,c:n,d:o,ux:i,w:p,i:a};export{n as c,o as d,r as default,a as i,s as r,t as s,c as sc,i as ux,p as w};

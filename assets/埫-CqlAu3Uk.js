@@ -1,0 +1,1 @@
+const n=[{p:"shǎng",pp:"shang3",d:"variant of 垧[shang3]/Taiwan pr. [chong3]",t:"埫",w:"埫"},{p:"tǎng",pp:"tang3",d:"flat land/(used in place names)",t:"埫",w:"埫"}],s=11,t="土",a=["土","尚"],c=[],o="",p=[],d=[],g={s:n,sc:s,r:t,c:a,d:c,ux:o,w:p,i:d};export{a as c,c as d,g as default,d as i,t as r,n as s,s as sc,o as ux,p as w};

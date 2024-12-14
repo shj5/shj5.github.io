@@ -1,0 +1,1 @@
+const s=[{p:"hè",pp:"he4",d:"glistening plumage of birds",t:"翯",w:"翯"}],t=16,c="羽",n=["羽","高"],o=[],e="",p=[],d=[],i={s,sc:t,r:c,c:n,d:o,ux:e,w:p,i:d};export{n as c,o as d,i as default,d as i,c as r,s,t as sc,e as ux,p as w};

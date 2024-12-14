@@ -1,1 +1,0 @@
-const c=[{p:"zè",pp:"ze4",d:"afternoon/decline",t:"昃",w:"昃"}],s=8,t="日",n=["日","仄"],o=[],e="",d=[],p=[],r={s:c,sc:s,r:t,c:n,d:o,ux:e,w:d,i:p};export{n as c,o as d,r as default,p as i,t as r,c as s,s as sc,e as ux,d as w};

@@ -1,1 +1,0 @@
-const s=[{p:"fóu",pp:"fou2",d:"bright/glossy (of silk)",t:"紑",w:"紑"}],c=10,o="糸",t=["不","糸"],n=[],u="",d=[],f=[],i={s,sc:c,r:o,c:t,d:n,ux:u,w:d,i:f};export{t as c,n as d,i as default,f as i,o as r,s,c as sc,u as ux,d as w};

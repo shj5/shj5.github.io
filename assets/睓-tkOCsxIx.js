@@ -1,0 +1,1 @@
+const t=[{p:"tiǎn",pp:"tian3",d:"variant of 㥏[tian3]",t:"睓",w:"睓"}],n=13,s="目",c=["目","典"],o=[],a="",i=[],p=[],d={s:t,sc:n,r:s,c,d:o,ux:a,w:i,i:p};export{c,o as d,d as default,p as i,s as r,t as s,n as sc,a as ux,i as w};

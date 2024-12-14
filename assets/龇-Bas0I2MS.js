@@ -1,0 +1,1 @@
+const t=[{p:"zī",pp:"zi1",d:"projecting teeth/to bare one's teeth",t:"齜",w:"龇"}],o=14,s="齒",n=["此","齿"],e=[],c="",a=[],i=[{w:"龇牙咧嘴",p:"zī yá liě zuǐ",d:"to grimace (in pain)/to show one's teeth/to bare one's fangs",t:"齜牙咧嘴"}],p={s:t,sc:o,r:s,c:n,d:e,ux:c,w:a,i};export{n as c,e as d,p as default,i,s as r,t as s,o as sc,c as ux,a as w};

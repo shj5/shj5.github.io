@@ -1,0 +1,1 @@
+const t=[{p:"zhuó",pp:"zhuo2",d:"small pillars that support the roof, those which rest on the main beam",t:"棳",w:"棳"}],s=12,o="木",c=["木","叕"],n=[],h="",a=[],e=[],p={s:t,sc:s,r:o,c,d:n,ux:h,w:a,i:e};export{c,n as d,p as default,e as i,o as r,t as s,s as sc,h as ux,a as w};

@@ -1,0 +1,1 @@
+const s=[{p:"shuā",pp:"shua1",d:"(onom.) swishing/rustling",t:"唰",w:"唰"}],t=11,n="口",o=["口","刷"],c=[],u="",i=[],p=[],a={s,sc:t,r:n,c:o,d:c,ux:u,w:i,i:p};export{o as c,c as d,a as default,p as i,n as r,s,t as sc,u as ux,i as w};

@@ -1,0 +1,1 @@
+const o=[{p:"dāi",pp:"dai1",d:"variant of 呆[dai1]/foolish/also pr. [ai2]",t:"獃",w:"獃"}],s=13,t="犬",c=["犬"],n=[],a="",i=[],d=[],p={s:o,sc:s,r:t,c,d:n,ux:a,w:i,i:d};export{c,n as d,p as default,d as i,t as r,o as s,s as sc,a as ux,i as w};

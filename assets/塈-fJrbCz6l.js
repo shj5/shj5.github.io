@@ -1,0 +1,1 @@
+const t=[{p:"jì",pp:"ji4",d:"(literary) to plaster/(literary) to pick up/(literary) to rest",t:"塈",w:"塈"}],s=12,o="土",c=["土","既"],r=[],n="",e=[],p=[],a={s:t,sc:s,r:o,c,d:r,ux:n,w:e,i:p};export{c,r as d,a as default,p as i,o as r,t as s,s as sc,n as ux,e as w};

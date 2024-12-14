@@ -1,0 +1,1 @@
+const c=[{p:"qiáng",pp:"qiang2",d:'"piece of wood" radical in Chinese characters (Kangxi radical 90), mirror image of 片[pian4]',t:"爿",w:"丬"}],n=3,o="丨",s=["丨","冫"],t=["壮","妆","状","将"],a="",i=[],r=[],e={s:c,sc:n,r:o,c:s,d:t,ux:a,w:i,i:r};export{s as c,t as d,e as default,r as i,o as r,c as s,n as sc,a as ux,i as w};

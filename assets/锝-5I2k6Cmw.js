@@ -1,0 +1,1 @@
+const t=[{p:"dé",pp:"de2",d:"technetium (chemistry)",t:"鍀",w:"锝"}],c=13,s="金",n=[],o=[],e="",d=[],p=[],i={s:t,sc:c,r:s,c:n,d:o,ux:e,w:d,i:p};export{n as c,o as d,i as default,p as i,s as r,t as s,c as sc,e as ux,d as w};

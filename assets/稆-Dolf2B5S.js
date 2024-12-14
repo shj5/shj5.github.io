@@ -1,1 +1,0 @@
-const s=[{p:"lǚ",pp:"lu:3",d:"variant of 穭|穞[lu:3]",t:"稆",w:"稆"}],c=11,t="禾",o=["禾","吕"],n=[],u="",a=[],d=[],l={s,sc:c,r:t,c:o,d:n,ux:u,w:a,i:d};export{o as c,n as d,l as default,d as i,t as r,s,c as sc,u as ux,a as w};

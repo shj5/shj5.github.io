@@ -1,0 +1,1 @@
+const t=[{p:"jì",pp:"ji4",d:"used in 齌怒[ji4 nu4]",t:"齌",w:"齌"}],n=18,s="齊",c=["火"],o=[],e="",d=[{w:"齌怒",p:"jì nù",d:"to suddenly become extremely angry",t:"齌怒"}],p=[],u={s:t,sc:n,r:s,c,d:o,ux:e,w:d,i:p};export{c,o as d,u as default,p as i,s as r,t as s,n as sc,e as ux,d as w};

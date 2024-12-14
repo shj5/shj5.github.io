@@ -1,0 +1,1 @@
+const s=[{p:"bì",pp:"bi4",d:"bismuth (chemistry)",t:"鉍",w:"铋"}],t=10,c="金",o=["必"],n=[],i="",p=[],b=[],d={s,sc:t,r:c,c:o,d:n,ux:i,w:p,i:b};export{o as c,n as d,d as default,b as i,c as r,s,t as sc,i as ux,p as w};

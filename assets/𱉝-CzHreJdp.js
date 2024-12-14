@@ -1,0 +1,1 @@
+const c=[{p:"bī",pp:"bi1",d:"used in 鵖鴔|𱉝𫛡[bi1fu2]",t:"鵖",w:"𱉝"}],o=0,s="",t=[],n=[],p="G",d=[{w:"𱉝𫛡",p:"bī fú",d:"(archaic) hoopoe",t:"鵖鴔"}],i=[],a={s:c,sc:o,r:s,c:t,d:n,ux:p,w:d,i};export{t as c,n as d,a as default,i,s as r,c as s,o as sc,p as ux,d as w};

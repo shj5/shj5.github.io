@@ -1,0 +1,1 @@
+const n=[{p:"lín",pp:"lin2",d:"hernia/urinary hesitancy/erroneous variant of 痲[ma2]",t:"痳",w:"痳"}],s=13,t="疒",o=["疒","林"],c=[],a="",r=[],e=[],i={s:n,sc:s,r:t,c:o,d:c,ux:a,w:r,i:e};export{o as c,c as d,i as default,e as i,t as r,n as s,s as sc,a as ux,r as w};

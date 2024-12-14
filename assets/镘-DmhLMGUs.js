@@ -1,0 +1,1 @@
+const o=[{p:"màn",pp:"man4",d:"side of coin without words/trowel",t:"鏝",w:"镘"}],t=16,s="金",c=["曼"],n=[],d="",w=[],e=[],i={s:o,sc:t,r:s,c,d:n,ux:d,w,i:e};export{c,n as d,i as default,e as i,s as r,o as s,t as sc,d as ux,w};

@@ -1,0 +1,1 @@
+const s=[{p:"qiú",pp:"qiu2",d:"hydrosulfuryl",t:"巰",w:"巯"}],t=12,c="工",o=[],n=[],u="",d=[],p=[],r={s,sc:t,r:c,c:o,d:n,ux:u,w:d,i:p};export{o as c,n as d,r as default,p as i,c as r,s,t as sc,u as ux,d as w};

@@ -1,1 +1,0 @@
-const s=[{p:"máo",pp:"mao2",d:"yak (Bos grunniens)",t:"氂",w:"牦"}],n=8,o="牛",c=["毛"],t=[],a="",d=[{w:"牦牛",p:"máo niú",d:"yak (Bos grunniens)",t:"氂牛"}],i=[],p={s,sc:n,r:o,c,d:t,ux:a,w:d,i};export{c,t as d,p as default,i,o as r,s,n as sc,a as ux,d as w};

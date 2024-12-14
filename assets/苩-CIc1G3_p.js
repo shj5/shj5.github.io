@@ -1,1 +1,0 @@
-const s=[{p:"pā",pp:"pa1",d:"old variant of 葩[pa1]",t:"苩",w:"苩"}],c=8,t="艸",o=["艹","白"],n=[],p="",a=[],d=[],r={s,sc:c,r:t,c:o,d:n,ux:p,w:a,i:d};export{o as c,n as d,r as default,d as i,t as r,s,c as sc,p as ux,a as w};

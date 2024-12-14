@@ -1,0 +1,1 @@
+const t=[{p:"jué",pp:"jue2",d:"used in 駃騠|𫘝𫘨[jue2ti2]",t:"駃",w:"𫘝"},{p:"kuài",pp:"kuai4",d:"(literary) fast horse/(literary) fast (variant of 快[kuai4])",t:"駃",w:"𫘝"}],s=0,n="",o=[],c=[],a="C",i=[{w:"𫘝𫘨",p:"jué tí",d:"hinny",t:"駃騠"}],u=[],e={s:t,sc:s,r:n,c:o,d:c,ux:a,w:i,i:u};export{o as c,c as d,e as default,u as i,n as r,t as s,s as sc,a as ux,i as w};

@@ -1,0 +1,1 @@
+const t=[{p:"tí",pp:"ti2",d:"used as phonetic/female name",t:"媞",w:"媞"}],s=12,c="女",n=["女","是"],o=[],e="",a=[],p=[],d={s:t,sc:s,r:c,c:n,d:o,ux:e,w:a,i:p};export{n as c,o as d,d as default,p as i,c as r,t as s,s as sc,e as ux,a as w};

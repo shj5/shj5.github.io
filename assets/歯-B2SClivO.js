@@ -1,1 +1,0 @@
-const c=[{p:"chǐ",pp:"chi3",d:"Japanese variant of 齒|齿",t:"歯",w:"歯"}],s=12,t="止",n=["止"],o=["噛"],a="",p=[],d=[],e={s:c,sc:s,r:t,c:n,d:o,ux:a,w:p,i:d};export{n as c,o as d,e as default,d as i,t as r,c as s,s as sc,a as ux,p as w};

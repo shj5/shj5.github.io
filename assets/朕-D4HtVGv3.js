@@ -1,0 +1,1 @@
+const n=[{p:"zhèn",pp:"zhen4",d:'(used by an emperor or king) I; me; we (royal "we")/(literary) omen',t:"朕",w:"朕"}],t=10,o="月",s=["月","关"],e=[],c="",a=[{w:"朕兆",p:"zhèn zhào",d:"omen/sign (that sth is about to happen)/warning sign",t:"朕兆"}],r=[],p={s:n,sc:t,r:o,c:s,d:e,ux:c,w:a,i:r};export{s as c,e as d,p as default,r as i,o as r,n as s,t as sc,c as ux,a as w};

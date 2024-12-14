@@ -1,1 +1,0 @@
-const t=[{p:"lìn",pp:"lin4",d:"used in 蹂躪|蹂躏[rou2lin4]",t:"躪",w:"躏"}],o=21,s="足",n=["足","蔺"],c=[],a="",e=[{w:"蹂躏",p:"róu lìn",d:"to ravage/to devastate/to trample on/to violate",t:"蹂躪"}],d=[],l={s:t,sc:o,r:s,c:n,d:c,ux:a,w:e,i:d};export{n as c,c as d,l as default,d as i,s as r,t as s,o as sc,a as ux,e as w};

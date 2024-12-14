@@ -1,0 +1,1 @@
+const t=[{p:"xī",pp:"xi1",d:"used in 舾裝|舾装[xi1 zhuang1]",t:"舾",w:"舾"}],s=12,n="舟",o=["舟","西"],c=[],i="",p=[{w:"舾装",p:"xī zhuāng",d:"ship equipment/to outfit a ship",t:"舾裝"}],u=[],x={s:t,sc:s,r:n,c:o,d:c,ux:i,w:p,i:u};export{o as c,c as d,x as default,u as i,n as r,t as s,s as sc,i as ux,p as w};

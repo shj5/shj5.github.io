@@ -1,0 +1,1 @@
+const s=[{p:"lì",pp:"li4",d:"used in 瘰癧|瘰疬[luo3li4]",t:"癧",w:"疬"}],c=9,n="疒",t=["历","疒"],o=[],i="",l=[{w:"瘰疬",p:"luǒ lì",d:"scrofula (in Chinese medicine)",t:"瘰癧"}],e=[],d={s,sc:c,r:n,c:t,d:o,ux:i,w:l,i:e};export{t as c,o as d,d as default,e as i,n as r,s,c as sc,i as ux,l as w};

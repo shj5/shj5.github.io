@@ -1,0 +1,1 @@
+const t=[{p:"chǎn",pp:"chan3",d:"(literary) to ride a horse without a saddle",t:"驏",w:"骣"}],c=15,o="馬",s=["马","孱"],n=[],a="",d=[{w:"骣骑",p:"chǎn qí",d:"to ride bareback",t:"驏騎"}],e=[],r={s:t,sc:c,r:o,c:s,d:n,ux:a,w:d,i:e};export{s as c,n as d,r as default,e as i,o as r,t as s,c as sc,a as ux,d as w};

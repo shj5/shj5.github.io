@@ -1,1 +1,0 @@
-const s=[{p:"fú",pp:"fu2",d:"(water-beetle)/money",t:"蚨",w:"蚨"}],t=10,c="虫",o=["夫","虫"],n=[],e="",d=[],p=[],r={s,sc:t,r:c,c:o,d:n,ux:e,w:d,i:p};export{o as c,n as d,r as default,p as i,c as r,s,t as sc,e as ux,d as w};

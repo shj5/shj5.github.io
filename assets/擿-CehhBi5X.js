@@ -1,0 +1,1 @@
+const t=[{p:"tī",pp:"ti1",d:"to select/to nitpick/to expose",t:"擿",w:"擿"},{p:"zhì",pp:"zhi4",d:"to scratch/old variant of 擲|掷[zhi4]",t:"擿",w:"擿"}],o=18,c="手",s=["扌"],n=[],p="",i=[],e=[],a={s:t,sc:o,r:c,c:s,d:n,ux:p,w:i,i:e};export{s as c,n as d,a as default,e as i,c as r,t as s,o as sc,p as ux,i as w};

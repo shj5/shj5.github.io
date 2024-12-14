@@ -1,1 +1,0 @@
-const t=[{p:"hén",pp:"hen2",d:"to pull/to drag/to stop",t:"拫",w:"拫"}],s=9,o="手",c=["扌","艮"],n=[],p="",d=[],r=[],u={s:t,sc:s,r:o,c,d:n,ux:p,w:d,i:r};export{c,n as d,u as default,r as i,o as r,t as s,s as sc,p as ux,d as w};

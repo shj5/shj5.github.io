@@ -1,1 +1,0 @@
-const s=[{p:"hōng",pp:"hong1",d:"death of a prince/swarming",t:"薨",w:"薨"}],c=18,n="艸",t=["艹"],o=[],a="",d=[],p=[],r={s,sc:c,r:n,c:t,d:o,ux:a,w:d,i:p};export{t as c,o as d,r as default,p as i,n as r,s,c as sc,a as ux,d as w};

@@ -1,0 +1,1 @@
+const t=[{p:"mǔ",pp:"mu3",d:"(bound form) big toe",t:"𧿹",w:"𧿹"}],o=0,n="",s=[],c=[],a="B",i=[{w:"𧿹外翻",p:"mǔ wài fān",d:"variant of 拇外翻[mu3wai4fan1]",t:"𧿹外翻"},{w:"𧿹趾",p:"mǔ zhǐ",d:"variant of 拇趾[mu3zhi3]",t:"𧿹趾"}],m=[],d={s:t,sc:o,r:n,c:s,d:c,ux:a,w:i,i:m};export{s as c,c as d,d as default,m as i,n as r,t as s,o as sc,a as ux,i as w};

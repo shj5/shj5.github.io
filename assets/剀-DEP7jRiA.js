@@ -1,1 +1,0 @@
-const t=[{p:"kǎi",pp:"kai3",d:"used in 剴切|剀切[kai3 qie4]",t:"剴",w:"剀"}],s=8,c="刀",n=["刂","岂"],o=[],i="",e=[{w:"剀切",p:"kǎi qiè",d:"cogent; to the point/earnest; conscientious",t:"剴切"}],d=[],p={s:t,sc:s,r:c,c:n,d:o,ux:i,w:e,i:d};export{n as c,o as d,p as default,d as i,c as r,t as s,s as sc,i as ux,e as w};

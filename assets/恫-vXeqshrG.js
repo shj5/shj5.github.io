@@ -1,0 +1,1 @@
+const t=[{p:"dòng",pp:"dong4",d:"frighten",t:"恫",w:"恫"}],n=9,o="心",s=["忄","同"],c=[],d="",e=[{w:"恫吓",p:"dòng hè",d:"to intimidate/to threaten",t:"恫嚇"}],i=[],p={s:t,sc:n,r:o,c:s,d:c,ux:d,w:e,i};export{s as c,c as d,p as default,i,o as r,t as s,n as sc,d as ux,e as w};

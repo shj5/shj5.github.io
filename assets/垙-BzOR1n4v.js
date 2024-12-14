@@ -1,0 +1,1 @@
+const s=[{p:"guāng",pp:"guang1",d:"(literary) footpath separating fields/(used in place names)",t:"垙",w:"垙"}],t=9,n="土",c=["土","光"],o=[],a="",e=[],p=[],d={s,sc:t,r:n,c,d:o,ux:a,w:e,i:p};export{c,o as d,d as default,p as i,n as r,s,t as sc,a as ux,e as w};

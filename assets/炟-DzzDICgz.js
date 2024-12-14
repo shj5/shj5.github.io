@@ -1,0 +1,1 @@
+const t=[{p:"dá",pp:"da2",d:"(used in transliterating foreign words)/(used in names)/(archaic) to explode/to catch fire",t:"炟",w:"炟"}],s=9,c="火",n=["火","旦"],o=[],e="",a=[],d=[],i={s:t,sc:s,r:c,c:n,d:o,ux:e,w:a,i:d};export{n as c,o as d,i as default,d as i,c as r,t as s,s as sc,e as ux,a as w};

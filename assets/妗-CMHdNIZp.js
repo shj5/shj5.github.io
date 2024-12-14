@@ -1,0 +1,1 @@
+const t=[{p:"jìn",pp:"jin4",d:"wife of mother's brother",t:"妗",w:"妗"}],o=7,s="女",n=["女","今"],c=[],e="",r=[{w:"妗子",p:"jìn zi",d:"(informal) mother's brother's wife/maternal uncle's wife",t:"妗子"}],i=[],f={s:t,sc:o,r:s,c:n,d:c,ux:e,w:r,i};export{n as c,c as d,f as default,i,s as r,t as s,o as sc,e as ux,r as w};

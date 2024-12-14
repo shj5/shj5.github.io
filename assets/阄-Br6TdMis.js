@@ -1,0 +1,1 @@
+const t=[{p:"jiū",pp:"jiu1",d:"lots (to be drawn)/lot (in a game of chance)",t:"鬮",w:"阄"}],o=10,s="門",c=["门","龟"],n=[],a="",d=[{w:"抓阄",p:"zhuā jiū",d:"to draw straws",t:"抓鬮"}],w=[],e={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i:w};export{c,n as d,e as default,w as i,s as r,t as s,o as sc,a as ux,d as w};

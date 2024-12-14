@@ -1,0 +1,1 @@
+const s=[{p:"tiáo",pp:"tiao2",d:"Korean sharpbelly (fish, Hemiculter leucisculus)/chub",t:"鰷",w:"鲦"}],c=15,t="魚",o=["条","鱼"],n=[],e="",u=[],i=[],l={s,sc:c,r:t,c:o,d:n,ux:e,w:u,i};export{o as c,n as d,l as default,i,t as r,s,c as sc,e as ux,u as w};

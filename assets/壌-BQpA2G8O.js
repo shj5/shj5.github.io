@@ -1,0 +1,1 @@
+const n=[{p:"rǎng",pp:"rang3",d:"Japanese variant of 壤[rang3]",t:"壌",w:"壌"}],s=16,t="土",c=["土"],o=[],a="",r=[],p=[],e={s:n,sc:s,r:t,c,d:o,ux:a,w:r,i:p};export{c,o as d,e as default,p as i,t as r,n as s,s as sc,a as ux,r as w};

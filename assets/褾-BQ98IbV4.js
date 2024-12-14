@@ -1,0 +1,1 @@
+const o=[{p:"biǎo",pp:"biao3",d:"cuff/border or edge (of clothing)/old variant of 裱[biao3]",t:"褾",w:"褾"}],t=17,c="衣",s=["衤","票"],n=[],a="",d=[],i=[],r={s:o,sc:t,r:c,c:s,d:n,ux:a,w:d,i};export{s as c,n as d,r as default,i,c as r,o as s,t as sc,a as ux,d as w};

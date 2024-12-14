@@ -1,0 +1,1 @@
+const s=[{p:"gě",pp:"ge3",d:"barge",t:"舸",w:"舸"}],t=11,c="舟",o=["可","舟"],n=[],e="",p=[],a=[],d={s,sc:t,r:c,c:o,d:n,ux:e,w:p,i:a};export{o as c,n as d,d as default,a as i,c as r,s,t as sc,e as ux,p as w};

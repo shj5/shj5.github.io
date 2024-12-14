@@ -1,0 +1,1 @@
+const t=[{p:"yì",pp:"yi4",d:"bright/tomorrow",t:"翌",w:"翌"}],o=11,n="羽",s=["立","羽"],c=["熤"],e="",r=[{w:"翌年",p:"yì nián",d:"the following year/the next year",t:"翌年"},{w:"翌日",p:"yì rì",d:"next day",t:"翌日"}],y=[],d={s:t,sc:o,r:n,c:s,d:c,ux:e,w:r,i:y};export{s as c,c as d,d as default,y as i,n as r,t as s,o as sc,e as ux,r as w};

@@ -1,0 +1,1 @@
+const t=[{p:"jué",pp:"jue2",d:"rafter/malus toringo",t:"桷",w:"桷"}],n=11,s="木",c=["木","角"],o=[],a="",u=[{w:"袁桷",p:"Yuán Jué",d:"Yuan Jue (1267-1327), Yuan dynasty writer and calligrapher",t:"袁桷"}],r=[],e={s:t,sc:n,r:s,c,d:o,ux:a,w:u,i:r};export{c,o as d,e as default,r as i,s as r,t as s,n as sc,a as ux,u as w};

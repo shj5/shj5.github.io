@@ -1,0 +1,1 @@
+const o=[{p:"zhǐ",pp:"zhi3",d:"end of axle outside of hub",t:"軹",w:"轵"}],s=9,t="車",c=["车","只"],n=[],d="",e=[],p=[],u={s:o,sc:s,r:t,c,d:n,ux:d,w:e,i:p};export{c,n as d,u as default,p as i,t as r,o as s,s as sc,d as ux,e as w};

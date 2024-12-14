@@ -1,1 +1,0 @@
-const o=[{p:"jué",pp:"jue2",d:"tailorbird (Orthotomus spp.)/weaver bird (family Ploceidae)/variant of 鴃[jue2], shrike/cuckoo",t:"鴂",w:"鴂"}],s=15,c="鳥",t=["夬"],r=[],u="",e=[{w:"鶗鴂",p:"tí jué",d:"large hawk-cuckoo (Cuculus sparverioides)",t:"鶗鴂"}],a=[],i={s:o,sc:s,r:c,c:t,d:r,ux:u,w:e,i:a};export{t as c,r as d,i as default,a as i,c as r,o as s,s as sc,u as ux,e as w};

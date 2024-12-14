@@ -1,0 +1,1 @@
+const t=[{p:"jī",pp:"ji1",d:"used in 剞劂[ji1 jue2]",t:"剞",w:"剞"}],o=10,c="刀",s=["刂","奇"],n=[],r="",a=[{w:"剞劂",p:"jī jué",d:"(literary) a knife used for carving; a graver/(literary) to cut blocks; to block-print (a book)",t:"剞劂"}],e=[],i={s:t,sc:o,r:c,c:s,d:n,ux:r,w:a,i:e};export{s as c,n as d,i as default,e as i,c as r,t as s,o as sc,r as ux,a as w};

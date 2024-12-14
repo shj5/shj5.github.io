@@ -1,0 +1,1 @@
+const o=[{p:"rú",pp:"ru2",d:"variant of 茹[ru2]/see 蕠藘[ru2 lu:2]",t:"蕠",w:"蕠"}],s=15,t="艸",r=["艹","絮"],a=[],c="",n=[{w:"蕠藘",p:"rú lǘ",d:"variant of 茹藘, Rubia cordifolia or Rubia akane, roots used as red dye",t:"蕠藘"}],u=[],d={s:o,sc:s,r:t,c:r,d:a,ux:c,w:n,i:u};export{r as c,a as d,d as default,u as i,t as r,o as s,s as sc,c as ux,n as w};

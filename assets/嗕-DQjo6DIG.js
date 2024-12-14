@@ -1,1 +1,0 @@
-const t=[{p:"Rù",pp:"Ru4",d:"ancient tribe of northern China",t:"嗕",w:"嗕"}],c=13,n="口",s=["口","辱"],o=[],r="",e=[],i=[],a={s:t,sc:c,r:n,c:s,d:o,ux:r,w:e,i};export{s as c,o as d,a as default,i,n as r,t as s,c as sc,r as ux,e as w};

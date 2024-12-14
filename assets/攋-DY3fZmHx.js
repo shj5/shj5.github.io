@@ -1,1 +1,0 @@
-const t=[{p:"là",pp:"la4",d:"to destroy/to rip/to tear open",t:"攋",w:"攋"}],o=19,s="手",c=["扌"],n=[],p="",r=[],d=[],e={s:t,sc:o,r:s,c,d:n,ux:p,w:r,i:d};export{c,n as d,e as default,d as i,s as r,t as s,o as sc,p as ux,r as w};

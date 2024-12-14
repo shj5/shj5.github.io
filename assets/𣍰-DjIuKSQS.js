@@ -1,0 +1,1 @@
+const c=[{p:"qiǎn",pp:"qian3",d:"pelvic cavity/lower abdomen",t:"脥",w:"𣍰"}],t=0,n="",o=[],s=[],a="B",e=[],i=[],p={s:c,sc:t,r:n,c:o,d:s,ux:a,w:e,i};export{o as c,s as d,p as default,i,n as r,c as s,t as sc,a as ux,e as w};

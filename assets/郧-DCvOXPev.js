@@ -1,1 +1,0 @@
-const n=[{p:"yún",pp:"yun2",d:"name of a feudal state",t:"鄖",w:"郧"}],t=10,c="邑",s=["员"],i=[],o="",u=[{w:"郧西",p:"Yún xī",d:"Yunxi county in Shiyan 十堰[Shi2 yan4], Hubei",t:"鄖西"},{w:"郧西县",p:"Yún xī xiàn",d:"Yunxi county in Shiyan 十堰[Shi2 yan4], Hubei",t:"鄖西縣"}],a=[],x={s:n,sc:t,r:c,c:s,d:i,ux:o,w:u,i:a};export{s as c,i as d,x as default,a as i,c as r,n as s,t as sc,o as ux,u as w};

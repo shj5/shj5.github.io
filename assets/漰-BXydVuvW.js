@@ -1,1 +1,0 @@
-const s=[{p:"pēng",pp:"peng1",d:"noise of dashing waves",t:"漰",w:"漰"}],c=14,n="水",o=["氵","崩"],t=[],p="",d=[],e=[],a={s,sc:c,r:n,c:o,d:t,ux:p,w:d,i:e};export{o as c,t as d,a as default,e as i,n as r,s,c as sc,p as ux,d as w};

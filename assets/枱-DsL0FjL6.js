@@ -1,0 +1,1 @@
+const t=[{p:"tái",pp:"tai2",d:"old variant of 檯|台[tai2]",t:"枱",w:"枱"}],o=9,s="木",c=["木","台"],n=[],a="",i=[],d=[],p={s:t,sc:o,r:s,c,d:n,ux:a,w:i,i:d};export{c,n as d,p as default,d as i,s as r,t as s,o as sc,a as ux,i as w};

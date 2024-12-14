@@ -1,0 +1,1 @@
+const t=[{p:"chú",pp:"chu2",d:"a kind of mosquito net/bed curtain",t:"幮",w:"幮"}],c=18,o="巾",s=["巾"],n=[],d="",u=[],a=[],e={s:t,sc:c,r:o,c:s,d:n,ux:d,w:u,i:a};export{s as c,n as d,e as default,a as i,o as r,t as s,c as sc,d as ux,u as w};

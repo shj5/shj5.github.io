@@ -1,0 +1,1 @@
+const c=[{p:"fū",pp:"fu1",d:"calyx of flower",t:"柎",w:"柎"}],o=9,s="木",t=["木","付"],n=[],f="",p=[],a=[],d={s:c,sc:o,r:s,c:t,d:n,ux:f,w:p,i:a};export{t as c,n as d,d as default,a as i,s as r,c as s,o as sc,f as ux,p as w};

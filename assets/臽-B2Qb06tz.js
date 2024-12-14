@@ -1,0 +1,1 @@
+const n=[{p:"xiàn",pp:"xian4",d:"(archaic) pit; hole in the ground/old variant of 陷[xian4]",t:"臽",w:"臽"}],t=8,o="臼",c=["臼"],s=["谄","掐","淊","萏","阎","陷","馅","欿","焰","窞","鹐"],a="",i=[],d=[],p={s:n,sc:t,r:o,c,d:s,ux:a,w:i,i:d};export{c,s as d,p as default,d as i,o as r,n as s,t as sc,a as ux,i as w};

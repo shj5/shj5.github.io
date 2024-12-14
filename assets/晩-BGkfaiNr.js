@@ -1,1 +1,0 @@
-const s=[{p:"wǎn",pp:"wan3",d:"variant of 晚[wan3]",t:"晩",w:"晩"}],c=12,n="日",t=["日","免"],o=[],a="",w=[],d=[],p={s,sc:c,r:n,c:t,d:o,ux:a,w,i:d};export{t as c,o as d,p as default,d as i,n as r,s,c as sc,a as ux,w};

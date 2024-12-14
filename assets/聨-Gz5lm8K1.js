@@ -1,0 +1,1 @@
+const n=[{p:"lián",pp:"lian2",d:"variant of 聯|联[lian2]",t:"聨",w:"聨"}],t=15,s="耳",c=["耳"],o=[],a="",i=[],l=[],p={s:n,sc:t,r:s,c,d:o,ux:a,w:i,i:l};export{c,o as d,p as default,l as i,s as r,n as s,t as sc,a as ux,i as w};

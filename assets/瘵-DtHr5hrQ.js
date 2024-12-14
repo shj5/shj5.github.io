@@ -1,0 +1,1 @@
+const s=[{p:"zhài",pp:"zhai4",d:"(literary) disease (esp. tuberculosis)",t:"瘵",w:"瘵"}],t=16,o="疒",c=["疒","祭"],i=[],a="",n=[{w:"劳瘵",p:"láo zhài",d:"variant of 癆瘵|痨瘵[lao2zhai4]",t:"勞瘵"},{w:"痨瘵",p:"láo zhài",d:"(literary) tuberculosis",t:"癆瘵"}],e=[],r={s,sc:t,r:o,c,d:i,ux:a,w:n,i:e};export{c,i as d,r as default,e as i,o as r,s,t as sc,a as ux,n as w};

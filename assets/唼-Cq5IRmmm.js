@@ -1,1 +1,0 @@
-const s=[{p:"shǎ",pp:"sha3",d:"to speak evil/gobbling sound made by ducks",t:"唼",w:"唼"}],c=11,o="口",t=["口","妾"],n=[],d="",a=[],e=[],p={s,sc:c,r:o,c:t,d:n,ux:d,w:a,i:e};export{t as c,n as d,p as default,e as i,o as r,s,c as sc,d as ux,a as w};

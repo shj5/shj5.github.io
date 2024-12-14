@@ -1,0 +1,1 @@
+const o=[{p:"chāo",pp:"chao1",d:"to blanch; to parboil",t:"焯",w:"焯"}],t=12,c="火",s=["火","卓"],n=[],a="",p=[{w:"焯水",p:"chāo shuǐ",d:"to blanch; to parboil",t:"焯水"}],h=[],l={s:o,sc:t,r:c,c:s,d:n,ux:a,w:p,i:h};export{s as c,n as d,l as default,h as i,c as r,o as s,t as sc,a as ux,p as w};

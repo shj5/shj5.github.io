@@ -1,0 +1,1 @@
+const t=[{p:"xiān",pp:"xian1",d:"(literary) to want; to desire/(literary) pleased; gratified; happy",t:"忺",w:"忺"}],s=7,n="心",o=["忄","欠"],c=[],a="",e=[],i=[],r={s:t,sc:s,r:n,c:o,d:c,ux:a,w:e,i};export{o as c,c as d,r as default,i,n as r,t as s,s as sc,a as ux,e as w};

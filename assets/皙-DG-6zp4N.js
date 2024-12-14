@@ -1,0 +1,1 @@
+const o=[{p:"xī",pp:"xi1",d:"(literary) fair-skinned; of light complexion",t:"皙",w:"皙"}],n=13,t="白",c=["白","析"],s=[],i="",r=[{w:"白皙",p:"bái xī",d:"(of complexion or skin) fair and clear",t:"白皙"}],a=[],e={s:o,sc:n,r:t,c,d:s,ux:i,w:r,i:a};export{c,s as d,e as default,a as i,t as r,o as s,n as sc,i as ux,r as w};

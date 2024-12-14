@@ -1,0 +1,1 @@
+const t=[{p:"qù",pp:"qu4",d:"variant of 覷|觑[qu4]",t:"覰",w:"覰"}],s=18,c="見",o=[],n=[],a="",p=[],u=[],d={s:t,sc:s,r:c,c:o,d:n,ux:a,w:p,i:u};export{o as c,n as d,d as default,u as i,c as r,t as s,s as sc,a as ux,p as w};

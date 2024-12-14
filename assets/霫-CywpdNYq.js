@@ -1,0 +1,1 @@
+const t=[{p:"xí",pp:"xi2",d:"Sui-Tang (premodern ethnic group)",t:"霫",w:"霫"}],c=19,n="雨",o=["雨"],s=[],p="",e=[],r=[],d={s:t,sc:c,r:n,c:o,d:s,ux:p,w:e,i:r};export{o as c,s as d,d as default,r as i,n as r,t as s,c as sc,p as ux,e as w};

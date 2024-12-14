@@ -1,0 +1,1 @@
+const n=[{p:"Yín",pp:"Yin2",d:"surname Yin",t:"誾",w:"訚"},{p:"yín",pp:"yin2",d:"respectful/to speak gently",t:"誾",w:"訚"}],t=10,s="言",c=["门","言"],o=[],p="",e=[],a=[],d={s:n,sc:t,r:s,c,d:o,ux:p,w:e,i:a};export{c,o as d,d as default,a as i,s as r,n as s,t as sc,p as ux,e as w};

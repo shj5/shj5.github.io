@@ -1,0 +1,1 @@
+const t=[{p:"āi",pp:"ai1",d:'character used in Korea in former times to represent the syllable "ngai"',t:"銰",w:"銰"}],s=14,c="金",n=["艾","金"],o=[],e="",r=[],a=[],i={s:t,sc:s,r:c,c:n,d:o,ux:e,w:r,i:a};export{n as c,o as d,i as default,a as i,c as r,t as s,s as sc,e as ux,r as w};

@@ -1,0 +1,1 @@
+const s=[{p:"jié",pp:"jie2",d:"a peg/tally/score",t:"楬",w:"楬"}],t=13,c="木",o=["木","曷"],n=[],e="",p=[],a=[],d={s,sc:t,r:c,c:o,d:n,ux:e,w:p,i:a};export{o as c,n as d,d as default,a as i,c as r,s,t as sc,e as ux,p as w};

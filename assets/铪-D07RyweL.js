@@ -1,0 +1,1 @@
+const s=[{p:"hā",pp:"ha1",d:"hafnium (chemistry)",t:"鉿",w:"铪"}],t=11,c="金",n=["合"],o=[],a="",h=[],p=[],d={s,sc:t,r:c,c:n,d:o,ux:a,w:h,i:p};export{n as c,o as d,d as default,p as i,c as r,s,t as sc,a as ux,h as w};

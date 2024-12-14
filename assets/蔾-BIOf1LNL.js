@@ -1,0 +1,1 @@
+const c=[{p:"lí",pp:"li2",d:"chenopodiaceae",t:"蔾",w:"蔾"}],o=15,s="艸",t=["艹"],n=[],e="",p=[],a=[],d={s:c,sc:o,r:s,c:t,d:n,ux:e,w:p,i:a};export{t as c,n as d,d as default,a as i,s as r,c as s,o as sc,e as ux,p as w};

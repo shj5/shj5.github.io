@@ -1,1 +1,0 @@
-const o=[{p:"jiào",pp:"jiao4",d:"old variant of 叫[jiao4]/ancient musical instrument similar to ocarina",t:"嘂",w:"嘂"}],s=14,t="口",c=["丩","吕"],n=[],i="",a=[],r=[],d={s:o,sc:s,r:t,c,d:n,ux:i,w:a,i:r};export{c,n as d,d as default,r as i,t as r,o as s,s as sc,i as ux,a as w};

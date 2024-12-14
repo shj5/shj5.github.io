@@ -1,1 +1,0 @@
-const t=[{p:"máo",pp:"mao2",d:"variant of 茅[mao2]/thatch",t:"茆",w:"茆"},{p:"mǎo",pp:"mao3",d:"type of water plant/(dialect) loess hills",t:"茆",w:"茆"}],o=8,s="艸",c=["艹","卯"],a=[],n="",p=[],d=[],e={s:t,sc:o,r:s,c,d:a,ux:n,w:p,i:d};export{c,a as d,e as default,d as i,s as r,t as s,o as sc,n as ux,p as w};

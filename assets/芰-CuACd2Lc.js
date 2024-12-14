@@ -1,0 +1,1 @@
+const t=[{p:"jì",pp:"ji4",d:"(archaic) water caltrop (Trapa natans)",t:"芰",w:"芰"}],c=7,s="艸",n=["艹","支"],o=[],a="",p=[],r=[],d={s:t,sc:c,r:s,c:n,d:o,ux:a,w:p,i:r};export{n as c,o as d,d as default,r as i,s as r,t as s,c as sc,a as ux,p as w};

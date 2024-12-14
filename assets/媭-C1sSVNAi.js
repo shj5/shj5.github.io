@@ -1,0 +1,1 @@
+const s=[{p:"xū",pp:"xu1",d:"(dialect) elder sister (old)",t:"嬃",w:"媭"}],t=12,c="女",o=["女","须"],n=[],d="",e=[],l=[],p={s,sc:t,r:c,c:o,d:n,ux:d,w:e,i:l};export{o as c,n as d,p as default,l as i,c as r,s,t as sc,d as ux,e as w};

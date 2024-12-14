@@ -1,0 +1,1 @@
+const n=[{p:"jiān",pp:"jian1",d:"variant of 姦|奸[jian1], adultery, villain",t:"姧",w:"姧"}],t=9,s="女",c=["干"],o=[],a="",i=[],d=[],l={s:n,sc:t,r:s,c,d:o,ux:a,w:i,i:d};export{c,o as d,l as default,d as i,s as r,n as s,t as sc,a as ux,i as w};

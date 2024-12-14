@@ -1,0 +1,1 @@
+const t=[{p:"yú",pp:"yu2",d:"variant of 輿|舆[yu2]",t:"轝",w:"轝"}],s=21,c="車",o=[],n=[],a="",p=[],u=[],d={s:t,sc:s,r:c,c:o,d:n,ux:a,w:p,i:u};export{o as c,n as d,d as default,u as i,c as r,t as s,s as sc,a as ux,p as w};

@@ -1,1 +1,0 @@
-const s=[{p:"hàn",pp:"han4",d:"Aulacophora femoralis",t:"螒",w:"螒"}],c=16,o="虫",t=[],n=[],a="",p=[],r=[],d={s,sc:c,r:o,c:t,d:n,ux:a,w:p,i:r};export{t as c,n as d,d as default,r as i,o as r,s,c as sc,a as ux,p as w};

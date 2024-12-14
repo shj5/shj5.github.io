@@ -1,0 +1,1 @@
+const s=[{p:"què",pp:"que4",d:"(gems)",t:"碏",w:"碏"}],t=13,c="石",o=["石","昔"],n=[],e="",p=[],u=[],d={s,sc:t,r:c,c:o,d:n,ux:e,w:p,i:u};export{o as c,n as d,d as default,u as i,c as r,s,t as sc,e as ux,p as w};

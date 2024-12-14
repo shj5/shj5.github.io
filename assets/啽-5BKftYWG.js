@@ -1,0 +1,1 @@
+const s=[{p:"án",pp:"an2",d:"to speak (Cantonese)",t:"啽",w:"啽"}],t=12,n="口",o=["口","弇"],c=[],a="",e=[],p=[],d={s,sc:t,r:n,c:o,d:c,ux:a,w:e,i:p};export{o as c,c as d,d as default,p as i,n as r,s,t as sc,a as ux,e as w};

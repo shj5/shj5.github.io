@@ -1,0 +1,1 @@
+const t=[{p:"jù",pp:"ju4",d:"unit of animal power (sufficient to pull a plow, harrow etc)",t:"犋",w:"犋"}],o=12,c="牛",s=["具"],n=[],p="",a=[],u=[],e={s:t,sc:o,r:c,c:s,d:n,ux:p,w:a,i:u};export{s as c,n as d,e as default,u as i,c as r,t as s,o as sc,p as ux,a as w};

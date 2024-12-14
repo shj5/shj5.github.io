@@ -1,0 +1,1 @@
+const t=[{p:"kuī",pp:"kui1",d:"high and mighty (of mountain)/hilly",t:"巋",w:"岿"}],n=8,o="山",s=["山","归"],c=[],i="",u=[],a=[],d={s:t,sc:n,r:o,c:s,d:c,ux:i,w:u,i:a};export{s as c,c as d,d as default,a as i,o as r,t as s,n as sc,i as ux,u as w};

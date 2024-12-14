@@ -1,0 +1,1 @@
+const t=[{p:"qiān",pp:"qian1",d:"kilometer",t:"粁",w:"粁"}],s=9,c="米",n=["千","米"],o=[],e="",i=[],p=[],a={s:t,sc:s,r:c,c:n,d:o,ux:e,w:i,i:p};export{n as c,o as d,a as default,p as i,c as r,t as s,s as sc,e as ux,i as w};

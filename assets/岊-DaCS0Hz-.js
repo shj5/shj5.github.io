@@ -1,0 +1,1 @@
+const t=[{p:"jié",pp:"jie2",d:"mountain peak",t:"岊",w:"岊"}],s=7,c="山",n=["山","巴"],o=[],p="",a=[],e=[],i={s:t,sc:s,r:c,c:n,d:o,ux:p,w:a,i:e};export{n as c,o as d,i as default,e as i,c as r,t as s,s as sc,p as ux,a as w};

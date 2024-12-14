@@ -1,0 +1,1 @@
+const t=[{p:"zī",pp:"zi1",d:"variant of 趑, to falter/unable to move",t:"趦",w:"趦"}],n=16,o="走",s=["走","咨"],c=[],e="",i=[{w:"趦趄嗫嚅",p:"zī jū niè rú",d:"faltering steps/mumbling speech/hesitant/cringing/to cower",t:"趦趄囁嚅"}],a=[],r={s:t,sc:n,r:o,c:s,d:c,ux:e,w:i,i:a};export{s as c,c as d,r as default,a as i,o as r,t as s,n as sc,e as ux,i as w};

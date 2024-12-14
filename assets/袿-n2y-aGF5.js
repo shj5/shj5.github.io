@@ -1,1 +1,0 @@
-const s=[{p:"guà",pp:"gua4",d:"old variant of 褂[gua4]",t:"袿",w:"袿"}],c=12,t="衣",o=["衤","圭"],n=[],a="",u=[],d=[],p={s,sc:c,r:t,c:o,d:n,ux:a,w:u,i:d};export{o as c,n as d,p as default,d as i,t as r,s,c as sc,a as ux,u as w};

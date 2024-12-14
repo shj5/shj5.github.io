@@ -1,0 +1,1 @@
+const t=[{p:"dēng",pp:"deng1",d:"large umbrella for stalls/an ancient kind of bamboo or straw hat",t:"簦",w:"簦"}],n=18,o="竹",s=["竹","登"],c=[],a="",r=[],d=[],e={s:t,sc:n,r:o,c:s,d:c,ux:a,w:r,i:d};export{s as c,c as d,e as default,d as i,o as r,t as s,n as sc,a as ux,r as w};

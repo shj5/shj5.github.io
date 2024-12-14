@@ -1,0 +1,1 @@
+const t=[{p:"dì",pp:"di4",d:"tellurium (chemistry)",t:"碲",w:"碲"}],s=14,c="石",o=["石","帝"],n=[],d="",e=[],i=[],p={s:t,sc:s,r:c,c:o,d:n,ux:d,w:e,i};export{o as c,n as d,p as default,i,c as r,t as s,s as sc,d as ux,e as w};

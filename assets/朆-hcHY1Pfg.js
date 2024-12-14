@@ -1,0 +1,1 @@
+const t=[{p:"fēn",pp:"fen1",d:"not yet (Wu dialect)",t:"朆",w:"朆"}],c=16,n="曰",s=["勿","曽"],o=[],e="",d=[],p=[],a={s:t,sc:c,r:n,c:s,d:o,ux:e,w:d,i:p};export{s as c,o as d,a as default,p as i,n as r,t as s,c as sc,e as ux,d as w};

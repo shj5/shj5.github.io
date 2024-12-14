@@ -1,0 +1,1 @@
+const s=[{p:"dōng",pp:"dong1",d:"radon (chemistry)",t:"氡",w:"氡"}],t=9,c="气",n=["气","冬"],o=[],d="",p=[],r=[],a={s,sc:t,r:c,c:n,d:o,ux:d,w:p,i:r};export{n as c,o as d,a as default,r as i,c as r,s,t as sc,d as ux,p as w};

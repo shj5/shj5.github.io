@@ -1,0 +1,1 @@
+const o=[{p:"kuáng",pp:"kuang2",d:"to deceive; to dupe/falsehood; lie/(dialect) to amuse",t:"誑",w:"诳"}],t=9,s="言",c=["讠","狂"],e=[],n="",a=[{w:"诳语",p:"kuáng yǔ",d:"a lie; a falsehood",t:"誑語"}],d=[],u={s:o,sc:t,r:s,c,d:e,ux:n,w:a,i:d};export{c,e as d,u as default,d as i,s as r,o as s,t as sc,n as ux,a as w};

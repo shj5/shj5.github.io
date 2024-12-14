@@ -1,0 +1,1 @@
+const t=[{p:"dí",pp:"di2",d:"wig/Taiwan pr. [ti4]",t:"鬄",w:"鬄"},{p:"tì",pp:"ti4",d:"old variant of 剃[ti4]",t:"鬄",w:"鬄"}],o=18,s="髟",c=["易","髟"],n=[],i="",p=[],d=[],a={s:t,sc:o,r:s,c,d:n,ux:i,w:p,i:d};export{c,n as d,a as default,d as i,s as r,t as s,o as sc,i as ux,p as w};

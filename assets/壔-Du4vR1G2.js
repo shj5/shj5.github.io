@@ -1,1 +1,0 @@
-const c=[{p:"dǎo",pp:"dao3",d:"column/cylinder",t:"壔",w:"壔"}],s=17,o="土",t=["土"],n=[],d="",p=[],r=[],u={s:c,sc:s,r:o,c:t,d:n,ux:d,w:p,i:r};export{t as c,n as d,u as default,r as i,o as r,c as s,s as sc,d as ux,p as w};

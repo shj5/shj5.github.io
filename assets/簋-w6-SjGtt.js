@@ -1,0 +1,1 @@
+const o=[{p:"guǐ",pp:"gui3",d:"ancient bronze food vessel with a round mouth and two or four handles/round basket of bamboo",t:"簋",w:"簋"}],t=17,n="竹",s=["皿","筤"],c=[],a="",d=[],e=[],u={s:o,sc:t,r:n,c:s,d:c,ux:a,w:d,i:e};export{s as c,c as d,u as default,e as i,n as r,o as s,t as sc,a as ux,d as w};

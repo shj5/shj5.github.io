@@ -1,0 +1,1 @@
+const t=[{p:"tūn",pp:"tun1",d:"planet Jupiter/vomit",t:"涒",w:"涒"}],n=10,s="水",c=["氵","君"],o=[],p="",e=[],u=[],a={s:t,sc:n,r:s,c,d:o,ux:p,w:e,i:u};export{c,o as d,a as default,u as i,s as r,t as s,n as sc,p as ux,e as w};

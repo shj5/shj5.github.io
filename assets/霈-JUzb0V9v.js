@@ -1,0 +1,1 @@
+const t=[{p:"pèi",pp:"pei4",d:"torrent of rain",t:"霈",w:"霈"}],o=15,s="雨",c=["沛","雨"],n=[],p="",r=[],e=[],i={s:t,sc:o,r:s,c,d:n,ux:p,w:r,i:e};export{c,n as d,i as default,e as i,s as r,t as s,o as sc,p as ux,r as w};

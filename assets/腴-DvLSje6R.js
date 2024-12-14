@@ -1,0 +1,1 @@
+const t=[{p:"yú",pp:"yu2",d:"fat on belly/fertile/rich",t:"腴",w:"腴"}],n=13,o="肉",c=["月","臾"],s=[],e="",l=[{w:"丰腴",p:"fēng yú",d:"full-bodied/well-rounded/fig. fertile land",t:"豐腴"}],d=[],f={s:t,sc:n,r:o,c,d:s,ux:e,w:l,i:d};export{c,s as d,f as default,d as i,o as r,t as s,n as sc,e as ux,l as w};

@@ -1,0 +1,1 @@
+const o=[{p:"wā",pp:"wa1",d:"to dig/to scoop out",t:"穵",w:"穵"}],t=6,s="穴",c=["乙","穴"],n=["挖"],p="",d=[],w=[],a={s:o,sc:t,r:s,c,d:n,ux:p,w:d,i:w};export{c,n as d,a as default,w as i,s as r,o as s,t as sc,p as ux,d as w};

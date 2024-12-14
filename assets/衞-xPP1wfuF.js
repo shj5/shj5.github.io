@@ -1,0 +1,1 @@
+const t=[{p:"wèi",pp:"wei4",d:"variant of 衛|卫[wei4]/to guard/to defend",t:"衞",w:"衞"}],o=16,s="行",c=["彳"],n=["讆","讏","躗","躛"],d="",e=[],a=[],i={s:t,sc:o,r:s,c,d:n,ux:d,w:e,i:a};export{c,n as d,i as default,a as i,s as r,t as s,o as sc,d as ux,e as w};

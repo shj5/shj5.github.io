@@ -1,0 +1,1 @@
+const o=[{p:"gāo",pp:"gao1",d:"weapon case",t:"櫜",w:"櫜"}],s=19,c="木",t=[],n=[],a="",p=[],e=[],d={s:o,sc:s,r:c,c:t,d:n,ux:a,w:p,i:e};export{t as c,n as d,d as default,e as i,c as r,o as s,s as sc,a as ux,p as w};

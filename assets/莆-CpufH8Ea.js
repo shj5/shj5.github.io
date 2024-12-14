@@ -1,0 +1,1 @@
+const t=[{p:"pú",pp:"pu2",d:"place name",t:"莆",w:"莆"}],n=10,c="艸",e=["艹","甫"],s=[],i="",o=[{w:"莆田",p:"Pú tián",d:"see 莆田市[Pu2tian2 Shi4]",t:"莆田"},{w:"莆田市",p:"Pú tián Shì",d:"Putian, prefecture-level city in Fujian Province 福建省[Fu2jian4 Sheng3]",t:"莆田市"}],p=[],a={s:t,sc:n,r:c,c:e,d:s,ux:i,w:o,i:p};export{e as c,s as d,a as default,p as i,c as r,t as s,n as sc,i as ux,o as w};

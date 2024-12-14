@@ -1,0 +1,1 @@
+const t=[{p:"liú",pp:"liu2",d:"bay horse with black mane",t:"騮",w:"骝"}],o=13,c="馬",n=["马","留"],s=[],e="",i=[{w:"马骝",p:"mǎ liú",d:"monkey (dialect)/little monkey (affectionate term for children, subordinates)",t:"馬騮"}],a=[],l={s:t,sc:o,r:c,c:n,d:s,ux:e,w:i,i:a};export{n as c,s as d,l as default,a as i,c as r,t as s,o as sc,e as ux,i as w};

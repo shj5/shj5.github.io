@@ -1,1 +1,0 @@
-const t=[{p:"dū",pp:"du1",d:"to tap lightly",t:"厾",w:"厾"}],c=6,s="厶",o=["去"],n=[],d="",p=[{w:"点厾",p:"diǎn dū",d:"to touch up a painting",t:"點厾"}],i=[],u={s:t,sc:c,r:s,c:o,d:n,ux:d,w:p,i};export{o as c,n as d,u as default,i,s as r,t as s,c as sc,d as ux,p as w};

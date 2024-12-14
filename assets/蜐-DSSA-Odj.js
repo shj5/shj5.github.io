@@ -1,0 +1,1 @@
+const s=[{p:"jié",pp:"jie2",d:"see 石蜐[shi2 jie2]",t:"蜐",w:"蜐"}],c=13,o="虫",t=["虫"],e=[],i="",n=[{w:"石蜐",p:"shí jié",d:"goose barnacle (Pollicipes pollicipes)",t:"石蜐"}],p=[],l={s,sc:c,r:o,c:t,d:e,ux:i,w:n,i:p};export{t as c,e as d,l as default,p as i,o as r,s,c as sc,i as ux,n as w};

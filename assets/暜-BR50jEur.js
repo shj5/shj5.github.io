@@ -1,1 +1,0 @@
-const s=[{p:"pǔ",pp:"pu3",d:"old variant of 普[pu3]",t:"暜",w:"暜"}],c=14,t="日",o=["日","立"],n=[],p="",d=[],u=[],a={s,sc:c,r:t,c:o,d:n,ux:p,w:d,i:u};export{o as c,n as d,a as default,u as i,t as r,s,c as sc,p as ux,d as w};

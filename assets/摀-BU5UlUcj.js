@@ -1,0 +1,1 @@
+const t=[{p:"wǔ",pp:"wu3",d:"variant of 捂[wu3]/to cover",t:"摀",w:"摀"}],o=13,c="手",s=["扌"],n=[],w="",a=[],p=[],r={s:t,sc:o,r:c,c:s,d:n,ux:w,w:a,i:p};export{s as c,n as d,r as default,p as i,c as r,t as s,o as sc,w as ux,a as w};

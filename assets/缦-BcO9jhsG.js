@@ -1,1 +1,0 @@
-const n=[{p:"màn",pp:"man4",d:"plain thin silk/slow/unadorned",t:"縵",w:"缦"}],s=14,t="糸",c=["纟","曼"],o=[],a="",d=[{w:"烂缦",p:"làn màn",d:"variant of 爛漫|烂漫[lan4man4]",t:"爛縵"}],i=[],l={s:n,sc:s,r:t,c,d:o,ux:a,w:d,i};export{c,o as d,l as default,i,t as r,n as s,s as sc,a as ux,d as w};

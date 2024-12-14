@@ -1,1 +1,0 @@
-const s=[{p:"qiāo",pp:"qiao1",d:"stony soil",t:"墝",w:"墝"}],o=15,c="土",t=["土"],n=[],i="",d=[],p=[],a={s,sc:o,r:c,c:t,d:n,ux:i,w:d,i:p};export{t as c,n as d,a as default,p as i,c as r,s,o as sc,i as ux,d as w};

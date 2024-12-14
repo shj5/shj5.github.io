@@ -1,0 +1,1 @@
+const n=[{p:"chǎn",pp:"chan3",d:"name of a river in Shaanxi province/see 滻河|浐河[Chan3 He2]",t:"滻",w:"浐"}],c=9,o="水",s=["氵","产"],t=[],a="",e=[{w:"浐河",p:"Chǎn Hé",d:"Chan River (in Shaanxi province)",t:"滻河"}],i=[],h={s:n,sc:c,r:o,c:s,d:t,ux:a,w:e,i};export{s as c,t as d,h as default,i,o as r,n as s,c as sc,a as ux,e as w};

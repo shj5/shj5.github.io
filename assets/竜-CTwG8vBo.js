@@ -1,1 +1,0 @@
-const s=[{p:"lóng",pp:"long2",d:"Japanese variant of 龍|龙",t:"竜",w:"竜"}],c=10,n="立",t=["立","电"],o=["滝","篭"],a="",p=[],d=[],e={s,sc:c,r:n,c:t,d:o,ux:a,w:p,i:d};export{t as c,o as d,e as default,d as i,n as r,s,c as sc,a as ux,p as w};

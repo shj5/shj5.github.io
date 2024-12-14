@@ -1,1 +1,0 @@
-const s=[{p:"jiàn",pp:"jian4",d:"old variant of 劍|剑[jian4]",t:"鐱",w:"鐱"}],c=21,n="金",t=["金"],o=[],a="",i=[],d=[],p={s,sc:c,r:n,c:t,d:o,ux:a,w:i,i:d};export{t as c,o as d,p as default,d as i,n as r,s,c as sc,a as ux,i as w};

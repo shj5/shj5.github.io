@@ -1,1 +1,0 @@
-const t=[{p:"méng",pp:"meng2",d:"Fritillaria verticillata",t:"莔",w:"莔"}],c=10,s="艸",n=["艹","囧"],o=[],i="",a=[],r=[],l={s:t,sc:c,r:s,c:n,d:o,ux:i,w:a,i:r};export{n as c,o as d,l as default,r as i,s as r,t as s,c as sc,i as ux,a as w};

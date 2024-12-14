@@ -1,0 +1,1 @@
+const c=[{p:"cóng",pp:"cong2",d:"old variant of 從|从[cong2]",t:"従",w:"従"}],o=10,n="彳",t=["彳"],s=["縦"],a="",d=[],p=[],g={s:c,sc:o,r:n,c:t,d:s,ux:a,w:d,i:p};export{t as c,s as d,g as default,p as i,n as r,c as s,o as sc,a as ux,d as w};

@@ -1,1 +1,0 @@
-const s=[{p:"jiǔ",pp:"jiu3",d:"black jade/nine (banker's anti-fraud numeral)",t:"玖",w:"玖"}],c=7,n="玉",t=["久","王"],o=[],a="",d=[],e=[],i={s,sc:c,r:n,c:t,d:o,ux:a,w:d,i:e};export{t as c,o as d,i as default,e as i,n as r,s,c as sc,a as ux,d as w};

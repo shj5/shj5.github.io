@@ -1,1 +1,0 @@
-const s=[{p:"sù",pp:"su4",d:"(literary) fat/the crop of a bird (variant of 嗉[su4])",t:"膆",w:"膆"}],t=14,c="肉",o=["月","素"],n=[],r="",a=[],d=[],i={s,sc:t,r:c,c:o,d:n,ux:r,w:a,i:d};export{o as c,n as d,i as default,d as i,c as r,s,t as sc,r as ux,a as w};

@@ -1,0 +1,1 @@
+const s=[{p:"qī",pp:"qi1",d:"alder",t:"榿",w:"桤"}],t=10,n="木",c=["木","岂"],d=[],e="",o=[{w:"桤木",p:"qī mù",d:"alder",t:"榿木"},{w:"桤树",p:"qī shù",d:"long peduncled alder (Alnus cremastogyne)/Alnus trebeculata",t:"榿樹"},{w:"红桤树",p:"hóng qī shù",d:"red alder (Alnus rubra)",t:"紅榿樹"}],l=[],r={s,sc:t,r:n,c,d,ux:e,w:o,i:l};export{c,d,r as default,l as i,n as r,s,t as sc,e as ux,o as w};

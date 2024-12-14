@@ -1,1 +1,0 @@
-const s=[{p:"guì",pp:"gui4",d:"old variant of 櫃|柜[gui4]",t:"樻",w:"樻"}],c=16,t="木",o=["木"],n=[],u="",d=[],i=[],a={s,sc:c,r:t,c:o,d:n,ux:u,w:d,i};export{o as c,n as d,a as default,i,t as r,s,c as sc,u as ux,d as w};

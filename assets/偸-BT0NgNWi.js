@@ -1,1 +1,0 @@
-const t=[{p:"tōu",pp:"tou1",d:"variant of 偷[tou1]",t:"偸",w:"偸"}],s=11,c="人",o=["亻","兪"],n=[],u="",a=[],d=[],p={s:t,sc:s,r:c,c:o,d:n,ux:u,w:a,i:d};export{o as c,n as d,p as default,d as i,c as r,t as s,s as sc,u as ux,a as w};

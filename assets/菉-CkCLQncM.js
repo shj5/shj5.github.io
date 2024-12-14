@@ -1,1 +1,0 @@
-const c=[{p:"lù",pp:"lu4",d:"Arthraxon ciliare/green/rhodacene",t:"菉",w:"菉"}],s=11,t="艸",n=["艹","录"],o=[],r="",e=[],a=[],d={s:c,sc:s,r:t,c:n,d:o,ux:r,w:e,i:a};export{n as c,o as d,d as default,a as i,t as r,c as s,s as sc,r as ux,e as w};

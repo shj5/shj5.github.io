@@ -1,0 +1,1 @@
+const s=[{p:"zhào",pp:"zhao4",d:"fish of family Sisoridae (Asiatic catfishes)",t:"鮡",w:"𬶐"}],o=0,t="",c=[],n=[],i="E",a=[],f=[],d={s,sc:o,r:t,c,d:n,ux:i,w:a,i:f};export{c,n as d,d as default,f as i,t as r,s,o as sc,i as ux,a as w};

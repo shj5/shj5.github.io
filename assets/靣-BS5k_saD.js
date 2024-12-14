@@ -1,0 +1,1 @@
+const n=[{p:"miàn",pp:"mian4",d:"variant of 面[mian4]",t:"靣",w:"靣"}],t=9,s="面",c=["回"],o=[],a="",i=[],p=[],d={s:n,sc:t,r:s,c,d:o,ux:a,w:i,i:p};export{c,o as d,d as default,p as i,s as r,n as s,t as sc,a as ux,i as w};

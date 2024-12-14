@@ -1,0 +1,1 @@
+const t=[{p:"duī",pp:"dui1",d:"old variant of 堆[dui1]",t:"塠",w:"塠"}],o=13,s="土",c=["土","追"],n=[],d="",u=[],a=[],i={s:t,sc:o,r:s,c,d:n,ux:d,w:u,i:a};export{c,n as d,i as default,a as i,s as r,t as s,o as sc,d as ux,u as w};

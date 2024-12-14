@@ -1,0 +1,1 @@
+const t=[{p:"líng",pp:"ling2",d:"(literary) to hear; to listen",t:"聆",w:"聆"}],n=11,s="耳",o=["令","耳"],c=[],l="",e=[{w:"聆听",p:"líng tīng",d:"to listen (respectfully)",t:"聆聽"},{w:"聆讯",p:"líng xùn",d:"hearing (law)",t:"聆訊"}],p=[],r={s:t,sc:n,r:s,c:o,d:c,ux:l,w:e,i:p};export{o as c,c as d,r as default,p as i,s as r,t as s,n as sc,l as ux,e as w};

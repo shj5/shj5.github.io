@@ -1,0 +1,1 @@
+const n=[{p:"xūn",pp:"xun1",d:"used in 獯鬻[Xun1yu4]",t:"獯",w:"獯"}],t=17,s="犬",c=["犭","熏"],o=[],u="",d=[{w:"獯鬻",p:"Xūn yù",d:"variant of 葷粥|荤粥[Xun1yu4]",t:"獯鬻"}],p=[],a={s:n,sc:t,r:s,c,d:o,ux:u,w:d,i:p};export{c,o as d,a as default,p as i,s as r,n as s,t as sc,u as ux,d as w};

@@ -1,0 +1,1 @@
+const s=[{p:"hū",pp:"hu1",d:'stripes of a tiger/"tiger" radical in Chinese characters (Kangxi radical 141)',t:"虍",w:"虍"}],t=6,c="*",n=[],o=["虏","虎","虔","虐","虖","虗","虙","虚","虞","虑","豦","虡"],a="",i=[],r=[],e={s,sc:t,r:c,c:n,d:o,ux:a,w:i,i:r};export{n as c,o as d,e as default,r as i,c as r,s,t as sc,a as ux,i as w};

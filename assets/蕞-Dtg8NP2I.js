@@ -1,0 +1,1 @@
+const s=[{p:"zuì",pp:"zui4",d:"to assemble/small",t:"蕞",w:"蕞"}],t=15,c="艸",o=["艹","最"],n=[],a="",e=[],l=[],p={s,sc:t,r:c,c:o,d:n,ux:a,w:e,i:l};export{o as c,n as d,p as default,l as i,c as r,s,t as sc,a as ux,e as w};

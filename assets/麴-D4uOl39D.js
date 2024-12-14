@@ -1,0 +1,1 @@
+const s=[{p:"Qū",pp:"Qu1",d:"surname Qu",t:"麴",w:"麴"}],t=19,o="麥",c=["匊"],n=[],p="",e=[{w:"米麴菌",p:"mǐ qū jūn",d:"Aspergillus oryzae (type of mold)",t:"米麴菌"}],u=[],d={s,sc:t,r:o,c,d:n,ux:p,w:e,i:u};export{c,n as d,d as default,u as i,o as r,s,t as sc,p as ux,e as w};

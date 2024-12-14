@@ -1,0 +1,1 @@
+const n=[{p:"màn",pp:"man4",d:"variant of 漫[man4]/overflow of water/spreading",t:"澫",w:"𬇕"}],o=0,t="",s=[],c=[],a="E",r=[],e=[],p={s:n,sc:o,r:t,c:s,d:c,ux:a,w:r,i:e};export{s as c,c as d,p as default,e as i,t as r,n as s,o as sc,a as ux,r as w};

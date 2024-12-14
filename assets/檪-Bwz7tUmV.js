@@ -1,0 +1,1 @@
+const t=[{p:"lì",pp:"li4",d:"old variant of 櫟|栎[li4]",t:"檪",w:"檪"}],o=17,s="木",c=["木","楽"],n=[],l="",a=[],d=[],i={s:t,sc:o,r:s,c,d:n,ux:l,w:a,i:d};export{c,n as d,i as default,d as i,s as r,t as s,o as sc,l as ux,a as w};

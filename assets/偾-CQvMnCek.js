@@ -1,0 +1,1 @@
+const t=[{p:"fèn",pp:"fen4",d:"to instigate/to ruin/to destroy",t:"僨",w:"偾"}],o=11,s="人",n=["亻","贲"],e=[],c="",i=[{w:"血脉偾张",p:"xuè mài fèn zhāng",d:"lit. blood vessels swell wide (idiom)/fig. one's blood runs quicker; to be excited",t:"血脈僨張"}],d=[],l={s:t,sc:o,r:s,c:n,d:e,ux:c,w:i,i:d};export{n as c,e as d,l as default,d as i,s as r,t as s,o as sc,c as ux,i as w};

@@ -1,0 +1,1 @@
+const s=[{p:"gē",pp:"ge1",d:"gusset/cloth fitting sleeve under armpit",t:"袼",w:"袼"}],t=12,c="衣",o=["衤","各"],n=[],e="",d=[{w:"袼褙",p:"gē bèi",d:"rags used as shoes",t:"袼褙"}],g=[],p={s,sc:t,r:c,c:o,d:n,ux:e,w:d,i:g};export{o as c,n as d,p as default,g as i,c as r,s,t as sc,e as ux,d as w};

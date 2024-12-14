@@ -1,0 +1,1 @@
+const n=[{p:"xūn",pp:"xun1",d:"ancient porcelain wind-instrument",t:"壎",w:"壎"}],t=17,c="土",s=["土","熏"],o=[],e="",i=[],p=[],a={s:n,sc:t,r:c,c:s,d:o,ux:e,w:i,i:p};export{s as c,o as d,a as default,p as i,c as r,n as s,t as sc,e as ux,i as w};

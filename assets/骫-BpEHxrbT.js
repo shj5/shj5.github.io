@@ -1,0 +1,1 @@
+const o=[{p:"wěi",pp:"wei3",d:"be bent/crooked (of bones)",t:"骫",w:"骫"}],s=13,t="骨",c=["丸","骨"],n=[],e="",d=[],p=[],w={s:o,sc:s,r:t,c,d:n,ux:e,w:d,i:p};export{c,n as d,w as default,p as i,t as r,o as s,s as sc,e as ux,d as w};

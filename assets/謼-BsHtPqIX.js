@@ -1,0 +1,1 @@
+const o=[{p:"hū",pp:"hu1",d:"to shout/to mourn/to invoke",t:"謼",w:"謼"}],t=18,s="言",c=["虖"],n=[],u="",p=[],d=[],e={s:o,sc:t,r:s,c,d:n,ux:u,w:p,i:d};export{c,n as d,e as default,d as i,s as r,o as s,t as sc,u as ux,p as w};

@@ -1,1 +1,0 @@
-const s=[{p:"dǐ",pp:"di3",d:"(bound form) sacrum",t:"骶",w:"骶"}],c=15,t="骨",o=["氐","骨"],n=[],d="",a=[{w:"骶骨",p:"dǐ gǔ",d:"(anatomy) sacrum",t:"骶骨"}],r=[],u={s,sc:c,r:t,c:o,d:n,ux:d,w:a,i:r};export{o as c,n as d,u as default,r as i,t as r,s,c as sc,d as ux,a as w};

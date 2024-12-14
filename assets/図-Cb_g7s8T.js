@@ -1,0 +1,1 @@
+const t=[{p:"tú",pp:"tu2",d:"Japanese variant of 圖|图",t:"図",w:"図"}],s=7,c="囗",n=["囗"],o=[],a="",p=[],e=[],d={s:t,sc:s,r:c,c:n,d:o,ux:a,w:p,i:e};export{n as c,o as d,d as default,e as i,c as r,t as s,s as sc,a as ux,p as w};

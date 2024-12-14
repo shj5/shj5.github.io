@@ -1,0 +1,1 @@
+const t=[{p:"Lù",pp:"Lu4",d:"surname Lu/place name",t:"甪",w:"甪"}],s=6,c="用",n=["丶","用"],e=[],o="",a=[{w:"甪端",p:"Lù duān",d:"Luduan, mythical Chinese beast able to detect the truth",t:"甪端"}],u=[],d={s:t,sc:s,r:c,c:n,d:e,ux:o,w:a,i:u};export{n as c,e as d,d as default,u as i,c as r,t as s,s as sc,o as ux,a as w};

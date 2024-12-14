@@ -1,0 +1,1 @@
+const t=[{p:"yī",pp:"yi1",d:"variant of 醫|医[yi1]",t:"毉",w:"毉"}],s=19,c="殳",o=["巫"],n=[],a="",i=[],p=[],d={s:t,sc:s,r:c,c:o,d:n,ux:a,w:i,i:p};export{o as c,n as d,d as default,p as i,c as r,t as s,s as sc,a as ux,i as w};

@@ -1,1 +1,0 @@
-const n=[{p:"yàn",pp:"yan4",d:"variant of 贗|赝[yan4]",t:"贋",w:"赝"},{p:"yàn",pp:"yan4",d:"false",t:"贗",w:"赝"}],t=19,c="貝",s=["贝","雁"],o=[],a="",p=[{w:"赝品",p:"yàn pǐn",d:"fake/counterfeit article",t:"贗品"}],e=[],d={s:n,sc:t,r:c,c:s,d:o,ux:a,w:p,i:e};export{s as c,o as d,d as default,e as i,c as r,n as s,t as sc,a as ux,p as w};

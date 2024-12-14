@@ -1,0 +1,1 @@
+const s=[{p:"bó",pp:"bo2",d:"shoulder blade",t:"髆",w:"髆"}],o=20,t="骨",c=["骨"],n=[],d="",e=[],p=[],a={s,sc:o,r:t,c,d:n,ux:d,w:e,i:p};export{c,n as d,a as default,p as i,t as r,s,o as sc,d as ux,e as w};

@@ -1,0 +1,1 @@
+const t=[{p:"fú",pp:"fu2",d:"undercurrent eddy",t:"洑",w:"洑"}],c=9,s="水",n=["氵","伏"],o=[],d="",e=[],r=[],u={s:t,sc:c,r:s,c:n,d:o,ux:d,w:e,i:r};export{n as c,o as d,u as default,r as i,s as r,t as s,c as sc,d as ux,e as w};

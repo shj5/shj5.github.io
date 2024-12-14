@@ -1,0 +1,1 @@
+const n=[{p:"lán",pp:"lan2",d:"to make a false charge",t:"讕",w:"谰"}],s=14,t="言",c=["讠","阑"],o=[],a="",l=[{w:"谰言",p:"lán yán",d:"slander/calumny/to accuse unjustly",t:"讕言"},{w:"谰调",p:"lán diào",d:"slander/calumny/to accuse unjustly",t:"讕調"}],u=[],e={s:n,sc:s,r:t,c,d:o,ux:a,w:l,i:u};export{c,o as d,e as default,u as i,t as r,n as s,s as sc,a as ux,l as w};

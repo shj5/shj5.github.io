@@ -1,0 +1,1 @@
+const t=[{p:"chán",pp:"chan2",d:"(variant of 饞|馋[chan2]) gluttonous/greedy",t:"嚵",w:"嚵"},{p:"chàn",pp:"chan4",d:"(literary) animal's mouth or beak",t:"嚵",w:"嚵"}],n=20,c="口",o=["口","毚"],s=[],a="",p=[],r=[],e={s:t,sc:n,r:c,c:o,d:s,ux:a,w:p,i:r};export{o as c,s as d,e as default,r as i,c as r,t as s,n as sc,a as ux,p as w};

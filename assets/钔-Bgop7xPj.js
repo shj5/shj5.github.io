@@ -1,0 +1,1 @@
+const s=[{p:"mén",pp:"men2",d:"mendelevium (chemistry)",t:"鍆",w:"钔"}],t=8,c="金",n=["门"],o=[],e="",m=[],d=[],p={s,sc:t,r:c,c:n,d:o,ux:e,w:m,i:d};export{n as c,o as d,p as default,d as i,c as r,s,t as sc,e as ux,m as w};

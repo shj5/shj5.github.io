@@ -1,1 +1,0 @@
-const s=[{p:"dài",pp:"dai4",d:"until/while",t:"迨",w:"迨"}],c=9,t="辵",n=["辶","台"],o=[],d="",i=[],p=[],u={s,sc:c,r:t,c:n,d:o,ux:d,w:i,i:p};export{n as c,o as d,u as default,p as i,t as r,s,c as sc,d as ux,i as w};

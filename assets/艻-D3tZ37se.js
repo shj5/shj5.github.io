@@ -1,0 +1,1 @@
+const o=[{p:"lè",pp:"le4",d:"used in 蘿艻|萝艻[luo2le4]",t:"艻",w:"艻"}],t=5,s="艸",c=["力","艹"],n=[],l="",d=[{w:"萝艻",p:"luó lè",d:"old variant of 羅勒|罗勒[luo2 le4]",t:"蘿艻"}],e=[],u={s:o,sc:t,r:s,c,d:n,ux:l,w:d,i:e};export{c,n as d,u as default,e as i,s as r,o as s,t as sc,l as ux,d as w};

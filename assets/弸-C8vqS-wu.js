@@ -1,1 +1,0 @@
-const s=[{p:"péng",pp:"peng2",d:"strong bow/bowstring/to fill; full",t:"弸",w:"弸"}],t=11,o="弓",c=["弓","朋"],n=[],p="",l=[],r=[],w={s,sc:t,r:o,c,d:n,ux:p,w:l,i:r};export{c,n as d,w as default,r as i,o as r,s,t as sc,p as ux,l as w};

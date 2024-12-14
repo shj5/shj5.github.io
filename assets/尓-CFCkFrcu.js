@@ -1,1 +1,0 @@
-const s=[{p:"ěr",pp:"er3",d:"variant of 爾|尔[er3]",t:"尓",w:"尓"}],c=5,t="小",o=["小"],n=["袮"],r="",a=[],d=[],e={s,sc:c,r:t,c:o,d:n,ux:r,w:a,i:d};export{o as c,n as d,e as default,d as i,t as r,s,c as sc,r as ux,a as w};

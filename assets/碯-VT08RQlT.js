@@ -1,1 +1,0 @@
-const o=[{p:"nǎo",pp:"nao3",d:"variant of 瑙[nao3]/agate",t:"碯",w:"碯"}],s=14,t="石",c=["石"],n=[],a="",d=[],p=[],r={s:o,sc:s,r:t,c,d:n,ux:a,w:d,i:p};export{c,n as d,r as default,p as i,t as r,o as s,s as sc,a as ux,d as w};

@@ -1,0 +1,1 @@
+const t=[{p:"xiè",pp:"xie4",d:"to walk",t:"躞",w:"躞"}],o=24,s="足",c=["足","燮"],i=[],n="",a=[{w:"蹀躞",p:"dié xiè",d:"to walk in small steps/to pace about",t:"蹀躞"},{w:"躞蹀",p:"xiè dié",d:"to walk with a mincing gait",t:"躞蹀"}],p=[],w={s:t,sc:o,r:s,c,d:i,ux:n,w:a,i:p};export{c,i as d,w as default,p as i,s as r,t as s,o as sc,n as ux,a as w};

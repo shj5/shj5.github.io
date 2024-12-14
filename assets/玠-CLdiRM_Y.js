@@ -1,0 +1,1 @@
+const t=[{p:"jiè",pp:"jie4",d:"jade tablet indicating rank",t:"玠",w:"玠"}],c=8,n="玉",s=["王","介"],o=[],a="",i=[],d=[],e={s:t,sc:c,r:n,c:s,d:o,ux:a,w:i,i:d};export{s as c,o as d,e as default,d as i,n as r,t as s,c as sc,a as ux,i as w};

@@ -1,1 +1,0 @@
-const t=[{p:"wù",pp:"wu4",d:"low stool",t:"杌",w:"杌"}],s=7,o="木",n=["兀","木"],c=[],e="",w=[{w:"杌凳",p:"wù dèng",d:"Chinese-style low stool",t:"杌凳"},{w:"杌陧",p:"wù niè",d:"(literary) unsettled; unstable/uneasy",t:"杌隉"},{w:"梼杌",p:"táo wù",d:"legendary beast",t:"檮杌"}],d=[],l={s:t,sc:s,r:o,c:n,d:c,ux:e,w,i:d};export{n as c,c as d,l as default,d as i,o as r,t as s,s as sc,e as ux,w};

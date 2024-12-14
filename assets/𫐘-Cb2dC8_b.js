@@ -1,1 +1,0 @@
-const n=[{p:"kǎn",pp:"kan3",d:"used in 轗軻|𫐘轲[kan3ke3]",t:"轗",w:"𫐘"}],s=0,t="",c=[],o=[],a="C",k=[{w:"𫐘轲",p:"kǎn kě",d:"(literary) variant of 坎坷[kan3ke3]",t:"轗軻"}],d=[],e={s:n,sc:s,r:t,c,d:o,ux:a,w:k,i:d};export{c,o as d,e as default,d as i,t as r,n as s,s as sc,a as ux,k as w};

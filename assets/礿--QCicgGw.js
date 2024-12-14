@@ -1,0 +1,1 @@
+const s=[{p:"yuè",pp:"yue4",d:"spring imperial ancestral sacrifice",t:"礿",w:"礿"}],c=8,t="示",n=["勺"],o=[],a="",e=[],i=[],p={s,sc:c,r:t,c:n,d:o,ux:a,w:e,i};export{n as c,o as d,p as default,i,t as r,s,c as sc,a as ux,e as w};

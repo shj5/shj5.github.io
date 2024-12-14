@@ -1,0 +1,1 @@
+const t=[{p:"lú",pp:"lu2",d:"capital (of column)/smoke tree",t:"櫨",w:"栌"}],c=9,o="木",s=["木","卢"],n=[],e="",l=[],p=[],a={s:t,sc:c,r:o,c:s,d:n,ux:e,w:l,i:p};export{s as c,n as d,a as default,p as i,o as r,t as s,c as sc,e as ux,l as w};

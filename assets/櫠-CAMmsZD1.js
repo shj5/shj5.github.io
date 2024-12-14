@@ -1,1 +1,0 @@
-const o=[{p:"fèi",pp:"fei4",d:"a variety of pomelo (old)",t:"櫠",w:"櫠"}],s=19,c="木",t=["木"],n=[],d="",e=[],i=[],p={s:o,sc:s,r:c,c:t,d:n,ux:d,w:e,i};export{t as c,n as d,p as default,i,c as r,o as s,s as sc,d as ux,e as w};

@@ -1,1 +1,0 @@
-const s=[{p:"ḿ",pp:"m2",d:"interjection expressing a question",t:"呣",w:"呣"},{p:"m̀",pp:"m4",d:"interjection expressing consent/um",t:"呣",w:"呣"}],t=8,n="口",c=["口","母"],o=[],e="",i=[],p=[],r={s,sc:t,r:n,c,d:o,ux:e,w:i,i:p};export{c,o as d,r as default,p as i,n as r,s,t as sc,e as ux,i as w};

@@ -1,0 +1,1 @@
+const t=[{p:"jiā",pp:"jia1",d:"flail (for threshing grain)/old variant of 枷[jia1]",t:"耞",w:"耞"}],o=11,s="耒",n=["加","耒"],c=[],a="",i=[],r=[],d={s:t,sc:o,r:s,c:n,d:c,ux:a,w:i,i:r};export{n as c,c as d,d as default,r as i,s as r,t as s,o as sc,a as ux,i as w};

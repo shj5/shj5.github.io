@@ -1,0 +1,1 @@
+const n=[{p:"fèn",pp:"fen4",d:"name of a river/valley vapor",t:"瀵",w:"瀵"}],o=20,s="水",t=["氵"],c=[],a="",e=[],p=[],r={s:n,sc:o,r:s,c:t,d:c,ux:a,w:e,i:p};export{t as c,c as d,r as default,p as i,s as r,n as s,o as sc,a as ux,e as w};

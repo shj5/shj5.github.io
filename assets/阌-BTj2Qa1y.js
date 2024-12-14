@@ -1,1 +1,0 @@
-const n=[{p:"wén",pp:"wen2",d:"wen xiang, Henan province",t:"閿",w:"阌"}],c=11,s="門",t=["门","受"],o=[],e="",w=[],p=[],a={s:n,sc:c,r:s,c:t,d:o,ux:e,w,i:p};export{t as c,o as d,a as default,p as i,s as r,n as s,c as sc,e as ux,w};

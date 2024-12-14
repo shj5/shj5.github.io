@@ -1,1 +1,0 @@
-const s=[{p:"suàn",pp:"suan4",d:"variant of 算[suan4], to calculate",t:"祘",w:"祘"}],c=10,t="示",n=["示"],o=["蒜"],a="",u=[],d=[],p={s,sc:c,r:t,c:n,d:o,ux:a,w:u,i:d};export{n as c,o as d,p as default,d as i,t as r,s,c as sc,a as ux,u as w};

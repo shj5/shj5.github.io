@@ -1,1 +1,0 @@
-const s=[{p:"shěn",pp:"shen3",d:"(interrog.)",t:"矧",w:"矧"}],c=9,t="矢",n=["引","矢"],o=[],r="",d=[],e=[],p={s,sc:c,r:t,c:n,d:o,ux:r,w:d,i:e};export{n as c,o as d,p as default,e as i,t as r,s,c as sc,r as ux,d as w};

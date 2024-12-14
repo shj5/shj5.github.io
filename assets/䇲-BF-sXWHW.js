@@ -1,0 +1,1 @@
+const c=[{p:"cè",pp:"ce4",d:"variant of 筴|策[ce4]",t:"䇲",w:"䇲"}],t=0,s="",o=[],n=[],a="A",e=[],p=[],d={s:c,sc:t,r:s,c:o,d:n,ux:a,w:e,i:p};export{o as c,n as d,d as default,p as i,s as r,c as s,t as sc,a as ux,e as w};

@@ -1,0 +1,1 @@
+const t=[{p:"Tú",pp:"Tu2",d:"Mt Tu in Zhejiang/also written 涂",t:"嵞",w:"嵞"}],n=13,s="山",o=["余"],c=[],i="",a=[{w:"嵞山",p:"Tú shān",d:"Mt Tu in Zhejiang/also written 涂山",t:"嵞山"}],e=[],p={s:t,sc:n,r:s,c:o,d:c,ux:i,w:a,i:e};export{o as c,c as d,p as default,e as i,s as r,t as s,n as sc,i as ux,a as w};

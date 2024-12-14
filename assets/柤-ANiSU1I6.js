@@ -1,0 +1,1 @@
+const o=[{p:"zhā",pp:"zha1",d:"(hawthorn)/Chaenomeles japonica",t:"柤",w:"柤"}],s=9,t="木",c=["木","且"],n=[],a="",e=[],h=[],p={s:o,sc:s,r:t,c,d:n,ux:a,w:e,i:h};export{c,n as d,p as default,h as i,t as r,o as s,s as sc,a as ux,e as w};

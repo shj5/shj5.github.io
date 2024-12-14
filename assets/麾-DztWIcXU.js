@@ -1,1 +1,0 @@
-const s=[{p:"huī",pp:"hui1",d:"signal flag/to signal",t:"麾",w:"麾"}],o=15,t="麻",n=["毛","麻"],c=[],a="",i=[{w:"麾下",p:"huī xià",d:"troops/subordinates/(honorific appellation for a general)",t:"麾下"}],p=[],r={s,sc:o,r:t,c:n,d:c,ux:a,w:i,i:p};export{n as c,c as d,r as default,p as i,t as r,s,o as sc,a as ux,i as w};

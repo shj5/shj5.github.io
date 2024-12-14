@@ -1,1 +1,0 @@
-const s=[{p:"Guī",pp:"Gui1",d:"surname Gui/name of a river",t:"媯",w:"妫"},{p:"Guī",pp:"Gui1",d:"variant of 媯|妫[Gui1]",t:"嬀",w:"妫"}],t=7,c="女",n=["女","为"],o=[],u="",i=[],a=[],p={s,sc:t,r:c,c:n,d:o,ux:u,w:i,i:a};export{n as c,o as d,p as default,a as i,c as r,s,t as sc,u as ux,i as w};

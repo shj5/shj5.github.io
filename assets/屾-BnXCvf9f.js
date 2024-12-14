@@ -1,0 +1,1 @@
+const t=[{p:"shēn",pp:"shen1",d:"(literary) two mountains standing next to each other",t:"屾",w:"屾"}],n=6,s="山",o=["山"],c=[],e="",a=[],r=[],d={s:t,sc:n,r:s,c:o,d:c,ux:e,w:a,i:r};export{o as c,c as d,d as default,r as i,s as r,t as s,n as sc,e as ux,a as w};

@@ -1,0 +1,1 @@
+const t=[{p:"bàng",pp:"bang4",d:"Arctium lappa/great burdock",t:"蒡",w:"蒡"}],c=13,n="艸",o=["艹","旁"],s=[],p="",a=[{w:"牛蒡",p:"niú bàng",d:"burdock",t:"牛蒡"}],d=[],r={s:t,sc:c,r:n,c:o,d:s,ux:p,w:a,i:d};export{o as c,s as d,r as default,d as i,n as r,t as s,c as sc,p as ux,a as w};

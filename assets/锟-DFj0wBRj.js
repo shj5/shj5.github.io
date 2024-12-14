@@ -1,1 +1,0 @@
-const o=[{p:"kūn",pp:"kun1",d:"steel sword",t:"錕",w:"锟"}],s=13,t="金",n=["昆"],c=[],r="",d=[{w:"曹锟",p:"Cáo Kūn",d:"Cao Kun (1862-1938), one of the Northern Warlords",t:"曹錕"}],e=[],p={s:o,sc:s,r:t,c:n,d:c,ux:r,w:d,i:e};export{n as c,c as d,p as default,e as i,t as r,o as s,s as sc,r as ux,d as w};

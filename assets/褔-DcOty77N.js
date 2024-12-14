@@ -1,0 +1,1 @@
+const s=[{p:"fù",pp:"fu4",d:"full up/classifier for items of clothing (old)",t:"褔",w:"褔"}],o=15,t="衣",c=["衤"],n=[],f="",l=[],i=[],p={s,sc:o,r:t,c,d:n,ux:f,w:l,i};export{c,n as d,p as default,i,t as r,s,o as sc,f as ux,l as w};

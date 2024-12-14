@@ -1,0 +1,1 @@
+const o=[{p:"jí",pp:"ji2",d:"trunks (for books)",t:"笈",w:"笈"}],t=10,s="竹",c=["及","竹"],n=[],e="",r=[{w:"秘笈",p:"mì jí",d:"secret book or collection of books",t:"秘笈"},{w:"负笈",p:"fù jí",d:"(literary) to leave home to pursue studies in (a distant place)",t:"負笈"}],p=[],a={s:o,sc:t,r:s,c,d:n,ux:e,w:r,i:p};export{c,n as d,a as default,p as i,s as r,o as s,t as sc,e as ux,r as w};

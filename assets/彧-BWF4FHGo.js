@@ -1,0 +1,1 @@
+const t=[{p:"yù",pp:"yu4",d:"accomplished/elegant",t:"彧",w:"彧"}],s=10,o="彡",n=["彡","或"],c=[],a="",e=[{w:"荀彧",p:"Xún Yù",d:"Xun Yu (163-212), brilliant strategist, advisor of Cao Cao in Three Kingdoms",t:"荀彧"}],i=[],d={s:t,sc:s,r:o,c:n,d:c,ux:a,w:e,i};export{n as c,c as d,d as default,i,o as r,t as s,s as sc,a as ux,e as w};

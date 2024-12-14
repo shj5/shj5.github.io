@@ -1,1 +1,0 @@
-const s=[{p:"jī",pp:"ji1",d:"Japanese variant of 擊|击[ji1]",t:"撃",w:"撃"}],c=15,t="手",n=["手"],o=[],a="",i=[],p=[],d={s,sc:c,r:t,c:n,d:o,ux:a,w:i,i:p};export{n as c,o as d,d as default,p as i,t as r,s,c as sc,a as ux,i as w};

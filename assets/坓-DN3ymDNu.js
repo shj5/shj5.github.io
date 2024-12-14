@@ -1,0 +1,1 @@
+const n=[{p:"jǐng",pp:"jing3",d:"variant of 阱[jing3]",t:"坓",w:"坓"}],t=7,s="土",c=["土","井"],o=[],a="",i=[],p=[],d={s:n,sc:t,r:s,c,d:o,ux:a,w:i,i:p};export{c,o as d,d as default,p as i,s as r,n as s,t as sc,a as ux,i as w};

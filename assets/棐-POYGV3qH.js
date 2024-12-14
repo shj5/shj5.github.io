@@ -1,0 +1,1 @@
+const t=[{p:"fěi",pp:"fei3",d:"Torreya nucifera/strengthen",t:"棐",w:"棐"}],s=12,c="木",n=["木","非"],o=[],e="",r=[],a=[],f={s:t,sc:s,r:c,c:n,d:o,ux:e,w:r,i:a};export{n as c,o as d,f as default,a as i,c as r,t as s,s as sc,e as ux,r as w};

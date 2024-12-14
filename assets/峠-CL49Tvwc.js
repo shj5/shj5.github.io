@@ -1,0 +1,1 @@
+const s=[{p:"xx",pp:"xx5",d:"(Japanese kokuji) mountain pass/(fig.) crisis point/pr. tōge",t:"峠",w:"峠"}],t=9,n="山",o=["山"],c=[],p="",i=[],a=[],x={s,sc:t,r:n,c:o,d:c,ux:p,w:i,i:a};export{o as c,c as d,x as default,a as i,n as r,s,t as sc,p as ux,i as w};

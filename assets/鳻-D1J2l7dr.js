@@ -1,0 +1,1 @@
+const t=[{p:"fēn",pp:"fen1",d:"the wild pigeon",t:"鳻",w:"鳻"}],n=15,s="鳥",c=["分"],o=[],e="",p=[],d=[],f={s:t,sc:n,r:s,c,d:o,ux:e,w:p,i:d};export{c,o as d,f as default,d as i,s as r,t as s,n as sc,e as ux,p as w};

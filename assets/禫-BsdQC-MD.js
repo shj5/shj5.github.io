@@ -1,1 +1,0 @@
-const t=[{p:"tǎn",pp:"tan3",d:"sacrifice at the end of mourning",t:"禫",w:"禫"}],c=17,s="示",n=["覃"],o=[],a="",d=[],e=[],i={s:t,sc:c,r:s,c:n,d:o,ux:a,w:d,i:e};export{n as c,o as d,i as default,e as i,s as r,t as s,c as sc,a as ux,d as w};

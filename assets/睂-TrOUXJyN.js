@@ -1,0 +1,1 @@
+const t=[{p:"méi",pp:"mei2",d:"old variant of 眉[mei2]",t:"睂",w:"睂"}],o=12,s="目",c=["目"],n=[],i="",a=[],d=[],e={s:t,sc:o,r:s,c,d:n,ux:i,w:a,i:d};export{c,n as d,e as default,d as i,s as r,t as s,o as sc,i as ux,a as w};

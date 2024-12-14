@@ -1,1 +1,0 @@
-const s=[{p:"xìn",pp:"xin4",d:"heat/flame/inflammation",t:"焮",w:"焮"}],t=12,c="火",n=["火"],o=[],a="",i=[],x=[],d={s,sc:t,r:c,c:n,d:o,ux:a,w:i,i:x};export{n as c,o as d,d as default,x as i,c as r,s,t as sc,a as ux,i as w};

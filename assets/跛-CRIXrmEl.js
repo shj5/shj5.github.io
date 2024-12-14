@@ -1,1 +1,0 @@
-const t=[{p:"bǒ",pp:"bo3",d:"to limp/lame/crippled",t:"跛",w:"跛"}],o=12,s="足",c=["皮","足"],p=[],n="",e=[{w:"跛子",p:"bǒ zi",d:"lame person/cripple",t:"跛子"},{w:"跛脚",p:"bǒ jiǎo",d:"to limp/lame person",t:"跛腳"},{w:"跛足",p:"bǒ zú",d:"lame",t:"跛足"}],l=[],d={s:t,sc:o,r:s,c,d:p,ux:n,w:e,i:l};export{c,p as d,d as default,l as i,s as r,t as s,o as sc,n as ux,e as w};

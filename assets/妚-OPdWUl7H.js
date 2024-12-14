@@ -1,0 +1,1 @@
+const t=[{p:"pēi",pp:"pei1",d:"variant of 胚[pei1]/embryo",t:"妚",w:"妚"}],o=7,s="女",c=["女","不"],n=[],p="",e=[],i=[],a={s:t,sc:o,r:s,c,d:n,ux:p,w:e,i};export{c,n as d,a as default,i,s as r,t as s,o as sc,p as ux,e as w};

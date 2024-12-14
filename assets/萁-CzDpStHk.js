@@ -1,0 +1,1 @@
+const s=[{p:"qí",pp:"qi2",d:"stalks of pulse",t:"萁",w:"萁"}],t=11,n="艸",o=["艹","其"],c=[],e="",i=[],a=[{w:"煮豆燃萁",p:"zhǔ dòu rán qí",d:"burning beanstalks to cook the beans (idiom); to cause internecine strife",t:"煮豆燃萁"}],d={s,sc:t,r:n,c:o,d:c,ux:e,w:i,i:a};export{o as c,c as d,d as default,a as i,n as r,s,t as sc,e as ux,i as w};

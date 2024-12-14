@@ -1,0 +1,1 @@
+const s=[{p:"yǎn",pp:"yan3",d:"Hemidactylus bowringii",t:"蝘",w:"蝘"}],t=15,c="虫",n=["虫","匽"],o=[],i="",a=[],d=[],p={s,sc:t,r:c,c:n,d:o,ux:i,w:a,i:d};export{n as c,o as d,p as default,d as i,c as r,s,t as sc,i as ux,a as w};

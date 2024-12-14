@@ -1,1 +1,0 @@
-const s=[{p:"xiǎn",pp:"xian3",d:"Japanese variant of 顯|显",t:"顕",w:"顕"}],c=18,n="頁",t=["显"],o=[],a="",i=[],p=[],x={s,sc:c,r:n,c:t,d:o,ux:a,w:i,i:p};export{t as c,o as d,x as default,p as i,n as r,s,c as sc,a as ux,i as w};

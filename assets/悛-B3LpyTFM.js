@@ -1,1 +1,0 @@
-const t=[{p:"quān",pp:"quan1",d:"to reform",t:"悛",w:"悛"}],o=10,n="心",s=["忄"],c=[],e="",d=[],i=[{w:"怙恶不悛",p:"hù è bù quān",d:"to keep doing evil without a sense of repentance (idiom)",t:"怙惡不悛"}],p={s:t,sc:o,r:n,c:s,d:c,ux:e,w:d,i};export{s as c,c as d,p as default,i,n as r,t as s,o as sc,e as ux,d as w};

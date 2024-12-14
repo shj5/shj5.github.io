@@ -1,1 +1,0 @@
-const n=[{p:"qīn",pp:"qin1",d:"coverlet/quilt",t:"衾",w:"衾"}],t=10,c="衣",o=["今","衣"],s=[],l="",d=[{w:"衣衾",p:"yī qīn",d:"burial clothes",t:"衣衾"}],i=[{w:"枕冷衾寒",p:"zhěn lěng qīn hán",d:"cold pillow and lonely bed (idiom); fig. cold and solitary existence",t:"枕冷衾寒"}],e={s:n,sc:t,r:c,c:o,d:s,ux:l,w:d,i};export{o as c,s as d,e as default,i,c as r,n as s,t as sc,l as ux,d as w};

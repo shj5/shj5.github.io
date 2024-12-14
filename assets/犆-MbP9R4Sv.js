@@ -1,1 +1,0 @@
-const s=[{p:"tè",pp:"te4",d:"male animal",t:"犆",w:"犆"}],t=12,c="牛",n=["直"],o=[],a="",d=[],e=[],p={s,sc:t,r:c,c:n,d:o,ux:a,w:d,i:e};export{n as c,o as d,p as default,e as i,c as r,s,t as sc,a as ux,d as w};

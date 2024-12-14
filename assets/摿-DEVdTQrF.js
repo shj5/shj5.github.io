@@ -1,0 +1,1 @@
+const o=[{p:"yáo",pp:"yao2",d:"erroneous variant of 搖|摇[yao2]",t:"摿",w:"摿"}],s=14,t="手",c=["扌"],n=[],a="",r=[],e=[],p={s:o,sc:s,r:t,c,d:n,ux:a,w:r,i:e};export{c,n as d,p as default,e as i,t as r,o as s,s as sc,a as ux,r as w};

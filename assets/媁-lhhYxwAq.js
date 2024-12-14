@@ -1,1 +1,0 @@
-const s=[{p:"wéi",pp:"wei2",d:"to appear displeased/beautiful",t:"媁",w:"媁"},{p:"wěi",pp:"wei3",d:"ugly/to indulge oneself",t:"媁",w:"媁"}],t=12,c="女",o=["女"],e=[],n="",p=[],i=[],d={s,sc:t,r:c,c:o,d:e,ux:n,w:p,i};export{o as c,e as d,d as default,i,c as r,s,t as sc,n as ux,p as w};

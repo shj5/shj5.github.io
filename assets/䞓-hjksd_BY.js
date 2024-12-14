@@ -1,1 +1,0 @@
-const c=[{p:"chēng",pp:"cheng1",d:"old variant of 赬|赪[cheng1]",t:"䞓",w:"䞓"}],s=0,n="",t=[],o=[],d="A",a=[],e=[],p={s:c,sc:s,r:n,c:t,d:o,ux:d,w:a,i:e};export{t as c,o as d,p as default,e as i,n as r,c as s,s as sc,d as ux,a as w};

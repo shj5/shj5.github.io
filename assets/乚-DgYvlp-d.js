@@ -1,0 +1,1 @@
+const o=[{p:"yà",pp:"ya4",d:"component in Chinese characters/old variant of 毫[hao2]/old variant of 乙[yi3]",t:"乚",w:"乚"}],t=1,n="乙",c=[],s=["乜","亡","及","乢","乣","孔","扎","戉","札","甩","电","轧","乨","乩","癿","礼","钆","乱","糺","虬","乳","乿","亃","亄"],a="",e=[],i=[],r={s:o,sc:t,r:n,c,d:s,ux:a,w:e,i};export{c,s as d,r as default,i,n as r,o as s,t as sc,a as ux,e as w};

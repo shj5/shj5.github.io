@@ -1,1 +1,0 @@
-const s=[{p:"fèng",pp:"feng4",d:"variant of 鳳|凤[feng4]",t:"鳯",w:"鳯"}],c=13,n="鳥",t=["几"],o=[],f="",a=[],d=[],e={s,sc:c,r:n,c:t,d:o,ux:f,w:a,i:d};export{t as c,o as d,e as default,d as i,n as r,s,c as sc,f as ux,a as w};

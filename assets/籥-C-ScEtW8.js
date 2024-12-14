@@ -1,0 +1,1 @@
+const t=[{p:"yuè",pp:"yue4",d:"flute/key",t:"籥",w:"籥"}],s=23,c="竹",o=["竹","龠"],n=[],e="",u=[],p=[],d={s:t,sc:s,r:c,c:o,d:n,ux:e,w:u,i:p};export{o as c,n as d,d as default,p as i,c as r,t as s,s as sc,e as ux,u as w};

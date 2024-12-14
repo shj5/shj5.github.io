@@ -1,0 +1,1 @@
+const t=[{p:"hān",pp:"han1",d:"to desire/to give",t:"歛",w:"歛"},{p:"liǎn",pp:"lian3",d:"variant of 斂|敛[lian3]",t:"歛",w:"歛"}],n=17,o="欠",s=["欠"],c=[],a="",i=[],p=[],d={s:t,sc:n,r:o,c:s,d:c,ux:a,w:i,i:p};export{s as c,c as d,d as default,p as i,o as r,t as s,n as sc,a as ux,i as w};

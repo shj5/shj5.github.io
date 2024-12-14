@@ -1,1 +1,0 @@
-const n=[{p:"xuān",pp:"xuan1",d:"ornamental piece of jade",t:"瑄",w:"瑄"}],c=13,s="玉",o=["王","宣"],t=[],a="",p=[{w:"铭瑄",p:"Míng xuān",d:"MaxSun, PRC company specializing in video and computer display",t:"銘瑄"}],d=[],e={s:n,sc:c,r:s,c:o,d:t,ux:a,w:p,i:d};export{o as c,t as d,e as default,d as i,s as r,n as s,c as sc,a as ux,p as w};

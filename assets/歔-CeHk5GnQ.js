@@ -1,0 +1,1 @@
+const o=[{p:"xū",pp:"xu1",d:"to snort",t:"歔",w:"歔"}],t=16,s="欠",c=["欠","虚"],n=[],x="",p=[{w:"欷歔",p:"xī xū",d:"(onom.) to sob",t:"欷歔"}],d=[],r={s:o,sc:t,r:s,c,d:n,ux:x,w:p,i:d};export{c,n as d,r as default,d as i,s as r,o as s,t as sc,x as ux,p as w};

@@ -1,0 +1,1 @@
+const n=[{p:"shèn",pp:"shen4",d:"to terrify",t:"瘮",w:"瘆"}],t=13,s="疒",c=["疒","参"],o=[],e="",r=[{w:"瘆人",p:"shèn rén",d:"scary",t:"瘮人"},{w:"瘆得慌",p:"shèn de huāng",d:"frightening/frightened",t:"瘮得慌"}],d=[],h={s:n,sc:t,r:s,c,d:o,ux:e,w:r,i:d};export{c,o as d,h as default,d as i,s as r,n as s,t as sc,e as ux,r as w};

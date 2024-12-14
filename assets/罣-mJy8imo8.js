@@ -1,0 +1,1 @@
+const t=[{p:"guà",pp:"gua4",d:"variant of 掛|挂[gua4]",t:"罣",w:"罣"}],s=11,c="网",o=["罒","圭"],n=[],a="",u=[],p=[],d={s:t,sc:s,r:c,c:o,d:n,ux:a,w:u,i:p};export{o as c,n as d,d as default,p as i,c as r,t as s,s as sc,a as ux,u as w};

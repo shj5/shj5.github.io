@@ -1,1 +1,0 @@
-const s=[{p:"dòu",pp:"dou4",d:"Japanese variant of 鬥|斗",t:"闘",w:"闘"}],c=18,t="門",o=[],n=[],a="",d=[],p=[],u={s,sc:c,r:t,c:o,d:n,ux:a,w:d,i:p};export{o as c,n as d,u as default,p as i,t as r,s,c as sc,a as ux,d as w};

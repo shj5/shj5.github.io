@@ -1,1 +1,0 @@
-const s=[{p:"kuài",pp:"kuai4",d:"old variant of 澮|浍[kuai4]",t:"巜",w:"巜"}],c=2,t="巛",o=[],n=["粼"],a="",i=[],u=[],d={s,sc:c,r:t,c:o,d:n,ux:a,w:i,i:u};export{o as c,n as d,d as default,u as i,t as r,s,c as sc,a as ux,i as w};

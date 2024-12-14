@@ -1,1 +1,0 @@
-const s=[{p:"zhě",pp:"zhe3",d:"germanium (chemistry)",t:"鍺",w:"锗"}],c=13,t="金",n=["者"],o=[],e="",r=[],d=[],i={s,sc:c,r:t,c:n,d:o,ux:e,w:r,i:d};export{n as c,o as d,i as default,d as i,t as r,s,c as sc,e as ux,r as w};

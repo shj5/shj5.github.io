@@ -1,0 +1,1 @@
+const c=[{p:"jù",pp:"ju4",d:"hurricane",t:"颶",w:"飓"}],t=12,n="風",s=["风","具"],o=[],r="",p=[{w:"飓风",p:"jù fēng",d:"hurricane",t:"颶風"}],u=[],a={s:c,sc:t,r:n,c:s,d:o,ux:r,w:p,i:u};export{s as c,o as d,a as default,u as i,n as r,c as s,t as sc,r as ux,p as w};

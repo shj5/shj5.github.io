@@ -1,0 +1,1 @@
+const t=[{p:"zhì",pp:"zhi4",d:"fetters",t:"桎",w:"桎"}],s=10,c="木",o=["木","至"],n=[],e="",p=[{w:"桎梏",p:"zhì gù",d:"(literary) shackles",t:"桎梏"}],r=[],a={s:t,sc:s,r:c,c:o,d:n,ux:e,w:p,i:r};export{o as c,n as d,a as default,r as i,c as r,t as s,s as sc,e as ux,p as w};

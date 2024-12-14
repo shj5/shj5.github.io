@@ -1,1 +1,0 @@
-const o=[{p:"niào",pp:"niao4",d:"old variant of 尿[niao4]",t:"㞙",w:"㞙"}],s=0,c="",n=[],t=[],a="A",i=[],d=[],p={s:o,sc:s,r:c,c:n,d:t,ux:a,w:i,i:d};export{n as c,t as d,p as default,d as i,c as r,o as s,s as sc,a as ux,i as w};

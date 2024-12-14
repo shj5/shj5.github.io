@@ -1,1 +1,0 @@
-const s=[{p:"yè",pp:"ye4",d:"to press down",t:"擫",w:"𢬍"}],c=0,t="",o=[],n=[],d="B",p=[],e=[],r={s,sc:c,r:t,c:o,d:n,ux:d,w:p,i:e};export{o as c,n as d,r as default,e as i,t as r,s,c as sc,d as ux,p as w};

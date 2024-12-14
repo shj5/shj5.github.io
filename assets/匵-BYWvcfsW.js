@@ -1,0 +1,1 @@
+const t=[{p:"dú",pp:"du2",d:"old variant of 櫝|椟[du2]",t:"匵",w:"匵"}],o=17,s="匚",c=["匚"],n=[],d="",a=[],p=[],u={s:t,sc:o,r:s,c,d:n,ux:d,w:a,i:p};export{c,n as d,u as default,p as i,s as r,t as s,o as sc,d as ux,a as w};

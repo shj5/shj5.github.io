@@ -1,0 +1,1 @@
+const n=[{p:"běng",pp:"beng3",d:"variant of 埲[beng3]",t:"埄",w:"埄"},{p:"fēng",pp:"feng1",d:"landmark used during the Song Dynasty (960-1279 AD)",t:"埄",w:"埄"}],t=10,s="土",o=["土","夆"],c=[],a="",d=[],e=[],g={s:n,sc:t,r:s,c:o,d:c,ux:a,w:d,i:e};export{o as c,c as d,g as default,e as i,s as r,n as s,t as sc,a as ux,d as w};

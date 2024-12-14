@@ -1,1 +1,0 @@
-const s=[{p:"bìng",pp:"bing4",d:"thunder",t:"靐",w:"靐"}],c=39,t="雨",n=["雷"],o=[],d="",p=[],r=[],u={s,sc:c,r:t,c:n,d:o,ux:d,w:p,i:r};export{n as c,o as d,u as default,r as i,t as r,s,c as sc,d as ux,p as w};

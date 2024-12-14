@@ -1,1 +1,0 @@
-const s=[{p:"xiē",pp:"xie1",d:"to hammer in (a nail)/to drive (a wedge)",t:"揳",w:"揳"}],t=12,c="手",o=["扌","契"],n=[],e="",i=[],a=[],d={s,sc:t,r:c,c:o,d:n,ux:e,w:i,i:a};export{o as c,n as d,d as default,a as i,c as r,s,t as sc,e as ux,i as w};

@@ -1,1 +1,0 @@
-const s=[{p:"biào",pp:"biao4",d:"swim bladder/air bladder of fish",t:"鰾",w:"鳔"}],o=19,i="魚",t=["鱼","票"],c=[],d="",n=[{w:"鱼鳔",p:"yú biào",d:"swim bladder",t:"魚鰾"},{w:"鳔胶",p:"biào jiāo",d:"isinglass/fish glue",t:"鰾膠"}],a=[],b={s,sc:o,r:i,c:t,d:c,ux:d,w:n,i:a};export{t as c,c as d,b as default,a as i,i as r,s,o as sc,d as ux,n as w};

@@ -1,0 +1,1 @@
+const t=[{p:"jī",pp:"ji1",d:"variant of 羈|羁[ji1]",t:"羇",w:"羇"}],s=22,c="网",o=["罒"],n=[],a="",i=[],p=[],d={s:t,sc:s,r:c,c:o,d:n,ux:a,w:i,i:p};export{o as c,n as d,d as default,p as i,c as r,t as s,s as sc,a as ux,i as w};

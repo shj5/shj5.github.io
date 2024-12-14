@@ -1,1 +1,0 @@
-const s=[{p:"nè",pp:"ne4",d:"old variant of 訥|讷[ne4]",t:"㕯",w:"㕯"}],c=0,n="",t=[],o=[],d="A",a=[],e=[],p={s,sc:c,r:n,c:t,d:o,ux:d,w:a,i:e};export{t as c,o as d,p as default,e as i,n as r,s,c as sc,d as ux,a as w};

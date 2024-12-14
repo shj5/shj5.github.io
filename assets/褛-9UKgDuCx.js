@@ -1,1 +1,0 @@
-const s=[{p:"lǚ",pp:"lu:3",d:"used in 襤褸|褴褛[lan2lu:3]",t:"褸",w:"褛"}],c=15,t="衣",n=["衤","娄"],o=[],l="",d=[{w:"褴褛",p:"lán lǚ",d:"(of clothes) ragged; shabby",t:"襤褸"}],u=[],a={s,sc:c,r:t,c:n,d:o,ux:l,w:d,i:u};export{n as c,o as d,a as default,u as i,t as r,s,c as sc,l as ux,d as w};

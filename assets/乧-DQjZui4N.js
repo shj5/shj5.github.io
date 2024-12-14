@@ -1,0 +1,1 @@
+const c=[{p:"xx",pp:"xx5",d:"archaic Korean hanja pronounced dul, phonetic 斗 du plus 乙 ul",t:"乧",w:"乧"}],n=5,o="乙",s=["乙","斗"],t=[],a="",p=[],u=[],d={s:c,sc:n,r:o,c:s,d:t,ux:a,w:p,i:u};export{s as c,t as d,d as default,u as i,o as r,c as s,n as sc,a as ux,p as w};

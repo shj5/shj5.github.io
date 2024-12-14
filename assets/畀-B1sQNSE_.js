@@ -1,1 +1,0 @@
-const o=[{p:"bì",pp:"bi4",d:"to confer on/to give to",t:"畀",w:"畀"}],t=8,c="田",s=["丌","田"],n=["淠","痹","箅","綥"],d="",e=[],i=[],p={s:o,sc:t,r:c,c:s,d:n,ux:d,w:e,i};export{s as c,n as d,p as default,i,c as r,o as s,t as sc,d as ux,e as w};

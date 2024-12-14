@@ -1,1 +1,0 @@
-const s=[{p:"jí",pp:"ji2",d:"variant of 即[ji2]/promptly",t:"卽",w:"卽"}],t=9,c="卩",o=["卩","皀"],n=[],p="",i=[],r=[],a={s,sc:t,r:c,c:o,d:n,ux:p,w:i,i:r};export{o as c,n as d,a as default,r as i,c as r,s,t as sc,p as ux,i as w};

@@ -1,0 +1,1 @@
+const s=[{p:"é",pp:"e2",d:"osmium (chemistry)",t:"鋨",w:"锇"}],t=12,c="金",o=["我"],n=[],e="",p=[],d=[],i={s,sc:t,r:c,c:o,d:n,ux:e,w:p,i:d};export{o as c,n as d,i as default,d as i,c as r,s,t as sc,e as ux,p as w};

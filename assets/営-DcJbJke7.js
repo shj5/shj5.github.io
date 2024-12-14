@@ -1,1 +1,0 @@
-const s=[{p:"yíng",pp:"ying2",d:"Japanese variant of 營|营",t:"営",w:"営"}],c=12,n="口",t=["小"],o=[],a="",p=[],d=[],e={s,sc:c,r:n,c:t,d:o,ux:a,w:p,i:d};export{t as c,o as d,e as default,d as i,n as r,s,c as sc,a as ux,p as w};

@@ -1,0 +1,1 @@
+const t=[{p:"jì",pp:"ji4",d:"merit; accomplishment (variant of 績|绩[ji4])",t:"勣",w:"𪟝"}],c=0,s="",o=[],n=[],i="C",a=[],p=[],e={s:t,sc:c,r:s,c:o,d:n,ux:i,w:a,i:p};export{o as c,n as d,e as default,p as i,s as r,t as s,c as sc,i as ux,a as w};

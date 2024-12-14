@@ -1,0 +1,1 @@
+const o=[{p:"ài",pp:"ai4",d:"to cover/to hide/to conceal",t:"薆",w:"薆"}],t=16,c="艸",s=["艹"],n=[],e="",a=[],d=[],i={s:o,sc:t,r:c,c:s,d:n,ux:e,w:a,i:d};export{s as c,n as d,i as default,d as i,c as r,o as s,t as sc,e as ux,a as w};

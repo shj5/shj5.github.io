@@ -1,1 +1,0 @@
-const t=[{p:"tì",pp:"ti4",d:"energetic/exalted/magnanimous",t:"倜",w:"倜"}],n=10,s="人",c=["亻","周"],e=[],a="",o=[{w:"倜傥",p:"tì tǎng",d:"elegant/casual/free and easy",t:"倜儻"}],d=[{w:"风流倜傥",p:"fēng liú tì tǎng",d:"suave; debonair; dashing",t:"風流倜儻"}],i={s:t,sc:n,r:s,c,d:e,ux:a,w:o,i:d};export{c,e as d,i as default,d as i,s as r,t as s,n as sc,a as ux,o as w};

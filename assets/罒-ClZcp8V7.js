@@ -1,0 +1,1 @@
+const n=[{p:"wǎng",pp:"wang3",d:"net (Kangxi radical 122)",t:"罒",w:"罒"}],t=5,c="网",s=[],o=["罖","罗","罘","罚","罛","罝","罟","罠","罡","罢","罣","罥","罦","詈","睪","罨","罩","罪","罫","罭","置","署","蜀","罱","罳","瞏","罶","罹","罻","罽","罾","罿","羁","羂","羃","羇"],a="",d=[],p=[],w={s:n,sc:t,r:c,c:s,d:o,ux:a,w:d,i:p};export{s as c,o as d,w as default,p as i,c as r,n as s,t as sc,a as ux,d as w};

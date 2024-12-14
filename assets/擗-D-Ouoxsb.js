@@ -1,0 +1,1 @@
+const t=[{p:"pǐ",pp:"pi3",d:"(literary) to beat the breast/to break off; to snap off (a branch, an ear of corn etc)",t:"擗",w:"擗"}],o=16,c="手",s=["扌","辟"],n=[],a="",e=[],r=[],p={s:t,sc:o,r:c,c:s,d:n,ux:a,w:e,i:r};export{s as c,n as d,p as default,r as i,c as r,t as s,o as sc,a as ux,e as w};

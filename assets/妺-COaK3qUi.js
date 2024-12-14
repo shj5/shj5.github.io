@@ -1,0 +1,1 @@
+const t=[{p:"mò",pp:"mo4",d:"wife of the last ruler of the Xia dynasty",t:"妺",w:"妺"}],s=8,o="女",c=["女","末"],n=[],e="",a=[],d=[],f={s:t,sc:s,r:o,c,d:n,ux:e,w:a,i:d};export{c,n as d,f as default,d as i,o as r,t as s,s as sc,e as ux,a as w};

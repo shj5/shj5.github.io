@@ -1,0 +1,1 @@
+const s=[{p:"zhè",pp:"zhe4",d:"locust/Chinese ground beetle (Eupolyphaga sinensis)",t:"蟅",w:"蟅"}],t=17,n="虫",o=["虫","庶"],c=[],e="",p=[],u=[],a={s,sc:t,r:n,c:o,d:c,ux:e,w:p,i:u};export{o as c,c as d,a as default,u as i,n as r,s,t as sc,e as ux,p as w};

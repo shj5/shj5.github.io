@@ -1,0 +1,1 @@
+const t=[{p:"bó",pp:"bo2",d:"(literary) to tumble; to fall down/(literary) to fall dead",t:"踣",w:"踣"}],o=15,l="足",n=["足","咅"],s=[],c="",a=[{w:"颠踣",p:"diān bó",d:"to fall down/to fall forward",t:"顛踣"}],d=[],r={s:t,sc:o,r:l,c:n,d:s,ux:c,w:a,i:d};export{n as c,s as d,r as default,d as i,l as r,t as s,o as sc,c as ux,a as w};

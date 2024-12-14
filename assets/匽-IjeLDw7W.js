@@ -1,1 +1,0 @@
-const s=[{p:"yǎn",pp:"yan3",d:"to hide, to secrete, to repress/to bend",t:"匽",w:"匽"}],t=9,c="匸",o=["匸"],n=["偃","堰","揠","郾","蝘","鰋"],e="",d=[],r=[],p={s,sc:t,r:c,c:o,d:n,ux:e,w:d,i:r};export{o as c,n as d,p as default,r as i,c as r,s,t as sc,e as ux,d as w};

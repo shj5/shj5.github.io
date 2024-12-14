@@ -1,1 +1,0 @@
-const t=[{p:"tuó",pp:"tuo2",d:"variant of 橐[tuo2]",t:"槖",w:"槖"}],s=14,c="木",o=["木"],n=[],u="",a=[],d=[],p={s:t,sc:s,r:c,c:o,d:n,ux:u,w:a,i:d};export{o as c,n as d,p as default,d as i,c as r,t as s,s as sc,u as ux,a as w};

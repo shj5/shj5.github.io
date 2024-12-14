@@ -1,1 +1,0 @@
-const s=[{p:"bīng",pp:"bing1",d:"variant of 檳|槟[bing1]",t:"梹",w:"梹"}],c=11,n="木",t=["木","兵"],o=[],i="",a=[],d=[],p={s,sc:c,r:n,c:t,d:o,ux:i,w:a,i:d};export{t as c,o as d,p as default,d as i,n as r,s,c as sc,i as ux,a as w};

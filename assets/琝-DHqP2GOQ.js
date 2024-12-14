@@ -1,0 +1,1 @@
+const n=[{p:"mín",pp:"min2",d:"old variant of 玟[min2]",t:"琝",w:"琝"}],t=12,o="玉",s=["王","旻"],c=[],a="",d=[],i=[],p={s:n,sc:t,r:o,c:s,d:c,ux:a,w:d,i};export{s as c,c as d,p as default,i,o as r,n as s,t as sc,a as ux,d as w};

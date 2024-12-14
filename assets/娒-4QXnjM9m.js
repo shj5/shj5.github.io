@@ -1,0 +1,1 @@
+const t=[{p:"méi",pp:"mei2",d:"(used in personal names)",t:"娒",w:"娒"},{p:"mǔ",pp:"mu3",d:"variant of 姆[mu3]",t:"娒",w:"娒"},{p:"wǔ",pp:"wu3",d:"variant of 侮[wu3]",t:"娒",w:"娒"}],s=10,n="女",o=["女","每"],c=[],p="",a=[],u=[],w={s:t,sc:s,r:n,c:o,d:c,ux:p,w:a,i:u};export{o as c,c as d,w as default,u as i,n as r,t as s,s as sc,p as ux,a as w};

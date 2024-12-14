@@ -1,1 +1,0 @@
-const s=[{p:"sǒng",pp:"song3",d:"old variant of 悚[song3]",t:"愯",w:"愯"}],o=13,c="心",n=["忄"],t=[],d="",a=[],p=[],r={s,sc:o,r:c,c:n,d:t,ux:d,w:a,i:p};export{n as c,t as d,r as default,p as i,c as r,s,o as sc,d as ux,a as w};

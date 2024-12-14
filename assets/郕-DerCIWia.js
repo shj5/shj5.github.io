@@ -1,1 +1,0 @@
-const s=[{p:"Chéng",pp:"Cheng2",d:"surname Cheng/Zhou Dynasty (1046-256 BCE) vassal state",t:"郕",w:"郕"}],t=10,n="邑",c=["成"],o=[],a="",e=[],u=[],d={s,sc:t,r:n,c,d:o,ux:a,w:e,i:u};export{c,o as d,d as default,u as i,n as r,s,t as sc,a as ux,e as w};

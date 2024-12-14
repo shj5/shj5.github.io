@@ -1,0 +1,1 @@
+const s=[{p:"Qú",pp:"Qu2",d:"surname Qu",t:"蘧",w:"蘧"},{p:"qú",pp:"qu2",d:"Dianthus superbus",t:"蘧",w:"蘧"}],t=20,n="艸",c=["艹","遽"],o=[],p="",u=[{w:"蘧然",p:"qú rán",d:"(literary) to be pleasantly surprised",t:"蘧然"}],r=[],e={s,sc:t,r:n,c,d:o,ux:p,w:u,i:r};export{c,o as d,e as default,r as i,n as r,s,t as sc,p as ux,u as w};

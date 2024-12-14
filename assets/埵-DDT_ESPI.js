@@ -1,0 +1,1 @@
+const t=[{p:"duǒ",pp:"duo3",d:"solid earth",t:"埵",w:"埵"}],s=11,o="土",c=["土","垂"],n=[],d="",a=[{w:"金刚萨埵",p:"Jīn gāng sà duǒ",d:"Vajrasattva",t:"金剛薩埵"}],p=[],u={s:t,sc:s,r:o,c,d:n,ux:d,w:a,i:p};export{c,n as d,u as default,p as i,o as r,t as s,s as sc,d as ux,a as w};

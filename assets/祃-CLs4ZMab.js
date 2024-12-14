@@ -1,1 +1,0 @@
-const s=[{p:"mà",pp:"ma4",d:"(arch.) religious ritual on setting out for war",t:"禡",w:"祃"}],t=8,c="示",o=["马"],n=[],r="",a=[],i=[],u={s,sc:t,r:c,c:o,d:n,ux:r,w:a,i};export{o as c,n as d,u as default,i,c as r,s,t as sc,r as ux,a as w};

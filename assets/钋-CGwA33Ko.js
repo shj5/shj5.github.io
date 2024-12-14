@@ -1,0 +1,1 @@
+const o=[{p:"pō",pp:"po1",d:"polonium (chemistry)/Taiwan pr. [po4]",t:"釙",w:"钋"}],s=7,t="金",c=["卜"],n=[],p="",a=[],i=[],r={s:o,sc:s,r:t,c,d:n,ux:p,w:a,i};export{c,n as d,r as default,i,t as r,o as s,s as sc,p as ux,a as w};

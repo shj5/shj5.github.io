@@ -1,0 +1,1 @@
+const o=[{p:"shāo",pp:"shao1",d:"old variant of 燒|烧[shao1]",t:"焼",w:"焼"}],s=12,t="火",c=["火"],n=[],a="",d=[],p=[],h={s:o,sc:s,r:t,c,d:n,ux:a,w:d,i:p};export{c,n as d,h as default,p as i,t as r,o as s,s as sc,a as ux,d as w};

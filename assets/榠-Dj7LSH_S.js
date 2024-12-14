@@ -1,1 +1,0 @@
-const s=[{p:"míng",pp:"ming2",d:"Chinese quince",t:"榠",w:"榠"}],n=14,c="木",t=["木","冥"],o=[],e="",i=[{w:"榠楂",p:"míng zhā",d:"Chinese quince (Pseudocydonia sinensis)",t:"榠楂"}],d=[],u={s,sc:n,r:c,c:t,d:o,ux:e,w:i,i:d};export{t as c,o as d,u as default,d as i,c as r,s,n as sc,e as ux,i as w};

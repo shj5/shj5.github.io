@@ -1,1 +1,0 @@
-const n=[{p:"qióng",pp:"qiong2",d:"used in 芎藭|芎䓖[xiong1qiong2]",t:"藭",w:"䓖"}],s=0,c="",o=[],t=[],i="A",g=[{w:"芎䓖",p:"xiōng qióng",d:"see 川芎[chuan1xiong1]",t:"芎藭"}],d=[],x={s:n,sc:s,r:c,c:o,d:t,ux:i,w:g,i:d};export{o as c,t as d,x as default,d as i,c as r,n as s,s as sc,i as ux,g as w};

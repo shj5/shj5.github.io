@@ -1,0 +1,1 @@
+const o=[{p:"chǔ",pp:"chu3",d:"erroneous form of 褚",t:"禇",w:"禇"}],c=14,s="示",t=["者"],n=[],r="",e=[],p=[],u={s:o,sc:c,r:s,c:t,d:n,ux:r,w:e,i:p};export{t as c,n as d,u as default,p as i,s as r,o as s,c as sc,r as ux,e as w};

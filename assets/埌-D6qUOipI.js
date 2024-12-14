@@ -1,0 +1,1 @@
+const s=[{p:"làng",pp:"lang4",d:"wasteland/wild",t:"埌",w:"埌"}],t=10,n="土",c=["土","良"],o=[],a="",d=[],l=[],p={s,sc:t,r:n,c,d:o,ux:a,w:d,i:l};export{c,o as d,p as default,l as i,n as r,s,t as sc,a as ux,d as w};

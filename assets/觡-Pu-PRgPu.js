@@ -1,1 +1,0 @@
-const s=[{p:"gé",pp:"ge2",d:"horns/antlers",t:"觡",w:"觡"}],c=13,t="角",n=["各","角"],o=[],r="",d=[],e=[],p={s,sc:c,r:t,c:n,d:o,ux:r,w:d,i:e};export{n as c,o as d,p as default,e as i,t as r,s,c as sc,r as ux,d as w};

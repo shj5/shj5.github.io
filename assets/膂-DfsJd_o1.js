@@ -1,0 +1,1 @@
+const t=[{p:"lǚ",pp:"lu:3",d:"backbone/strength",t:"膂",w:"膂"}],s=14,n="肉",c=["月","旅"],o=[],e="",l=[{w:"膂力",p:"lǚ lì",d:"strength/bodily strength/brawn",t:"膂力"}],r=[],d={s:t,sc:s,r:n,c,d:o,ux:e,w:l,i:r};export{c,o as d,d as default,r as i,n as r,t as s,s as sc,e as ux,l as w};

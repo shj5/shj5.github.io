@@ -1,0 +1,1 @@
+const t=[{p:"kuāng",pp:"kuang1",d:"to spoil (Cant.)/to ruin/to warp (car wheel)",t:"軭",w:"軭"}],o=13,n="車",s=["匡"],c=[],a="",p=[],r=[],u={s:t,sc:o,r:n,c:s,d:c,ux:a,w:p,i:r};export{s as c,c as d,u as default,r as i,n as r,t as s,o as sc,a as ux,p as w};

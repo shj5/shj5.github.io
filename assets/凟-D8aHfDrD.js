@@ -1,0 +1,1 @@
+const t=[{p:"dú",pp:"du2",d:"variant of 瀆|渎[du2]",t:"凟",w:"凟"}],s=17,c="冫",o=["冫"],n=[],d="",a=[],p=[],u={s:t,sc:s,r:c,c:o,d:n,ux:d,w:a,i:p};export{o as c,n as d,u as default,p as i,c as r,t as s,s as sc,d as ux,a as w};

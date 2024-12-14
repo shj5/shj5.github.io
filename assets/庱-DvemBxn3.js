@@ -1,0 +1,1 @@
+const n=[{p:"Chěng",pp:"Cheng3",d:"surname Cheng/ancient area of modern-day Danyang City, Jiangsu Province",t:"庱",w:"庱"}],s=11,t="广",c=["广","夌"],o=[],a="",e=[],r=[],d={s:n,sc:s,r:t,c,d:o,ux:a,w:e,i:r};export{c,o as d,d as default,r as i,t as r,n as s,s as sc,a as ux,e as w};

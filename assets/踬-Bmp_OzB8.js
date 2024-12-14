@@ -1,0 +1,1 @@
+const t=[{p:"zhì",pp:"zhi4",d:"to stumble",t:"躓",w:"踬"}],s=15,c="足",o=["足","质"],n=[],e="",h=[],i=[{w:"跋前踬后",p:"bá qián - zhì hòu",d:"see 跋胡疐尾[ba2hu2-zhi4wei3]",t:"跋前躓後"}],p={s:t,sc:s,r:c,c:o,d:n,ux:e,w:h,i};export{o as c,n as d,p as default,i,c as r,t as s,s as sc,e as ux,h as w};

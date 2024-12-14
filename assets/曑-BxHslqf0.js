@@ -1,0 +1,1 @@
+const s=[{p:"shēn",pp:"shen1",d:"old variant of 參|参[shen1]/(constellation)",t:"曑",w:"曑"}],n=17,t="日",o=["晶"],c=[],a="",e=[],d=[],l={s,sc:n,r:t,c:o,d:c,ux:a,w:e,i:d};export{o as c,c as d,l as default,d as i,t as r,s,n as sc,a as ux,e as w};

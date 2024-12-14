@@ -1,0 +1,1 @@
+const n=[{p:"qǐ",pp:"qi3",d:"Panicum miliaceum",t:"芑",w:"芑"}],t=9,c="艸",o=["艹","己"],s=[],i="",d=[{w:"二氧芑",p:"èr yǎng qǐ",d:"dioxin",t:"二氧芑"},{w:"二氧杂芑",p:"èr yǎng zá qǐ",d:"dioxin",t:"二氧雜芑"}],p=[],a={s:n,sc:t,r:c,c:o,d:s,ux:i,w:d,i:p};export{o as c,s as d,a as default,p as i,c as r,n as s,t as sc,i as ux,d as w};

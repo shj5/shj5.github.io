@@ -1,0 +1,1 @@
+const t=[{p:"qiān",pp:"qian1",d:"to seize/to pull/to hold up the hem of clothes",t:"搴",w:"搴"}],o=14,s="手",n=["宀"],c=[],e="",p=[{w:"搴旗",p:"qiān qí",d:"to pull and capture the enemy's flag",t:"搴旗"}],l=[],a={s:t,sc:o,r:s,c:n,d:c,ux:e,w:p,i:l};export{n as c,c as d,a as default,l as i,s as r,t as s,o as sc,e as ux,p as w};

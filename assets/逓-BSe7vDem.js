@@ -1,0 +1,1 @@
+const s=[{p:"dì",pp:"di4",d:"Japanese variant of 遞|递[di4]",t:"逓",w:"逓"}],t=11,c="辵",n=["辶","乕"],o=[],a="",d=[],p=[],e={s,sc:t,r:c,c:n,d:o,ux:a,w:d,i:p};export{n as c,o as d,e as default,p as i,c as r,s,t as sc,a as ux,d as w};

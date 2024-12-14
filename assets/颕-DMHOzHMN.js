@@ -1,0 +1,1 @@
+const n=[{p:"yǐng",pp:"ying3",d:"old variant of 穎|颖[ying3]",t:"頴",w:"颕"}],t=13,o="頁",s=["页"],c=[],a="",d=[],i=[],p={s:n,sc:t,r:o,c:s,d:c,ux:a,w:d,i};export{s as c,c as d,p as default,i,o as r,n as s,t as sc,a as ux,d as w};

@@ -1,1 +1,0 @@
-const s=[{p:"tà",pp:"ta4",d:"a coarse, woollen serge",t:"毾",w:"毾"}],c=14,t="毛",o=["毛"],n=[],e="",a=[],r=[],d={s,sc:c,r:t,c:o,d:n,ux:e,w:a,i:r};export{o as c,n as d,d as default,r as i,t as r,s,c as sc,e as ux,a as w};

@@ -1,1 +1,0 @@
-const n=[{p:"Bǐng",pp:"Bing3",d:"surname Bing",t:"邴",w:"邴"},{p:"bǐng",pp:"bing3",d:"ancient city name/happy",t:"邴",w:"邴"}],c=8,s="邑",t=["丙"],o=[],p="",i=[],a=[],d={s:n,sc:c,r:s,c:t,d:o,ux:p,w:i,i:a};export{t as c,o as d,d as default,a as i,s as r,n as s,c as sc,p as ux,i as w};

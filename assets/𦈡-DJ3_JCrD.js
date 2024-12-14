@@ -1,1 +1,0 @@
-const t=[{p:"xū",pp:"xu1",d:"multicolored silk/piece of silk torn in two, used to verify the holder's identity by matching up the two halves",t:"繻",w:"𦈡"}],s=0,o="",c=[],n=[],e="B",i=[],d=[],l={s:t,sc:s,r:o,c,d:n,ux:e,w:i,i:d};export{c,n as d,l as default,d as i,o as r,t as s,s as sc,e as ux,i as w};

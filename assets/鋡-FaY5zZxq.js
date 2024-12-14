@@ -1,1 +1,0 @@
-const t=[{p:"hán",pp:"han2",d:"to hold/to contain",t:"鋡",w:"鋡"}],c=15,o="金",s=["含","金"],n=[],d="",a=[],p=[],h={s:t,sc:c,r:o,c:s,d:n,ux:d,w:a,i:p};export{s as c,n as d,h as default,p as i,o as r,t as s,c as sc,d as ux,a as w};

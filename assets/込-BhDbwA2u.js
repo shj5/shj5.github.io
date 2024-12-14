@@ -1,0 +1,1 @@
+const o=[{p:"xx",pp:"xx5",d:"(Japanese kokuji) to be crowded; to go into",t:"込",w:"込"}],t=6,s="辵",c=["辶"],n=[],e="",x=[],d=[],p={s:o,sc:t,r:s,c,d:n,ux:e,w:x,i:d};export{c,n as d,p as default,d as i,s as r,o as s,t as sc,e as ux,x as w};

@@ -1,0 +1,1 @@
+const s=[{p:"wěng",pp:"weng3",d:"clear and cloudless sky",t:"奣",w:"奣"}],c=12,n="大",t=["天","明"],o=[],d="",e=[],a=[],l={s,sc:c,r:n,c:t,d:o,ux:d,w:e,i:a};export{t as c,o as d,l as default,a as i,n as r,s,c as sc,d as ux,e as w};

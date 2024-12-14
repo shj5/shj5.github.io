@@ -1,0 +1,1 @@
+const t=[{p:"jué",pp:"jue2",d:"half-circle jade ring",t:"璚",w:"璚"},{p:"qióng",pp:"qiong2",d:"(red stone)",t:"璚",w:"璚"}],c=16,n="玉",s=["王","矞"],o=[],e="",p=[],d=[],i={s:t,sc:c,r:n,c:s,d:o,ux:e,w:p,i:d};export{s as c,o as d,i as default,d as i,n as r,t as s,c as sc,e as ux,p as w};

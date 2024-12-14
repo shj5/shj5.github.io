@@ -1,0 +1,1 @@
+const n=[{p:"Áng",pp:"Ang2",d:"surname Ang",t:"卬",w:"卬"},{p:"áng",pp:"ang2",d:"I (regional colloquial)/me/variant of 昂[ang2]",t:"卬",w:"卬"}],o=4,t="卩",s=["匚","卩"],c=["仰","抑","昂","枊","迎"],a="",g=[],p=[],e={s:n,sc:o,r:t,c:s,d:c,ux:a,w:g,i:p};export{s as c,c as d,e as default,p as i,t as r,n as s,o as sc,a as ux,g as w};

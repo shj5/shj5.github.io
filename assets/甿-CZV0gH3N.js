@@ -1,1 +1,0 @@
-const s=[{p:"méng",pp:"meng2",d:"variant of 氓[meng2]",t:"甿",w:"甿"}],c=8,n="田",t=["亡","田"],o=[],a="",d=[],e=[],p={s,sc:c,r:n,c:t,d:o,ux:a,w:d,i:e};export{t as c,o as d,p as default,e as i,n as r,s,c as sc,a as ux,d as w};

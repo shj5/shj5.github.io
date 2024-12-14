@@ -1,0 +1,1 @@
+const t=[{p:"wéi",pp:"wei2",d:"mast",t:"桅",w:"桅"}],s=10,n="木",o=["木","危"],c=[],w="",i=[{w:"前桅",p:"qián wéi",d:"foremast",t:"前桅"},{w:"桅杆",p:"wéi gān",d:"mast",t:"桅杆"},{w:"桅竿",p:"wéi gān",d:"ship mast/mast/also written 桅杆",t:"桅竿"}],a=[],p={s:t,sc:s,r:n,c:o,d:c,ux:w,w:i,i:a};export{o as c,c as d,p as default,a as i,n as r,t as s,s as sc,w as ux,i as w};

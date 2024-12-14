@@ -1,1 +1,0 @@
-const n=[{p:"gān",pp:"gan1",d:"so (Cantonese)/Mandarin equivalent: 這樣|这样[zhe4 yang4]",t:"咁",w:"咁"}],s=8,t="口",c=["口","甘"],o=[],a="",e=[],d=[],i={s:n,sc:s,r:t,c,d:o,ux:a,w:e,i:d};export{c,o as d,i as default,d as i,t as r,n as s,s as sc,a as ux,e as w};

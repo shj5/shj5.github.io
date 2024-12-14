@@ -1,0 +1,1 @@
+const t=[{p:"duàn",pp:"duan4",d:"infertile egg",t:"毈",w:"毈"}],n=16,s="殳",c=["卵","段"],o=[],d="",e=[],p=[],u={s:t,sc:n,r:s,c,d:o,ux:d,w:e,i:p};export{c,o as d,u as default,p as i,s as r,t as s,n as sc,d as ux,e as w};

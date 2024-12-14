@@ -1,1 +1,0 @@
-const s=[{p:"zú",pp:"zu2",d:"variant of 卒[zu2], soldier/to die",t:"卆",w:"卆"}],t=4,c="十",o=["九","十"],n=["伜","砕","粋","酔"],d="",i=[],r=[],u={s,sc:t,r:c,c:o,d:n,ux:d,w:i,i:r};export{o as c,n as d,u as default,r as i,c as r,s,t as sc,d as ux,i as w};

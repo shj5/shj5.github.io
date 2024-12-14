@@ -1,0 +1,1 @@
+const t=[{p:"lei",pp:"lei5",d:"sentence-final particle similar to 了[le5], but carrying a tone of approval",t:"嘞",w:"嘞"}],c=14,n="口",o=["口","勒"],s=[],e="",a=[],i=[],l={s:t,sc:c,r:n,c:o,d:s,ux:e,w:a,i};export{o as c,s as d,l as default,i,n as r,t as s,c as sc,e as ux,a as w};

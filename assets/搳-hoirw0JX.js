@@ -1,0 +1,1 @@
+const n=[{p:"huá",pp:"hua2",d:"used in 搳拳[hua2 quan2]",t:"搳",w:"搳"}],t=13,s="手",c=["扌","害"],o=[],u="",a=[{w:"搳拳",p:"huá quán",d:"variant of 划拳[hua2 quan2]",t:"搳拳"}],d=[],h={s:n,sc:t,r:s,c,d:o,ux:u,w:a,i:d};export{c,o as d,h as default,d as i,s as r,n as s,t as sc,u as ux,a as w};

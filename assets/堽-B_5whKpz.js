@@ -1,1 +1,0 @@
-const s=[{p:"gāng",pp:"gang1",d:"mound",t:"堽",w:"堽"}],c=13,n="土",t=["土","罡"],o=[],d="",g=[],p=[],u={s,sc:c,r:n,c:t,d:o,ux:d,w:g,i:p};export{t as c,o as d,u as default,p as i,n as r,s,c as sc,d as ux,g as w};

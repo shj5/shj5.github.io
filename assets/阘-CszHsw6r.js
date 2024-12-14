@@ -1,0 +1,1 @@
+const o=[{p:"tà",pp:"ta4",d:"door or window in an upper story",t:"闒",w:"阘"}],t=13,s="門",n=["门"],c=[],p="",r=[],d=[],a={s:o,sc:t,r:s,c:n,d:c,ux:p,w:r,i:d};export{n as c,c as d,a as default,d as i,s as r,o as s,t as sc,p as ux,r as w};

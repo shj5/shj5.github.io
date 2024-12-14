@@ -1,0 +1,1 @@
+const t=[{p:"huáng",pp:"huang2",d:"used in 彷徨[pang2huang2]",t:"徨",w:"徨"}],n=12,o="彳",c=["彳","皇"],s=[],a="",h=[{w:"彷徨",p:"páng huáng",d:"to pace back and forth, not knowing which way to turn; to hesitate; to waver",t:"彷徨"}],p=[],u={s:t,sc:n,r:o,c,d:s,ux:a,w:h,i:p};export{c,s as d,u as default,p as i,o as r,t as s,n as sc,a as ux,h as w};

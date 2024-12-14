@@ -1,0 +1,1 @@
+const e=[{p:"dié",pp:"die2",d:"aged/in one's eighties",t:"耋",w:"耋"}],n=12,o="老",s=["老","至"],t=[],d="",c=[{w:"耄耋",p:"mào dié",d:"extremely aged/gray and venerable",t:"耄耋"},{w:"耄耋之年",p:"mào dié zhī nián",d:"old age (in one's 80s, 90s, or more)",t:"耄耋之年"}],i=[],a={s:e,sc:n,r:o,c:s,d:t,ux:d,w:c,i};export{s as c,t as d,a as default,i,o as r,e as s,n as sc,d as ux,c as w};

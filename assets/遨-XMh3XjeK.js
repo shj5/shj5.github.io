@@ -1,1 +1,0 @@
-const o=[{p:"áo",pp:"ao2",d:"to make an excursion; to ramble; to travel",t:"遨",w:"遨"}],t=15,n="辵",s=["辶","敖"],a=[],c="",r=[{w:"遨翔",p:"áo xiáng",d:"variant of 翱翔[ao2 xiang2]",t:"遨翔"},{w:"遨游",p:"áo yóu",d:"to travel; to go on a tour; to roam",t:"遨遊"}],e=[],d={s:o,sc:t,r:n,c:s,d:a,ux:c,w:r,i:e};export{s as c,a as d,d as default,e as i,n as r,o as s,t as sc,c as ux,r as w};

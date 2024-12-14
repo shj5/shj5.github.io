@@ -1,0 +1,1 @@
+const s=[{p:"nú",pp:"nu2",d:"(literary) birdcage/(used in place names)",t:"笯",w:"笯"}],c=11,n="竹",t=["奴","竹"],o=[],e="",a=[],d=[],p={s,sc:c,r:n,c:t,d:o,ux:e,w:a,i:d};export{t as c,o as d,p as default,d as i,n as r,s,c as sc,e as ux,a as w};

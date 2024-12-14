@@ -1,0 +1,1 @@
+const t=[{p:"hù",pp:"hu4",d:"variant of 戶|户[hu4]",t:"戸",w:"戸"}],s=4,c="戶",o=["一","尸"],n=["戻","房","所","炉","肩","扁","扇","扉","雇"],a="",p=[],u=[],d={s:t,sc:s,r:c,c:o,d:n,ux:a,w:p,i:u};export{o as c,n as d,d as default,u as i,c as r,t as s,s as sc,a as ux,p as w};

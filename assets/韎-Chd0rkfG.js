@@ -1,0 +1,1 @@
+const s=[{p:"mèi",pp:"mei4",d:"a grass that gives red dye",t:"韎",w:"韎"}],t=14,c="韋",o=["末"],n=[],e="",a=[],d=[],i={s,sc:t,r:c,c:o,d:n,ux:e,w:a,i:d};export{o as c,n as d,i as default,d as i,c as r,s,t as sc,e as ux,a as w};

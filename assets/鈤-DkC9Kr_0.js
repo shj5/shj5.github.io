@@ -1,0 +1,1 @@
+const t=[{p:"rì",pp:"ri4",d:"archaic translation of element germanium Ge32 鍺|锗[zhe3]",t:"鈤",w:"鈤"}],c=12,n="金",s=["日","金"],o=[],e="",a=[],r=[],i={s:t,sc:c,r:n,c:s,d:o,ux:e,w:a,i:r};export{s as c,o as d,i as default,r as i,n as r,t as s,c as sc,e as ux,a as w};

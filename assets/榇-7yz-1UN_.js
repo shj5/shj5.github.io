@@ -1,1 +1,0 @@
-const c=[{p:"chèn",pp:"chen4",d:"Sterculia plantanifolia/coffin",t:"櫬",w:"榇"}],n=13,s="木",t=["木","亲"],o=[],a="",i=[],p=[],d={s:c,sc:n,r:s,c:t,d:o,ux:a,w:i,i:p};export{t as c,o as d,d as default,p as i,s as r,c as s,n as sc,a as ux,i as w};

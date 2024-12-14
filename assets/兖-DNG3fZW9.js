@@ -1,0 +1,1 @@
+const n=[{p:"yǎn",pp:"yan3",d:"used in 兗州|兖州[Yan3zhou1]",t:"兗",w:"兖"}],s=8,t="儿",c=["六","允"],o=[],a="",d=[],p=[],u={s:n,sc:s,r:t,c,d:o,ux:a,w:d,i:p};export{c,o as d,u as default,p as i,t as r,n as s,s as sc,a as ux,d as w};

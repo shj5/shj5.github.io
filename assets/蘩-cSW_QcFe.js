@@ -1,0 +1,1 @@
+const s=[{p:"fán",pp:"fan2",d:"Artemisia stellariana",t:"蘩",w:"蘩"}],t=20,n="艸",c=["艹","繁"],o=[],a="",e=[],i=[],p={s,sc:t,r:n,c,d:o,ux:a,w:e,i};export{c,o as d,p as default,i,n as r,s,t as sc,a as ux,e as w};

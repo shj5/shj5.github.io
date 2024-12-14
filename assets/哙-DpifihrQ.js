@@ -1,1 +1,0 @@
-const t=[{p:"Kuài",pp:"Kuai4",d:"surname Kuai",t:"噲",w:"哙"},{p:"kuài",pp:"kuai4",d:"throat/to swallow",t:"噲",w:"哙"},{p:"wèi",pp:"wei4",d:"(interjection) hey",t:"噲",w:"哙"}],s=9,c="口",o=["口","会"],n=[],i="",p=[],u=[],w={s:t,sc:s,r:c,c:o,d:n,ux:i,w:p,i:u};export{o as c,n as d,w as default,u as i,c as r,t as s,s as sc,i as ux,p as w};

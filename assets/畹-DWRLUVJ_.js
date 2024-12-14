@@ -1,0 +1,1 @@
+const n=[{p:"wǎn",pp:"wan3",d:"a field of 20 or 30 mu",t:"畹",w:"畹"}],s=13,t="田",o=["田","宛"],c=[],a="",w=[{w:"沙畹",p:"Shā wǎn",d:"Chavannes (name)",t:"沙畹"}],d=[],e={s:n,sc:s,r:t,c:o,d:c,ux:a,w,i:d};export{o as c,c as d,e as default,d as i,t as r,n as s,s as sc,a as ux,w};

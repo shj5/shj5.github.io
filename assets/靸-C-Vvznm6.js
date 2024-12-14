@@ -1,0 +1,1 @@
+const s=[{p:"sǎ",pp:"sa3",d:"children's shoe (old)/to wear one's shoes babouche style",t:"靸",w:"靸"}],o=13,t="革",c=["及","革"],n=[],e="",a=[],d=[],h={s,sc:o,r:t,c,d:n,ux:e,w:a,i:d};export{c,n as d,h as default,d as i,t as r,s,o as sc,e as ux,a as w};

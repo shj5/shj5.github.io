@@ -1,0 +1,1 @@
+const t=[{p:"tuō",pp:"tuo1",d:"nonstandard simplified variant of 託|托[tuo1]",t:"讬",w:"讬"}],o=5,s="言",n=["讠","乇"],c=[],a="",d=[],i=[],p={s:t,sc:o,r:s,c:n,d:c,ux:a,w:d,i};export{n as c,c as d,p as default,i,s as r,t as s,o as sc,a as ux,d as w};

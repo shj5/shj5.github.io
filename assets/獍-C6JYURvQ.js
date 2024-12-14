@@ -1,1 +1,0 @@
-const t=[{p:"jìng",pp:"jing4",d:"a mythical animal that eats its mother",t:"獍",w:"獍"}],s=14,c="犬",n=["犭","竟"],o=[],a="",i=[],d=[],e={s:t,sc:s,r:c,c:n,d:o,ux:a,w:i,i:d};export{n as c,o as d,e as default,d as i,c as r,t as s,s as sc,a as ux,i as w};

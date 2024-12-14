@@ -1,0 +1,1 @@
+const t=[{p:"wò",pp:"wo4",d:"see 石硪[shi2 wo4]",t:"硪",w:"硪"}],s=12,o="石",c=["石","我"],n=[],e="",w=[{w:"石硪",p:"shí wò",d:"flat stone with ropes attached, used to ram the ground",t:"石硪"}],d=[],a={s:t,sc:s,r:o,c,d:n,ux:e,w,i:d};export{c,n as d,a as default,d as i,o as r,t as s,s as sc,e as ux,w};

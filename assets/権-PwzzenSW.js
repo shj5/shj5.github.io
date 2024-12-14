@@ -1,0 +1,1 @@
+const n=[{p:"quán",pp:"quan2",d:"old variant of 權|权[quan2]",t:"権",w:"権"}],t=15,o="木",s=["木"],c=[],a="",u=[],d=[],p={s:n,sc:t,r:o,c:s,d:c,ux:a,w:u,i:d};export{s as c,c as d,p as default,d as i,o as r,n as s,t as sc,a as ux,u as w};

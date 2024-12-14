@@ -1,0 +1,1 @@
+const t=[{p:"bī",pp:"bi1",d:"old variant of 屄[bi1]",t:"毴",w:"毴"}],o=12,s="毛",c=["毛","非"],n=[],a="",d=[],i=[],p={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i};export{c,n as d,p as default,i,s as r,t as s,o as sc,a as ux,d as w};

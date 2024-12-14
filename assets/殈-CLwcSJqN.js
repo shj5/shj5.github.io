@@ -1,0 +1,1 @@
+const t=[{p:"xù",pp:"xu4",d:"damage egg so it does not hatch",t:"殈",w:"殈"}],s=10,o="歹",c=["歹","血"],n=[],a="",d=[],e=[],p={s:t,sc:s,r:o,c,d:n,ux:a,w:d,i:e};export{c,n as d,p as default,e as i,o as r,t as s,s as sc,a as ux,d as w};

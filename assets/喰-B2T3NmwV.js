@@ -1,0 +1,1 @@
+const c=[{p:"cān",pp:"can1",d:"old variant of 餐[can1]",t:"喰",w:"喰"}],n=12,t="口",o=["口","食"],s=[],a="",d=[],p=[],r={s:c,sc:n,r:t,c:o,d:s,ux:a,w:d,i:p};export{o as c,s as d,r as default,p as i,t as r,c as s,n as sc,a as ux,d as w};

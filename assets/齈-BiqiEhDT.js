@@ -1,0 +1,1 @@
+const n=[{p:"nóng",pp:"nong2",d:"cold in the head catarrh of the nose",t:"齈",w:"齈"}],t=27,o="鼻",c=["鼻"],s=[],e="",a=[],d=[],h={s:n,sc:t,r:o,c,d:s,ux:e,w:a,i:d};export{c,s as d,h as default,d as i,o as r,n as s,t as sc,e as ux,a as w};

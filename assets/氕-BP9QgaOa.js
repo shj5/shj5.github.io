@@ -1,0 +1,1 @@
+const o=[{p:"piē",pp:"pie1",d:"protium 1H/light hydrogen, the most common isotope of hydrogen, having no neutron, so atomic weight 1",t:"氕",w:"氕"}],t=5,n="气",s=["丿","气"],c=[],e="",i=[],p=[],h={s:o,sc:t,r:n,c:s,d:c,ux:e,w:i,i:p};export{s as c,c as d,h as default,p as i,n as r,o as s,t as sc,e as ux,i as w};

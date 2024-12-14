@@ -1,0 +1,1 @@
+const t=[{p:"jiān",pp:"jian1",d:"(bound form) saddle blanket",t:"韉",w:"鞯"}],n=18,s="革",o=["革","荐"],a=[],c="",d=[{w:"鞍鞯",p:"ān jiān",d:"(literary) a saddle with a saddle blanket",t:"鞍韉"}],e=[],l={s:t,sc:n,r:s,c:o,d:a,ux:c,w:d,i:e};export{o as c,a as d,l as default,e as i,s as r,t as s,n as sc,c as ux,d as w};

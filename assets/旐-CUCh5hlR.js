@@ -1,0 +1,1 @@
+const o=[{p:"zhào",pp:"zhao4",d:"banner",t:"旐",w:"旐"}],s=12,t="方",c=["方"],n=[],a="",p=[],d=[],e={s:o,sc:s,r:t,c,d:n,ux:a,w:p,i:d};export{c,n as d,e as default,d as i,t as r,o as s,s as sc,a as ux,p as w};

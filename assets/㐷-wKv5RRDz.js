@@ -1,0 +1,1 @@
+const t=[{p:"mà",pp:"ma4",d:"variant of 罵|骂[ma4]",t:"傌",w:"㐷"}],s=0,c="",o=[],n=[],a="A",p=[],d=[],m={s:t,sc:s,r:c,c:o,d:n,ux:a,w:p,i:d};export{o as c,n as d,m as default,d as i,c as r,t as s,s as sc,a as ux,p as w};

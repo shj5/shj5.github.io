@@ -1,0 +1,1 @@
+const o=[{p:"fiào",pp:"fiao4",d:"contraction of 勿要/must not/please don't",t:"覅",w:"覅"}],t=13,s="襾",c=["勿","要"],n=[],a="",p=[],d=[],e={s:o,sc:t,r:s,c,d:n,ux:a,w:p,i:d};export{c,n as d,e as default,d as i,s as r,o as s,t as sc,a as ux,p as w};

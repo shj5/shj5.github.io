@@ -1,0 +1,1 @@
+const c=[{p:"gè",pp:"ge4",d:"chromium (chemistry)",t:"鉻",w:"铬"}],o=11,t="金",s=["各"],n=[],d="",e=[{w:"单铬",p:"dān gè",d:"monochrome",t:"單鉻"}],m=[],p={s:c,sc:o,r:t,c:s,d:n,ux:d,w:e,i:m};export{s as c,n as d,p as default,m as i,t as r,c as s,o as sc,d as ux,e as w};

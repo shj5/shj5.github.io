@@ -1,0 +1,1 @@
+const o=[{p:"fǎn",pp:"fan3",d:"sole or flounder",t:"魬",w:"魬"}],s=15,n="魚",t=["反"],c=[],d="",e=[],f=[],p={s:o,sc:s,r:n,c:t,d:c,ux:d,w:e,i:f};export{t as c,c as d,p as default,f as i,n as r,o as s,s as sc,d as ux,e as w};

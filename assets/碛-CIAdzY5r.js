@@ -1,0 +1,1 @@
+const o=[{p:"qì",pp:"qi4",d:"(bound form) moraine; rocks in shallow water",t:"磧",w:"碛"}],s=13,t="石",n=["石","责"],r=[],c="",e=[{w:"冰碛",p:"bīng qì",d:"moraine/rock debris from glacier",t:"冰磧"},{w:"沙碛",p:"shā qì",d:"(literary) desert/sandy shore",t:"沙磧"}],a=[],d={s:o,sc:s,r:t,c:n,d:r,ux:c,w:e,i:a};export{n as c,r as d,d as default,a as i,t as r,o as s,s as sc,c as ux,e as w};

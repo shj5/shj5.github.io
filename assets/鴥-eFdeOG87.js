@@ -1,0 +1,1 @@
+const o=[{p:"yù",pp:"yu4",d:"(of a bird) to fly swiftly/to swoop",t:"鴥",w:"鴥"}],t=16,s="鳥",c=["穴"],n=[],p="",d=[],f=[],w={s:o,sc:t,r:s,c,d:n,ux:p,w:d,i:f};export{c,n as d,w as default,f as i,s as r,o as s,t as sc,p as ux,d as w};

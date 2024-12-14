@@ -1,0 +1,1 @@
+const s=[{p:"jū",pp:"ju1",d:"Hydrophilus cognatus",t:"蜛",w:"蜛"}],t=14,c="虫",o=["虫","居"],n=[],p="",u=[],d=[],a={s,sc:t,r:c,c:o,d:n,ux:p,w:u,i:d};export{o as c,n as d,a as default,d as i,c as r,s,t as sc,p as ux,u as w};

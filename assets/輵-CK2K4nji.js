@@ -1,1 +1,0 @@
-const s=[{p:"gé",pp:"ge2",d:"great array of spears and chariots",t:"輵",w:"輵"}],c=16,t="車",o=["曷"],n=[],a="",r=[],d=[],e={s,sc:c,r:t,c:o,d:n,ux:a,w:r,i:d};export{o as c,n as d,e as default,d as i,t as r,s,c as sc,a as ux,r as w};

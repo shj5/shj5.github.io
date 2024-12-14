@@ -1,0 +1,1 @@
+const s=[{p:"fù",pp:"fu4",d:"prince consort",t:"駙",w:"驸"}],o=8,t="馬",c=["马","付"],n=[],p="",r=[{w:"驸马",p:"fù mǎ",d:"emperor's son-in-law",t:"駙馬"}],e=[],d={s,sc:o,r:t,c,d:n,ux:p,w:r,i:e};export{c,n as d,d as default,e as i,t as r,s,o as sc,p as ux,r as w};

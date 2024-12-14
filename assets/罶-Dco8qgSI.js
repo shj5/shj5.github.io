@@ -1,1 +1,0 @@
-const s=[{p:"liǔ",pp:"liu3",d:"creel/fish basket",t:"罶",w:"罶"}],c=15,t="网",o=["罒","留"],n=[],e="",i=[],d=[],l={s,sc:c,r:t,c:o,d:n,ux:e,w:i,i:d};export{o as c,n as d,l as default,d as i,t as r,s,c as sc,e as ux,i as w};

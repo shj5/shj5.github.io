@@ -1,1 +1,0 @@
-const t=[{p:"tiǎo",pp:"tiao3",d:"(literary) the appearance of the moon in the west at the end of a lunar month",t:"朓",w:"朓"}],o=10,n="月",s=["月","兆"],c=[],e="",a=[],r=[],i={s:t,sc:o,r:n,c:s,d:c,ux:e,w:a,i:r};export{s as c,c as d,i as default,r as i,n as r,t as s,o as sc,e as ux,a as w};

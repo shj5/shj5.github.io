@@ -1,0 +1,1 @@
+const n=[{p:"mín",pp:"min2",d:"jade-like stone",t:"玟",w:"玟"},{p:"wén",pp:"wen2",d:"veins in jade",t:"玟",w:"玟"}],s=8,t="玉",o=["王","文"],c=[],e="",p=[{w:"李玟",p:"Lǐ Wén",d:"Coco Lee (1975-), pop singer, songwriter and actress",t:"李玟"}],d=[],i={s:n,sc:s,r:t,c:o,d:c,ux:e,w:p,i:d};export{o as c,c as d,i as default,d as i,t as r,n as s,s as sc,e as ux,p as w};

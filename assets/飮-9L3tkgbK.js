@@ -1,1 +1,0 @@
-const s=[{p:"yǐn",pp:"yin3",d:"variant of 飲|饮[yin3]",t:"飮",w:"飮"}],c=13,n="食",t=["欠"],o=[],i="",a=[],d=[],p={s,sc:c,r:n,c:t,d:o,ux:i,w:a,i:d};export{t as c,o as d,p as default,d as i,n as r,s,c as sc,i as ux,a as w};

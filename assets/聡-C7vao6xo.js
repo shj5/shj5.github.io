@@ -1,0 +1,1 @@
+const c=[{p:"cōng",pp:"cong1",d:"old variant of 聰|聪[cong1]",t:"聡",w:"聡"}],o=14,n="耳",t=["耳"],s=[],a="",d=[],p=[],g={s:c,sc:o,r:n,c:t,d:s,ux:a,w:d,i:p};export{t as c,s as d,g as default,p as i,n as r,c as s,o as sc,a as ux,d as w};

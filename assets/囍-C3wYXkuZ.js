@@ -1,0 +1,1 @@
+const s=[{p:"xǐ",pp:"xi3",d:"double happiness (similar to 喜喜)/symbol of good luck, esp. marriage",t:"囍",w:"囍"}],o=22,t="口",c=["喜"],n=[],p="",a=[],e=[],i={s,sc:o,r:t,c,d:n,ux:p,w:a,i:e};export{c,n as d,i as default,e as i,t as r,s,o as sc,p as ux,a as w};

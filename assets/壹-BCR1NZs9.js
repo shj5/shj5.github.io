@@ -1,0 +1,1 @@
+const t=[{p:"yī",pp:"yi1",d:"one (banker's anti-fraud numeral)",t:"壹",w:"壹"}],s=12,n="士",o=["土"],c=["亄","噎","曀","殪","豷","饐","懿"],e="",a=[{w:"约翰壹书",p:"Yuē hàn yī shū",d:"First epistle of St John/also written 約翰一書|约翰一书",t:"約翰壹書"}],r=[],i={s:t,sc:s,r:n,c:o,d:c,ux:e,w:a,i:r};export{o as c,c as d,i as default,r as i,n as r,t as s,s as sc,e as ux,a as w};

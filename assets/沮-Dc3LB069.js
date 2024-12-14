@@ -1,0 +1,1 @@
+const t=[{p:"jǔ",pp:"ju3",d:"to destroy/to stop",t:"沮",w:"沮"}],s=8,o="水",c=["氵","且"],d=["菹"],n="",e=[{w:"沮丧",p:"jǔ sàng",d:"dispirited/dejected/dismayed",t:"沮喪"}],p=[],i={s:t,sc:s,r:o,c,d,ux:n,w:e,i:p};export{c,d,i as default,p as i,o as r,t as s,s as sc,n as ux,e as w};

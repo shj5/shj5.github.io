@@ -1,0 +1,1 @@
+const n=[{p:"hàn",pp:"han4",d:"variant of 捍[han4]",t:"㪋",w:"㪋"}],t=0,s="",c=[],o=[],a="A",p=[],d=[],h={s:n,sc:t,r:s,c,d:o,ux:a,w:p,i:d};export{c,o as d,h as default,d as i,s as r,n as s,t as sc,a as ux,p as w};

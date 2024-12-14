@@ -1,0 +1,1 @@
+const n=[{p:"diàn",pp:"dian4",d:"stand for goblets",t:"坫",w:"坫"}],t=8,s="土",o=["土","占"],c=[],d="",a=[{w:"反坫",p:"fǎn diàn",d:"earthern goblet stand also known as 垿[xu4] (old)",t:"反坫"}],e=[],l={s:n,sc:t,r:s,c:o,d:c,ux:d,w:a,i:e};export{o as c,c as d,l as default,e as i,s as r,n as s,t as sc,d as ux,a as w};

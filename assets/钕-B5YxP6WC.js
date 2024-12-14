@@ -1,0 +1,1 @@
+const s=[{p:"nǚ",pp:"nu:3",d:"neodymium (chemistry)",t:"釹",w:"钕"}],t=8,c="金",n=["女"],o=[],d="",e=[],p=[],u={s,sc:t,r:c,c:n,d:o,ux:d,w:e,i:p};export{n as c,o as d,u as default,p as i,c as r,s,t as sc,d as ux,e as w};

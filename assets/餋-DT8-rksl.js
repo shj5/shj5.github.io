@@ -1,0 +1,1 @@
+const s=[{p:"juàn",pp:"juan4",d:"to offer sacrifices",t:"餋",w:"餋"}],c=15,t="食",o=["关","食"],n=[],a="",e=[],f=[],p={s,sc:c,r:t,c:o,d:n,ux:a,w:e,i:f};export{o as c,n as d,p as default,f as i,t as r,s,c as sc,a as ux,e as w};

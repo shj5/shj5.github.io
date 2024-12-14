@@ -1,1 +1,0 @@
-const s=[{p:"gè",pp:"ge4",d:"variant of 個|个[ge4]",t:"亇",w:"亇"}],c=3,t="亅",o=["亅"],n=["竹","蚀"],a="",d=[],e=[],p={s,sc:c,r:t,c:o,d:n,ux:a,w:d,i:e};export{o as c,n as d,p as default,e as i,t as r,s,c as sc,a as ux,d as w};

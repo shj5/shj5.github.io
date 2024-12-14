@@ -1,1 +1,0 @@
-const s=[{p:"jié",pp:"jie2",d:"box (dialect)/used to transliterate words with sounds kip-, cap- etc",t:"喼",w:"喼"}],t=12,c="口",o=["口","急"],e=[],n="",i=[{w:"喼汁",p:"jié zhī",d:"Worcestershire sauce",t:"喼汁"}],d=[],r={s,sc:t,r:c,c:o,d:e,ux:n,w:i,i:d};export{o as c,e as d,r as default,d as i,c as r,s,t as sc,n as ux,i as w};

@@ -1,1 +1,0 @@
-const s=[{p:"jiē",pp:"jie1",d:"harmonious (of music)",t:"喈",w:"喈"}],c=12,o="口",t=["口","皆"],n=[],i="",u=[],d=[],p={s,sc:c,r:o,c:t,d:n,ux:i,w:u,i:d};export{t as c,n as d,p as default,d as i,o as r,s,c as sc,i as ux,u as w};

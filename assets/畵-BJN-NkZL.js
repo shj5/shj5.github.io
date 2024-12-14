@@ -1,0 +1,1 @@
+const t=[{p:"huà",pp:"hua4",d:"variant of 畫|画[hua4]",t:"畵",w:"畵"}],s=13,c="田",o=["聿"],n=[],a="",u=[],p=[],d={s:t,sc:s,r:c,c:o,d:n,ux:a,w:u,i:p};export{o as c,n as d,d as default,p as i,c as r,t as s,s as sc,a as ux,u as w};

@@ -1,0 +1,1 @@
+const s=[{p:"jiǎ",pp:"jia3",d:"(evergreen shrub)/Celtis sinensis",t:"榎",w:"榎"}],t=14,n="木",c=["木","夏"],o=[],e="",i=[],r=[],p={s,sc:t,r:n,c,d:o,ux:e,w:i,i:r};export{c,o as d,p as default,r as i,n as r,s,t as sc,e as ux,i as w};

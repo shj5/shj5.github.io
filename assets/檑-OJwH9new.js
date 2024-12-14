@@ -1,0 +1,1 @@
+const o=[{p:"léi",pp:"lei2",d:"logs rolled down in defense of city",t:"檑",w:"檑"}],s=17,t="木",c=["木","雷"],n=[],e="",d=[],l=[],i={s:o,sc:s,r:t,c,d:n,ux:e,w:d,i:l};export{c,n as d,i as default,l as i,t as r,o as s,s as sc,e as ux,d as w};

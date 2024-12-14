@@ -1,1 +1,0 @@
-const s=[{p:"kuò",pp:"kuo4",d:"Japanese variant of 擴|扩",t:"拡",w:"拡"}],c=8,t="手",o=["扌","広"],n=[],a="",p=[],u=[],d={s,sc:c,r:t,c:o,d:n,ux:a,w:p,i:u};export{o as c,n as d,d as default,u as i,t as r,s,c as sc,a as ux,p as w};

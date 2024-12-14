@@ -1,0 +1,1 @@
+const s=[{p:"bī",pp:"bi1",d:"pea (Pisum sativum)",t:"豍",w:"豍"}],t=15,c="豆",o=["豆","卑"],n=[],p="",a=[],i=[],u={s,sc:t,r:c,c:o,d:n,ux:p,w:a,i};export{o as c,n as d,u as default,i,c as r,s,t as sc,p as ux,a as w};

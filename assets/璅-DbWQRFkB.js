@@ -1,1 +1,0 @@
-const s=[{p:"suǒ",pp:"suo3",d:"fragmentary/trifling",t:"璅",w:"璅"}],t=15,c="玉",n=["王","巢"],o=[],r="",u=[],a=[],d={s,sc:t,r:c,c:n,d:o,ux:r,w:u,i:a};export{n as c,o as d,d as default,a as i,c as r,s,t as sc,r as ux,u as w};

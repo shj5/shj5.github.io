@@ -1,1 +1,0 @@
-const s=[{p:"shàn",pp:"shan4",d:"variant of 鱔|鳝[shan4]",t:"鱣",w:"鳣"},{p:"zhān",pp:"zhan1",d:"sturgeon (old)/Acipenser micadoi",t:"鱣",w:"鳣"}],n=21,c="魚",t=["鱼","亶"],o=[],a="",p=[],d=[],i={s,sc:n,r:c,c:t,d:o,ux:a,w:p,i:d};export{t as c,o as d,i as default,d as i,c as r,s,n as sc,a as ux,p as w};

@@ -1,0 +1,1 @@
+const t=[{p:"guǒ",pp:"guo3",d:"used in 蜾蠃[guo3luo3]",t:"蜾",w:"蜾"}],o=14,s="虫",c=["虫","果"],n=[],u="",p=[{w:"蜾蠃",p:"guǒ luǒ",d:"potter wasp",t:"蜾蠃"}],d=[],e={s:t,sc:o,r:s,c,d:n,ux:u,w:p,i:d};export{c,n as d,e as default,d as i,s as r,t as s,o as sc,u as ux,p as w};

@@ -1,0 +1,1 @@
+const n=[{p:"ràng",pp:"rang4",d:"Japanese variant of 讓|让",t:"譲",w:"譲"}],s=20,t="言",c=[],o=[],a="",p=[],r=[],e={s:n,sc:s,r:t,c,d:o,ux:a,w:p,i:r};export{c,o as d,e as default,r as i,t as r,n as s,s as sc,a as ux,p as w};

@@ -1,0 +1,1 @@
+const o=[{p:"hòu",pp:"hou4",d:"mounds for beacons",t:"堠",w:"堠"}],s=12,c="土",t=["土","侯"],n=[],u="",d=[],p=[],a={s:o,sc:s,r:c,c:t,d:n,ux:u,w:d,i:p};export{t as c,n as d,a as default,p as i,c as r,o as s,s as sc,u as ux,d as w};

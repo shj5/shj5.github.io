@@ -1,1 +1,0 @@
-const s=[{p:"jū",pp:"ju1",d:"osprey/fish hawk",t:"雎",w:"雎"}],c=13,t="隹",o=["且","隹"],n=[],p="",d=[],r=[],u={s,sc:c,r:t,c:o,d:n,ux:p,w:d,i:r};export{o as c,n as d,u as default,r as i,t as r,s,c as sc,p as ux,d as w};

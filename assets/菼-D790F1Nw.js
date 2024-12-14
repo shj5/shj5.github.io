@@ -1,0 +1,1 @@
+const s=[{p:"tǎn",pp:"tan3",d:"Miscanthus sacchariflorus (Amur silvergrass)/Miscanthus sinensis (feather grass)",t:"菼",w:"菼"}],t=11,c="艸",n=["艹","炎"],o=[],a="",r=[],i=[],e={s,sc:t,r:c,c:n,d:o,ux:a,w:r,i};export{n as c,o as d,e as default,i,c as r,s,t as sc,a as ux,r as w};

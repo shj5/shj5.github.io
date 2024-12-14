@@ -1,0 +1,1 @@
+const o=[{p:"xuán",pp:"xuan2",d:"jadelike precious stone/jade-colored",t:"玹",w:"玹"}],s=9,c="玉",t=["王","玄"],n=[],e="",d=[],a=[],p={s:o,sc:s,r:c,c:t,d:n,ux:e,w:d,i:a};export{t as c,n as d,p as default,a as i,c as r,o as s,s as sc,e as ux,d as w};

@@ -1,0 +1,1 @@
+const s=[{p:"xī",pp:"xi1",d:"swine",t:"豨",w:"豨"}],t=14,n="豕",o=["豕","希"],c=[],i="",e=[{w:"豨莶",p:"xī xiān",d:"common St. Paul's wort; Indian weed (Sigesbeckia orientalis)",t:"豨薟"}],a=[],d={s,sc:t,r:n,c:o,d:c,ux:i,w:e,i:a};export{o as c,c as d,d as default,a as i,n as r,s,t as sc,i as ux,e as w};

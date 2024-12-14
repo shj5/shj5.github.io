@@ -1,0 +1,1 @@
+const t=[{p:"lì",pp:"li4",d:"used in transliteration",t:"嚟",w:"嚟"}],s=18,n="口",c=["口","黎"],o=[],i="",a=[],d=[],e={s:t,sc:s,r:n,c,d:o,ux:i,w:a,i:d};export{c,o as d,e as default,d as i,n as r,t as s,s as sc,i as ux,a as w};

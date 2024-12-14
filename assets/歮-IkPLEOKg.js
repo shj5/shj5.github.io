@@ -1,0 +1,1 @@
+const s=[{p:"sè",pp:"se4",d:"old variant of 澀|涩[se4]",t:"歮",w:"歮"}],t=12,o="止",c=["止"],n=[],a="",d=[],e=[],p={s,sc:t,r:o,c,d:n,ux:a,w:d,i:e};export{c,n as d,p as default,e as i,o as r,s,t as sc,a as ux,d as w};

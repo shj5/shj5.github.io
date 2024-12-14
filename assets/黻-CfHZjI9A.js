@@ -1,0 +1,1 @@
+const c=[{p:"fú",pp:"fu2",d:"(archaic) embroidery using black and blue thread",t:"黻",w:"黻"}],s=17,t="黹",n=["犮","黹"],o=[],a="",d=[],e=[],r={s:c,sc:s,r:t,c:n,d:o,ux:a,w:d,i:e};export{n as c,o as d,r as default,e as i,t as r,c as s,s as sc,a as ux,d as w};

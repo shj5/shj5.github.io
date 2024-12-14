@@ -1,1 +1,0 @@
-const s=[{p:"shāi",pp:"shai1",d:"old variant of 篩|筛[shai1]",t:"籭",w:"籭"}],c=25,t="竹",o=["竹"],n=[],a="",i=[],d=[],p={s,sc:c,r:t,c:o,d:n,ux:a,w:i,i:d};export{o as c,n as d,p as default,d as i,t as r,s,c as sc,a as ux,i as w};

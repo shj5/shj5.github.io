@@ -1,0 +1,1 @@
+const c=[{p:"xù",pp:"xu4",d:"clover/lucerne/Taiwan pr. [su4]",t:"蓿",w:"蓿"}],s=14,t="艸",n=["艹","宿"],o=[],a="",e=[{w:"苜蓿",p:"mù xu",d:"lucerne/alfalfa",t:"苜蓿"}],u=[],l={s:c,sc:s,r:t,c:n,d:o,ux:a,w:e,i:u};export{n as c,o as d,l as default,u as i,t as r,c as s,s as sc,a as ux,e as w};

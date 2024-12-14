@@ -1,0 +1,1 @@
+const t=[{p:"tǎn",pp:"tan3",d:"brine of pickled meat",t:"醓",w:"醓"}],c=16,n="酉",s=["酉"],o=[],e="",p=[],a=[],d={s:t,sc:c,r:n,c:s,d:o,ux:e,w:p,i:a};export{s as c,o as d,d as default,a as i,n as r,t as s,c as sc,e as ux,p as w};

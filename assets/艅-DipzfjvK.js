@@ -1,1 +1,0 @@
-const t=[{p:"yú",pp:"yu2",d:"used in 艅艎[yu2huang2]",t:"艅",w:"艅"}],n=13,s="舟",c=["舟","余"],o=[],u="",a=[{w:"艅艎",p:"yú huáng",d:"(literary) a type of warship used in the Spring and Autumn period; magnificent large boat",t:"艅艎"}],e=[],i={s:t,sc:n,r:s,c,d:o,ux:u,w:a,i:e};export{c,o as d,i as default,e as i,s as r,t as s,n as sc,u as ux,a as w};

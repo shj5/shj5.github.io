@@ -1,1 +1,0 @@
-const t=[{p:"fān",pp:"fan1",d:"pennant",t:"旛",w:"旛"}],n=18,s="方",c=["方"],o=[],a="",p=[{w:"招魂旛",p:"zhāo hún fān",d:"flag to attract departed spirits",t:"招魂旛"}],d=[],r={s:t,sc:n,r:s,c,d:o,ux:a,w:p,i:d};export{c,o as d,r as default,d as i,s as r,t as s,n as sc,a as ux,p as w};

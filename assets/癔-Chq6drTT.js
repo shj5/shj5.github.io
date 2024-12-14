@@ -1,0 +1,1 @@
+const t=[{p:"yì",pp:"yi4",d:"used in 癔病[yi4bing4] and 癔症[yi4zheng4]",t:"癔",w:"癔"}],n=18,s="疒",c=["疒","意"],o=[],i="",y=[{w:"癔病",p:"yì bìng",d:"hysteria",t:"癔病"},{w:"癔症",p:"yì zhèng",d:"hysteria",t:"癔症"}],d=[],e={s:t,sc:n,r:s,c,d:o,ux:i,w:y,i:d};export{c,o as d,e as default,d as i,s as r,t as s,n as sc,i as ux,y as w};

@@ -1,1 +1,0 @@
-const s=[{p:"gù",pp:"gu4",d:"braces (med.)/fetters/manacles",t:"梏",w:"梏"}],c=11,t="木",n=["木","告"],o=[],e="",a=[{w:"桎梏",p:"zhì gù",d:"(literary) shackles",t:"桎梏"}],r=[],d={s,sc:c,r:t,c:n,d:o,ux:e,w:a,i:r};export{n as c,o as d,d as default,r as i,t as r,s,c as sc,e as ux,a as w};

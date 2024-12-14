@@ -1,1 +1,0 @@
-const c=[{p:"niè",pp:"nie4",d:"vertical divider of a door way",t:"闑",w:"𫔶"}],s=0,o="",t=[],n=[],d="C",i=[],r=[],a={s:c,sc:s,r:o,c:t,d:n,ux:d,w:i,i:r};export{t as c,n as d,a as default,r as i,o as r,c as s,s as sc,d as ux,i as w};

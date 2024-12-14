@@ -1,0 +1,1 @@
+const s=[{p:"wù",pp:"wu4",d:"to shake/to sway",t:"扤",w:"扤"}],t=6,o="手",c=["扌","兀"],n=[],w="",a=[],p=[],d={s,sc:t,r:o,c,d:n,ux:w,w:a,i:p};export{c,n as d,d as default,p as i,o as r,s,t as sc,w as ux,a as w};

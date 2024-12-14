@@ -1,1 +1,0 @@
-const t=[{p:"zhí",pp:"zhi2",d:"used in 躑躅|踯躅[zhi2zhu2]",t:"躑",w:"踯"}],c=15,s="足",o=["足","郑"],n=[],d="",h=[{w:"踯躅",p:"zhí zhú",d:"(literary) to pace back and forth",t:"躑躅"}],a=[],i={s:t,sc:c,r:s,c:o,d:n,ux:d,w:h,i:a};export{o as c,n as d,i as default,a as i,s as r,t as s,c as sc,d as ux,h as w};

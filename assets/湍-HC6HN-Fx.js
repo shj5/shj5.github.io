@@ -1,0 +1,1 @@
+const t=[{p:"tuān",pp:"tuan1",d:"to rush (of water)",t:"湍",w:"湍"}],n=12,o="水",s=["氵"],c=[],u="",p=[{w:"湍急",p:"tuān jí",d:"rapid (flow of water)",t:"湍急"},{w:"湍流",p:"tuān liú",d:"turbulence",t:"湍流"}],r=[],w={s:t,sc:n,r:o,c:s,d:c,ux:u,w:p,i:r};export{s as c,c as d,w as default,r as i,o as r,t as s,n as sc,u as ux,p as w};

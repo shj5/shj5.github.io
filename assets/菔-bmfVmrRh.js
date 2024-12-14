@@ -1,0 +1,1 @@
+const t=[{p:"fú",pp:"fu2",d:"turnip",t:"菔",w:"菔"}],s=11,n="艸",o=["艹","服"],c=[],d="",i=[{w:"莱菔",p:"lái fú",d:"radish",t:"萊菔"},{w:"莱菔子",p:"lái fú zǐ",d:"radish seed (used in TCM to treat indigestion)",t:"萊菔子"}],e=[],p={s:t,sc:s,r:n,c:o,d:c,ux:d,w:i,i:e};export{o as c,c as d,p as default,e as i,n as r,t as s,s as sc,d as ux,i as w};

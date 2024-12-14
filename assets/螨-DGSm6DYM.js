@@ -1,1 +1,0 @@
-const t=[{p:"mǎn",pp:"man3",d:"mite",t:"蟎",w:"螨"}],c=16,n="虫",s=["虫"],o=[],d="",m=[{w:"尘螨",p:"chén mǎn",d:"dust mite",t:"塵蟎"},{w:"螨虫",p:"mǎn chóng",d:"mite (zoology)",t:"蟎蟲"}],p=[],e={s:t,sc:c,r:n,c:s,d:o,ux:d,w:m,i:p};export{s as c,o as d,e as default,p as i,n as r,t as s,c as sc,d as ux,m as w};

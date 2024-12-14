@@ -1,1 +1,0 @@
-const n=[{p:"gān",pp:"gan1",d:"used in 鎮筸|镇筸[Zhen4gan1], the former name of Fenghuang Ancient Town 鳳凰古城|凤凰古城[Feng4huang2 Gu3cheng2] in Hunan",t:"筸",w:"筸"}],c=13,s="竹",t=["竹","旱"],o=[],e="",a=[],g=[],u={s:n,sc:c,r:s,c:t,d:o,ux:e,w:a,i:g};export{t as c,o as d,u as default,g as i,s as r,n as s,c as sc,e as ux,a as w};

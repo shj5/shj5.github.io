@@ -1,1 +1,0 @@
-const s=[{p:"ào",pp:"ao4",d:"building-plot",t:"墺",w:"墺"}],c=16,o="土",t=["土"],n=[],d="",p=[],i=[],u={s,sc:c,r:o,c:t,d:n,ux:d,w:p,i};export{t as c,n as d,u as default,i,o as r,s,c as sc,d as ux,p as w};

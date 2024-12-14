@@ -1,1 +1,0 @@
-const t=[{p:"gàn",pp:"gan4",d:"sunset/evening",t:"旰",w:"旰"}],n=7,s="日",o=["干","日"],c=[],e="",i=[],d=[{w:"宵衣旰食",p:"xiāo yī gàn shí",d:"to dress before light and not eat before dark (idiom)/diligently attending to official matters",t:"宵衣旰食"}],a={s:t,sc:n,r:s,c:o,d:c,ux:e,w:i,i:d};export{o as c,c as d,a as default,d as i,s as r,t as s,n as sc,e as ux,i as w};

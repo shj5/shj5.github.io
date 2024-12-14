@@ -1,0 +1,1 @@
+const t=[{p:"hè",pp:"he4",d:"old variant of 鶴|鹤[he4]",t:"鸖",w:"鸖"}],o=27,s="鳥",c=["霍"],n=[],a="",d=[],e=[],p={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i:e};export{c,n as d,p as default,e as i,s as r,t as s,o as sc,a as ux,d as w};

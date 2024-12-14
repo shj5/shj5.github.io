@@ -1,1 +1,0 @@
-const c=[{p:"chá",pp:"cha2",d:"Badger-like wild animal",t:"猹",w:"猹"}],s=12,t="犬",n=["犭","查"],o=[],a="",d=[],i=[],e={s:c,sc:s,r:t,c:n,d:o,ux:a,w:d,i};export{n as c,o as d,e as default,i,t as r,c as s,s as sc,a as ux,d as w};

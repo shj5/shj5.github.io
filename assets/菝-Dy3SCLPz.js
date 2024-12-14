@@ -1,1 +1,0 @@
-const c=[{p:"bá",pp:"ba2",d:"used in 菝葜[ba2qia1]",t:"菝",w:"菝"}],s=11,t="艸",n=["艹","拔"],o=[],a="",i=[{w:"菝葜",p:"bá qiā",d:"chinaroot (Smilax china)",t:"菝葜"}],d=[],p={s:c,sc:s,r:t,c:n,d:o,ux:a,w:i,i:d};export{n as c,o as d,p as default,d as i,t as r,c as s,s as sc,a as ux,i as w};

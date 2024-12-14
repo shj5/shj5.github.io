@@ -1,1 +1,0 @@
-const s=[{p:"guà",pp:"gua4",d:"squares of a chess board",t:"罫",w:"罫"}],c=13,o="网",t=["罒","卦"],n=[],a="",u=[],d=[],r={s,sc:c,r:o,c:t,d:n,ux:a,w:u,i:d};export{t as c,n as d,r as default,d as i,o as r,s,c as sc,a as ux,u as w};

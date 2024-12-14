@@ -1,0 +1,1 @@
+const o=[{p:"áo",pp:"ao2",d:"loud clamor/the sound of wailing",t:"嗷",w:"嗷"}],t=14,s="口",c=["口","敖"],n=[],d="",p=[],a=[{w:"嗷嗷待哺",p:"áo áo dài bǔ",d:"cry piteously for food",t:"嗷嗷待哺"}],i={s:o,sc:t,r:s,c,d:n,ux:d,w:p,i:a};export{c,n as d,i as default,a as i,s as r,o as s,t as sc,d as ux,p as w};

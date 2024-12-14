@@ -1,0 +1,1 @@
+const t=[{p:"fū",pp:"fu1",d:"agate/inferior gem/a kind of jade",t:"砆",w:"砆"}],o=9,s="石",c=["夫","石"],n=[],a="",e=[],d=[],f={s:t,sc:o,r:s,c,d:n,ux:a,w:e,i:d};export{c,n as d,f as default,d as i,s as r,t as s,o as sc,a as ux,e as w};

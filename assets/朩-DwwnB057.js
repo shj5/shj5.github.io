@@ -1,1 +1,0 @@
-const n=[{p:"xx",pp:"xx5",d:'one of the characters used in kwukyel (phonetic "pin"), an ancient Korean writing system',t:"朩",w:"朩"}],s=4,t="木",c=[],o=["朮","杀","杂","余","亲","寨"],e="",i=[],a=[],r={s:n,sc:s,r:t,c,d:o,ux:e,w:i,i:a};export{c,o as d,r as default,a as i,t as r,n as s,s as sc,e as ux,i as w};

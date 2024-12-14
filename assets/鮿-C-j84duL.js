@@ -1,1 +1,0 @@
-const s=[{p:"zhé",pp:"zhe2",d:"(fresh-water fish)",t:"鮿",w:"鮿"}],c=18,t="魚",o=[],n=[],e="",r=[],d=[],h={s,sc:c,r:t,c:o,d:n,ux:e,w:r,i:d};export{o as c,n as d,h as default,d as i,t as r,s,c as sc,e as ux,r as w};

@@ -1,1 +1,0 @@
-const t=[{p:"dān",pp:"dan1",d:"gaze intently",t:"眈",w:"眈"}],s=9,n="目",c=["冘","目"],o=[],e="",d=[],i=[{w:"虎视眈眈",p:"hǔ shì dān dān",d:"to glare like a tiger watching his prey (idiom)/to eye covetously",t:"虎視眈眈"}],a={s:t,sc:s,r:n,c,d:o,ux:e,w:d,i};export{c,o as d,a as default,i,n as r,t as s,s as sc,e as ux,d as w};

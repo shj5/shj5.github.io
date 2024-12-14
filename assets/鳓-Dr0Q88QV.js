@@ -1,1 +1,0 @@
-const s=[{p:"lè",pp:"le4",d:"Chinese herring (Ilisha elongata)/white herring/slender shad",t:"鰳",w:"鳓"}],n=19,t="魚",c=["鱼","勒"],e=[],o="",r=[],i=[],a={s,sc:n,r:t,c,d:e,ux:o,w:r,i};export{c,e as d,a as default,i,t as r,s,n as sc,o as ux,r as w};

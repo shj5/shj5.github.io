@@ -1,0 +1,1 @@
+const t=[{p:"tūn",pp:"tun1",d:"variant of 吞[tun1]",t:"呑",w:"呑"}],n=7,s="口",c=["口","夭"],o=[],a="",p=[],u=[],d={s:t,sc:n,r:s,c,d:o,ux:a,w:p,i:u};export{c,o as d,d as default,u as i,s as r,t as s,n as sc,a as ux,p as w};

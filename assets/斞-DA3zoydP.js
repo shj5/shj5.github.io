@@ -1,0 +1,1 @@
+const t=[{p:"yǔ",pp:"yu3",d:"dry measure equivalent to 16 斗[dou3] or 160 liters",t:"斞",w:"斞"}],s=12,o="斗",c=["斗","臾"],n=[],e="",r=[],u=[],d={s:t,sc:s,r:o,c,d:n,ux:e,w:r,i:u};export{c,n as d,d as default,u as i,o as r,t as s,s as sc,e as ux,r as w};

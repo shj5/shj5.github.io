@@ -1,0 +1,1 @@
+const t=[{p:"zhòng",pp:"zhong4",d:"(literary) (of a worm or insect) to nibble/to bite/worm-eaten",t:"蚛",w:"蚛"}],o=10,n="虫",s=["中","虫"],c=[],e="",r=[],a=[],i={s:t,sc:o,r:n,c:s,d:c,ux:e,w:r,i:a};export{s as c,c as d,i as default,a as i,n as r,t as s,o as sc,e as ux,r as w};

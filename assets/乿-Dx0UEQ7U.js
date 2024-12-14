@@ -1,1 +1,0 @@
-const t=[{p:"luàn",pp:"luan4",d:"old variant of 亂|乱[luan4]",t:"乿",w:"乿"},{p:"zhì",pp:"zhi4",d:"old variant of 治[zhi4]",t:"乿",w:"乿"}],n=11,o="乙",s=["乚"],c=[],a="",d=[],p=[],i={s:t,sc:n,r:o,c:s,d:c,ux:a,w:d,i:p};export{s as c,c as d,i as default,p as i,o as r,t as s,n as sc,a as ux,d as w};

@@ -1,0 +1,1 @@
+const n=[{p:"guó",pp:"guo2",d:"cap worn by women/feminine",t:"幗",w:"帼"}],t=11,o="巾",s=["巾","国"],c=[],a="",w=[{w:"巾帼",p:"jīn guó",d:"woman/woman's headdress (ancient)",t:"巾幗"}],e=[{w:"巾帼须眉",p:"jīn guó xū méi",d:"woman with a manly spirit",t:"巾幗鬚眉"}],i={s:n,sc:t,r:o,c:s,d:c,ux:a,w,i:e};export{s as c,c as d,i as default,e as i,o as r,n as s,t as sc,a as ux,w};

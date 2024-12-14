@@ -1,0 +1,1 @@
+const t=[{p:"jié",pp:"jie2",d:"variant of 節|节[jie2]",t:"莭",w:"莭"}],s=10,c="艸",o=["艹","即"],n=[],i="",a=[],e=[],p={s:t,sc:s,r:c,c:o,d:n,ux:i,w:a,i:e};export{o as c,n as d,p as default,e as i,c as r,t as s,s as sc,i as ux,a as w};

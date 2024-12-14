@@ -1,0 +1,1 @@
+const t=[{p:"yuè",pp:"yue4",d:"variant of 鉞|钺[yue4]",t:"戉",w:"戉"}],s=5,c="戈",o=["乚","戈"],n=["狘","钺","越","魆"],u="",a=[],e=[],p={s:t,sc:s,r:c,c:o,d:n,ux:u,w:a,i:e};export{o as c,n as d,p as default,e as i,c as r,t as s,s as sc,u as ux,a as w};

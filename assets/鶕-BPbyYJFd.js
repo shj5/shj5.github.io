@@ -1,1 +1,0 @@
-const s=[{p:"ān",pp:"an1",d:"old variant of 鵪|鹌[an1]",t:"鶕",w:"鶕"}],c=20,n="鳥",t=["音"],o=[],a="",d=[],p=[],r={s,sc:c,r:n,c:t,d:o,ux:a,w:d,i:p};export{t as c,o as d,r as default,p as i,n as r,s,c as sc,a as ux,d as w};

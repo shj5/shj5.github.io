@@ -1,0 +1,1 @@
+const t=[{p:"chǐ",pp:"chi3",d:"to separate",t:"誃",w:"誃"}],c=13,s="言",o=["多"],n=[],p="",a=[],e=[],d={s:t,sc:c,r:s,c:o,d:n,ux:p,w:a,i:e};export{o as c,n as d,d as default,e as i,s as r,t as s,c as sc,p as ux,a as w};

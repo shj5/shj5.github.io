@@ -1,1 +1,0 @@
-const s=[{p:"fù",pp:"fu4",d:"to rely on/to resemble",t:"偩",w:"偩"}],t=11,c="人",o=["亻"],n=[],e="",r=[],d=[],p={s,sc:t,r:c,c:o,d:n,ux:e,w:r,i:d};export{o as c,n as d,p as default,d as i,c as r,s,t as sc,e as ux,r as w};

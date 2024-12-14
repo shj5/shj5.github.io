@@ -1,0 +1,1 @@
+const s=[{p:"hǎi",pp:"hai3",d:"hydroxylamine (chemistry)",t:"胲",w:"胲"}],t=10,c="肉",o=["月","亥"],n=[],i="",a=[],d=[],e={s,sc:t,r:c,c:o,d:n,ux:i,w:a,i:d};export{o as c,n as d,e as default,d as i,c as r,s,t as sc,i as ux,a as w};

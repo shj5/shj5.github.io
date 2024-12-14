@@ -1,0 +1,1 @@
+const t=[{p:"guì",pp:"gui4",d:"cut/injure",t:"劌",w:"刿"}],c=8,s="刀",n=["刂","岁"],o=[],u="",p=[],d=[],e={s:t,sc:c,r:s,c:n,d:o,ux:u,w:p,i:d};export{n as c,o as d,e as default,d as i,s as r,t as s,c as sc,u as ux,p as w};

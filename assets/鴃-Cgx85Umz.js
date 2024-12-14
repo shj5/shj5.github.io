@@ -1,0 +1,1 @@
+const s=[{p:"jué",pp:"jue2",d:"shrike",t:"鴃",w:"鴃"}],c=15,t="鳥",o=["夬"],n=[],u="",e=[{w:"鶗鴃",p:"tí jué",d:"large hawk-cuckoo (Cuculus sparverioides)",t:"鶗鴃"}],p=[],r={s,sc:c,r:t,c:o,d:n,ux:u,w:e,i:p};export{o as c,n as d,r as default,p as i,t as r,s,c as sc,u as ux,e as w};

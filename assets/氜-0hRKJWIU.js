@@ -1,0 +1,1 @@
+const n=[{p:"rì",pp:"ri4",d:"old name for 氦[hai4], helium",t:"氜",w:"氜"},{p:"yáng",pp:"yang2",d:"old variant of 陽|阳[yang2]",t:"氜",w:"氜"}],o=8,t="气",s=["气","日"],c=[],a="",p=[],d=[],r={s:n,sc:o,r:t,c:s,d:c,ux:a,w:p,i:d};export{s as c,c as d,r as default,d as i,t as r,n as s,o as sc,a as ux,p as w};

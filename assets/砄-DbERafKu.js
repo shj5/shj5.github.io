@@ -1,1 +1,0 @@
-const s=[{p:"jué",pp:"jue2",d:"stone/rock",t:"砄",w:"砄"}],c=9,t="石",o=["夬","石"],n=[],u="",d=[],e=[],p={s,sc:c,r:t,c:o,d:n,ux:u,w:d,i:e};export{o as c,n as d,p as default,e as i,t as r,s,c as sc,u as ux,d as w};

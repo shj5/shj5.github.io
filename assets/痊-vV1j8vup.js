@@ -1,0 +1,1 @@
+const o=[{p:"quán",pp:"quan2",d:"to recover (from illness)",t:"痊",w:"痊"}],s=11,t="疒",n=["疒","全"],c=[],e="",r=[{w:"痊愈",p:"quán yù",d:"to recover completely (from illness or injury)",t:"痊癒"}],l=[],p={s:o,sc:s,r:t,c:n,d:c,ux:e,w:r,i:l};export{n as c,c as d,p as default,l as i,t as r,o as s,s as sc,e as ux,r as w};

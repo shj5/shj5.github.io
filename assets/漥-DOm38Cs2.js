@@ -1,0 +1,1 @@
+const t=[{p:"wā",pp:"wa1",d:"variant of 窪|洼[wa1]",t:"漥",w:"漥"}],s=14,c="水",o=["氵","窒"],n=[],a="",w=[],p=[],d={s:t,sc:s,r:c,c:o,d:n,ux:a,w,i:p};export{o as c,n as d,d as default,p as i,c as r,t as s,s as sc,a as ux,w};

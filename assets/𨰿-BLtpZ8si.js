@@ -1,1 +1,0 @@
-const t=[{p:"xì",pp:"xi4",d:"(arch.) metal horn attached as shield to horse or to the axle of a chariot",t:"釳",w:"𨰿"}],o=0,s="",c=[],a=[],e="B",h=[{w:"方𨰿",p:"fāng xì",d:"(arch.) metal horn attached as shield to horse or to the axle of a chariot",t:"方釳"}],r=[],n={s:t,sc:o,r:s,c,d:a,ux:e,w:h,i:r};export{c,a as d,n as default,r as i,s as r,t as s,o as sc,e as ux,h as w};

@@ -1,0 +1,1 @@
+const t=[{p:"huàng",pp:"huang4",d:"(literary) (of the face) pale due to qi and blood deficiency",t:"㿠",w:"㿠"}],c=0,o="",n=[],s=[],e="A",a=[],d=[],i={s:t,sc:c,r:o,c:n,d:s,ux:e,w:a,i:d};export{n as c,s as d,i as default,d as i,o as r,t as s,c as sc,e as ux,a as w};

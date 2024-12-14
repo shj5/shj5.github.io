@@ -1,1 +1,0 @@
-const t=[{p:"cuì",pp:"cui4",d:"dip into water/to temper",t:"淬",w:"淬"}],c=11,o="水",n=["氵","卒"],s=[],e="",u=[{w:"淬火",p:"cuì huǒ",d:"to quench/to temper/to harden by quenching",t:"淬火"}],p=[],d={s:t,sc:c,r:o,c:n,d:s,ux:e,w:u,i:p};export{n as c,s as d,d as default,p as i,o as r,t as s,c as sc,e as ux,u as w};

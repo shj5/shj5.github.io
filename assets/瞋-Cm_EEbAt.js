@@ -1,1 +1,0 @@
-const t=[{p:"chēn",pp:"chen1",d:"(literary) to stare angrily; to glare",t:"瞋",w:"瞋"}],c=15,n="目",s=["目","眞"],o=[],r="",a=[{w:"瞋目",p:"chēn mù",d:"variant of 嗔目[chen1 mu4]",t:"瞋目"}],e=[],d={s:t,sc:c,r:n,c:s,d:o,ux:r,w:a,i:e};export{s as c,o as d,d as default,e as i,n as r,t as s,c as sc,r as ux,a as w};

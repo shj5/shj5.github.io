@@ -1,0 +1,1 @@
+const t=[{p:"fū",pp:"fu1",d:"name of a district in Shaanxi",t:"鄜",w:"鄜"}],s=14,c="邑",n=[],o=[],a="",i=[],d=[],f={s:t,sc:s,r:c,c:n,d:o,ux:a,w:i,i:d};export{n as c,o as d,f as default,d as i,c as r,t as s,s as sc,a as ux,i as w};

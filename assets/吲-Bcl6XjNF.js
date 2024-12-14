@@ -1,1 +1,0 @@
-const n=[{p:"yǐn",pp:"yin3",d:"used in 吲哚[yin3 duo3]",t:"吲",w:"吲"}],o=7,c="口",s=["口","引"],t=[],d="",i=[{w:"吲哚",p:"yǐn duǒ",d:"indole C8H7N (heterocyclic organic compound) (loanword)",t:"吲哚"},{w:"吲唑",p:"yǐn zuò",d:"indazole (chemistry) (loanword)",t:"吲唑"}],e=[],r={s:n,sc:o,r:c,c:s,d:t,ux:d,w:i,i:e};export{s as c,t as d,r as default,e as i,c as r,n as s,o as sc,d as ux,i as w};

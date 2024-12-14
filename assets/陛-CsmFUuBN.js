@@ -1,1 +1,0 @@
-const t=[{p:"bì",pp:"bi4",d:"the steps to the throne",t:"陛",w:"陛"}],s=10,o="阜",c=["坒"],n=["狴"],e="",r=[{w:"陛下",p:"bì xià",d:"Your Majesty/His or Her Majesty",t:"陛下"}],p=[],d={s:t,sc:s,r:o,c,d:n,ux:e,w:r,i:p};export{c,n as d,d as default,p as i,o as r,t as s,s as sc,e as ux,r as w};

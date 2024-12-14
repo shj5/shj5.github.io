@@ -1,0 +1,1 @@
+const n=[{p:"táng",pp:"tang2",d:"variety of small cicada with a green back and a clear song (in ancient books)",t:"螗",w:"螗"}],t=16,c="虫",s=["虫","唐"],o=[],a="",e=[],i=[],d={s:n,sc:t,r:c,c:s,d:o,ux:a,w:e,i};export{s as c,o as d,d as default,i,c as r,n as s,t as sc,a as ux,e as w};

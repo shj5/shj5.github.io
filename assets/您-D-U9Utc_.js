@@ -1,0 +1,1 @@
+const o=[{p:"nín",pp:"nin2",d:"you (courteous, as opposed to informal 你[ni3])",t:"您",w:"您"}],n=11,t="心",s=["心","你"],c=[],p="",e=[{w:"您好",p:"nín hǎo",d:"hello (polite)",t:"您好"}],d=[],i={s:o,sc:n,r:t,c:s,d:c,ux:p,w:e,i:d};export{s as c,c as d,i as default,d as i,t as r,o as s,n as sc,p as ux,e as w};

@@ -1,1 +1,0 @@
-const s=[{p:"lài",pp:"lai4",d:"(modal particle similar to 呢[ne5] or 啦[la1])",t:"唻",w:"唻"}],c=11,t="口",o=["口"],n=[],a="",i=[],l=[],r={s,sc:c,r:t,c:o,d:n,ux:a,w:i,i:l};export{o as c,n as d,r as default,l as i,t as r,s,c as sc,a as ux,i as w};

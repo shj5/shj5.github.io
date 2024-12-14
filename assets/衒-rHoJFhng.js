@@ -1,0 +1,1 @@
+const t=[{p:"xuàn",pp:"xuan4",d:"variant of 炫[xuan4]/(literary) to boast/to show off",t:"衒",w:"衒"}],o=11,s="行",n=["彳","玄"],c=[],a="",r=[],u=[],x={s:t,sc:o,r:s,c:n,d:c,ux:a,w:r,i:u};export{n as c,c as d,x as default,u as i,s as r,t as s,o as sc,a as ux,r as w};

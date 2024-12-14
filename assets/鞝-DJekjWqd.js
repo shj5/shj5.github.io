@@ -1,0 +1,1 @@
+const n=[{p:"shàng",pp:"shang4",d:"variant of 緔|绱[shang4]",t:"鞝",w:"鞝"},{p:"zhǎng",pp:"zhang3",d:"patch of leather",t:"鞝",w:"鞝"}],t=17,s="革",o=["尚","革"],a=[],c="",h=[{w:"鞝鞋",p:"shàng xié",d:"variant of 上鞋[shang4xie2]",t:"鞝鞋"}],p=[],g={s:n,sc:t,r:s,c:o,d:a,ux:c,w:h,i:p};export{o as c,a as d,g as default,p as i,s as r,n as s,t as sc,c as ux,h as w};

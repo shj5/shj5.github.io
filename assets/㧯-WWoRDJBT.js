@@ -1,1 +1,0 @@
-const o=[{p:"lǎo",pp:"lao3",d:"round-bottomed wicker basket/(dialect) to lift/to carry on one's shoulder",t:"㧯",w:"㧯"}],t=0,s="",c=[],n=[],d="A",e=[],r=[],a={s:o,sc:t,r:s,c,d:n,ux:d,w:e,i:r};export{c,n as d,a as default,r as i,s as r,o as s,t as sc,d as ux,e as w};

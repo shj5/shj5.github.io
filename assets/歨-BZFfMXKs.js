@@ -1,0 +1,1 @@
+const t=[{p:"bù",pp:"bu4",d:"old variant of 步[bu4]",t:"歨",w:"歨"}],o=8,s="止",c=["止"],n=[],a="",d=[],p=[],u={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i:p};export{c,n as d,u as default,p as i,s as r,t as s,o as sc,a as ux,d as w};

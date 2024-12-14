@@ -1,0 +1,1 @@
+const s=[{p:"yā",pp:"ya1",d:"(dialect) strip of land between hills/used in place names/also pr. [ya4]",t:"埡",w:"垭"}],t=9,n="土",c=["土","亚"],o=[],a="",e=[{w:"垭口",p:"yā kǒu",d:"(dialect) narrow mountain pass",t:"埡口"}],p=[],d={s,sc:t,r:n,c,d:o,ux:a,w:e,i:p};export{c,o as d,d as default,p as i,n as r,s,t as sc,a as ux,e as w};

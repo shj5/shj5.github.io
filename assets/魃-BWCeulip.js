@@ -1,0 +1,1 @@
+const t=[{p:"bá",pp:"ba2",d:"drought demon",t:"魃",w:"魃"}],o=15,n="鬼",s=["犮","鬼"],c=[],d="",p=[{w:"旱魃",p:"hàn bá",d:"drought demon",t:"旱魃"}],e=[],r={s:t,sc:o,r:n,c:s,d:c,ux:d,w:p,i:e};export{s as c,c as d,r as default,e as i,n as r,t as s,o as sc,d as ux,p as w};

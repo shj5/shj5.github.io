@@ -1,0 +1,1 @@
+const o=[{p:"bì",pp:"bi4",d:"fragrance of food",t:"飶",w:"飶"}],c=14,s="食",t=["必","食"],n=[],a="",d=[],f=[],p={s:o,sc:c,r:s,c:t,d:n,ux:a,w:d,i:f};export{t as c,n as d,p as default,f as i,s as r,o as s,c as sc,a as ux,d as w};

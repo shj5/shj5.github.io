@@ -1,0 +1,1 @@
+const s=[{p:"qū",pp:"qu1",d:"a pen/to surround",t:"阹",w:"阹"}],t=8,o="阜",c=["去"],n=[],p="",u=[],d=[],r={s,sc:t,r:o,c,d:n,ux:p,w:u,i:d};export{c,n as d,r as default,d as i,o as r,s,t as sc,p as ux,u as w};

@@ -1,0 +1,1 @@
+const t=[{p:"jué",pp:"jue2",d:"to seize/to snatch/to grab",t:"攫",w:"攫"}],o=23,s="手",c=["扌","矍"],e=[],n="",p=[{w:"攫取",p:"jué qǔ",d:"to seize/to capture/to grab",t:"攫取"},{w:"攫夺",p:"jué duó",d:"to seize/to pillage/to plunder",t:"攫奪"}],u=[],a={s:t,sc:o,r:s,c,d:e,ux:n,w:p,i:u};export{c,e as d,a as default,u as i,s as r,t as s,o as sc,n as ux,p as w};

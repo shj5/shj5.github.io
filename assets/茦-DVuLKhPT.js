@@ -1,1 +1,0 @@
-const c=[{p:"cè",pp:"ce4",d:"pointed grass blade/to prick",t:"茦",w:"茦"}],s=9,t="艸",o=["艹","朿"],n=[],d="",p=[],e=[],r={s:c,sc:s,r:t,c:o,d:n,ux:d,w:p,i:e};export{o as c,n as d,r as default,e as i,t as r,c as s,s as sc,d as ux,p as w};

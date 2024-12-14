@@ -1,0 +1,1 @@
+const c=[{p:"gāi",pp:"gai1",d:"to give/prepared for included in/embraced in",t:"侅",w:"侅"}],t=8,n="人",o=["亻","亥"],s=[],e="",d=[],i=[],p={s:c,sc:t,r:n,c:o,d:s,ux:e,w:d,i};export{o as c,s as d,p as default,i,n as r,c as s,t as sc,e as ux,d as w};

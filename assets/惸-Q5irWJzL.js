@@ -1,0 +1,1 @@
+const n=[{p:"qióng",pp:"qiong2",d:"variant of 煢|茕[qiong2]",t:"惸",w:"惸"}],o=12,t="心",s=["忄"],c=[],i="",a=[],p=[],d={s:n,sc:o,r:t,c:s,d:c,ux:i,w:a,i:p};export{s as c,c as d,d as default,p as i,t as r,n as s,o as sc,i as ux,a as w};

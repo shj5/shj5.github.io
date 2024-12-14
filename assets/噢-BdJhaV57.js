@@ -1,1 +1,0 @@
-const o=[{p:"ō",pp:"o1",d:"oh; ah (used to indicate realization)/also pr. [ou4]",t:"噢",w:"噢"}],s=16,t="口",c=["口"],n=[],a="",d=[],i=[],e={s:o,sc:s,r:t,c,d:n,ux:a,w:d,i};export{c,n as d,e as default,i,t as r,o as s,s as sc,a as ux,d as w};

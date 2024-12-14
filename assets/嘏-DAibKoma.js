@@ -1,1 +1,0 @@
-const t=[{p:"gǔ",pp:"gu3",d:"good fortune/longevity",t:"嘏",w:"嘏"},{p:"jiǎ",pp:"jia3",d:"far/grand",t:"嘏",w:"嘏"}],o=14,s="口",c=["古"],n=[],d="",p=[],r=[],a={s:t,sc:o,r:s,c,d:n,ux:d,w:p,i:r};export{c,n as d,a as default,r as i,s as r,t as s,o as sc,d as ux,p as w};

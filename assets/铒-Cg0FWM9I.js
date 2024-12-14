@@ -1,0 +1,1 @@
+const s=[{p:"ěr",pp:"er3",d:"erbium (chemistry)",t:"鉺",w:"铒"}],t=11,c="金",o=["耳"],n=[],r="",e=[],p=[],d={s,sc:t,r:c,c:o,d:n,ux:r,w:e,i:p};export{o as c,n as d,d as default,p as i,c as r,s,t as sc,r as ux,e as w};

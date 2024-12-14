@@ -1,0 +1,1 @@
+const t=[{p:"ér",pp:"er2",d:"to flow (as water or tears)",t:"洏",w:"洏"}],s=9,o="水",c=["氵","而"],n=[],r="",a=[],e=[],p={s:t,sc:s,r:o,c,d:n,ux:r,w:a,i:e};export{c,n as d,p as default,e as i,o as r,t as s,s as sc,r as ux,a as w};

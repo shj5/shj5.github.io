@@ -1,0 +1,1 @@
+const o=[{p:"mò",pp:"mo4",d:"see 開皌|开皌[kai1 mo4]",t:"皌",w:"皌"}],c=10,s="白",t=["白","末"],n=[],e="",d=[{w:"开皌",p:"kāi mò",d:"to receive condolences",t:"開皌"}],p=[],i={s:o,sc:c,r:s,c:t,d:n,ux:e,w:d,i:p};export{t as c,n as d,i as default,p as i,s as r,o as s,c as sc,e as ux,d as w};

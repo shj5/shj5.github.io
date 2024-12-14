@@ -1,1 +1,0 @@
-const s=[{p:"xué",pp:"xue2",d:"variant of 學|学[xue2]",t:"斈",w:"斈"}],c=7,t="文",o=["子","文"],n=[],u="",x=[],a=[],d={s,sc:c,r:t,c:o,d:n,ux:u,w:x,i:a};export{o as c,n as d,d as default,a as i,t as r,s,c as sc,u as ux,x as w};

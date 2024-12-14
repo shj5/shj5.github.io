@@ -1,0 +1,1 @@
+const t=[{p:"qiáng",pp:"qiang2",d:"cigarette (slang) (Cantonese)",t:"蔃",w:"蔃"}],n=15,s="艸",c=["艹","强"],o=[],a="",e=[],g=[],i={s:t,sc:n,r:s,c,d:o,ux:a,w:e,i:g};export{c,o as d,i as default,g as i,s as r,t as s,n as sc,a as ux,e as w};

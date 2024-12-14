@@ -1,1 +1,0 @@
-const s=[{p:"ruǎn",pp:"ruan3",d:"old variant of 軟|软[ruan3]",t:"耎",w:"耎"}],c=9,n="而",t=["大","而"],o=["堧","陾","碝","緛","餪"],r="",a=[],u=[],d={s,sc:c,r:n,c:t,d:o,ux:r,w:a,i:u};export{t as c,o as d,d as default,u as i,n as r,s,c as sc,r as ux,a as w};

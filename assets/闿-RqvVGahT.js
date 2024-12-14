@@ -1,1 +1,0 @@
-const o=[{p:"kǎi",pp:"kai3",d:"to loosen/to open",t:"闓",w:"闿"}],s=9,t="門",c=["门","岂"],n=[],p="",d=[],e=[],i={s:o,sc:s,r:t,c,d:n,ux:p,w:d,i:e};export{c,n as d,i as default,e as i,t as r,o as s,s as sc,p as ux,d as w};

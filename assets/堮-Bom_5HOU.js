@@ -1,0 +1,1 @@
+const o=[{p:"è",pp:"e4",d:"a boundary/a border",t:"堮",w:"堮"}],s=12,t="土",c=["土","咢"],n=[],a="",d=[],r=[],e={s:o,sc:s,r:t,c,d:n,ux:a,w:d,i:r};export{c,n as d,e as default,r as i,t as r,o as s,s as sc,a as ux,d as w};

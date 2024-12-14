@@ -1,0 +1,1 @@
+const t=[{p:"lú",pp:"lu2",d:"rutherfordium (chemistry)",t:"鑪",w:"𬬻"}],s=0,c="",o=[],n=[],r="E",u=[],d=[],e={s:t,sc:s,r:c,c:o,d:n,ux:r,w:u,i:d};export{o as c,n as d,e as default,d as i,c as r,t as s,s as sc,r as ux,u as w};

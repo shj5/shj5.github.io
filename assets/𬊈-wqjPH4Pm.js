@@ -1,0 +1,1 @@
+const o=[{p:"xún",pp:"xun2",d:"warm up (food)",t:"燖",w:"𬊈"}],s=0,t="",c=[],n=[],p="E",d=[],u=[],x={s:o,sc:s,r:t,c,d:n,ux:p,w:d,i:u};export{c,n as d,x as default,u as i,t as r,o as s,s as sc,p as ux,d as w};

@@ -1,1 +1,0 @@
-const s=[{p:"què",pp:"que4",d:"footbridge/toll, levy/monopoly",t:"榷",w:"榷"}],o=14,t="木",c=["木"],n=[],u="",d=[{w:"商榷",p:"shāng què",d:"to discuss/to bring up various ideas for discussion",t:"商榷"}],i=[],p={s,sc:o,r:t,c,d:n,ux:u,w:d,i};export{c,n as d,p as default,i,t as r,s,o as sc,u as ux,d as w};

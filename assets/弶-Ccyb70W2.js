@@ -1,1 +1,0 @@
-const s=[{p:"jiàng",pp:"jiang4",d:"snare/to snare",t:"弶",w:"弶"}],c=11,n="弓",t=["弓","京"],o=[],a="",r=[],d=[],e={s,sc:c,r:n,c:t,d:o,ux:a,w:r,i:d};export{t as c,o as d,e as default,d as i,n as r,s,c as sc,a as ux,r as w};

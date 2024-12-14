@@ -1,0 +1,1 @@
+const s=[{p:"yè",pp:"ye4",d:"dimple",t:"靨",w:"靥"}],t=15,c="面",o=["厌","面"],n=[],p="",d=[{w:"笑靥",p:"xiào yè",d:"dimple/smiling face",t:"笑靨"}],e=[],i={s,sc:t,r:c,c:o,d:n,ux:p,w:d,i:e};export{o as c,n as d,i as default,e as i,c as r,s,t as sc,p as ux,d as w};

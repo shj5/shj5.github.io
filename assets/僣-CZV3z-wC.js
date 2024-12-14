@@ -1,0 +1,1 @@
+const t=[{p:"jiàn",pp:"jian4",d:"to overstep one's authority/to usurp",t:"僣",w:"僣"}],o=14,s="人",n=["亻","替"],c=[],p="",e=[],r=[],u={s:t,sc:o,r:s,c:n,d:c,ux:p,w:e,i:r};export{n as c,c as d,u as default,r as i,s as r,t as s,o as sc,p as ux,e as w};

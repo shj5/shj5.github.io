@@ -1,1 +1,0 @@
-const s=[{p:"xx",pp:"xx5",d:"昭和[Zhao1 he2] written as a single character",t:"㍼",w:"㍼"}],c=0,t="",n=[],o=[],a="",x=[],e=[],r={s,sc:c,r:t,c:n,d:o,ux:a,w:x,i:e};export{n as c,o as d,r as default,e as i,t as r,s,c as sc,a as ux,x as w};

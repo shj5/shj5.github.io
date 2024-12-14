@@ -1,1 +1,0 @@
-const s=[{p:"āi",pp:"ai1",d:"einsteinium (chemistry)",t:"鎄",w:"锿"}],c=14,t="金",n=["哀"],o=[],i="",e=[],d=[],p={s,sc:c,r:t,c:n,d:o,ux:i,w:e,i:d};export{n as c,o as d,p as default,d as i,t as r,s,c as sc,i as ux,e as w};

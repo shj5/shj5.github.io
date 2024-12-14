@@ -1,1 +1,0 @@
-const t=[{p:"Gōu",pp:"Gou1",d:"surname Gou",t:"緱",w:"缑"},{p:"gōu",pp:"gou1",d:"rope attached to a sword hilt/(archaic) hilt/sword",t:"緱",w:"缑"}],o=12,s="糸",c=["纟","侯"],n=[],u="",a=[],d=[],p={s:t,sc:o,r:s,c,d:n,ux:u,w:a,i:d};export{c,n as d,p as default,d as i,s as r,t as s,o as sc,u as ux,a as w};

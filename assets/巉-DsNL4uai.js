@@ -1,0 +1,1 @@
+const t=[{p:"chán",pp:"chan2",d:"(literary) steep; rugged; jagged; precipitous",t:"巉",w:"巉"}],c=20,s="山",n=["山"],o=[],e="",p=[],r=[],a={s:t,sc:c,r:s,c:n,d:o,ux:e,w:p,i:r};export{n as c,o as d,a as default,r as i,s as r,t as s,c as sc,e as ux,p as w};

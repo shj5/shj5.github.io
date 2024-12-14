@@ -1,0 +1,1 @@
+const n=[{p:"nǎo",pp:"nao3",d:"Japanese variant of 腦|脑",t:"脳",w:"脳"}],o=11,s="肉",t=["月"],c=[],a="",p=[],e=[],d={s:n,sc:o,r:s,c:t,d:c,ux:a,w:p,i:e};export{t as c,c as d,d as default,e as i,s as r,n as s,o as sc,a as ux,p as w};

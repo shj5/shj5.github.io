@@ -1,1 +1,0 @@
-const n=[{p:"niàng",pp:"niang4",d:"Japanese variant of 釀|酿",t:"醸",w:"醸"}],s=20,c="酉",t=["酉"],o=[],a="",i=[],p=[],d={s:n,sc:s,r:c,c:t,d:o,ux:a,w:i,i:p};export{t as c,o as d,d as default,p as i,c as r,n as s,s as sc,a as ux,i as w};

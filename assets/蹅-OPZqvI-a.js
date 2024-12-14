@@ -1,0 +1,1 @@
+const c=[{p:"chǎ",pp:"cha3",d:"(coll.) to trudge (in mud, snow etc)",t:"蹅",w:"蹅"}],t=16,o="足",s=["足","查"],n=[],d="",e=[],p=[],u={s:c,sc:t,r:o,c:s,d:n,ux:d,w:e,i:p};export{s as c,n as d,u as default,p as i,o as r,c as s,t as sc,d as ux,e as w};

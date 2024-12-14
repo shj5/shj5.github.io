@@ -1,1 +1,0 @@
-const s=[{p:"pāng",pp:"pang1",d:"(literary) (of rainfall or snowfall) heavy",t:"雱",w:"雱"}],c=12,n="雨",o=["方","雨"],t=[],a="",r=[],l=[],p={s,sc:c,r:n,c:o,d:t,ux:a,w:r,i:l};export{o as c,t as d,p as default,l as i,n as r,s,c as sc,a as ux,r as w};

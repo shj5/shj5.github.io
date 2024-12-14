@@ -1,0 +1,1 @@
+const o=[{p:"bō",pp:"bo1",d:"obscure variant of 缽|钵[bo1]",t:"盋",w:"盋"}],s=10,t="皿",c=["皿"],n=[],a="",b=[],p=[],r={s:o,sc:s,r:t,c,d:n,ux:a,w:b,i:p};export{c,n as d,r as default,p as i,t as r,o as s,s as sc,a as ux,b as w};

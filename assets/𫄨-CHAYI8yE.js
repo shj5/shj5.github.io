@@ -1,1 +1,0 @@
-const c=[{p:"chī",pp:"chi1",d:"fine fibers of hemp/linen",t:"絺",w:"𫄨"}],s=0,n="",t=[],o=[],e="C",i=[],p=[],d={s:c,sc:s,r:n,c:t,d:o,ux:e,w:i,i:p};export{t as c,o as d,d as default,p as i,n as r,c as s,s as sc,e as ux,i as w};

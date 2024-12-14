@@ -1,0 +1,1 @@
+const o=[{p:"biān",pp:"bian1",d:"bamboo tazza used in ancient times to hold dry food for sacrifices or at banquets",t:"籩",w:"笾"}],t=11,s="竹",n=["竹","边"],c=[],a="",i=[],d=[],e={s:o,sc:t,r:s,c:n,d:c,ux:a,w:i,i:d};export{n as c,c as d,e as default,d as i,s as r,o as s,t as sc,a as ux,i as w};

@@ -1,1 +1,0 @@
-const c=[{p:"è",pp:"e4",d:"acenaphthene (C12H10)",t:"苊",w:"苊"}],s=7,t="艸",n=["艹","厄"],o=[],e="",p=[],a=[],d={s:c,sc:s,r:t,c:n,d:o,ux:e,w:p,i:a};export{n as c,o as d,d as default,a as i,t as r,c as s,s as sc,e as ux,p as w};

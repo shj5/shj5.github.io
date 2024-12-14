@@ -1,0 +1,1 @@
+const o=[{p:"qiáo",pp:"qiao2",d:"the pommel and cantle of a saddle",t:"鞽",w:"鞒"}],t=15,s="革",c=["乔","革"],n=[],a="",d=[],e=[],p={s:o,sc:t,r:s,c,d:n,ux:a,w:d,i:e};export{c,n as d,p as default,e as i,s as r,o as s,t as sc,a as ux,d as w};

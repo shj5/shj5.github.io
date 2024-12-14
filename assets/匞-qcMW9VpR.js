@@ -1,1 +1,0 @@
-const s=[{p:"jiàng",pp:"jiang4",d:"old variant of 匠[jiang4]",t:"匞",w:"匞"}],c=5,n="匚",t=["匚","工"],o=[],a="",i=[],d=[],p={s,sc:c,r:n,c:t,d:o,ux:a,w:i,i:d};export{t as c,o as d,p as default,d as i,n as r,s,c as sc,a as ux,i as w};

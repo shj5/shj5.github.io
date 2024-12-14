@@ -1,1 +1,0 @@
-const s=[{p:"diàn",pp:"dian4",d:"malarial fever",t:"痁",w:"痁"}],c=10,t="疒",n=["疒","占"],o=[],a="",d=[],i=[],r={s,sc:c,r:t,c:n,d:o,ux:a,w:d,i};export{n as c,o as d,r as default,i,t as r,s,c as sc,a as ux,d as w};

@@ -1,0 +1,1 @@
+const n=[{p:"náo",pp:"nao2",d:"(literary) a kind of gibbon/(music) wide vibrato (technique for playing the guqin 古琴[gu3qin2]) (cf. 吟[yin2], rapid vibrato)",t:"猱",w:"猱"}],o=12,t="犬",c=["犭","柔"],i=[],s="",a=[],r=[],e={s:n,sc:o,r:t,c,d:i,ux:s,w:a,i:r};export{c,i as d,e as default,r as i,t as r,n as s,o as sc,s as ux,a as w};

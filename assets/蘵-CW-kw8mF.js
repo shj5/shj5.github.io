@@ -1,1 +1,0 @@
-const s=[{p:"zhí",pp:"zhi2",d:"Physalis angulata",t:"蘵",w:"蘵"}],c=21,t="艸",a=["艹"],n=[],o="",r=[{w:"秘鲁苦蘵",p:"Bì lǔ kǔ zhí",d:"Peruvian ground-cherry/cape gooseberry/Physalis peruviana",t:"秘魯苦蘵"},{w:"苦蘵",p:"kǔ zhí",d:"cutleaf ground-cherry/Physalis angulata",t:"苦蘵"}],e=[],u={s,sc:c,r:t,c:a,d:n,ux:o,w:r,i:e};export{a as c,n as d,u as default,e as i,t as r,s,c as sc,o as ux,r as w};

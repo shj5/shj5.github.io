@@ -1,0 +1,1 @@
+const o=[{p:"mào",pp:"mao4",d:"old variant of 帽[mao4]/hat/cap",t:"冃",w:"冃"}],t=4,c="冂",s=["冂","二"],n=["冑","冔","耼","蚦"],a="",p=[],d=[],m={s:o,sc:t,r:c,c:s,d:n,ux:a,w:p,i:d};export{s as c,n as d,m as default,d as i,c as r,o as s,t as sc,a as ux,p as w};

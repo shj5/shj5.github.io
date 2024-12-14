@@ -1,0 +1,1 @@
+const t=[{p:"yǐ",pp:"yi3",d:"ant/variant of 蟻|蚁[yi3]",t:"螘",w:"螘"}],s=16,c="虫",n=["虫"],o=[],a="",i=[],p=[],d={s:t,sc:s,r:c,c:n,d:o,ux:a,w:i,i:p};export{n as c,o as d,d as default,p as i,c as r,t as s,s as sc,a as ux,i as w};

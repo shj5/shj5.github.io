@@ -1,0 +1,1 @@
+const s=[{p:"pǔ",pp:"pu3",d:"praseodymium (chemistry)",t:"鐠",w:"镨"}],t=17,c="金",o=["普"],n=[],p="",d=[],e=[],r={s,sc:t,r:c,c:o,d:n,ux:p,w:d,i:e};export{o as c,n as d,r as default,e as i,c as r,s,t as sc,p as ux,d as w};

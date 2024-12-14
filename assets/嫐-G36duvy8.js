@@ -1,0 +1,1 @@
+const t=[{p:"nǎo",pp:"nao3",d:"to tease; to play around with",t:"嫐",w:"嫐"}],o=13,s="女",n=["女","男"],c=[],a="",p=[],d=[],e={s:t,sc:o,r:s,c:n,d:c,ux:a,w:p,i:d};export{n as c,c as d,e as default,d as i,s as r,t as s,o as sc,a as ux,p as w};

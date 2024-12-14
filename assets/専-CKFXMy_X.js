@@ -1,0 +1,1 @@
+const n=[{p:"zhuān",pp:"zhuan1",d:"Japanese variant of 專|专",t:"専",w:"専"}],s=9,t="寸",c=["寸"],o=[],a="",p=[],e=[],u={s:n,sc:s,r:t,c,d:o,ux:a,w:p,i:e};export{c,o as d,u as default,e as i,t as r,n as s,s as sc,a as ux,p as w};

@@ -1,0 +1,1 @@
+const o=[{p:"dòu",pp:"dou4",d:"variant of 鬥|斗[dou4]",t:"鬬",w:"鬬"}],t=24,s="鬥",c=[],n=[],d="",u=[],a=[],p={s:o,sc:t,r:s,c,d:n,ux:d,w:u,i:a};export{c,n as d,p as default,a as i,s as r,o as s,t as sc,d as ux,u as w};

@@ -1,1 +1,0 @@
-const o=[{p:"qiú",pp:"qiu2",d:"strong/vigorous/robust/to draw near/to come to an end",t:"遒",w:"遒"}],t=13,s="辵",c=["辶","酋"],n=[],r="",u=[{w:"挥斥方遒",p:"huī chì fāng qiú",d:"full of vim",t:"揮斥方遒"}],d=[],i={s:o,sc:t,r:s,c,d:n,ux:r,w:u,i:d};export{c,n as d,i as default,d as i,s as r,o as s,t as sc,r as ux,u as w};

@@ -1,1 +1,0 @@
-const s=[{p:"ào",pp:"ao4",d:"oganesson (chemistry)",t:"鿫",w:"鿫"}],c=0,o="",t=[],n=[],a="",d=[],e=[],p={s,sc:c,r:o,c:t,d:n,ux:a,w:d,i:e};export{t as c,n as d,p as default,e as i,o as r,s,c as sc,a as ux,d as w};

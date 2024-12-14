@@ -1,0 +1,1 @@
+const n=[{p:"páng",pp:"pang2",d:"used in 螃蟹[pang2 xie4]",t:"螃",w:"螃"}],s=16,t="虫",c=["虫","旁"],o=[],p="",a=[{w:"螃蟹",p:"páng xiè",d:"crab/CL:隻|只[zhi1]",t:"螃蟹"}],d=[],i={s:n,sc:s,r:t,c,d:o,ux:p,w:a,i:d};export{c,o as d,i as default,d as i,t as r,n as s,s as sc,p as ux,a as w};

@@ -1,1 +1,0 @@
-const s=[{p:"dié",pp:"die2",d:"hempen band worn on the head or waist by a mourner",t:"絰",w:"绖"}],n=9,o="糸",t=["纟","至"],c=[],d="",e=[],r=[],a={s,sc:n,r:o,c:t,d:c,ux:d,w:e,i:r};export{t as c,c as d,a as default,r as i,o as r,s,n as sc,d as ux,e as w};

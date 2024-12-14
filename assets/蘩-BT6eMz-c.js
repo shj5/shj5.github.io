@@ -1,1 +1,0 @@
-const s=[{p:"fán",pp:"fan2",d:"Artemisia stellariana",t:"蘩",w:"蘩"}],t=20,c="艸",n=["艹","繁"],o=[],a="",i=[],r=[],d={s,sc:t,r:c,c:n,d:o,ux:a,w:i,i:r};export{n as c,o as d,d as default,r as i,c as r,s,t as sc,a as ux,i as w};

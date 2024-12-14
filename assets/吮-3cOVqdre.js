@@ -1,0 +1,1 @@
+const s=[{p:"shǔn",pp:"shun3",d:"to suck",t:"吮",w:"吮"}],t=7,n="口",c=["口","允"],o=[],u="",d=[{w:"吮吸",p:"shǔn xī",d:"to suck",t:"吮吸"},{w:"吸吮",p:"xī shǔn",d:"to suck on (sth)/to suck in",t:"吸吮"},{w:"舔吮",p:"tiǎn shǔn",d:"to lick and suck",t:"舔吮"}],p=[],h={s,sc:t,r:n,c,d:o,ux:u,w:d,i:p};export{c,o as d,h as default,p as i,n as r,s,t as sc,u as ux,d as w};

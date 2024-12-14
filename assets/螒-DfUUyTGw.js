@@ -1,0 +1,1 @@
+const o=[{p:"hàn",pp:"han4",d:"Aulacophora femoralis",t:"螒",w:"螒"}],s=16,c="虫",t=[],n=[],a="",p=[],r=[],d={s:o,sc:s,r:c,c:t,d:n,ux:a,w:p,i:r};export{t as c,n as d,d as default,r as i,c as r,o as s,s as sc,a as ux,p as w};

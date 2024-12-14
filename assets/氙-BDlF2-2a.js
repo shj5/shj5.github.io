@@ -1,0 +1,1 @@
+const n=[{p:"xiān",pp:"xian1",d:"xenon (chemistry)",t:"氙",w:"氙"}],s=7,t="气",c=["山","气"],o=[],x="",e=[],i=[],p={s:n,sc:s,r:t,c,d:o,ux:x,w:e,i};export{c,o as d,p as default,i,t as r,n as s,s as sc,x as ux,e as w};

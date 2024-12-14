@@ -1,0 +1,1 @@
+const c=[{p:"wān",pp:"wan1",d:"col/gully",t:"壪",w:"塆"}],s=12,t="土",n=["土","弯"],o=[],l="",p=[],w=[],a={s:c,sc:s,r:t,c:n,d:o,ux:l,w:p,i:w};export{n as c,o as d,a as default,w as i,t as r,c as s,s as sc,l as ux,p as w};

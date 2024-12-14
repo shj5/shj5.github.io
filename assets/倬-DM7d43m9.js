@@ -1,1 +1,0 @@
-const c=[{p:"zhuō",pp:"zhuo1",d:"noticeable/large/clear/distinct/Taiwan pr. [zhuo2]",t:"倬",w:"倬"}],s=10,t="人",o=["亻","卓"],n=[],a="",e=[],i=[],r={s:c,sc:s,r:t,c:o,d:n,ux:a,w:e,i};export{o as c,n as d,r as default,i,t as r,c as s,s as sc,a as ux,e as w};

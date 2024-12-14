@@ -1,0 +1,1 @@
+const s=[{p:"sì",pp:"si4",d:"stream which returns after branching",t:"汜",w:"汜"}],t=6,c="水",n=["氵","巳"],o=[],r="",a=[],e=[],i={s,sc:t,r:c,c:n,d:o,ux:r,w:a,i:e};export{n as c,o as d,i as default,e as i,c as r,s,t as sc,r as ux,a as w};

@@ -1,0 +1,1 @@
+const o=[{p:"yáo",pp:"yao2",d:"Japanese variant of 謠|谣",t:"謡",w:"謡"}],s=17,t="言",c=[],n=[],a="",p=[],e=[],d={s:o,sc:s,r:t,c,d:n,ux:a,w:p,i:e};export{c,n as d,d as default,e as i,t as r,o as s,s as sc,a as ux,p as w};

@@ -1,0 +1,1 @@
+const o=[{p:"cuān",pp:"cuan1",d:"quick-boil/to boil for a short time",t:"汆",w:"汆"}],t=6,c="水",s=["入","水"],n=[],i="",u=[],a=[],p={s:o,sc:t,r:c,c:s,d:n,ux:i,w:u,i:a};export{s as c,n as d,p as default,a as i,c as r,o as s,t as sc,i as ux,u as w};

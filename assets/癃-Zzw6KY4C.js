@@ -1,0 +1,1 @@
+const n=[{p:"lóng",pp:"long2",d:"infirmity/retention of urine",t:"癃",w:"癃"}],t=17,o="疒",i=["疒","隆"],s=[],e="",c=[{w:"癃闭",p:"lóng bì",d:"illness having to do with obstruction of urine flow/(Chinese medicine)/retention of urine",t:"癃閉"}],r=[],l={s:n,sc:t,r:o,c:i,d:s,ux:e,w:c,i:r};export{i as c,s as d,l as default,r as i,o as r,n as s,t as sc,e as ux,c as w};

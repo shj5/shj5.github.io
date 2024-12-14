@@ -1,0 +1,1 @@
+const n=[{p:"jūn",pp:"jun1",d:"old variant of 鈞|钧[jun1]",t:"銞",w:"銞"}],t=14,o="金",s=["旬","金"],c=[],a="",d=[],p=[],u={s:n,sc:t,r:o,c:s,d:c,ux:a,w:d,i:p};export{s as c,c as d,u as default,p as i,o as r,n as s,t as sc,a as ux,d as w};

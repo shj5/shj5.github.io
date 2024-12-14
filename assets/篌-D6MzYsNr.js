@@ -1,1 +1,0 @@
-const s=[{p:"hóu",pp:"hou2",d:"used in 箜篌[kong1 hou2]",t:"篌",w:"篌"}],o=15,n="竹",c=["竹","侯"],t=[],u="",h=[{w:"箜篌",p:"kōng hóu",d:"konghou (Chinese harp)",t:"箜篌"}],d=[],p={s,sc:o,r:n,c,d:t,ux:u,w:h,i:d};export{c,t as d,p as default,d as i,n as r,s,o as sc,u as ux,h as w};

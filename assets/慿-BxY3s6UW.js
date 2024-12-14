@@ -1,0 +1,1 @@
+const n=[{p:"píng",pp:"ping2",d:"old variant of 憑|凭[ping2]",t:"慿",w:"慿"}],t=14,o="心",s=["心"],c=[],p="",a=[],d=[],i={s:n,sc:t,r:o,c:s,d:c,ux:p,w:a,i:d};export{s as c,c as d,i as default,d as i,o as r,n as s,t as sc,p as ux,a as w};

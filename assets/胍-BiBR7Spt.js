@@ -1,0 +1,1 @@
+const s=[{p:"guā",pp:"gua1",d:"guanidine",t:"胍",w:"胍"}],t=9,c="肉",n=["月","瓜"],o=[],u="",a=[],d=[],p={s,sc:t,r:c,c:n,d:o,ux:u,w:a,i:d};export{n as c,o as d,p as default,d as i,c as r,s,t as sc,u as ux,a as w};

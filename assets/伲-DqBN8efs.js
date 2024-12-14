@@ -1,1 +1,0 @@
-const n=[{p:"nǐ",pp:"ni3",d:"variant of 你[ni3]",t:"伲",w:"伲"},{p:"nì",pp:"ni4",d:"(dialect) I/my/we/our",t:"伲",w:"伲"}],t=7,c="人",s=["亻","尼"],o=[],i="",p=[],d=[],a={s:n,sc:t,r:c,c:s,d:o,ux:i,w:p,i:d};export{s as c,o as d,a as default,d as i,c as r,n as s,t as sc,i as ux,p as w};

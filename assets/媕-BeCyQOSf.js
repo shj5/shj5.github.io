@@ -1,0 +1,1 @@
+const n=[{p:"ān",pp:"an1",d:"used in 媕婀[an1e1]",t:"媕",w:"媕"}],t=12,s="女",c=["女","弇"],o=[],e="",i=[{w:"媕婀",p:"ān ē",d:"(literary) hesitant; indecisive",t:"媕婀"}],a=[],d={s:n,sc:t,r:s,c,d:o,ux:e,w:i,i:a};export{c,o as d,d as default,a as i,s as r,n as s,t as sc,e as ux,i as w};

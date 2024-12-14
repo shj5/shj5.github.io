@@ -1,1 +1,0 @@
-const n=[{p:"Yù",pp:"Yu4",d:"name of river/old name of Baihe 白河 in Henan/same as 育水",t:"淯",w:"淯"}],s=11,o="水",a=["氵","育"],e=[],c="",t=[{w:"淯水",p:"Yù shuǐ",d:"name of river/old name of Baihe 白河 in Henan/same as 育水",t:"淯水"}],i=[],d={s:n,sc:s,r:o,c:a,d:e,ux:c,w:t,i};export{a as c,e as d,d as default,i,o as r,n as s,s as sc,c as ux,t as w};

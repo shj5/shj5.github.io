@@ -1,1 +1,0 @@
-const s=[{p:"shī",pp:"shi1",d:"yellowtail (Seriola qinqueradiata)",t:"鰤",w:"𫚕"}],t=0,c="",o=[],n=[],a="C",i=[],d=[],e={s,sc:t,r:c,c:o,d:n,ux:a,w:i,i:d};export{o as c,n as d,e as default,d as i,c as r,s,t as sc,a as ux,i as w};

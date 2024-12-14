@@ -1,0 +1,1 @@
+const t=[{p:"jǐn",pp:"jin3",d:"variant of 堇[jin3]/violet",t:"菫",w:"菫"}],n=11,o="艸",s=["艹"],c=[],i="",a=[],p=[],d={s:t,sc:n,r:o,c:s,d:c,ux:i,w:a,i:p};export{s as c,c as d,d as default,p as i,o as r,t as s,n as sc,i as ux,a as w};

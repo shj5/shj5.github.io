@@ -1,0 +1,1 @@
+const t=[{p:"yè",pp:"ye4",d:"to fry in fat or oil/to scald",t:"煠",w:"煠"}],o=13,s="火",c=["火"],n=[],a="",d=[],p=[],r={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i:p};export{c,n as d,r as default,p as i,s as r,t as s,o as sc,a as ux,d as w};

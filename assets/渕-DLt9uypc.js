@@ -1,0 +1,1 @@
+const n=[{p:"yuān",pp:"yuan1",d:"variant of 淵|渊[yuan1]",t:"渕",w:"渕"}],t=11,s="水",c=["氵"],o=[],a="",u=[],p=[],d={s:n,sc:t,r:s,c,d:o,ux:a,w:u,i:p};export{c,o as d,d as default,p as i,s as r,n as s,t as sc,a as ux,u as w};

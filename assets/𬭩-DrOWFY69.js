@@ -1,0 +1,1 @@
+const s=[{p:"wēng",pp:"weng1",d:"shovel/spade/-onium (chemistry)",t:"鎓",w:"𬭩"}],t=0,c="",n=[],o=[],e="E",p=[],d=[],w={s,sc:t,r:c,c:n,d:o,ux:e,w:p,i:d};export{n as c,o as d,w as default,d as i,c as r,s,t as sc,e as ux,p as w};

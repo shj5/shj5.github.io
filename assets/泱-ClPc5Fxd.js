@@ -1,1 +1,0 @@
-const n=[{p:"yāng",pp:"yang1",d:"agitated (wind, cloud)/boundless",t:"泱",w:"泱"}],t=8,s="水",c=["氵","央"],o=[],d="",g=[{w:"泱泱",p:"yāng yāng",d:"grand/magnificent/vast",t:"泱泱"},{w:"乌泱乌泱",p:"wū yāng wū yāng",d:"in great number",t:"烏泱烏泱"}],a=[],w={s:n,sc:t,r:s,c,d:o,ux:d,w:g,i:a};export{c,o as d,w as default,a as i,s as r,n as s,t as sc,d as ux,g as w};

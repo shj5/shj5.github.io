@@ -1,0 +1,1 @@
+const t=[{p:"wěn",pp:"wen3",d:"cut across (throat)",t:"刎",w:"刎"}],o=6,c="刀",s=["刂","勿"],n=[],w="",a=[{w:"自刎",p:"zì wěn",d:"to commit suicide by cutting one's own throat",t:"自刎"}],d=[],e={s:t,sc:o,r:c,c:s,d:n,ux:w,w:a,i:d};export{s as c,n as d,e as default,d as i,c as r,t as s,o as sc,w as ux,a as w};

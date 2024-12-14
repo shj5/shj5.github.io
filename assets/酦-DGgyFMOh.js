@@ -1,1 +1,0 @@
-const o=[{p:"fā",pp:"fa1",d:"used in 醱酵|酦酵[fa1 jiao4]/Taiwan pr. [po4]",t:"醱",w:"酦"},{p:"pō",pp:"po1",d:"to ferment alcohol/Taiwan pr. [po4]",t:"醱",w:"酦"}],t=13,s="酉",a=["发","酉"],c=[],n="",p=[{w:"酦酵",p:"fā jiào",d:"variant of 發酵|发酵[fa1 jiao4]",t:"醱酵"}],i=[],f={s:o,sc:t,r:s,c:a,d:c,ux:n,w:p,i};export{a as c,c as d,f as default,i,s as r,o as s,t as sc,n as ux,p as w};

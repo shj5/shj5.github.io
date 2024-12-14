@@ -1,0 +1,1 @@
+const t=[{p:"me",pp:"me5",d:"(final particle)",t:"嚜",w:"嚜"}],c=18,s="口",n=["口"],o=[],e="",p=[],a=[],d={s:t,sc:c,r:s,c:n,d:o,ux:e,w:p,i:a};export{n as c,o as d,d as default,a as i,s as r,t as s,c as sc,e as ux,p as w};

@@ -1,1 +1,0 @@
-const c=[{p:"yín",pp:"yin2",d:"(archaic) remote area",t:"殥",w:"殥"}],s=15,t="歹",n=["歹","寅"],o=[],a="",r=[],e=[],d={s:c,sc:s,r:t,c:n,d:o,ux:a,w:r,i:e};export{n as c,o as d,d as default,e as i,t as r,c as s,s as sc,a as ux,r as w};

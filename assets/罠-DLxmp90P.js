@@ -1,1 +1,0 @@
-const s=[{p:"mín",pp:"min2",d:"animal trap",t:"罠",w:"罠"}],c=10,t="网",n=["罒","民"],o=[],a="",p=[],d=[],i={s,sc:c,r:t,c:n,d:o,ux:a,w:p,i:d};export{n as c,o as d,i as default,d as i,t as r,s,c as sc,a as ux,p as w};

@@ -1,1 +1,0 @@
-const s=[{p:"yīng",pp:"ying1",d:"Japanese variant of 櫻|樱[ying1]",t:"桜",w:"桜"}],n=10,c="木",t=["木"],o=[],a="",i=[],p=[],d={s,sc:n,r:c,c:t,d:o,ux:a,w:i,i:p};export{t as c,o as d,d as default,p as i,c as r,s,n as sc,a as ux,i as w};

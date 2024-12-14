@@ -1,0 +1,1 @@
+const t=[{p:"lì",pp:"li4",d:"(final particle)/sound/noise",t:"唎",w:"唎"},{p:"li",pp:"li5",d:"variant of 哩[li5]",t:"唎",w:"唎"}],s=10,n="口",o=["口","利"],c=[],i="",l=[],p=[],a={s:t,sc:s,r:n,c:o,d:c,ux:i,w:l,i:p};export{o as c,c as d,a as default,p as i,n as r,t as s,s as sc,i as ux,l as w};

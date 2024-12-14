@@ -1,0 +1,1 @@
+const s=[{p:"guì",pp:"gui4",d:"precipitous/mountainous",t:"嶡",w:"嶡"},{p:"jué",pp:"jue2",d:"sacrificial vessel",t:"嶡",w:"嶡"}],t=15,c="山",o=["山","厥"],n=[],p="",u=[],i=[],e={s,sc:t,r:c,c:o,d:n,ux:p,w:u,i};export{o as c,n as d,e as default,i,c as r,s,t as sc,p as ux,u as w};

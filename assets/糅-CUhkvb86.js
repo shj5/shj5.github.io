@@ -1,0 +1,1 @@
+const t=[{p:"róu",pp:"rou2",d:"mix",t:"糅",w:"糅"}],o=15,s="米",n=["米","柔"],c=[],e="",r=[{w:"糅合",p:"róu hé",d:"mix together/put together (usu. things that do not blend well together)",t:"糅合"},{w:"杂糅",p:"zá róu",d:"a blend/a mix",t:"雜糅"}],u=[],d={s:t,sc:o,r:s,c:n,d:c,ux:e,w:r,i:u};export{n as c,c as d,d as default,u as i,s as r,t as s,o as sc,e as ux,r as w};

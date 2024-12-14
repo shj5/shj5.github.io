@@ -1,0 +1,1 @@
+const t=[{p:"lè",pp:"le4",d:"to write",t:"泐",w:"泐"}],s=8,c="水",o=["氵","阞"],n=[],e="",p=[],d=[],l={s:t,sc:s,r:c,c:o,d:n,ux:e,w:p,i:d};export{o as c,n as d,l as default,d as i,c as r,t as s,s as sc,e as ux,p as w};

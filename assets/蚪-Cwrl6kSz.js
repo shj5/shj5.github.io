@@ -1,0 +1,1 @@
+const t=[{p:"dǒu",pp:"dou3",d:"used in 蝌蚪[ke1dou3]",t:"蚪",w:"蚪"}],o=10,s="虫",c=["斗","虫"],d=[],n="",u=[{w:"蝌蚪",p:"kē dǒu",d:"tadpole/CL:隻|只[zhi1],條|条[tiao2]",t:"蝌蚪"}],p=[],e={s:t,sc:o,r:s,c,d,ux:n,w:u,i:p};export{c,d,e as default,p as i,s as r,t as s,o as sc,n as ux,u as w};

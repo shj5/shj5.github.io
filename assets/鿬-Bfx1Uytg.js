@@ -1,0 +1,1 @@
+const t=[{p:"tián",pp:"tian2",d:"tennessine (chemistry)",t:"鿬",w:"鿬"}],s=0,n="",c=[],o=[],e="",i=[],p=[],a={s:t,sc:s,r:n,c,d:o,ux:e,w:i,i:p};export{c,o as d,a as default,p as i,n as r,t as s,s as sc,e as ux,i as w};

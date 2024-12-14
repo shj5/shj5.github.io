@@ -1,0 +1,1 @@
+const o=[{p:"zhì",pp:"zhi4",d:"(literary) (bound form) jealous",t:"忮",w:"忮"}],e=7,s="心",t=["忄","支"],r=[],c="",i=[],n=[{w:"不忮不求",p:"bù zhì bù qiú",d:"(idiom) to be free of jealousy or greed/to live a simple life, free from worldly desires",t:"不忮不求"}],d={s:o,sc:e,r:s,c:t,d:r,ux:c,w:i,i:n};export{t as c,r as d,d as default,n as i,s as r,o as s,e as sc,c as ux,i as w};

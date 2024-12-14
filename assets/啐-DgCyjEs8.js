@@ -1,0 +1,1 @@
+const o=[{p:"cuì",pp:"cui4",d:"to spit/(onom.) pshaw!/(old) to sip",t:"啐",w:"啐"}],s=11,t="口",c=["口","卒"],n=[],p="",d=[],i=[],u={s:o,sc:s,r:t,c,d:n,ux:p,w:d,i};export{c,n as d,u as default,i,t as r,o as s,s as sc,p as ux,d as w};

@@ -1,0 +1,1 @@
+const o=[{p:"zhuō",pp:"zhuo1",d:"variant of 桌[zhuo1]",t:"棹",w:"棹"},{p:"zhào",pp:"zhao4",d:"oar (archaic)/scull/paddle/to row/a boat",t:"櫂",w:"棹"}],t=12,c="木",s=["木","卓"],a=[],n="",p=[],d=[],h={s:o,sc:t,r:c,c:s,d:a,ux:n,w:p,i:d};export{s as c,a as d,h as default,d as i,c as r,o as s,t as sc,n as ux,p as w};

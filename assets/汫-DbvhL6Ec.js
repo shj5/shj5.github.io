@@ -1,1 +1,0 @@
-const n=[{p:"jǐng",pp:"jing3",d:"old variant of 阱[jing3]/used in 汫濙|汫𣸨[jing3ying2]",t:"汫",w:"汫"}],s=7,t="水",c=["氵","井"],o=[],i="",d=[{w:"汫𣸨",p:"jǐng yíng",d:"meandering",t:"汫濙"}],g=[],a={s:n,sc:s,r:t,c,d:o,ux:i,w:d,i:g};export{c,o as d,a as default,g as i,t as r,n as s,s as sc,i as ux,d as w};

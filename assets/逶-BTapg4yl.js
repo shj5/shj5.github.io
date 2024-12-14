@@ -1,0 +1,1 @@
+const n=[{p:"wēi",pp:"wei1",d:"used in 逶迤[wei1yi2]",t:"逶",w:"逶"}],s=12,t="辵",o=["辶","委"],i=[],c="",e=[{w:"逶迤",p:"wēi yí",d:"(literary) (of roads, rivers, mountain ranges etc) long and winding; meandering",t:"逶迤"}],d=[],r={s:n,sc:s,r:t,c:o,d:i,ux:c,w:e,i:d};export{o as c,i as d,r as default,d as i,t as r,n as s,s as sc,c as ux,e as w};

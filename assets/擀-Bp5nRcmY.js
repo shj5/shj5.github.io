@@ -1,1 +1,0 @@
-const n=[{p:"gǎn",pp:"gan3",d:"to roll (dough etc)",t:"擀",w:"擀"}],t=16,c="手",o=["扌"],s=[],d="",g=[{w:"擀面杖",p:"gǎn miàn zhàng",d:"rolling pin",t:"擀麵杖"}],p=[],i={s:n,sc:t,r:c,c:o,d:s,ux:d,w:g,i:p};export{o as c,s as d,i as default,p as i,c as r,n as s,t as sc,d as ux,g as w};

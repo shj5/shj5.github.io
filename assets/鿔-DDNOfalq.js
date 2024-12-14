@@ -1,1 +1,0 @@
-const c=[{p:"gē",pp:"ge1",d:"copernicium (chemistry)",t:"鎶",w:"鿔"}],s=0,t="",o=[],n=[],e="",i=[],p=[],r={s:c,sc:s,r:t,c:o,d:n,ux:e,w:i,i:p};export{o as c,n as d,r as default,p as i,t as r,c as s,s as sc,e as ux,i as w};

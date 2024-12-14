@@ -1,0 +1,1 @@
+const s=[{p:"qín",pp:"qin2",d:"Phragmites japonica",t:"芩",w:"芩"}],t=7,c="艸",n=["艹","今"],o=[],a="",p=[],i=[],d={s,sc:t,r:c,c:n,d:o,ux:a,w:p,i};export{n as c,o as d,d as default,i,c as r,s,t as sc,a as ux,p as w};

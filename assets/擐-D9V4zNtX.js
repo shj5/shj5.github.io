@@ -1,1 +1,0 @@
-const s=[{p:"huàn",pp:"huan4",d:"pass through/to get into (armor)",t:"擐",w:"擐"}],t=16,o="手",c=["扌","睘"],n=[],r="",u=[],a=[],p={s,sc:t,r:o,c,d:n,ux:r,w:u,i:a};export{c,n as d,p as default,a as i,o as r,s,t as sc,r as ux,u as w};

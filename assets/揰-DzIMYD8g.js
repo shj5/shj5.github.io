@@ -1,0 +1,1 @@
+const c=[{p:"chòng",pp:"chong4",d:"poke out/punch/push into",t:"揰",w:"揰"}],o=12,t="手",n=["扌","重"],s=[],p="",u=[],h=[],d={s:c,sc:o,r:t,c:n,d:s,ux:p,w:u,i:h};export{n as c,s as d,d as default,h as i,t as r,c as s,o as sc,p as ux,u as w};

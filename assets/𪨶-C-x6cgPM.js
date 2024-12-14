@@ -1,0 +1,1 @@
+const t=[{p:"Shē",pp:"She1",d:"old variant of 畬|畲[She1]",t:"輋",w:"𪨶"}],o=0,s="",c=[],n=[],a="C",d=[],e=[],p={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i:e};export{c,n as d,p as default,e as i,s as r,t as s,o as sc,a as ux,d as w};

@@ -1,0 +1,1 @@
+const n=[{p:"rèn",pp:"ren4",d:"old variant of 韌|韧[ren4]",t:"肕",w:"肕"}],t=7,o="肉",s=["刃","月"],c=[],r="",a=[],d=[],e={s:n,sc:t,r:o,c:s,d:c,ux:r,w:a,i:d};export{s as c,c as d,e as default,d as i,o as r,n as s,t as sc,r as ux,a as w};

@@ -1,0 +1,1 @@
+const t=[{p:"tōu",pp:"tou1",d:"improper/irregular",t:"媮",w:"媮"}],o=12,s="女",c=["女","俞"],n=[],r="",p=[],u=[],e={s:t,sc:o,r:s,c,d:n,ux:r,w:p,i:u};export{c,n as d,e as default,u as i,s as r,t as s,o as sc,r as ux,p as w};

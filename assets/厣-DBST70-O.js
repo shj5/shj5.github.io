@@ -1,0 +1,1 @@
+const n=[{p:"yǎn",pp:"yan3",d:"operculum (Latin: little lid)/a covering flap (in various branches of anatomy)",t:"厴",w:"厣"}],t=11,o="厂",c=["厂"],s=[],a="",i=[],e=[],l={s:n,sc:t,r:o,c,d:s,ux:a,w:i,i:e};export{c,s as d,l as default,e as i,o as r,n as s,t as sc,a as ux,i as w};

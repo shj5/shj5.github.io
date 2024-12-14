@@ -1,1 +1,0 @@
-const s=[{p:"nì",pp:"ni4",d:"old variant of 溺[ni4]",t:"氼",w:"氼"}],c=6,n="水",t=["人","水"],o=[],d="",i=[],a=[],p={s,sc:c,r:n,c:t,d:o,ux:d,w:i,i:a};export{t as c,o as d,p as default,a as i,n as r,s,c as sc,d as ux,i as w};

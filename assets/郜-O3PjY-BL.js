@@ -1,0 +1,1 @@
+const o=[{p:"Gào",pp:"Gao4",d:"surname Gao/name of a feudal state",t:"郜",w:"郜"}],s=10,t="邑",c=["告"],n=[],a="",e=[],d=[],p={s:o,sc:s,r:t,c,d:n,ux:a,w:e,i:d};export{c,n as d,p as default,d as i,t as r,o as s,s as sc,a as ux,e as w};

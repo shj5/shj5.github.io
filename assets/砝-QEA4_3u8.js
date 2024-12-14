@@ -1,0 +1,1 @@
+const s=[{p:"fǎ",pp:"fa3",d:"used in 砝碼|砝码[fa3 ma3]",t:"砝",w:"砝"}],t=10,c="石",n=["石","去"],a=[],o="",d=[{w:"砝码",p:"fǎ mǎ",d:"standard weight (used on a balance scale)",t:"砝碼"}],e=[],f={s,sc:t,r:c,c:n,d:a,ux:o,w:d,i:e};export{n as c,a as d,f as default,e as i,c as r,s,t as sc,o as ux,d as w};

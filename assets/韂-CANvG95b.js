@@ -1,1 +1,0 @@
-const s=[{p:"chàn",pp:"chan4",d:"(bound form) saddle blanket",t:"韂",w:"韂"}],c=22,n="革",t=["革","詹"],d=[],o="",a=[{w:"鞍韂",p:"ān chàn",d:"a saddle with a saddle blanket",t:"鞍韂"}],e=[],l={s,sc:c,r:n,c:t,d,ux:o,w:a,i:e};export{t as c,d,l as default,e as i,n as r,s,c as sc,o as ux,a as w};

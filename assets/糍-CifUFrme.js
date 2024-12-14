@@ -1,0 +1,1 @@
+const c=[{p:"cí",pp:"ci2",d:"sticky rice cake",t:"糍",w:"糍"}],t=15,s="米",e=["米","兹"],i=[],n="",o=[{w:"糍粑",p:"cí bā",d:"sticky rice cake",t:"糍粑"},{w:"糯米糍",p:"nuò mǐ cí",d:"rice cake dumpling/sticky rice cake/mochi cake",t:"糯米糍"}],k=[],a={s:c,sc:t,r:s,c:e,d:i,ux:n,w:o,i:k};export{e as c,i as d,a as default,k as i,s as r,c as s,t as sc,n as ux,o as w};

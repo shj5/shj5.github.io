@@ -1,0 +1,1 @@
+const t=[{p:"niǎn",pp:"nian3",d:"to play tricks on or toy with/delicate/exquisite (Cantonese)",t:"撚",w:"撚"}],n=15,o="手",s=["扌","然"],c=[],e="",i=[],a=[],p={s:t,sc:n,r:o,c:s,d:c,ux:e,w:i,i:a};export{s as c,c as d,p as default,a as i,o as r,t as s,n as sc,e as ux,i as w};

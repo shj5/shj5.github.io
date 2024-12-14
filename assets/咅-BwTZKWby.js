@@ -1,1 +1,0 @@
-const o=[{p:"pǒu",pp:"pou3",d:"pooh/pah/bah/(today used as a phonetic component in 部[bu4], 倍[bei4], 培[pei2], 剖[pou1] etc)",t:"咅",w:"咅"}],c=8,s="口",t=["口","立"],n=["倍","剖","培","掊","涪","菩","部","陪","焙","赔","碚","锫","踣","醅"],p="",e=[],u=[],a={s:o,sc:c,r:s,c:t,d:n,ux:p,w:e,i:u};export{t as c,n as d,a as default,u as i,s as r,o as s,c as sc,p as ux,e as w};

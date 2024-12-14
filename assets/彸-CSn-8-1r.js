@@ -1,1 +1,0 @@
-const s=[{p:"zhōng",pp:"zhong1",d:"restless, agitated",t:"彸",w:"彸"}],t=7,c="彳",n=["彳","公"],o=[],d="",e=[{w:"征彸",p:"zhēng zhōng",d:"scared/badly frightened",t:"征彸"}],a=[],g={s,sc:t,r:c,c:n,d:o,ux:d,w:e,i:a};export{n as c,o as d,g as default,a as i,c as r,s,t as sc,d as ux,e as w};

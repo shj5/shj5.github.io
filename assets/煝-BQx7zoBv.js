@@ -1,1 +1,0 @@
-const s=[{p:"mèi",pp:"mei4",d:"be radiant/flaming/drought",t:"煝",w:"煝"}],t=13,c="火",n=["火","眉"],o=[],d="",i=[],a=[],r={s,sc:t,r:c,c:n,d:o,ux:d,w:i,i:a};export{n as c,o as d,r as default,a as i,c as r,s,t as sc,d as ux,i as w};

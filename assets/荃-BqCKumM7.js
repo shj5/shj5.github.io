@@ -1,1 +1,0 @@
-const n=[{p:"quán",pp:"quan2",d:"(fragrant plant)",t:"荃",w:"荃"}],t=9,s="艸",c=["艹","全"],o=["醛"],r="",u=[{w:"段荃法",p:"Duàn Quán fǎ",d:"Duan Quanfa (1939-2010), Chinese writer",t:"段荃法"},{w:"荃湾",p:"Quán wān",d:"Tsuen Wan district of New Territories, Hong Kong",t:"荃灣"}],a=[],e={s:n,sc:t,r:s,c,d:o,ux:r,w:u,i:a};export{c,o as d,e as default,a as i,s as r,n as s,t as sc,r as ux,u as w};

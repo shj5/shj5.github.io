@@ -1,0 +1,1 @@
+const s=[{p:"dài",pp:"dai4",d:"a long narrow vessel with two masts",t:"艜",w:"艜"}],t=17,o="舟",c=["舟"],n=[],a="",d=[],w=[],e={s,sc:t,r:o,c,d:n,ux:a,w:d,i:w};export{c,n as d,e as default,w as i,o as r,s,t as sc,a as ux,d as w};

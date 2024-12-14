@@ -1,0 +1,1 @@
+const t=[{p:"chuài",pp:"chuai4",d:"(literary) to gnaw/to eat ravenously",t:"嘬",w:"嘬"},{p:"zuō",pp:"zuo1",d:"(coll.) to suck",t:"嘬",w:"嘬"}],o=15,c="口",s=["口","最"],n=[],u="",a=[],p=[],e={s:t,sc:o,r:c,c:s,d:n,ux:u,w:a,i:p};export{s as c,n as d,e as default,p as i,c as r,t as s,o as sc,u as ux,a as w};

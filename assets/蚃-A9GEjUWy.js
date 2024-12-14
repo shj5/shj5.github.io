@@ -1,0 +1,1 @@
+const t=[{p:"xiǎng",pp:"xiang3",d:"(literary) insect larva/Taiwan pr. [xiang4]",t:"蠁",w:"蚃"}],n=9,a="虫",c=["虫"],s=[],o="",i=[{w:"肸蚃",p:"xī xiǎng",d:"(literary) (of a sound, fragrance etc) to fill the air",t:"肸蠁"}],r=[],e={s:t,sc:n,r:a,c,d:s,ux:o,w:i,i:r};export{c,s as d,e as default,r as i,a as r,t as s,n as sc,o as ux,i as w};

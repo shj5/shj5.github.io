@@ -1,1 +1,0 @@
-const s=[{p:"gū",pp:"gu1",d:"(bamboo)/trumpet for chariots",t:"箛",w:"箛"}],t=14,c="竹",o=["竹"],n=[],r="",p=[],u=[],a={s,sc:t,r:c,c:o,d:n,ux:r,w:p,i:u};export{o as c,n as d,a as default,u as i,c as r,s,t as sc,r as ux,p as w};

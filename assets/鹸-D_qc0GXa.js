@@ -1,1 +1,0 @@
-const s=[{p:"jiǎn",pp:"jian3",d:"Japanese variant of 鹼|碱[jian3]",t:"鹸",w:"鹸"}],n=19,c="鹵",t=[],o=[],a="",i=[],p=[],d={s,sc:n,r:c,c:t,d:o,ux:a,w:i,i:p};export{t as c,o as d,d as default,p as i,c as r,s,n as sc,a as ux,i as w};

@@ -1,0 +1,1 @@
+const n=[{p:"zēng",pp:"zeng1",d:"Japanese variant of 增[zeng1]",t:"増",w:"増"}],s=14,t="土",c=["土","曽"],o=[],a="",e=[],p=[],d={s:n,sc:s,r:t,c,d:o,ux:a,w:e,i:p};export{c,o as d,d as default,p as i,t as r,n as s,s as sc,a as ux,e as w};

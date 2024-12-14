@@ -1,0 +1,1 @@
+const o=[{p:"xī",pp:"xi1",d:"ivory bodkin for undoing knots",t:"觿",w:"觿"}],n=25,s="角",t=["角","巂"],c=[],d="",i=[],p=[],r={s:o,sc:n,r:s,c:t,d:c,ux:d,w:i,i:p};export{t as c,c as d,r as default,p as i,s as r,o as s,n as sc,d as ux,i as w};

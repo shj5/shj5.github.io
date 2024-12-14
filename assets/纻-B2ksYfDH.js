@@ -1,0 +1,1 @@
+const t=[{p:"zhù",pp:"zhu4",d:"variant of 苧|苎[zhu4]/(literary) cloth made from ramie fiber",t:"紵",w:"纻"}],o=7,c="糸",s=["纟"],n=[],r="",a=[],e=[],i={s:t,sc:o,r:c,c:s,d:n,ux:r,w:a,i:e};export{s as c,n as d,i as default,e as i,c as r,t as s,o as sc,r as ux,a as w};

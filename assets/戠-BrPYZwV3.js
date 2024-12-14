@@ -1,0 +1,1 @@
+const t=[{p:"zhí",pp:"zhi2",d:"to gather/old variant of 埴[zhi2]",t:"戠",w:"戠"}],o=13,s="戈",c=["戈","音"],n=["樴"],a="",d=[],h=[],i={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i:h};export{c,n as d,i as default,h as i,s as r,t as s,o as sc,a as ux,d as w};

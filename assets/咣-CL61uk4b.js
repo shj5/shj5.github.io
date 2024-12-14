@@ -1,0 +1,1 @@
+const n=[{p:"guāng",pp:"guang1",d:"(onom.) bang/door banging shut",t:"咣",w:"咣"}],o=9,s="口",t=["口","光"],c=[],g="",a=[{w:"咣当",p:"guāng dāng",d:"crash/bang",t:"咣當"}],d=[],u={s:n,sc:o,r:s,c:t,d:c,ux:g,w:a,i:d};export{t as c,c as d,u as default,d as i,s as r,n as s,o as sc,g as ux,a as w};

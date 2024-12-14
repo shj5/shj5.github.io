@@ -1,0 +1,1 @@
+const t=[{p:"bó",pp:"bo2",d:"platinum (chemistry)",t:"鉑",w:"铂"}],s=10,c="金",o=["白"],n=[],p="",a=[],d=[],e={s:t,sc:s,r:c,c:o,d:n,ux:p,w:a,i:d};export{o as c,n as d,e as default,d as i,c as r,t as s,s as sc,p as ux,a as w};

@@ -1,0 +1,1 @@
+const t=[{p:"tū",pp:"tu1",d:"radish; daikon/Taiwan pr. [tu2]",t:"葖",w:"葖"}],o=12,s="艸",c=["艹"],n=[],a="",d=[{w:"蓇葖",p:"gū tū",d:"(botany) follicle/flower bud",t:"蓇葖"}],p=[],i={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i:p};export{c,n as d,i as default,p as i,s as r,t as s,o as sc,a as ux,d as w};

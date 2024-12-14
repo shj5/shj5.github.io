@@ -1,1 +1,0 @@
-const s=[{p:"jiè",pp:"jie4",d:"see 蛤蚧[ge2 jie4]",t:"蚧",w:"蚧"}],c=10,o="虫",t=["介","虫"],e=[],n="",i=[{w:"蛤蚧",p:"gé jiè",d:"tokay gecko (Gekko gecko), used in TCM",t:"蛤蚧"}],d=[],k={s,sc:c,r:o,c:t,d:e,ux:n,w:i,i:d};export{t as c,e as d,k as default,d as i,o as r,s,c as sc,n as ux,i as w};

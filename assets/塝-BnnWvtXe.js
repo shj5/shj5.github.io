@@ -1,0 +1,1 @@
+const t=[{p:"bàng",pp:"bang4",d:"the edge/border of a field",t:"塝",w:"塝"}],o=13,s="土",c=["土","旁"],n=[],e="",d=[],a=[],p={s:t,sc:o,r:s,c,d:n,ux:e,w:d,i:a};export{c,n as d,p as default,a as i,s as r,t as s,o as sc,e as ux,d as w};

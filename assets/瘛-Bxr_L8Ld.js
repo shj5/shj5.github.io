@@ -1,0 +1,1 @@
+const c=[{p:"chì",pp:"chi4",d:"used in 瘛瘲|瘛疭[chi4zong4]/Taiwan pr. [qi4]",t:"瘛",w:"瘛"}],n=15,o="疒",s=["疒","恝"],t=[],i="",p=[{w:"瘛疭",p:"chì zòng",d:"(TCM) clonic convulsion",t:"瘛瘲"}],d=[],a={s:c,sc:n,r:o,c:s,d:t,ux:i,w:p,i:d};export{s as c,t as d,a as default,d as i,o as r,c as s,n as sc,i as ux,p as w};

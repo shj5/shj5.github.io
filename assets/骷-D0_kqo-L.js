@@ -1,0 +1,1 @@
+const s=[{p:"kū",pp:"ku1",d:"used in 骷髏|骷髅[ku1lou2]",t:"骷",w:"骷"}],t=15,n="骨",o=["古","骨"],u=[],c="",d=[{w:"骷髅",p:"kū lóu",d:"human skeleton/human skull",t:"骷髏"},{w:"骷髅头",p:"kū lóu tóu",d:"a death's-head; depiction of a dead person's skull",t:"骷髏頭"}],e=[],a={s,sc:t,r:n,c:o,d:u,ux:c,w:d,i:e};export{o as c,u as d,a as default,e as i,n as r,s,t as sc,c as ux,d as w};

@@ -1,0 +1,1 @@
+const t=[{p:"āng",pp:"ang1",d:"dirty/filthy",t:"骯",w:"肮"}],n=8,s="肉",c=["月","亢"],o=[],d="",i=[{w:"肮脏",p:"āng zāng",d:"dirty/filthy",t:"骯髒"}],p=[],g={s:t,sc:n,r:s,c,d:o,ux:d,w:i,i:p};export{c,o as d,g as default,p as i,s as r,t as s,n as sc,d as ux,i as w};

@@ -1,0 +1,1 @@
+const t=[{p:"yú",pp:"yu2",d:"uneven (teeth)",t:"齵",w:"齵"}],n=24,c="齒",o=["禺"],s=[],e="",u=[{w:"齱齵",p:"zōu yú",d:"uneven teeth/buck-toothed",t:"齱齵"}],d=[],p={s:t,sc:n,r:c,c:o,d:s,ux:e,w:u,i:d};export{o as c,s as d,p as default,d as i,c as r,t as s,n as sc,e as ux,u as w};

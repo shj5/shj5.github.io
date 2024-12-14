@@ -1,1 +1,0 @@
-const c=[{p:"chuò",pp:"chuo4",d:"to walk (side part of split character)",t:"辵",w:"辵"}],s=7,t="*",o=["彡","止"],n=[],a="",p=[],r=[],d={s:c,sc:s,r:t,c:o,d:n,ux:a,w:p,i:r};export{o as c,n as d,d as default,r as i,t as r,c as s,s as sc,a as ux,p as w};

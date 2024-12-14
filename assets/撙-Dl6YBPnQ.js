@@ -1,0 +1,1 @@
+const t=[{p:"zǔn",pp:"zun3",d:"to reduce or cut down on/to rein in/to restrain",t:"撙",w:"撙"}],n=15,o="手",c=["扌","尊"],s=[],r="",e=[],d=[],u={s:t,sc:n,r:o,c,d:s,ux:r,w:e,i:d};export{c,s as d,u as default,d as i,o as r,t as s,n as sc,r as ux,e as w};

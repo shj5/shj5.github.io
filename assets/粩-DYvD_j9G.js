@@ -1,1 +1,0 @@
-const s=[{p:"lāo",pp:"lao1",d:"a traditional pastry of Taiwan and Fujian which is fried, then coated with maltose and rolled in sesame seeds or chopped peanuts etc/Taiwan pr. [lao3]",t:"粩",w:"粩"}],t=12,o="米",a=["米","老"],n=[],c="",e=[],d=[],i={s,sc:t,r:o,c:a,d:n,ux:c,w:e,i:d};export{a as c,n as d,i as default,d as i,o as r,s,t as sc,c as ux,e as w};

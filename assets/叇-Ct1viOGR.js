@@ -1,0 +1,1 @@
+const s=[{p:"dài",pp:"dai4",d:"see 靉靆|叆叇[ai4 dai4]",t:"靆",w:"叇"}],t=15,c="厶",o=["云","逮"],e=[],a="",d=[{w:"叆叇",p:"ài dài",d:"(literary) heavy (clouds)/(literary) eyeglasses",t:"靉靆"}],i=[],n={s,sc:t,r:c,c:o,d:e,ux:a,w:d,i};export{o as c,e as d,n as default,i,c as r,s,t as sc,a as ux,d as w};

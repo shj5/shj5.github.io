@@ -1,0 +1,1 @@
+const t=[{p:"hòu",pp:"hou4",d:"used in 邂逅[xie4hou4]",t:"逅",w:"逅"}],o=10,s="辵",c=["辶","后"],n=[],e="",u=[{w:"邂逅",p:"xiè hòu",d:"(literary) to meet sb by chance; to run into sb",t:"邂逅"}],i=[],d={s:t,sc:o,r:s,c,d:n,ux:e,w:u,i};export{c,n as d,d as default,i,s as r,t as s,o as sc,e as ux,u as w};

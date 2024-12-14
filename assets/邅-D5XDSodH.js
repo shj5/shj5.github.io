@@ -1,1 +1,0 @@
-const n=[{p:"zhān",pp:"zhan1",d:"not making progress",t:"邅",w:"邅"}],s=17,t="辵",o=["辶","亶"],c=[],r="",p=[{w:"屯邅",p:"zhūn zhān",d:"(literary) making no progress",t:"屯邅"},{w:"迍邅",p:"zhūn zhān",d:"(literary) making no progress",t:"迍邅"}],a=[],e={s:n,sc:s,r:t,c:o,d:c,ux:r,w:p,i:a};export{o as c,c as d,e as default,a as i,t as r,n as s,s as sc,r as ux,p as w};

@@ -1,0 +1,1 @@
+const t=[{p:"liàn",pp:"lian4",d:"(literary) to moisten; to wet; to soak in water",t:"澰",w:"澰"}],o=16,s="水",n=["氵"],c=[],a="",e=[],i=[],r={s:t,sc:o,r:s,c:n,d:c,ux:a,w:e,i};export{n as c,c as d,r as default,i,s as r,t as s,o as sc,a as ux,e as w};

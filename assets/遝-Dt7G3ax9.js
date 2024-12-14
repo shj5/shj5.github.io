@@ -1,0 +1,1 @@
+const t=[{p:"tà",pp:"ta4",d:"abundant/mixed",t:"遝",w:"遝"}],n=14,s="辵",c=["辶"],o=["嚃"],a="",d=[{w:"杂遝",p:"zá tà",d:"variant of 雜沓|杂沓[za2 ta4]",t:"雜遝"}],p=[],e={s:t,sc:n,r:s,c,d:o,ux:a,w:d,i:p};export{c,o as d,e as default,p as i,s as r,t as s,n as sc,a as ux,d as w};

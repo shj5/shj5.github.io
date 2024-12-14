@@ -1,1 +1,0 @@
-const s=[{p:"miè",pp:"mie4",d:"old variant of 滅|灭[mie4]",t:"烕",w:"烕"}],c=10,t="火",o=["火","戊"],n=[],i="",d=[],a=[],e={s,sc:c,r:t,c:o,d:n,ux:i,w:d,i:a};export{o as c,n as d,e as default,a as i,t as r,s,c as sc,i as ux,d as w};

@@ -1,1 +1,0 @@
-const s=[{p:"pián",pp:"pian2",d:"(tree)",t:"楩",w:"楩"}],c=13,t="木",n=["木"],o=[],p="",d=[],e=[],i={s,sc:c,r:t,c:n,d:o,ux:p,w:d,i:e};export{n as c,o as d,i as default,e as i,t as r,s,c as sc,p as ux,d as w};

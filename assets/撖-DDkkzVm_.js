@@ -1,1 +1,0 @@
-const n=[{p:"Hàn",pp:"Han4",d:"surname Han/Taiwan pr. [Gan3]",t:"撖",w:"撖"}],s=15,c="手",t=["扌","敢"],o=[],a="",p=[],r=[],d={s:n,sc:s,r:c,c:t,d:o,ux:a,w:p,i:r};export{t as c,o as d,d as default,r as i,c as r,n as s,s as sc,a as ux,p as w};

@@ -1,0 +1,1 @@
+const n=[{p:"yǐn",pp:"yin3",d:"Japanese variant of 隱|隐[yin3]",t:"隠",w:"隠"}],s=14,t="阜",c=[],o=[],a="",p=[],e=[],i={s:n,sc:s,r:t,c,d:o,ux:a,w:p,i:e};export{c,o as d,i as default,e as i,t as r,n as s,s as sc,a as ux,p as w};

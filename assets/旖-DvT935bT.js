@@ -1,1 +1,0 @@
-const c=[{p:"yǐ",pp:"yi3",d:"used in 旖旎[yi3ni3]",t:"旖",w:"旖"}],n=14,s="方",t=["方","奇"],i=[],o="",e=[{w:"旖旎",p:"yǐ nǐ",d:"(literary) charming; enchanting; picturesque",t:"旖旎"}],r=[],d={s:c,sc:n,r:s,c:t,d:i,ux:o,w:e,i:r};export{t as c,i as d,d as default,r as i,s as r,c as s,n as sc,o as ux,e as w};

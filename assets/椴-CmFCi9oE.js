@@ -1,1 +1,0 @@
-const n=[{p:"duàn",pp:"duan4",d:"Chinese linden (Tilia chinensis)",t:"椴",w:"椴"}],s=13,c="木",t=["木","段"],d=[],i="",o=[{w:"心叶椴",p:"xīn yè duàn",d:"small-leaf linden (Tilia cordata)",t:"心葉椴"}],a=[],e={s:n,sc:s,r:c,c:t,d,ux:i,w:o,i:a};export{t as c,d,e as default,a as i,c as r,n as s,s as sc,i as ux,o as w};

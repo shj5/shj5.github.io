@@ -1,0 +1,1 @@
+const t=[{p:"hé",pp:"he2",d:"why/how/when/what/where",t:"曷",w:"曷"}],s=9,c="曰",o=["曰"],n=["偈","谒","喝","堨","愒","揭","渴","猲","葛","暍","楬","歇","遏","朅","碣","竭","鹖","羯","蝎","褐","輵","鞨","餲"],h="",w=[],e=[],p={s:t,sc:s,r:c,c:o,d:n,ux:h,w,i:e};export{o as c,n as d,p as default,e as i,c as r,t as s,s as sc,h as ux,w};

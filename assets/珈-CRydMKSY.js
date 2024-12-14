@@ -1,0 +1,1 @@
+const t=[{p:"jiā",pp:"jia1",d:"gamma/jewelry",t:"珈",w:"珈"}],o=9,s="玉",c=["王","加"],n=[],a="",i=[{w:"瑜珈",p:"yú jiā",d:"variant of 瑜伽[yu2 jia1]/yoga",t:"瑜珈"}],j=[],p={s:t,sc:o,r:s,c,d:n,ux:a,w:i,i:j};export{c,n as d,p as default,j as i,s as r,t as s,o as sc,a as ux,i as w};

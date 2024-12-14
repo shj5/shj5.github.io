@@ -1,0 +1,1 @@
+const t=[{p:"xī",pp:"xi1",d:"variant of 矽[xi1]",t:"釸",w:"釸"}],s=11,c="金",o=["夕","金"],n=[],x="",a=[],i=[],p={s:t,sc:s,r:c,c:o,d:n,ux:x,w:a,i};export{o as c,n as d,p as default,i,c as r,t as s,s as sc,x as ux,a as w};

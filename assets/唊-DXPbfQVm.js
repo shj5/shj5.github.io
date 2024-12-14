@@ -1,0 +1,1 @@
+const t=[{p:"jiá",pp:"jia2",d:"(old) to talk recklessly/to talk nonsense/talkative",t:"唊",w:"唊"}],s=10,o="口",c=["口"],n=[],a="",e=[],l=[],d={s:t,sc:s,r:o,c,d:n,ux:a,w:e,i:l};export{c,n as d,d as default,l as i,o as r,t as s,s as sc,a as ux,e as w};

@@ -1,1 +1,0 @@
-const t=[{p:"duó",pp:"duo2",d:"to pace; to stroll/Taiwan pr. [duo4]",t:"踱",w:"踱"}],o=16,s="足",c=["足","度"],d=[],n="",p=[{w:"踱方步",p:"duó fāng bù",d:"to pace; to stroll",t:"踱方步"},{w:"踱步",p:"duó bù",d:"to pace; to stroll",t:"踱步"}],u=[],a={s:t,sc:o,r:s,c,d,ux:n,w:p,i:u};export{c,d,a as default,u as i,s as r,t as s,o as sc,n as ux,p as w};

@@ -1,0 +1,1 @@
+const n=[{p:"jǐng",pp:"jing3",d:"old variant of 頸|颈[jing3]",t:"頚",w:"頚"}],t=14,o="頁",s=["圣"],c=[],a="",d=[],i=[],p={s:n,sc:t,r:o,c:s,d:c,ux:a,w:d,i};export{s as c,c as d,p as default,i,o as r,n as s,t as sc,a as ux,d as w};

@@ -1,1 +1,0 @@
-const s=[{p:"bǔ",pp:"bu3",d:"used in 地鵏|地𬷕[di4bu3]",t:"鵏",w:"𬷕"}],c=0,t="",o=[],n=[],d="E",u=[{w:"地𬷕",p:"dì bǔ",d:"see 大鴇|大鸨[da4bao3]",t:"地鵏"}],b=[],e={s,sc:c,r:t,c:o,d:n,ux:d,w:u,i:b};export{o as c,n as d,e as default,b as i,t as r,s,c as sc,d as ux,u as w};

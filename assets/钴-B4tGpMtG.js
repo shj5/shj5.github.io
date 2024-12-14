@@ -1,0 +1,1 @@
+const t=[{p:"gǔ",pp:"gu3",d:"(chemistry) cobalt (Taiwan pr. [gu1])/used in 鈷鉧|钴𬭁[gu3mu3]",t:"鈷",w:"钴"}],s=10,c="金",o=["古"],n=[],r="",u=[{w:"依地酸二钴",p:"yī dì suān èr gǔ",d:"kelocyanor",t:"依地酸二鈷"},{w:"钴𬭁",p:"gǔ mǔ",d:"(literary) clothes iron",t:"鈷鉧"}],a=[],d={s:t,sc:s,r:c,c:o,d:n,ux:r,w:u,i:a};export{o as c,n as d,d as default,a as i,c as r,t as s,s as sc,r as ux,u as w};

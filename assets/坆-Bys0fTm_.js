@@ -1,0 +1,1 @@
+const t=[{p:"fén",pp:"fen2",d:"variant of 墳|坟[fen2]/grave/tomb",t:"坆",w:"坆"},{p:"méi",pp:"mei2",d:"variant of 梅[mei2]/plum",t:"坆",w:"坆"}],n=7,o="土",s=["土","攵"],c=[],p="",a=[],e=[],f={s:t,sc:n,r:o,c:s,d:c,ux:p,w:a,i:e};export{s as c,c as d,f as default,e as i,o as r,t as s,n as sc,p as ux,a as w};

@@ -1,1 +1,0 @@
-const t=[{p:"liú",pp:"liu2",d:"variant of 鎦|镏[liu2]",t:"鎏",w:"鎏"}],s=18,c="金",n=["金","流"],o=[],i="",a=[{w:"鎏金",p:"liú jīn",d:"variant of 鎦金|镏金[liu2 jin1]",t:"鎏金"}],l=[],u={s:t,sc:s,r:c,c:n,d:o,ux:i,w:a,i:l};export{n as c,o as d,u as default,l as i,c as r,t as s,s as sc,i as ux,a as w};

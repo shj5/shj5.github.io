@@ -1,1 +1,0 @@
-const c=[{p:"yá",pp:"ya2",d:"old form of 崖 (cliff) and 涯 (bank)",t:"厓",w:"厓"}],s=8,o="厂",t=["厂","圭"],n=["啀","堐","崖","捱","涯","睚"],d="",a=[],f=[],p={s:c,sc:s,r:o,c:t,d:n,ux:d,w:a,i:f};export{t as c,n as d,p as default,f as i,o as r,c as s,s as sc,d as ux,a as w};

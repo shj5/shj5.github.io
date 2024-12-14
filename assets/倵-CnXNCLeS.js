@@ -1,1 +1,0 @@
-const s=[{p:"wǔ",pp:"wu3",d:"(used in given names)",t:"倵",w:"倵"}],c=10,n="人",t=["亻","武"],o=[],d="",e=[],u=[],w={s,sc:c,r:n,c:t,d:o,ux:d,w:e,i:u};export{t as c,o as d,w as default,u as i,n as r,s,c as sc,d as ux,e as w};

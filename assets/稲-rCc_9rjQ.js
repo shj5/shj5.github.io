@@ -1,0 +1,1 @@
+const o=[{p:"dào",pp:"dao4",d:"variant of 稻[dao4]",t:"稲",w:"稲"}],t=14,s="禾",c=["禾"],n=[],a="",d=[],p=[],r={s:o,sc:t,r:s,c,d:n,ux:a,w:d,i:p};export{c,n as d,r as default,p as i,s as r,o as s,t as sc,a as ux,d as w};

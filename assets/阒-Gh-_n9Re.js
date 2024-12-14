@@ -1,0 +1,1 @@
+const t=[{p:"qù",pp:"qu4",d:"quiet/to live alone",t:"闃",w:"阒"}],n=12,s="門",o=["门"],c=[],e="",i=[{w:"空阒",p:"kōng qù",d:"empty and quiet",t:"空闃"},{w:"阒寂",p:"qù jì",d:"still/quiet",t:"闃寂"},{w:"阒然",p:"qù rán",d:"quiet/still and silent",t:"闃然"}],q=[],d={s:t,sc:n,r:s,c:o,d:c,ux:e,w:i,i:q};export{o as c,c as d,d as default,q as i,s as r,t as s,n as sc,e as ux,i as w};

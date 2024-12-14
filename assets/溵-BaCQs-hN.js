@@ -1,0 +1,1 @@
+const n=[{p:"Yīn",pp:"Yin1",d:"used in place-names, e.g. 溵水 was once the name of the Shahe River 沙河, Henan, and 溵州 was a Tang Dynasty prefecture",t:"溵",w:"溵"}],s=13,e="水",t=["氵","殷"],c=[],a="",o=[],p=[],d={s:n,sc:s,r:e,c:t,d:c,ux:a,w:o,i:p};export{t as c,c as d,d as default,p as i,e as r,n as s,s as sc,a as ux,o as w};

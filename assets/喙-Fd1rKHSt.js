@@ -1,0 +1,1 @@
+const t=[{p:"huì",pp:"hui4",d:"beak/snout/mouth/to pant",t:"喙",w:"喙"}],o=12,n="口",s=["口","彖"],c=[],e="",a=[{w:"置喙",p:"zhì huì",d:"to offer an opinion/to comment (on the issue)/to have a say (in the matter)",t:"置喙"}],h=[],u={s:t,sc:o,r:n,c:s,d:c,ux:e,w:a,i:h};export{s as c,c as d,u as default,h as i,n as r,t as s,o as sc,e as ux,a as w};

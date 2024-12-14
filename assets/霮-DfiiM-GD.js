@@ -1,1 +1,0 @@
-const s=[{p:"dàn",pp:"dan4",d:"denseness of clouds",t:"霮",w:"霮"}],c=20,n="雨",o=["雨"],t=[],d="",e=[],p=[],u={s,sc:c,r:n,c:o,d:t,ux:d,w:e,i:p};export{o as c,t as d,u as default,p as i,n as r,s,c as sc,d as ux,e as w};

@@ -1,0 +1,1 @@
+const t=[{p:"tā",pp:"ta1",d:"(third person pronoun for a divine being)",t:"祂",w:"祂"}],n=8,o="示",s=["也"],c=[],p="",r=[],d=[],e={s:t,sc:n,r:o,c:s,d:c,ux:p,w:r,i:d};export{s as c,c as d,e as default,d as i,o as r,t as s,n as sc,p as ux,r as w};

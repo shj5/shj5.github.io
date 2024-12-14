@@ -1,0 +1,1 @@
+const o=[{p:"dì",pp:"di4",d:"(Cant.) plural for pronouns",t:"哋",w:"哋"}],s=9,t="口",n=["口","地"],c=[],p="",d=[],r=[],a={s:o,sc:s,r:t,c:n,d:c,ux:p,w:d,i:r};export{n as c,c as d,a as default,r as i,t as r,o as s,s as sc,p as ux,d as w};

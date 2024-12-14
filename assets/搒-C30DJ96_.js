@@ -1,0 +1,1 @@
+const n=[{p:"bàng",pp:"bang4",d:"to row/oar/Taiwan pr. [beng4]",t:"榜",w:"搒"},{p:"pèng",pp:"peng4",d:"to whip/Taiwan pr. [beng4]",t:"榜",w:"搒"}],t=13,o="手",p=["扌","旁"],s=[],c="",a=[],w=[],g={s:n,sc:t,r:o,c:p,d:s,ux:c,w:a,i:w};export{p as c,s as d,g as default,w as i,o as r,n as s,t as sc,c as ux,a as w};

@@ -1,0 +1,1 @@
+const t=[{p:"lǔ",pp:"lu3",d:"lutetium (chemistry)",t:"鑥",w:"镥"}],s=17,c="金",o=["鲁"],n=[],u="",e=[],l=[],p={s:t,sc:s,r:c,c:o,d:n,ux:u,w:e,i:l};export{o as c,n as d,p as default,l as i,c as r,t as s,s as sc,u as ux,e as w};

@@ -1,1 +1,0 @@
-const s=[{p:"wǔ",pp:"wu3",d:"numeral 5 in the Suzhou numeral system 蘇州碼子|苏州码子[Su1zhou1 ma3zi5]",t:"〥",w:"〥"}],t=0,c="",n=[],o=[],u="",e=[],a=[],r={s,sc:t,r:c,c:n,d:o,ux:u,w:e,i:a};export{n as c,o as d,r as default,a as i,c as r,s,t as sc,u as ux,e as w};

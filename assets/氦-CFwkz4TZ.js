@@ -1,1 +1,0 @@
-const s=[{p:"hài",pp:"hai4",d:"helium (chemistry)",t:"氦",w:"氦"}],c=10,t="气",o=["气","亥"],n=[],i="",d=[],e=[],h={s,sc:c,r:t,c:o,d:n,ux:i,w:d,i:e};export{o as c,n as d,h as default,e as i,t as r,s,c as sc,i as ux,d as w};

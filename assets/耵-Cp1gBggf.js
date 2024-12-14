@@ -1,0 +1,1 @@
+const n=[{p:"dīng",pp:"ding1",d:"used in 耵聹|耵聍[ding1ning2]/Taiwan pr. [ding3]",t:"耵",w:"耵"}],s=8,t="耳",c=["丁","耳"],d=[],o="",g=[{w:"耵聍",p:"dīng níng",d:"earwax; cerumen",t:"耵聹"}],i=[],a={s:n,sc:s,r:t,c,d,ux:o,w:g,i};export{c,d,a as default,i,t as r,n as s,s as sc,o as ux,g as w};

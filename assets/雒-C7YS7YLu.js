@@ -1,0 +1,1 @@
+const t=[{p:"luò",pp:"luo4",d:"black horse with white mane/fearful",t:"雒",w:"雒"}],s=14,c="隹",o=["各","隹"],n=[],e="",a=[],l=[],u={s:t,sc:s,r:c,c:o,d:n,ux:e,w:a,i:l};export{o as c,n as d,u as default,l as i,c as r,t as s,s as sc,e as ux,a as w};

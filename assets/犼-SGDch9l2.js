@@ -1,1 +1,0 @@
-const c=[{p:"hǒu",pp:"hou3",d:"mythical man-eating creature resembling a dog",t:"犼",w:"犼"}],s=7,t="犬",n=["犭","孔"],o=[],a="",e=[],r=[],u={s:c,sc:s,r:t,c:n,d:o,ux:a,w:e,i:r};export{n as c,o as d,u as default,r as i,t as r,c as s,s as sc,a as ux,e as w};

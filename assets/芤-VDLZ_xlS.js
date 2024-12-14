@@ -1,0 +1,1 @@
+const o=[{p:"kōu",pp:"kou1",d:"hollow/scallion stalk",t:"芤",w:"芤"}],s=7,t="艸",c=["艹","孔"],n=[],l="",a=[],p=[],u={s:o,sc:s,r:t,c,d:n,ux:l,w:a,i:p};export{c,n as d,u as default,p as i,t as r,o as s,s as sc,l as ux,a as w};

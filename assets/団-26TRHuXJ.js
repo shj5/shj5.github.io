@@ -1,1 +1,0 @@
-const s=[{p:"tuán",pp:"tuan2",d:"Japanese variant of 團|团",t:"団",w:"団"}],t=6,c="囗",n=["囗","寸"],o=[],a="",p=[],u=[],d={s,sc:t,r:c,c:n,d:o,ux:a,w:p,i:u};export{n as c,o as d,d as default,u as i,c as r,s,t as sc,a as ux,p as w};

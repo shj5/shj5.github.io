@@ -1,0 +1,1 @@
+const o=[{p:"yáo",pp:"yao2",d:"floating in the air",t:"颻",w:"飖"}],t=13,n="風",s=["风"],c=[],a="",i=[{w:"飘飖",p:"piāo yáo",d:"variant of 飄搖|飘摇[piao1 yao2]",t:"飄颻"}],p=[],d={s:o,sc:t,r:n,c:s,d:c,ux:a,w:i,i:p};export{s as c,c as d,d as default,p as i,n as r,o as s,t as sc,a as ux,i as w};

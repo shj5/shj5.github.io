@@ -1,0 +1,1 @@
+const t=[{p:"wǎn",pp:"wan3",d:"internal cavity of stomach",t:"脘",w:"脘"}],c=11,n="肉",s=["月","完"],o=[],a="",p=[],w=[],d={s:t,sc:c,r:n,c:s,d:o,ux:a,w:p,i:w};export{s as c,o as d,d as default,w as i,n as r,t as s,c as sc,a as ux,p as w};

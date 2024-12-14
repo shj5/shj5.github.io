@@ -1,0 +1,1 @@
+const o=[{p:"lǚ",pp:"lu:3",d:"erroneous variant of 旅[lu:3]",t:"挔",w:"挔"}],s=9,t="手",c=["扌","衣"],n=[],r="",u=[],a=[],e={s:o,sc:s,r:t,c,d:n,ux:r,w:u,i:a};export{c,n as d,e as default,a as i,t as r,o as s,s as sc,r as ux,u as w};

@@ -1,0 +1,1 @@
+const n=[{p:"hōng",pp:"hong1",d:"death of a prince/swarming",t:"薨",w:"薨"}],s=18,t="艸",c=["艹"],o=[],a="",p=[],d=[],e={s:n,sc:s,r:t,c,d:o,ux:a,w:p,i:d};export{c,o as d,e as default,d as i,t as r,n as s,s as sc,a as ux,p as w};

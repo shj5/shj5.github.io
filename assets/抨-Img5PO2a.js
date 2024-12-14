@@ -1,0 +1,1 @@
+const t=[{p:"pēng",pp:"peng1",d:"attack/impeach",t:"抨",w:"抨"}],c=8,n="手",o=["扌","平"],s=[],p="",a=[{w:"抨击",p:"pēng jī",d:"to attack (verbally or in writing)",t:"抨擊"}],e=[],i={s:t,sc:c,r:n,c:o,d:s,ux:p,w:a,i:e};export{o as c,s as d,i as default,e as i,n as r,t as s,c as sc,p as ux,a as w};

@@ -1,0 +1,1 @@
+const n=[{p:"láo",pp:"lao2",d:"used in 㘓哰|𪢌哰[lan2lao2]",t:"哰",w:"哰"}],o=10,t="口",s=["口","牢"],c=[],l="",e=[{w:"𪢌哰",p:"lán láo",d:"incoherent; unintelligible",t:"㘓哰"}],i=[],a={s:n,sc:o,r:t,c:s,d:c,ux:l,w:e,i};export{s as c,c as d,a as default,i,t as r,n as s,o as sc,l as ux,e as w};

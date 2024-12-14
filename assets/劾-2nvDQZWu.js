@@ -1,1 +1,0 @@
-const c=[{p:"hé",pp:"he2",d:"to impeach",t:"劾",w:"劾"}],t=8,o="力",s=["力","亥"],n=[],a="",i=[{w:"参劾",p:"cān hé",d:"to accuse/to impeach/(in imperial China) to level charges against an official",t:"參劾"},{w:"弹劾",p:"tán hé",d:"to impeach (an official)",t:"彈劾"}],e=[],p={s:c,sc:t,r:o,c:s,d:n,ux:a,w:i,i:e};export{s as c,n as d,p as default,e as i,o as r,c as s,t as sc,a as ux,i as w};

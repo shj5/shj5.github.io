@@ -1,0 +1,1 @@
+const c=[{p:"yún",pp:"yun2",d:"reclaimed land",t:"畇",w:"畇"}],n=9,s="田",t=["匀","田"],o=[],d="",a=[],e=[],p={s:c,sc:n,r:s,c:t,d:o,ux:d,w:a,i:e};export{t as c,o as d,p as default,e as i,s as r,c as s,n as sc,d as ux,a as w};

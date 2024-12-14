@@ -1,0 +1,1 @@
+const t=[{p:"ài",pp:"ai4",d:"variant of 礙|碍[ai4]",t:"㝵",w:"㝵"},{p:"dé",pp:"de2",d:"to obtain (old variant of 得[de2])",t:"㝵",w:"㝵"}],o=0,n="",s=[],c=[],a="A",d=[],i=[],p={s:t,sc:o,r:n,c:s,d:c,ux:a,w:d,i};export{s as c,c as d,p as default,i,n as r,t as s,o as sc,a as ux,d as w};

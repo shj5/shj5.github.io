@@ -1,1 +1,0 @@
-const s=[{p:"zhī",pp:"zhi1",d:"general term for jay/Garrulus lidthi",t:"鳷",w:"鳷"}],t=15,c="鳥",o=["支"],n=[],r="",a=[],d=[],e={s,sc:t,r:c,c:o,d:n,ux:r,w:a,i:d};export{o as c,n as d,e as default,d as i,c as r,s,t as sc,r as ux,a as w};

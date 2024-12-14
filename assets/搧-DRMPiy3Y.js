@@ -1,0 +1,1 @@
+const s=[{p:"shān",pp:"shan1",d:"variant of 扇[shan1]",t:"搧",w:"搧"}],n=13,t="手",c=["扌","扇"],o=[],a="",p=[],d=[],h={s,sc:n,r:t,c,d:o,ux:a,w:p,i:d};export{c,o as d,h as default,d as i,t as r,s,n as sc,a as ux,p as w};

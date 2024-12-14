@@ -1,1 +1,0 @@
-const c=[{p:"cuó",pp:"cuo2",d:"lofty (as of mountain)",t:"嵯",w:"嵯"}],s=13,o="山",t=["山","差"],n=[],u="",a=[],d=[],p={s:c,sc:s,r:o,c:t,d:n,ux:u,w:a,i:d};export{t as c,n as d,p as default,d as i,o as r,c as s,s as sc,u as ux,a as w};

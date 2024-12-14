@@ -1,0 +1,1 @@
+const t=[{p:"hé",pp:"he2",d:"vessel similar to a kettle, but with three or four legs, used in ancient times for warming wine",t:"盉",w:"盉"}],s=10,e="皿",n=["禾","皿"],o=[],c="",i=[],r=[],a={s:t,sc:s,r:e,c:n,d:o,ux:c,w:i,i:r};export{n as c,o as d,a as default,r as i,e as r,t as s,s as sc,c as ux,i as w};

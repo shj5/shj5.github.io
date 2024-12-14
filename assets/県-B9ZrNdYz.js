@@ -1,0 +1,1 @@
+const n=[{p:"xiàn",pp:"xian4",d:"Japanese variant of 縣|县/Japanese prefecture",t:"県",w:"県"}],s=9,t="目",c=["小"],o=[],a="",e=[],p=[],r={s:n,sc:s,r:t,c,d:o,ux:a,w:e,i:p};export{c,o as d,r as default,p as i,t as r,n as s,s as sc,a as ux,e as w};

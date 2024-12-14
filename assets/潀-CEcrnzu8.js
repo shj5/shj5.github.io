@@ -1,0 +1,1 @@
+const t=[{p:"cóng",pp:"cong2",d:"gather/flow into (water)/sound of waters flowing together",t:"潀",w:"潀"}],o=14,n="水",s=["氵"],c=[],e="",r=[],w=[],a={s:t,sc:o,r:n,c:s,d:c,ux:e,w:r,i:w};export{s as c,c as d,a as default,w as i,n as r,t as s,o as sc,e as ux,r as w};

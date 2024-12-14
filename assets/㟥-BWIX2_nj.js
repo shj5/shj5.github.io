@@ -1,0 +1,1 @@
+const n=[{p:"cēn",pp:"cen1",d:"uneven/not uniform",t:"嵾",w:"㟥"}],c=0,t="",o=[],s=[],e="A",p=[],u=[],d={s:n,sc:c,r:t,c:o,d:s,ux:e,w:p,i:u};export{o as c,s as d,d as default,u as i,t as r,n as s,c as sc,e as ux,p as w};

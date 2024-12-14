@@ -1,0 +1,1 @@
+const t=[{p:"mì",pp:"mi4",d:"quiet",t:"謐",w:"谧"}],n=12,c="言",s=["讠"],o=[],e="",i=[{w:"安谧",p:"ān mì",d:"tranquil/peaceful",t:"安謐"},{w:"恬谧",p:"tián mì",d:"quiet/peaceful",t:"恬謐"},{w:"静谧",p:"jìng mì",d:"quiet/still/tranquil",t:"靜謐"}],p=[],u={s:t,sc:n,r:c,c:s,d:o,ux:e,w:i,i:p};export{s as c,o as d,u as default,p as i,c as r,t as s,n as sc,e as ux,i as w};

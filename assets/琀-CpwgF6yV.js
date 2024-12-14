@@ -1,0 +1,1 @@
+const o=[{p:"hán",pp:"han2",d:"gems or pearls formerly put into the mouth of a corpse",t:"琀",w:"琀"}],t=11,s="玉",c=["王","含"],n=[],e="",p=[],r=[],a={s:o,sc:t,r:s,c,d:n,ux:e,w:p,i:r};export{c,n as d,a as default,r as i,s as r,o as s,t as sc,e as ux,p as w};

@@ -1,0 +1,1 @@
+const n=[{p:"dūn",pp:"dun1",d:"old variant of 蹲[dun1]",t:"墫",w:"墫"},{p:"zūn",pp:"zun1",d:"old variant of 樽[zun1]",t:"墫",w:"墫"}],t=15,o="土",s=["土","尊"],c=[],d="",p=[],a=[],u={s:n,sc:t,r:o,c:s,d:c,ux:d,w:p,i:a};export{s as c,c as d,u as default,a as i,o as r,n as s,t as sc,d as ux,p as w};

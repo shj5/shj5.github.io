@@ -1,0 +1,1 @@
+const t=[{p:"xì",pp:"xi4",d:"variant of 戲|戏[xi4]",t:"戱",w:"戱"}],s=16,c="戈",o=["戈"],n=[],x="",a=[],i=[],p={s:t,sc:s,r:c,c:o,d:n,ux:x,w:a,i};export{o as c,n as d,p as default,i,c as r,t as s,s as sc,x as ux,a as w};

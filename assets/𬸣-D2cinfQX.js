@@ -1,0 +1,1 @@
+const s=[{p:"xiān",pp:"xian1",d:"(literary) (adjective) (of birds) flying; soaring",t:"鶱",w:"𬸣"}],t=0,n="",c=[],o=[],i="E",a=[],r=[],d={s,sc:t,r:n,c,d:o,ux:i,w:a,i:r};export{c,o as d,d as default,r as i,n as r,s,t as sc,i as ux,a as w};

@@ -1,0 +1,1 @@
+const n=[{p:"qìn",pp:"qin4",d:"variant of 撳|揿[qin4]",t:"搇",w:"揿"},{p:"qìn",pp:"qin4",d:"to press (with one's hand or finger)",t:"撳",w:"揿"}],t=12,s="手",o=["扌","钦"],c=[],p="",i=[],r=[],a={s:n,sc:t,r:s,c:o,d:c,ux:p,w:i,i:r};export{o as c,c as d,a as default,r as i,s as r,n as s,t as sc,p as ux,i as w};

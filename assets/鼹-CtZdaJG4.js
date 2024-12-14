@@ -1,0 +1,1 @@
+const n=[{p:"yǎn",pp:"yan3",d:"mole",t:"鼴",w:"鼹"}],o=23,s="鼠",t=["晏","鼠"],c=[],p="",d=[{w:"针鼹",p:"zhēn yǎn",d:"echidna",t:"針鼴"},{w:"鼹鼠",p:"yǎn shǔ",d:"mole (zoology)",t:"鼴鼠"},{w:"鼹鼠皮",p:"yǎn shǔ pí",d:"moleskin",t:"鼴鼠皮"}],e=[],y={s:n,sc:o,r:s,c:t,d:c,ux:p,w:d,i:e};export{t as c,c as d,y as default,e as i,s as r,n as s,o as sc,p as ux,d as w};

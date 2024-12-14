@@ -1,0 +1,1 @@
+const t=[{p:"xù",pp:"xu4",d:"(literary) (of birds) to scatter in fear/(literary) wild; unrestrained",t:"獝",w:"獝"}],s=15,c="犬",n=["犭","矞"],o=[],r="",e=[],a=[],i={s:t,sc:s,r:c,c:n,d:o,ux:r,w:e,i:a};export{n as c,o as d,i as default,a as i,c as r,t as s,s as sc,r as ux,e as w};

@@ -1,1 +1,0 @@
-const s=[{p:"hé",pp:"he2",d:"buskin/name of a tribe/turban",t:"鞨",w:"鞨"}],t=18,c="革",n=["革","曷"],o=[],a="",e=[],r=[],u={s,sc:t,r:c,c:n,d:o,ux:a,w:e,i:r};export{n as c,o as d,u as default,r as i,c as r,s,t as sc,a as ux,e as w};

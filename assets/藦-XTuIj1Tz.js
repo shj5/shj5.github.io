@@ -1,0 +1,1 @@
+const t=[{p:"mó",pp:"mo2",d:"Metaplexis stauntoni",t:"藦",w:"藦"}],s=18,o="艸",c=["艹"],n=[],p="",a=[],e=[],d={s:t,sc:s,r:o,c,d:n,ux:p,w:a,i:e};export{c,n as d,d as default,e as i,o as r,t as s,s as sc,p as ux,a as w};

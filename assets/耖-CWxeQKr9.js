@@ -1,0 +1,1 @@
+const o=[{p:"chào",pp:"chao4",d:"harrow-like implement for pulverizing clods of soil/to level ground with such an implement",t:"耖",w:"耖"}],t=10,c="耒",s=["少","耒"],n=[],e="",l=[],i=[],p={s:o,sc:t,r:c,c:s,d:n,ux:e,w:l,i};export{s as c,n as d,p as default,i,c as r,o as s,t as sc,e as ux,l as w};

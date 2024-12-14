@@ -1,0 +1,1 @@
+const n=[{p:"xx",pp:"xx5",d:'one of the characters used in kwukyel (phonetic "myeon"), an ancient Korean writing system',t:"丆",w:"丆"}],t=2,s="一",c=[],o=[],e="",a=[],i=[],r={s:n,sc:t,r:s,c,d:o,ux:e,w:a,i};export{c,o as d,r as default,i,s as r,n as s,t as sc,e as ux,a as w};

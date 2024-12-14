@@ -1,0 +1,1 @@
+const o=[{p:"lòu",pp:"lou4",d:"variant of 瘻|瘘[lou4]",t:"瘺",w:"瘺"}],t=16,s="疒",c=["疒"],n=[],u="",a=[],l=[],p={s:o,sc:t,r:s,c,d:n,ux:u,w:a,i:l};export{c,n as d,p as default,l as i,s as r,o as s,t as sc,u as ux,a as w};

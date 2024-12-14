@@ -1,0 +1,1 @@
+const s=[{p:"chì",pp:"chi4",d:"(TCM) wind-related disease characterized by spasms, convulsions and stiffness",t:"痓",w:"痓"}],c=11,t="疒",n=["疒","至"],o=[],e="",a=[],d=[],i={s,sc:c,r:t,c:n,d:o,ux:e,w:a,i:d};export{n as c,o as d,i as default,d as i,t as r,s,c as sc,e as ux,a as w};

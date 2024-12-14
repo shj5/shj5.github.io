@@ -1,0 +1,1 @@
+const n=[{p:"fèi",pp:"fei4",d:"anger",t:"怫",w:"怫"},{p:"fú",pp:"fu2",d:"anxious",t:"怫",w:"怫"}],t=8,s="心",c=["忄","弗"],o=[],a="",p=[{w:"怫然",p:"fú rán",d:"angry/enraged/Taiwan pr. [fei4 ran2]",t:"怫然"}],r=[],e={s:n,sc:t,r:s,c,d:o,ux:a,w:p,i:r};export{c,o as d,e as default,r as i,s as r,n as s,t as sc,a as ux,p as w};

@@ -1,0 +1,1 @@
+const o=[{p:"gòu",pp:"gou4",d:"inner rooms of palace/ten billions",t:"冓",w:"冓"}],s=10,n="冂",t=["冉"],c=["媾","遘","篝","耩","鞲","韝"],e="",p=[],a=[],i={s:o,sc:s,r:n,c:t,d:c,ux:e,w:p,i:a};export{t as c,c as d,i as default,a as i,n as r,o as s,s as sc,e as ux,p as w};

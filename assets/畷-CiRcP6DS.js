@@ -1,1 +1,0 @@
-const s=[{p:"chuò",pp:"chuo4",d:"raised path between fields",t:"畷",w:"畷"}],c=13,t="田",o=["田","叕"],n=[],e="",d=[],p=[],u={s,sc:c,r:t,c:o,d:n,ux:e,w:d,i:p};export{o as c,n as d,u as default,p as i,t as r,s,c as sc,e as ux,d as w};

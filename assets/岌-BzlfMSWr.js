@@ -1,0 +1,1 @@
+const t=[{p:"jí",pp:"ji2",d:"lofty peak/perilous",t:"岌",w:"岌"}],s=7,o="山",n=["山","及"],i=[],c="",p=[{w:"岌嶪",p:"jí yè",d:"high and steep/towering/perilous",t:"岌嶪"}],e=[{w:"岌岌可危",p:"jí jí kě wēi",d:"imminent danger (idiom); approaching a crisis",t:"岌岌可危"}],a={s:t,sc:s,r:o,c:n,d:i,ux:c,w:p,i:e};export{n as c,i as d,a as default,e as i,o as r,t as s,s as sc,c as ux,p as w};

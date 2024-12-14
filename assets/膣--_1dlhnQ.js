@@ -1,0 +1,1 @@
+const s=[{p:"zhì",pp:"zhi4",d:"vagina",t:"膣",w:"膣"}],t=15,c="肉",n=["月","窒"],o=[],a="",p=[],d=[],i={s,sc:t,r:c,c:n,d:o,ux:a,w:p,i:d};export{n as c,o as d,i as default,d as i,c as r,s,t as sc,a as ux,p as w};

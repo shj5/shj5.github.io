@@ -1,0 +1,1 @@
+const o=[{p:"kòu",pp:"kou4",d:"(a measure of width of cloth)",t:"筘",w:"筘"}],t=12,s="竹",c=["竹","扣"],n=[],u="",a=[],d=[],e={s:o,sc:t,r:s,c,d:n,ux:u,w:a,i:d};export{c,n as d,e as default,d as i,s as r,o as s,t as sc,u as ux,a as w};

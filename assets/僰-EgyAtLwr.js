@@ -1,0 +1,1 @@
+const o=[{p:"Bó",pp:"Bo2",d:"name of an ethnic group",t:"僰",w:"僰"}],t=14,c="人",n=["人","朿"],s=[],p="",a=[],e=[],d={s:o,sc:t,r:c,c:n,d:s,ux:p,w:a,i:e};export{n as c,s as d,d as default,e as i,c as r,o as s,t as sc,p as ux,a as w};

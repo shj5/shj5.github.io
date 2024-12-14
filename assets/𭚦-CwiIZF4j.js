@@ -1,0 +1,1 @@
+const o=[{p:"guō",pp:"guo1",d:"(literary) to draw one's bow to the full/Taiwan pr. [kuo4]",t:"彍",w:"𭚦"}],t=0,s="",c=[],n=[],a="F",r=[],u=[],e={s:o,sc:t,r:s,c,d:n,ux:a,w:r,i:u};export{c,n as d,e as default,u as i,s as r,o as s,t as sc,a as ux,r as w};

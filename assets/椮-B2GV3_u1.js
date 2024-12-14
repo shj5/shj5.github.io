@@ -1,0 +1,1 @@
+const s=[{p:"sēn",pp:"sen1",d:"lush growth (trees)/fishing using bundled wood (archaic)",t:"槮",w:"椮"}],n=12,t="木",c=["木","参"],o=[],d="",e=[],i=[],r={s,sc:n,r:t,c,d:o,ux:d,w:e,i};export{c,o as d,r as default,i,t as r,s,n as sc,d as ux,e as w};

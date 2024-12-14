@@ -1,0 +1,1 @@
+const t=[{p:"nǎi",pp:"nai3",d:"see 芋艿[yu4 nai3]",t:"艿",w:"艿"}],n=6,s="艸",c=["乃","艹"],o=[],a="",i=[{w:"芋艿",p:"yù nǎi",d:"taro",t:"芋艿"}],p=[],d={s:t,sc:n,r:s,c,d:o,ux:a,w:i,i:p};export{c,o as d,d as default,p as i,s as r,t as s,n as sc,a as ux,i as w};

@@ -1,0 +1,1 @@
+const s=[{p:"jué",pp:"jue2",d:"used in 孑孓[jie2 jue2]",t:"孓",w:"孓"}],t=3,o="子",c=[],n=[],u="",e=[{w:"孑孓",p:"jié jué",d:"mosquito larva",t:"孑孓"}],j=[],d={s,sc:t,r:o,c,d:n,ux:u,w:e,i:j};export{c,n as d,d as default,j as i,o as r,s,t as sc,u as ux,e as w};

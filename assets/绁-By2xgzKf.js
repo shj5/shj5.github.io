@@ -1,0 +1,1 @@
+const o=[{p:"xiè",pp:"xie4",d:"to tie/to bind/to hold on a leash/rope/cord",t:"紲",w:"绁"},{p:"xiè",pp:"xie4",d:"variant of 紲|绁[xie4]",t:"絏",w:"绁"}],t=8,s="糸",c=["纟","世"],n=[],i="",e=[],p=[],d={s:o,sc:t,r:s,c,d:n,ux:i,w:e,i:p};export{c,n as d,d as default,p as i,s as r,o as s,t as sc,i as ux,e as w};

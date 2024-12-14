@@ -1,1 +1,0 @@
-const s=[{p:"hóng",pp:"hong2",d:"clear/vast and deep/classifier for a body of clear water",t:"泓",w:"泓"}],c=8,n="水",o=["氵","弘"],t=[],a="",d=[{w:"渊泓",p:"yuān hóng",d:"vast and profound",t:"淵泓"}],r=[],e={s,sc:c,r:n,c:o,d:t,ux:a,w:d,i:r};export{o as c,t as d,e as default,r as i,n as r,s,c as sc,a as ux,d as w};

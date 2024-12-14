@@ -1,0 +1,1 @@
+const o=[{p:"lóng",pp:"long2",d:"old variant of 籠|笼[long2]",t:"篭",w:"篭"}],n=16,t="竹",s=["竹","竜"],c=[],l="",a=[],d=[],p={s:o,sc:n,r:t,c:s,d:c,ux:l,w:a,i:d};export{s as c,c as d,p as default,d as i,t as r,o as s,n as sc,l as ux,a as w};

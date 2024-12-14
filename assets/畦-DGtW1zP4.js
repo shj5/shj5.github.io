@@ -1,0 +1,1 @@
+const t=[{p:"qí",pp:"qi2",d:"small plot of farm land/Taiwan pr. [xi1]",t:"畦",w:"畦"}],s=11,c="田",o=["田","圭"],n=[],e="",a=[{w:"菜畦",p:"cài qí",d:"vegetable field/vegetable bed",t:"菜畦"}],l=[],d={s:t,sc:s,r:c,c:o,d:n,ux:e,w:a,i:l};export{o as c,n as d,d as default,l as i,c as r,t as s,s as sc,e as ux,a as w};

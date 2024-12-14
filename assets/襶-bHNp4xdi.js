@@ -1,1 +1,0 @@
-const s=[{p:"dài",pp:"dai4",d:"untidy (in dress)",t:"襶",w:"襶"}],c=24,t="衣",n=["衤","戴"],o=[],d="",i=[],p=[],r={s,sc:c,r:t,c:n,d:o,ux:d,w:i,i:p};export{n as c,o as d,r as default,p as i,t as r,s,c as sc,d as ux,i as w};

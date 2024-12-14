@@ -1,1 +1,0 @@
-const s=[{p:"lì",pp:"li4",d:"Drabanemerosa hebecarpa",t:"藶",w:"苈"}],c=7,t="艸",o=["艹","历"],n=[],a="",e=[],r=[],p={s,sc:c,r:t,c:o,d:n,ux:a,w:e,i:r};export{o as c,n as d,p as default,r as i,t as r,s,c as sc,a as ux,e as w};

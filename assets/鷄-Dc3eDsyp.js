@@ -1,1 +1,0 @@
-const s=[{p:"jī",pp:"ji1",d:"variant of 雞|鸡[ji1]",t:"鷄",w:"鷄"}],c=21,t="鳥",o=["奚"],n=[],i="",a=[],d=[],p={s,sc:c,r:t,c:o,d:n,ux:i,w:a,i:d};export{o as c,n as d,p as default,d as i,t as r,s,c as sc,i as ux,a as w};

@@ -1,1 +1,0 @@
-const s=[{p:"liù",pp:"liu4",d:"the sound of the wind/to soar",t:"翏",w:"翏"}],t=11,o="羽",c=["羽"],n=["僇","勠","谬","嘐","嫪","寥","嵺","廖","憀","摎","蓼","戮","樛","璆","瘳","穋","镠","轇","醪","飂","髎"],d="",i=[],u=[],e={s,sc:t,r:o,c,d:n,ux:d,w:i,i:u};export{c,n as d,e as default,u as i,o as r,s,t as sc,d as ux,i as w};

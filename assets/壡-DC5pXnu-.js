@@ -1,1 +1,0 @@
-const s=[{p:"ruì",pp:"rui4",d:"variant of 睿[rui4]",t:"壡",w:"壡"}],c=19,t="土",o=["圣"],n=[],r="",u=[],i=[],a={s,sc:c,r:t,c:o,d:n,ux:r,w:u,i};export{o as c,n as d,a as default,i,t as r,s,c as sc,r as ux,u as w};

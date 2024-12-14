@@ -1,0 +1,1 @@
+const t=[{p:"dīng",pp:"ding1",d:"to cobble/to patch",t:"靪",w:"靪"}],n=11,o="革",c=["丁","革"],s=[],d="",p=[{w:"补靪",p:"bǔ ding",d:"variant of 補丁|补丁[bu3 ding5]",t:"補靪"}],a=[],i={s:t,sc:n,r:o,c,d:s,ux:d,w:p,i:a};export{c,s as d,i as default,a as i,o as r,t as s,n as sc,d as ux,p as w};

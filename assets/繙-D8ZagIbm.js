@@ -1,0 +1,1 @@
+const t=[{p:"fān",pp:"fan1",d:"to translate",t:"繙",w:"繙"}],s=18,n="糸",c=["糸","番"],o=[],a="",p=[],d=[],e={s:t,sc:s,r:n,c,d:o,ux:a,w:p,i:d};export{c,o as d,e as default,d as i,n as r,t as s,s as sc,a as ux,p as w};

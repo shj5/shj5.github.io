@@ -1,0 +1,1 @@
+const n=[{p:"yán",pp:"yan2",d:"Japanese variant of 鹽|盐",t:"塩",w:"塩"}],s=13,t="土",c=["土"],o=[],a="",p=[],e=[],d={s:n,sc:s,r:t,c,d:o,ux:a,w:p,i:e};export{c,o as d,d as default,e as i,t as r,n as s,s as sc,a as ux,p as w};

@@ -1,0 +1,1 @@
+const c=[{p:"chǎng",pp:"chang3",d:"variant of 廠|厂[chang3]",t:"厰",w:"厰"}],n=14,t="厂",s=["厂"],o=[],a="",p=[],d=[],g={s:c,sc:n,r:t,c:s,d:o,ux:a,w:p,i:d};export{s as c,o as d,g as default,d as i,t as r,c as s,n as sc,a as ux,p as w};

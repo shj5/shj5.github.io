@@ -1,1 +1,0 @@
-const c=[{p:"hé",pp:"he2",d:"(archaic) blowfish",t:"魺",w:"鲄"}],s=13,t="魚",o=["可","鱼"],n=[],a="",d=[],h=[],i={s:c,sc:s,r:t,c:o,d:n,ux:a,w:d,i:h};export{o as c,n as d,i as default,h as i,t as r,c as s,s as sc,a as ux,d as w};

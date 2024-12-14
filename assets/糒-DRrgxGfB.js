@@ -1,0 +1,1 @@
+const o=[{p:"bèi",pp:"bei4",d:"food for a journey/cakes",t:"糒",w:"糒"}],s=16,c="米",t=["米"],n=[],e="",a=[],d=[],p={s:o,sc:s,r:c,c:t,d:n,ux:e,w:a,i:d};export{t as c,n as d,p as default,d as i,c as r,o as s,s as sc,e as ux,a as w};

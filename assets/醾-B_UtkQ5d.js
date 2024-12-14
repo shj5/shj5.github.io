@@ -1,0 +1,1 @@
+const t=[{p:"mí",pp:"mi2",d:"unfiltered wine/wine brewed twice",t:"醾",w:"醾"}],c=24,n="酉",s=["酉","糜"],o=[],e="",i=[],w=[],d={s:t,sc:c,r:n,c:s,d:o,ux:e,w:i,i:w};export{s as c,o as d,d as default,w as i,n as r,t as s,c as sc,e as ux,i as w};

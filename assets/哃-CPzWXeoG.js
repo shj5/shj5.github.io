@@ -1,1 +1,0 @@
-const s=[{p:"tóng",pp:"tong2",d:"(literary) to talk nonsense/to boast/(used in place names)",t:"哃",w:"哃"}],t=9,n="口",o=["口","同"],c=[],e="",a=[],d=[],p={s,sc:t,r:n,c:o,d:c,ux:e,w:a,i:d};export{o as c,c as d,p as default,d as i,n as r,s,t as sc,e as ux,a as w};

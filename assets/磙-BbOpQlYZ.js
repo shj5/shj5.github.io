@@ -1,1 +1,0 @@
-const s=[{p:"gǔn",pp:"gun3",d:"roller/to level with a roller",t:"磙",w:"磙"}],t=15,o="石",c=["石","衮"],n=[],l="",r=[{w:"石磙",p:"shí gǔn",d:"stone roller",t:"石磙"}],e=[],d={s,sc:t,r:o,c,d:n,ux:l,w:r,i:e};export{c,n as d,d as default,e as i,o as r,s,t as sc,l as ux,r as w};

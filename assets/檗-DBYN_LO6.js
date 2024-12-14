@@ -1,0 +1,1 @@
+const n=[{p:"bò",pp:"bo4",d:"used in 黃檗|黄檗[huang2bo4]",t:"檗",w:"檗"}],o=17,e="木",s=["木","辟"],t=["蘗"],c="",r=[{w:"黄檗",p:"huáng bò",d:"Amur cork tree (Phellodendron amurense)/cork-tree bark (Chinese medicine)",t:"黃檗"}],d=[],u={s:n,sc:o,r:e,c:s,d:t,ux:c,w:r,i:d};export{s as c,t as d,u as default,d as i,e as r,n as s,o as sc,c as ux,r as w};

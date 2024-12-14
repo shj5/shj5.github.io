@@ -1,1 +1,0 @@
-const s=[{p:"fēi",pp:"fei1",d:"Pacific herring",t:"鯡",w:"鲱"}],c=16,t="魚",n=["鱼","非"],i=[],o="",r=[{w:"圆腹鲱",p:"yuán fù fēi",d:"round herring",t:"圓腹鯡"},{w:"西鲱",p:"xī fēi",d:"allis shad (Alosa alosa)",t:"西鯡"},{w:"鲱鱼",p:"fēi yú",d:"herring",t:"鯡魚"}],d=[],a={s,sc:c,r:t,c:n,d:i,ux:o,w:r,i:d};export{n as c,i as d,a as default,d as i,t as r,s,c as sc,o as ux,r as w};

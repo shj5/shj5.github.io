@@ -1,0 +1,1 @@
+const o=[{p:"ní",pp:"ni2",d:"(mythical animal)/lion",t:"猊",w:"猊"},{p:"ní",pp:"ni2",d:"wild beast/wild horse/lion/trad. form used erroneously for 貌/simplified form used erroneously for 狻",t:"貎",w:"猊"}],s=11,n="犬",t=["犭"],c=[],i="",r=[],e=[],d={s:o,sc:s,r:n,c:t,d:c,ux:i,w:r,i:e};export{t as c,c as d,d as default,e as i,n as r,o as s,s as sc,i as ux,r as w};

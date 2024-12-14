@@ -1,1 +1,0 @@
-const t=[{p:"Wǎ",pp:"Wa3",d:"old place name",t:"邷",w:"邷"},{p:"wǎ",pp:"wa3",d:"to grab/see 邷麼兒|邷么儿[wa3 mo2 r5]",t:"邷",w:"邷"}],c=8,s="邑",o=["瓦"],n=[],a="",p=[{w:"邷么儿",p:"wǎ mó r",d:"to play knucklebones (dialect)",t:"邷麼兒"}],e=[],w={s:t,sc:c,r:s,c:o,d:n,ux:a,w:p,i:e};export{o as c,n as d,w as default,e as i,s as r,t as s,c as sc,a as ux,p as w};

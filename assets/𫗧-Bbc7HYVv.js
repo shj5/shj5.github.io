@@ -1,1 +1,0 @@
-const s=[{p:"sù",pp:"su4",d:"pot of cooked rice",t:"餗",w:"𫗧"}],c=0,o="",t=[],n=[],d="C",p=[],e=[],r={s,sc:c,r:o,c:t,d:n,ux:d,w:p,i:e};export{t as c,n as d,r as default,e as i,o as r,s,c as sc,d as ux,p as w};

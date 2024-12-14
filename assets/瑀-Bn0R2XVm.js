@@ -1,0 +1,1 @@
+const c=[{p:"yǔ",pp:"yu3",d:"(chalcedony)",t:"瑀",w:"瑀"}],s=13,t="玉",o=["王","禹"],n=[],d="",p=[],a=[],e={s:c,sc:s,r:t,c:o,d:n,ux:d,w:p,i:a};export{o as c,n as d,e as default,a as i,t as r,c as s,s as sc,d as ux,p as w};

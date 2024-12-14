@@ -1,0 +1,1 @@
+const t=[{p:"táo",pp:"tao2",d:"see 撥浪鼓|拨浪鼓[bo1lang5gu3]",t:"鼗",w:"鼗"}],o=19,s="鼓",c=["兆","鼓"],n=[],a="",e=[],p=[],d={s:t,sc:o,r:s,c,d:n,ux:a,w:e,i:p};export{c,n as d,d as default,p as i,s as r,t as s,o as sc,a as ux,e as w};

@@ -1,1 +1,0 @@
-const s=[{p:"xǐ",pp:"xi3",d:"seaborgium (chemistry)",t:"𨭎",w:"𬭳"}],c=0,t="",o=[],n=[],i="E",r=[],x=[],d={s,sc:c,r:t,c:o,d:n,ux:i,w:r,i:x};export{o as c,n as d,d as default,x as i,t as r,s,c as sc,i as ux,r as w};

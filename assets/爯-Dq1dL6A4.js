@@ -1,0 +1,1 @@
+const c=[{p:"chèn",pp:"chen4",d:"old variant of 稱|称[chen4]",t:"爯",w:"爯"},{p:"chēng",pp:"cheng1",d:"old variant of 稱|称[cheng1]",t:"爯",w:"爯"}],n=9,t="爪",o=["爫","冉"],s=["偁"],p="",a=[],d=[],e={s:c,sc:n,r:t,c:o,d:s,ux:p,w:a,i:d};export{o as c,s as d,e as default,d as i,t as r,c as s,n as sc,p as ux,a as w};

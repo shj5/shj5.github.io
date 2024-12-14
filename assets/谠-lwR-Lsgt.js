@@ -1,0 +1,1 @@
+const t=[{p:"dǎng",pp:"dang3",d:"honest/straightforward",t:"讜",w:"谠"}],s=12,n="言",o=["讠","党"],c=[],d="",a=[],r=[],p={s:t,sc:s,r:n,c:o,d:c,ux:d,w:a,i:r};export{o as c,c as d,p as default,r as i,n as r,t as s,s as sc,d as ux,a as w};

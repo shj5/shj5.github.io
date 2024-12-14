@@ -1,0 +1,1 @@
+const n=[{p:"yīn",pp:"yin1",d:"generative force/magic emanation",t:"絪",w:"𬘡"}],t=0,c="",o=[],s=[],a="E",e=[{w:"𬘡缊",p:"yīn yūn",d:"variant of 氤氳|氤氲[yin1 yun1]",t:"絪縕"}],i=[],y={s:n,sc:t,r:c,c:o,d:s,ux:a,w:e,i};export{o as c,s as d,y as default,i,c as r,n as s,t as sc,a as ux,e as w};

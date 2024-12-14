@@ -1,0 +1,1 @@
+const t=[{p:"yǎn",pp:"yan3",d:"gem/glitter of gems",t:"琰",w:"琰"}],s=12,c="玉",n=["王","炎"],o=[],e="",p=[],a=[],d={s:t,sc:s,r:c,c:n,d:o,ux:e,w:p,i:a};export{n as c,o as d,d as default,a as i,c as r,t as s,s as sc,e as ux,p as w};

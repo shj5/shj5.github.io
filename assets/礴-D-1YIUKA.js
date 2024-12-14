@@ -1,1 +1,0 @@
-const t=[{p:"bó",pp:"bo2",d:"to fill/to extend",t:"礡",w:"礴"}],s=21,o="石",c=["石","薄"],n=[],d="",e=[{w:"磅礴",p:"páng bó",d:"majestic; boundless/to fill; to pervade",t:"磅礡"}],p=[],l={s:t,sc:s,r:o,c,d:n,ux:d,w:e,i:p};export{c,n as d,l as default,p as i,o as r,t as s,s as sc,d as ux,e as w};

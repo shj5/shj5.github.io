@@ -1,1 +1,0 @@
-const s=[{p:"yí",pp:"yi2",d:"expression of surprise",t:"咦",w:"咦"}],c=9,o="口",t=["口","夷"],n=[],p="",r=[],e=[],i={s,sc:c,r:o,c:t,d:n,ux:p,w:r,i:e};export{t as c,n as d,i as default,e as i,o as r,s,c as sc,p as ux,r as w};

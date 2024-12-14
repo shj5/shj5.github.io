@@ -1,1 +1,0 @@
-const s=[{p:"suí",pp:"sui2",d:"sparrow/revolve/place name",t:"雟",w:"雟"}],c=18,o="隹",t=["囧"],n=[],e="",p=[],r=[],a={s,sc:c,r:o,c:t,d:n,ux:e,w:p,i:r};export{t as c,n as d,a as default,r as i,o as r,s,c as sc,e as ux,p as w};

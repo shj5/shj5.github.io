@@ -1,0 +1,1 @@
+const s=[{p:"suì",pp:"sui4",d:"Japanese variant of 歲|岁",t:"歳",w:"歳"}],t=13,c="止",n=["止"],o=[],a="",p=[],e=[],u={s,sc:t,r:c,c:n,d:o,ux:a,w:p,i:e};export{n as c,o as d,u as default,e as i,c as r,s,t as sc,a as ux,p as w};

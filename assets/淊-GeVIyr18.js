@@ -1,0 +1,1 @@
+const o=[{p:"yān",pp:"yan1",d:"variant of 淹[yan1]/to flood",t:"淊",w:"淊"}],t=11,n="水",s=["氵","臽"],c=[],a="",d=[],p=[],f={s:o,sc:t,r:n,c:s,d:c,ux:a,w:d,i:p};export{s as c,c as d,f as default,p as i,n as r,o as s,t as sc,a as ux,d as w};

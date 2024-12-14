@@ -1,0 +1,1 @@
+const s=[{p:"sōu",pp:"sou1",d:"to urinate",t:"溲",w:"溲"}],n=13,o="水",t=["氵","叟"],c=[],i="",e=[],u=[{w:"牛溲马勃",p:"niú sōu mǎ bó",d:"cow's piss, horse's ulcer (idiom); worthless nonsense/insignificant",t:"牛溲馬勃"}],p={s,sc:n,r:o,c:t,d:c,ux:i,w:e,i:u};export{t as c,c as d,p as default,u as i,o as r,s,n as sc,i as ux,e as w};

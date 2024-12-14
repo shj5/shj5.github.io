@@ -1,0 +1,1 @@
+const s=[{p:"qú",pp:"qu2",d:"(used in names)",t:"菃",w:"菃"}],t=12,c="艸",n=["艹"],o=[],d="",e=[],p=[],u={s,sc:t,r:c,c:n,d:o,ux:d,w:e,i:p};export{n as c,o as d,u as default,p as i,c as r,s,t as sc,d as ux,e as w};

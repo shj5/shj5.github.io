@@ -1,0 +1,1 @@
+const t=[{p:"yù",pp:"yu4",d:"threshold",t:"閾",w:"阈"}],s=11,o="門",c=["门","或"],n=[],d="",h=[{w:"听阈",p:"tīng yù",d:"audibility threshold",t:"聽閾"},{w:"阈值",p:"yù zhí",d:"threshold",t:"閾值"},{w:"阈限",p:"yù xiàn",d:"(psychology) threshold/liminal",t:"閾限"}],l=[],p={s:t,sc:s,r:o,c,d:n,ux:d,w:h,i:l};export{c,n as d,p as default,l as i,o as r,t as s,s as sc,d as ux,h as w};

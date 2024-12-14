@@ -1,0 +1,1 @@
+const t=[{p:"tāng",pp:"tang1",d:"carbonyl (radical)",t:"羰",w:"羰"}],c=15,n="羊",s=["羊","炭"],o=[],a="",d=[],p=[],r={s:t,sc:c,r:n,c:s,d:o,ux:a,w:d,i:p};export{s as c,o as d,r as default,p as i,n as r,t as s,c as sc,a as ux,d as w};

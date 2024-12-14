@@ -1,1 +1,0 @@
-const c=[{p:"dàn",pp:"dan4",d:"pit/cave",t:"窞",w:"窞"}],s=13,t="穴",n=["穴","臽"],o=[],d="",p=[],a=[],e={s:c,sc:s,r:t,c:n,d:o,ux:d,w:p,i:a};export{n as c,o as d,e as default,a as i,t as r,c as s,s as sc,d as ux,p as w};

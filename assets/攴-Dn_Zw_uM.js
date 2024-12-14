@@ -1,0 +1,1 @@
+const t=[{p:"pū",pp:"pu1",d:"to tap/to knock lightly/old variant of 撲|扑[pu1]",t:"攴",w:"攴"}],o=4,c="支",s=["卜","又"],n=["敁","敧","敲","敽"],p="",a=[],d=[],l={s:t,sc:o,r:c,c:s,d:n,ux:p,w:a,i:d};export{s as c,n as d,l as default,d as i,c as r,t as s,o as sc,p as ux,a as w};

@@ -1,0 +1,1 @@
+const s=[{p:"ē",pp:"e1",d:"(used in female given names)/variant of 婀[e1]",t:"妸",w:"妸"}],n=8,t="女",c=["女","可"],o=[],e="",a=[],d=[],i={s,sc:n,r:t,c,d:o,ux:e,w:a,i:d};export{c,o as d,i as default,d as i,t as r,s,n as sc,e as ux,a as w};

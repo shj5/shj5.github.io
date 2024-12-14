@@ -1,1 +1,0 @@
-const s=[{p:"qín",pp:"qin2",d:"small cicada with a square head",t:"螓",w:"螓"}],c=16,t="虫",n=["虫","秦"],o=[],a="",d=[],i=[],e={s,sc:c,r:t,c:n,d:o,ux:a,w:d,i};export{n as c,o as d,e as default,i,t as r,s,c as sc,a as ux,d as w};

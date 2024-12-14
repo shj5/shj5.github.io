@@ -1,1 +1,0 @@
-const c=[{p:"hǎi",pp:"hai3",d:"minced meat/pickled meat",t:"醢",w:"醢"}],t=17,s="酉",n=["酉"],o=[],e="",i=[{w:"菹醢",p:"zū hǎi",d:"to execute sb and mince his flesh and bones (archaic form of retribution)",t:"菹醢"}],a=[],d={s:c,sc:t,r:s,c:n,d:o,ux:e,w:i,i:a};export{n as c,o as d,d as default,a as i,s as r,c as s,t as sc,e as ux,i as w};

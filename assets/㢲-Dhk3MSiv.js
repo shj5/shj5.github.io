@@ -1,1 +1,0 @@
-const s=[{p:"xùn",pp:"xun4",d:"variant of 巽[xun4]",t:"㢲",w:"㢲"}],c=0,n="",t=[],o=[],x="A",u=[],a=[],d={s,sc:c,r:n,c:t,d:o,ux:x,w:u,i:a};export{t as c,o as d,d as default,a as i,n as r,s,c as sc,x as ux,u as w};

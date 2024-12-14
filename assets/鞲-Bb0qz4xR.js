@@ -1,0 +1,1 @@
+const o=[{p:"gōu",pp:"gou1",d:"variant of 韝[gou1]",t:"鞲",w:"鞲"}],t=19,n="革",s=["革","冓"],c=[],a="",p=[{w:"鞲鞴",p:"gōu bèi",d:'piston (loanword from German "Kolben")',t:"鞲鞴"}],r=[],u={s:o,sc:t,r:n,c:s,d:c,ux:a,w:p,i:r};export{s as c,c as d,u as default,r as i,n as r,o as s,t as sc,a as ux,p as w};

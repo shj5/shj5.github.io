@@ -1,1 +1,0 @@
-const s=[{p:"yǎn",pp:"yan3",d:"(of cloud) forming or rising",t:"渰",w:"渰"}],c=12,o="水",n=["氵","弇"],t=[],r="",d=[],i=[],p={s,sc:c,r:o,c:n,d:t,ux:r,w:d,i};export{n as c,t as d,p as default,i,o as r,s,c as sc,r as ux,d as w};

@@ -1,1 +1,0 @@
-const s=[{p:"jì",pp:"ji4",d:"Buddhist hymn/gatha/Buddhist verse",t:"偈",w:"偈"},{p:"jié",pp:"jie2",d:"forceful/martial",t:"偈",w:"偈"}],t=11,c="人",o=["亻","曷"],n=[],d="",i=[],p=[],a={s,sc:t,r:c,c:o,d:n,ux:d,w:i,i:p};export{o as c,n as d,a as default,p as i,c as r,s,t as sc,d as ux,i as w};

@@ -1,1 +1,0 @@
-const s=[{p:"fèi",pp:"fei4",d:"old variant of 肺[fei4]",t:"胇",w:"胇"}],c=9,t="肉",o=["月","弗"],n=[],i="",d=[],f=[],a={s,sc:c,r:t,c:o,d:n,ux:i,w:d,i:f};export{o as c,n as d,a as default,f as i,t as r,s,c as sc,i as ux,d as w};

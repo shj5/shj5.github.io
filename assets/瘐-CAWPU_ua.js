@@ -1,1 +1,0 @@
-const s=[{p:"yǔ",pp:"yu3",d:"to maltreat (as prisoners)",t:"瘐",w:"瘐"}],o=14,t="疒",e=["疒","臾"],n=[],r="",c=[{w:"瘐毙",p:"yǔ bì",d:"to die of hunger or disease (of a prisoner)",t:"瘐斃"},{w:"瘐死",p:"yǔ sǐ",d:"to die of hunger or disease (of a prisoner)",t:"瘐死"}],d=[],a={s,sc:o,r:t,c:e,d:n,ux:r,w:c,i:d};export{e as c,n as d,a as default,d as i,t as r,s,o as sc,r as ux,c as w};

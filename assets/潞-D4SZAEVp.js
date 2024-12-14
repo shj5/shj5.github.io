@@ -1,1 +1,0 @@
-const s=[{p:"Lù",pp:"Lu4",d:"name of a river/surname Lu",t:"潞",w:"潞"}],c=15,t="水",n=["氵","路"],o=[],r="",u=[],a=[],e={s,sc:c,r:t,c:n,d:o,ux:r,w:u,i:a};export{n as c,o as d,e as default,a as i,t as r,s,c as sc,r as ux,u as w};

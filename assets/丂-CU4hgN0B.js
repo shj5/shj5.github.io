@@ -1,0 +1,1 @@
+const o=[{p:"kǎo",pp:"kao3",d:'"breath" or "sigh" component in Chinese characters',t:"丂",w:"丂"}],s=2,t="一",c=[],n=["亏","兮","号","巧","汅","朽","考","甹","粤"],e="",a=[],r=[],p={s:o,sc:s,r:t,c,d:n,ux:e,w:a,i:r};export{c,n as d,p as default,r as i,t as r,o as s,s as sc,e as ux,a as w};

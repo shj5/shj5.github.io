@@ -1,0 +1,1 @@
+const n=[{p:"shēn",pp:"shen1",d:"a kind of jade",t:"珅",w:"珅"}],o=9,s="玉",c=["王","申"],t=[],a="",e=[{w:"和珅",p:"Hé shēn",d:"Heshen (1746-1799), Manchu official of the Qing Dynasty who openly practiced various forms of corruption on a grand scale",t:"和珅"}],d=[],i={s:n,sc:o,r:s,c,d:t,ux:a,w:e,i:d};export{c,t as d,i as default,d as i,s as r,n as s,o as sc,a as ux,e as w};

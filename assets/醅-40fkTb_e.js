@@ -1,0 +1,1 @@
+const s=[{p:"pēi",pp:"pei1",d:"unstrained spirits",t:"醅",w:"醅"}],t=15,c="酉",n=["酉","咅"],o=[],p="",i=[],d=[],e={s,sc:t,r:c,c:n,d:o,ux:p,w:i,i:d};export{n as c,o as d,e as default,d as i,c as r,s,t as sc,p as ux,i as w};

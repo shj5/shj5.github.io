@@ -1,1 +1,0 @@
-const s=[{p:"qīng",pp:"qing1",d:"Japanese variant of 輕|轻[qing1]",t:"軽",w:"軽"}],n=12,c="車",t=["圣"],o=[],a="",i=[],p=[],d={s,sc:n,r:c,c:t,d:o,ux:a,w:i,i:p};export{t as c,o as d,d as default,p as i,c as r,s,n as sc,a as ux,i as w};

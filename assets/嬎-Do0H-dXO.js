@@ -1,0 +1,1 @@
+const t=[{p:"fàn",pp:"fan4",d:"(dialect) (of birds) to lay eggs/(archaic) to reproduce; to bear offspring",t:"嬎",w:"嬎"}],o=15,s="女",c=["女"],n=[],a="",d=[{w:"嬎蛋",p:"fàn dàn",d:"(dialect) (of birds) to lay eggs",t:"嬎蛋"}],e=[],r={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i:e};export{c,n as d,r as default,e as i,s as r,t as s,o as sc,a as ux,d as w};

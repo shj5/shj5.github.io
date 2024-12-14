@@ -1,1 +1,0 @@
-const t=[{p:"rèn",pp:"ren4",d:"unit of length used in ancient times, equal to 7 or 8 Chinese feet 尺[chi3]",t:"仞",w:"仞"}],n=5,s="人",o=["亻","刃"],c=[],e="",i=[],d=[{w:"壁立千仞",p:"bì lì - qiān rèn",d:"(idiom) (of a cliff, mountain etc) steep; lofty; imposing",t:"壁立千仞"}],f={s:t,sc:n,r:s,c:o,d:c,ux:e,w:i,i:d};export{o as c,c as d,f as default,d as i,s as r,t as s,n as sc,e as ux,i as w};

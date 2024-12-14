@@ -1,1 +1,0 @@
-const s=[{p:"dá",pp:"da2",d:"a knot (of a rope)",t:"繨",w:"繨"}],c=19,o="糸",t=["糸","逹"],n=[],d="",a=[],p=[],r={s,sc:c,r:o,c:t,d:n,ux:d,w:a,i:p};export{t as c,n as d,r as default,p as i,o as r,s,c as sc,d as ux,a as w};

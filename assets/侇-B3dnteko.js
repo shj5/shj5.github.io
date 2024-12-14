@@ -1,0 +1,1 @@
+const t=[{p:"yí",pp:"yi2",d:"(literary) class; category/(literary) to place; to lay out",t:"侇",w:"侇"}],c=8,o="人",s=["亻","夷"],n=[],a="",r=[],e=[],l={s:t,sc:c,r:o,c:s,d:n,ux:a,w:r,i:e};export{s as c,n as d,l as default,e as i,o as r,t as s,c as sc,a as ux,r as w};

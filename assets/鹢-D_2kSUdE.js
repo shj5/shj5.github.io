@@ -1,1 +1,0 @@
-const c=[{p:"yì",pp:"yi4",d:"a kind of aquatic bird",t:"鷁",w:"鹢"}],s=15,t="鳥",o=["鸟"],n=[],d="",i=[],a=[],p={s:c,sc:s,r:t,c:o,d:n,ux:d,w:i,i:a};export{o as c,n as d,p as default,a as i,t as r,c as s,s as sc,d as ux,i as w};

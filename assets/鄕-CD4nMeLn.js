@@ -1,1 +1,0 @@
-const c=[{p:"xiāng",pp:"xiang1",d:"variant of 鄉|乡[xiang1]/country/village",t:"鄕",w:"鄕"}],n=13,s="邑",t=[],o=[],a="",i=[],x=[],r={s:c,sc:n,r:s,c:t,d:o,ux:a,w:i,i:x};export{t as c,o as d,r as default,x as i,s as r,c as s,n as sc,a as ux,i as w};

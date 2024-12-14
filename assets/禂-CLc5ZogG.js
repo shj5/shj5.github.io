@@ -1,0 +1,1 @@
+const o=[{p:"dǎo",pp:"dao3",d:"to pray/prayer",t:"禂",w:"禂"}],t=13,s="示",c=["周"],n=[],p="",a=[],d=[],r={s:o,sc:t,r:s,c,d:n,ux:p,w:a,i:d};export{c,n as d,r as default,d as i,s as r,o as s,t as sc,p as ux,a as w};

@@ -1,0 +1,1 @@
+const t=[{p:"lā",pp:"la1",d:"used in 邋遢[la1ta5]",t:"邋",w:"邋"}],s=19,n="辵",c=["辶","巤"],o=[],l="",p=[{w:"邋里邋遢",p:"lā li lā ta",d:"messy/slovenly/unkempt",t:"邋裡邋遢"},{w:"邋遢",p:"lā ta",d:"unkempt",t:"邋遢"}],a=[],e={s:t,sc:s,r:n,c,d:o,ux:l,w:p,i:a};export{c,o as d,e as default,a as i,n as r,t as s,s as sc,l as ux,p as w};

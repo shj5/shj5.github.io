@@ -1,0 +1,1 @@
+const t=[{p:"juān",pp:"juan1",d:"(literary) to reduce/(literary) to exploit",t:"朘",w:"朘"}],o=11,c="月",s=["月"],n=[],e="",r=[],a=[],p={s:t,sc:o,r:c,c:s,d:n,ux:e,w:r,i:a};export{s as c,n as d,p as default,a as i,c as r,t as s,o as sc,e as ux,r as w};

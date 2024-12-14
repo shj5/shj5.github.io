@@ -1,1 +1,0 @@
-const s=[{p:"zǔ",pp:"zu3",d:"curse/swear (oath)",t:"詛",w:"诅"}],t=7,c="言",o=["讠","且"],n=[],u="",e=[{w:"咒诅",p:"zhòu zǔ",d:"to curse/to revile",t:"咒詛"},{w:"诅咒",p:"zǔ zhòu",d:"to curse",t:"詛咒"}],r=[],d={s,sc:t,r:c,c:o,d:n,ux:u,w:e,i:r};export{o as c,n as d,d as default,r as i,c as r,s,t as sc,u as ux,e as w};

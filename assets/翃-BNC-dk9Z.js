@@ -1,0 +1,1 @@
+const s=[{p:"hóng",pp:"hong2",d:"to swarm (of insects)",t:"翃",w:"翃"}],t=10,o="羽",c=["厷","羽"],n=[],p="",a=[],d=[],e={s,sc:t,r:o,c,d:n,ux:p,w:a,i:d};export{c,n as d,e as default,d as i,o as r,s,t as sc,p as ux,a as w};

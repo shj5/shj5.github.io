@@ -1,0 +1,1 @@
+const t=[{p:"yì",pp:"yi4",d:"ancient unit of weight equal to 20 or 24 liang 兩|两[liang3]",t:"鎰",w:"镒"}],n=15,o="金",c=["益"],s=[],i="",a=[],e=[],l={s:t,sc:n,r:o,c,d:s,ux:i,w:a,i:e};export{c,s as d,l as default,e as i,o as r,t as s,n as sc,i as ux,a as w};

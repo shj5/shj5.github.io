@@ -1,0 +1,1 @@
+const t=[{p:"pǔ",pp:"pu3",d:"used in 氆氌|氆氇[pu3 lu5]",t:"氆",w:"氆"}],s=16,c="毛",n=["毛","普"],o=[],p="",u=[{w:"氆氇",p:"pǔ lu",d:"woolen fabric made in Tibet",t:"氆氌"}],d=[],e={s:t,sc:s,r:c,c:n,d:o,ux:p,w:u,i:d};export{n as c,o as d,e as default,d as i,c as r,t as s,s as sc,p as ux,u as w};

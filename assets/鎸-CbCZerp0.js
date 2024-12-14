@@ -1,0 +1,1 @@
+const o=[{p:"juān",pp:"juan1",d:"variant of 鐫|镌, to engrave (on wood or stone)/to inscribe",t:"鎸",w:"鎸"}],n=18,t="金",s=["金","隽"],c=[],a="",e=[],r=[],d={s:o,sc:n,r:t,c:s,d:c,ux:a,w:e,i:r};export{s as c,c as d,d as default,r as i,t as r,o as s,n as sc,a as ux,e as w};

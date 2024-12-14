@@ -1,0 +1,1 @@
+const s=[{p:"lǜ",pp:"lu:4",d:"Japanese variant of 綠|绿[lu:4]",t:"緑",w:"緑"}],t=14,c="糸",n=["糸","录"],o=[],a="",p=[],e=[],l={s,sc:t,r:c,c:n,d:o,ux:a,w:p,i:e};export{n as c,o as d,l as default,e as i,c as r,s,t as sc,a as ux,p as w};

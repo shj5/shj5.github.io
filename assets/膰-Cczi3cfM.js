@@ -1,1 +1,0 @@
-const c=[{p:"fán",pp:"fan2",d:"cooked meat used in sacrifice",t:"膰",w:"膰"}],s=16,t="肉",n=["月","番"],o=[],d="",e=[],a=[],i={s:c,sc:s,r:t,c:n,d:o,ux:d,w:e,i:a};export{n as c,o as d,i as default,a as i,t as r,c as s,s as sc,d as ux,e as w};

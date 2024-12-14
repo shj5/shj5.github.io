@@ -1,1 +1,0 @@
-const n=[{p:"yí",pp:"yi2",d:"winding",t:"迤",w:"迤"},{p:"yǐ",pp:"yi3",d:"extending to",t:"迤",w:"迤"}],t=9,c="辵",d=["辶"],i=[],s="",o=[{w:"迤逦",p:"yǐ lǐ",d:"meandering/winding",t:"迤邐"},{w:"逶迤",p:"wēi yí",d:"winding (of road, river etc)/curved/long/distant",t:"逶迤"}],w=[],e={s:n,sc:t,r:c,c:d,d:i,ux:s,w:o,i:w};export{d as c,i as d,e as default,w as i,c as r,n as s,t as sc,s as ux,o as w};

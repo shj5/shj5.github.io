@@ -1,0 +1,1 @@
+const t=[{p:"jiè",pp:"jie4",d:"used in 褯子[jie4zi5]",t:"褯",w:"褯"}],s=16,c="衣",i=["衤","席"],n=[],o="",d=[{w:"褯子",p:"jiè zi",d:"(dialect) diaper",t:"褯子"}],e=[],p={s:t,sc:s,r:c,c:i,d:n,ux:o,w:d,i:e};export{i as c,n as d,p as default,e as i,c as r,t as s,s as sc,o as ux,d as w};

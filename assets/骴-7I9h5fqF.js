@@ -1,1 +1,0 @@
-const c=[{p:"cī",pp:"ci1",d:"a putrid carcass",t:"骴",w:"骴"}],s=15,t="骨",o=["此","骨"],n=[],a="",d=[],p=[],r={s:c,sc:s,r:t,c:o,d:n,ux:a,w:d,i:p};export{o as c,n as d,r as default,p as i,t as r,c as s,s as sc,a as ux,d as w};

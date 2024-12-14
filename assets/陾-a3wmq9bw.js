@@ -1,0 +1,1 @@
+const s=[{p:"réng",pp:"reng2",d:"sound of stonemason's shovel",t:"陾",w:"陾"}],o=12,n="阜",t=["耎"],c=[],e="",d=[],p=[],r={s,sc:o,r:n,c:t,d:c,ux:e,w:d,i:p};export{t as c,c as d,r as default,p as i,n as r,s,o as sc,e as ux,d as w};

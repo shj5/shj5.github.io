@@ -1,0 +1,1 @@
+const o=[{p:"kū",pp:"ku1",d:"used in 圐圙[ku1 lu:e4]",t:"圐",w:"圐"}],n=12,s="囗",t=["囗"],c=[],e="",l=[{w:"圐圙",p:"kū lüè",d:"enclosed pasture (Mongolian loanword)/now mostly replaced by 庫倫|库伦[ku4 lun2]",t:"圐圙"}],u=[],d={s:o,sc:n,r:s,c:t,d:c,ux:e,w:l,i:u};export{t as c,c as d,d as default,u as i,s as r,o as s,n as sc,e as ux,l as w};

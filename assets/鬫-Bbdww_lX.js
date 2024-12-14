@@ -1,0 +1,1 @@
+const o=[{p:"kàn",pp:"kan4",d:"variant of 闞|阚[kan4]/to roar/to growl",t:"鬫",w:"鬫"}],t=22,n="鬥",s=[],c=[],a="",r=[],p=[],d={s:o,sc:t,r:n,c:s,d:c,ux:a,w:r,i:p};export{s as c,c as d,d as default,p as i,n as r,o as s,t as sc,a as ux,r as w};

@@ -1,1 +1,0 @@
-const s=[{p:"féng",pp:"feng2",d:"to butt (as horned animals)",t:"夆",w:"夆"}],t=7,c="夂",n=["夂","丰"],o=["埄","峰","浲","烽","逢","锋","綘","蜂"],a="",d=[],e=[],p={s,sc:t,r:c,c:n,d:o,ux:a,w:d,i:e};export{n as c,o as d,p as default,e as i,c as r,s,t as sc,a as ux,d as w};

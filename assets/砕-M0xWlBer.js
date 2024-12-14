@@ -1,0 +1,1 @@
+const s=[{p:"suì",pp:"sui4",d:"variant of 碎[sui4]",t:"砕",w:"砕"}],t=9,c="石",o=["卆","石"],n=[],u="",a=[],i=[],p={s,sc:t,r:c,c:o,d:n,ux:u,w:a,i};export{o as c,n as d,p as default,i,c as r,s,t as sc,u as ux,a as w};

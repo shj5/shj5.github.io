@@ -1,0 +1,1 @@
+const t=[{p:"bì",pp:"bi4",d:"perverse/obstinate/willful",t:"愎",w:"愎"}],n=12,s="心",o=["忄","复"],e=[],c="",d=[{w:"刚愎",p:"gāng bì",d:"headstrong/perverse",t:"剛愎"}],i=[{w:"刚愎自用",p:"gāng bì zì yòng",d:"obstinate and self-opinionated (idiom)",t:"剛愎自用"}],p={s:t,sc:n,r:s,c:o,d:e,ux:c,w:d,i};export{o as c,e as d,p as default,i,s as r,t as s,n as sc,c as ux,d as w};

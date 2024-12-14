@@ -1,1 +1,0 @@
-const c=[{p:"hù",pp:"hu4",d:"(old) ceremonial tablet (held by officials at an audience)",t:"笏",w:"笏"}],s=10,t="竹",o=["勿","竹"],n=[],a="",e=[],d=[],i={s:c,sc:s,r:t,c:o,d:n,ux:a,w:e,i:d};export{o as c,n as d,i as default,d as i,t as r,c as s,s as sc,a as ux,e as w};

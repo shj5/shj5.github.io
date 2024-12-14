@@ -1,0 +1,1 @@
+const s=[{p:"xī",pp:"xi1",d:"Japanese variant of 犧|牺",t:"犠",w:"犠"}],t=17,c="牛",n=[],o=[],a="",p=[],e=[],x={s,sc:t,r:c,c:n,d:o,ux:a,w:p,i:e};export{n as c,o as d,x as default,e as i,c as r,s,t as sc,a as ux,p as w};

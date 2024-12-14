@@ -1,0 +1,1 @@
+const t=[{p:"hù",pp:"hu4",d:"(literary) mountain covered with vegetation",t:"岵",w:"岵"}],o=8,c="山",n=["山","古"],s=[],e="",a=[],i=[],r={s:t,sc:o,r:c,c:n,d:s,ux:e,w:a,i};export{n as c,s as d,r as default,i,c as r,t as s,o as sc,e as ux,a as w};

@@ -1,0 +1,1 @@
+const n=[{p:"diān",pp:"dian1",d:"variant of 顛|颠[dian1]",t:"顚",w:"顚"}],t=19,s="頁",c=[],o=[],a="",d=[],i=[],p={s:n,sc:t,r:s,c,d:o,ux:a,w:d,i};export{c,o as d,p as default,i,s as r,n as s,t as sc,a as ux,d as w};

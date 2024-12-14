@@ -1,0 +1,1 @@
+const o=[{p:"gāo",pp:"gao1",d:"used in 桔槔[jie2gao1]",t:"槔",w:"槔"}],s=14,n="木",t=["木","皋"],e=[],c="",i=[{w:"桔槔",p:"jié gāo",d:"well sweep (device for raising and lowering a bucket in a well, using a pivoted pole)",t:"桔槔"}],a=[],d={s:o,sc:s,r:n,c:t,d:e,ux:c,w:i,i:a};export{t as c,e as d,d as default,a as i,n as r,o as s,s as sc,c as ux,i as w};

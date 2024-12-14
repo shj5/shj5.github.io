@@ -1,0 +1,1 @@
+const n=[{p:"fà",pp:"fa4",d:"used in 琺瑯|珐琅[fa4lang2]",t:"琺",w:"珐"}],t=9,s="玉",o=["王","去"],a=[],c="",e=[{w:"珐琅",p:"fà láng",d:"enamel; enamelware",t:"琺瑯"},{w:"珐琅质",p:"fà láng zhì",d:"(old) tooth enamel (still in use in Taiwan)",t:"琺瑯質"}],l=[],d={s:n,sc:t,r:s,c:o,d:a,ux:c,w:e,i:l};export{o as c,a as d,d as default,l as i,s as r,n as s,t as sc,c as ux,e as w};

@@ -1,0 +1,1 @@
+const n=[{p:"ruán",pp:"ruan2",d:"land on water edge or under wall",t:"壖",w:"壖"}],t=17,o="土",s=["土","需"],c=[],r="",a=[],d=[],e={s:n,sc:t,r:o,c:s,d:c,ux:r,w:a,i:d};export{s as c,c as d,e as default,d as i,o as r,n as s,t as sc,r as ux,a as w};

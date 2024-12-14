@@ -1,0 +1,1 @@
+const t=[{p:"yǎn",pp:"yan3",d:"majestic/dignified",t:"儼",w:"俨"}],n=9,s="人",c=["亻","严"],e=[],o="",i=[{w:"俨如",p:"yǎn rú",d:"(literary) to be exactly like/to be exactly as if",t:"儼如"},{w:"俨然",p:"yǎn rán",d:"just like/solemn/dignified/neatly laid out",t:"儼然"}],a=[],d={s:t,sc:n,r:s,c,d:e,ux:o,w:i,i:a};export{c,e as d,d as default,a as i,s as r,t as s,n as sc,o as ux,i as w};

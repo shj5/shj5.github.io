@@ -1,1 +1,0 @@
-const s=[{p:"xù",pp:"xu4",d:"earthern goblet stand also known as 反坫[fan3 dian4] (old)/old variant of 序",t:"垿",w:"垿"}],n=10,o="土",t=["土","序"],c=[],a="",d=[],r=[],e={s,sc:n,r:o,c:t,d:c,ux:a,w:d,i:r};export{t as c,c as d,e as default,r as i,o as r,s,n as sc,a as ux,d as w};

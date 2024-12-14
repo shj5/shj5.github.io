@@ -1,0 +1,1 @@
+const o=[{p:"lì",pp:"li4",d:"bamboos good for poles/horn",t:"篥",w:"篥"}],t=16,n="竹",s=["竹","栗"],c=[],e="",a=[{w:"觱篥",p:"bì lì",d:"ancient bamboo reed instrument/Chinese shawm (probably related to central Asian zurna)",t:"觱篥"}],r=[],l={s:o,sc:t,r:n,c:s,d:c,ux:e,w:a,i:r};export{s as c,c as d,l as default,r as i,n as r,o as s,t as sc,e as ux,a as w};

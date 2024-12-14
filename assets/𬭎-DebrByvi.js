@@ -1,1 +1,0 @@
-const s=[{p:"hóng",pp:"hong2",d:"utensil/implement",t:"鋐",w:"𬭎"}],t=0,c="",n=[],o=[],e="E",p=[],d=[],i={s,sc:t,r:c,c:n,d:o,ux:e,w:p,i:d};export{n as c,o as d,i as default,d as i,c as r,s,t as sc,e as ux,p as w};

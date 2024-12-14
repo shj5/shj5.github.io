@@ -1,0 +1,1 @@
+const s=[{p:"shí",pp:"shi2",d:"(Japanese kokuji) street corner/intersection/used in Japanese personal and place names/pr. tsuji",t:"辻",w:"辻"}],n=6,t="辵",e=["十","辶"],c=[],o="",a=[],p=[],r={s,sc:n,r:t,c:e,d:c,ux:o,w:a,i:p};export{e as c,c as d,r as default,p as i,t as r,s,n as sc,o as ux,a as w};

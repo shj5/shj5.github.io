@@ -1,1 +1,0 @@
-const c=[{p:"gǔ",pp:"gu3",d:"river name in Henan province",t:"瀔",w:"瀔"}],n=18,s="水",t=["氵"],o=[],e="",r=[],i=[],p={s:c,sc:n,r:s,c:t,d:o,ux:e,w:r,i};export{t as c,o as d,p as default,i,s as r,c as s,n as sc,e as ux,r as w};

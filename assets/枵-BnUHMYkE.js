@@ -1,1 +1,0 @@
-const o=[{p:"xiāo",pp:"xiao1",d:"(archaic) hollow of a tree/(literary) empty; hollow",t:"枵",w:"枵"}],c=9,t="木",s=["木"],n=[],a="",r=[],e=[],i={s:o,sc:c,r:t,c:s,d:n,ux:a,w:r,i:e};export{s as c,n as d,i as default,e as i,t as r,o as s,c as sc,a as ux,r as w};

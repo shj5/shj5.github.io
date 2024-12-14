@@ -1,1 +1,0 @@
-const s=[{p:"láng",pp:"lang2",d:"grass/weeds",t:"稂",w:"稂"}],o=12,t="禾",n=["禾","良"],c=[],d="",e=[],g=[{w:"不稂不莠",p:"bù láng bù yǒu",d:"useless/worthless/good-for-nothing",t:"不稂不莠"}],l={s,sc:o,r:t,c:n,d:c,ux:d,w:e,i:g};export{n as c,c as d,l as default,g as i,t as r,s,o as sc,d as ux,e as w};

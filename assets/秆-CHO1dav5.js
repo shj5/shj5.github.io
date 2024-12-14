@@ -1,0 +1,1 @@
+const t=[{p:"gǎn",pp:"gan3",d:"stalks of grain",t:"稈",w:"秆"}],s=8,n="禾",c=["干","禾"],o=[],a="",w=[{w:"禾秆",p:"hé gǎn",d:"straw",t:"禾稈"},{w:"秸秆",p:"jiē gǎn",d:"straw",t:"秸稈"},{w:"草秆",p:"cǎo gǎn",d:"straw/grain stalks",t:"草稈"}],g=[],p={s:t,sc:s,r:n,c,d:o,ux:a,w,i:g};export{c,o as d,p as default,g as i,n as r,t as s,s as sc,a as ux,w};

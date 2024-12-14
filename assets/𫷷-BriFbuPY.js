@@ -1,0 +1,1 @@
+const n=[{p:"xīn",pp:"xin1",d:"(literary) to arrange in ordered fashion/also pr. [qin1]",t:"廞",w:"𫷷"}],o=0,s="",t=[],c=[],r="E",a=[],e=[],i={s:n,sc:o,r:s,c:t,d:c,ux:r,w:a,i:e};export{t as c,c as d,i as default,e as i,s as r,n as s,o as sc,r as ux,a as w};

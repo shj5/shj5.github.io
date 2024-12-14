@@ -1,0 +1,1 @@
+const s=[{p:"yí",pp:"yi2",d:"(of animal horn) sharp",t:"觺",w:"觺"}],o=21,t="角",c=["角"],n=[],a="",p=[],r=[],d={s,sc:o,r:t,c,d:n,ux:a,w:p,i:r};export{c,n as d,d as default,r as i,t as r,s,o as sc,a as ux,p as w};

@@ -1,0 +1,1 @@
+const t=[{p:"è",pp:"e4",d:"old variant of 軛|轭[e4]",t:"軶",w:"軶"}],o=12,s="車",c=[],n=[],a="",d=[],e=[],p={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i:e};export{c,n as d,p as default,e as i,s as r,t as s,o as sc,a as ux,d as w};

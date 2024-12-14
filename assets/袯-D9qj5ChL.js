@@ -1,1 +1,0 @@
-const s=[{p:"bó",pp:"bo2",d:"used in 襏襫|袯襫[bo2shi4]",t:"襏",w:"袯"}],c=12,o="衣",t=["发","衤"],n=[],d="",i=[{w:"袯襫",p:"bó shì",d:"woven rush raincoat",t:"襏襫"}],p=[],r={s,sc:c,r:o,c:t,d:n,ux:d,w:i,i:p};export{t as c,n as d,r as default,p as i,o as r,s,c as sc,d as ux,i as w};

@@ -1,0 +1,1 @@
+const t=[{p:"qí",pp:"qi2",d:"(literary) black horse",t:"騏",w:"骐"}],n=11,o="馬",s=["马","其"],c=[],i="",r=[{w:"骐𬴊",p:"qí lín",d:"(literary) fine horse/variant of 麒麟[qi2lin2]",t:"騏驎"},{w:"骐麟",p:"qí lín",d:"variant of 麒麟[qi2lin2]",t:"騏麟"}],a=[],l={s:t,sc:n,r:o,c:s,d:c,ux:i,w:r,i:a};export{s as c,c as d,l as default,a as i,o as r,t as s,n as sc,i as ux,r as w};

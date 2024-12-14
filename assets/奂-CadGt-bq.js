@@ -1,0 +1,1 @@
+const n=[{p:"Huàn",pp:"Huan4",d:"surname Huan",t:"奐",w:"奂"},{p:"huàn",pp:"huan4",d:"excellent",t:"奐",w:"奂"}],t=7,s="大",c=[],o=["唤","换","涣","焕","痪"],e="",u=[],p=[{w:"美轮美奂",p:"měi lún - měi huàn",d:"(idiom) (of houses, scenery etc) magnificent",t:"美輪美奐"}],a={s:n,sc:t,r:s,c,d:o,ux:e,w:u,i:p};export{c,o as d,a as default,p as i,s as r,n as s,t as sc,e as ux,u as w};

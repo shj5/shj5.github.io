@@ -1,1 +1,0 @@
-const s=[{p:"zhāo",pp:"zhao1",d:"(literary) dead skin cells on the surface of the skin/Taiwan pr. [zhan3]",t:"皽",w:"皽"}],c=18,t="皮",n=["皮"],o=[],a="",e=[],r=[],d={s,sc:c,r:t,c:n,d:o,ux:a,w:e,i:r};export{n as c,o as d,d as default,r as i,t as r,s,c as sc,a as ux,e as w};

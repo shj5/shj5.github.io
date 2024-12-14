@@ -1,0 +1,1 @@
+const s=[{p:"gá",pp:"ga2",d:"gadolinium (chemistry)",t:"釓",w:"钆"}],t=6,c="金",o=["乚"],n=[],a="",d=[],i=[],p={s,sc:t,r:c,c:o,d:n,ux:a,w:d,i};export{o as c,n as d,p as default,i,c as r,s,t as sc,a as ux,d as w};

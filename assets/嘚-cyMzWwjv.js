@@ -1,0 +1,1 @@
+const o=[{p:"dē",pp:"de1",d:"(onom.) for the sound of horsehoofs",t:"嘚",w:"嘚"}],t=14,s="口",n=["口","待"],c=[],d="",e=[{w:"嘚啵",p:"dē bo",d:"(coll.) to run off at the mouth/to jabber on",t:"嘚啵"},{w:"嘚瑟",p:"dè se",d:"variant of 得瑟[de4se5]",t:"嘚瑟"}],f=[],r={s:o,sc:t,r:s,c:n,d:c,ux:d,w:e,i:f};export{n as c,c as d,r as default,f as i,s as r,o as s,t as sc,d as ux,e as w};

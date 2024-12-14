@@ -1,1 +1,0 @@
-const t=[{p:"jié",pp:"jie2",d:"to accuse/to pry",t:"訐",w:"讦"}],s=5,c="言",o=["讠","干"],n=[],e="",p=[{w:"攻讦",p:"gōng jié",d:"to attack sb by exposing faults/to denounce",t:"攻訐"}],a=[],d={s:t,sc:s,r:c,c:o,d:n,ux:e,w:p,i:a};export{o as c,n as d,d as default,a as i,c as r,t as s,s as sc,e as ux,p as w};

@@ -1,1 +1,0 @@
-const c=[{p:"xx",pp:"xx5",d:"component in Chinese characters, occurring in 青, 毒, 素 etc, referred to as 青字頭|青字头[qing1 zi4 tou2]",t:"龶",w:"龶"}],s=0,t="",n=[],o=[],e="",r=[],i=[],x={s:c,sc:s,r:t,c:n,d:o,ux:e,w:r,i};export{n as c,o as d,x as default,i,t as r,c as s,s as sc,e as ux,r as w};

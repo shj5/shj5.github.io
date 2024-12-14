@@ -1,0 +1,1 @@
+const t=[{p:"qiàn",pp:"qian4",d:"pouch/hold/content",t:"嗛",w:"嗛"}],c=13,n="口",o=["口","兼"],s=[],p="",d=[],a=[],e={s:t,sc:c,r:n,c:o,d:s,ux:p,w:d,i:a};export{o as c,s as d,e as default,a as i,n as r,t as s,c as sc,p as ux,d as w};

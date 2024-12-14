@@ -1,0 +1,1 @@
+const n=[{p:"pín",pp:"pin2",d:"variant of 顰|颦[pin2]",t:"嚬",w:"嚬"}],t=19,s="口",c=["口"],o=[],p="",a=[],i=[],d={s:n,sc:t,r:s,c,d:o,ux:p,w:a,i};export{c,o as d,d as default,i,s as r,n as s,t as sc,p as ux,a as w};

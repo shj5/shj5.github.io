@@ -1,1 +1,0 @@
-const s=[{p:"xiá",pp:"xia2",d:"variant of 轄|辖[xia2]",t:"舝",w:"舝"}],c=13,t="舛",o=[],n=[],a="",i=[],x=[],d={s,sc:c,r:t,c:o,d:n,ux:a,w:i,i:x};export{o as c,n as d,d as default,x as i,t as r,s,c as sc,a as ux,i as w};

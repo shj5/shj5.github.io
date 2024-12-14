@@ -1,0 +1,1 @@
+const t=[{p:"léi",pp:"lei2",d:"large earthenware wine jar",t:"罍",w:"罍"}],n=21,s="缶",c=["缶","畾"],o=[],e="",r=[{w:"樽罍",p:"zūn léi",d:"earthen liquor jar",t:"樽罍"}],a=[],i={s:t,sc:n,r:s,c,d:o,ux:e,w:r,i:a};export{c,o as d,i as default,a as i,s as r,t as s,n as sc,e as ux,r as w};

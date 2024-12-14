@@ -1,1 +1,0 @@
-const s=[{p:"péng",pp:"peng2",d:"used in 蟛蜞[peng2qi2]",t:"蟛",w:"蟛"}],c=18,n="虫",t=["虫","彭"],o=[],p="",d=[{w:"蟛蜞",p:"péng qí",d:"crab of family Sesarmidae",t:"蟛蜞"}],e=[],a={s,sc:c,r:n,c:t,d:o,ux:p,w:d,i:e};export{t as c,o as d,a as default,e as i,n as r,s,c as sc,p as ux,d as w};

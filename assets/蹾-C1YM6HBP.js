@@ -1,0 +1,1 @@
+const t=[{p:"dūn",pp:"dun1",d:"(coll.) to put sth down heavily/to plonk",t:"蹾",w:"蹾"}],o=19,n="足",s=["足","敦"],c=[],d="",p=[],l=[],u={s:t,sc:o,r:n,c:s,d:c,ux:d,w:p,i:l};export{s as c,c as d,u as default,l as i,n as r,t as s,o as sc,d as ux,p as w};

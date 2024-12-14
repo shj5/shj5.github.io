@@ -1,0 +1,1 @@
+const t=[{p:"fán",pp:"fan2",d:"burn/to roast meat for sacrifice",t:"燔",w:"燔"}],s=16,c="火",o=["火","番"],n=[],a="",r=[],f=[],e={s:t,sc:s,r:c,c:o,d:n,ux:a,w:r,i:f};export{o as c,n as d,e as default,f as i,c as r,t as s,s as sc,a as ux,r as w};

@@ -1,1 +1,0 @@
-const s=[{p:"kàng",pp:"kang4",d:"scandium (chemistry)",t:"鈧",w:"钪"}],c=9,t="金",n=["亢"],o=[],d="",a=[],i=[],p={s,sc:c,r:t,c:n,d:o,ux:d,w:a,i};export{n as c,o as d,p as default,i,t as r,s,c as sc,d as ux,a as w};

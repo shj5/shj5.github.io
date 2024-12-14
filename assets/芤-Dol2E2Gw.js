@@ -1,1 +1,0 @@
-const s=[{p:"kōu",pp:"kou1",d:"hollow/scallion stalk",t:"芤",w:"芤"}],c=7,o="艸",t=["艹","孔"],n=[],l="",u=[],a=[],d={s,sc:c,r:o,c:t,d:n,ux:l,w:u,i:a};export{t as c,n as d,d as default,a as i,o as r,s,c as sc,l as ux,u as w};

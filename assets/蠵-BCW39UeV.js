@@ -1,0 +1,1 @@
+const t=[{p:"xī",pp:"xi1",d:"used in 蠵龜|蠵龟[xi1gui1]",t:"蠵",w:"蠵"}],s=24,c="虫",o=["虫","巂"],n=[],e="",a=[{w:"蠵龟",p:"xī guī",d:"loggerhead sea turtle (Caretta caretta)",t:"蠵龜"}],d=[],r={s:t,sc:s,r:c,c:o,d:n,ux:e,w:a,i:d};export{o as c,n as d,r as default,d as i,c as r,t as s,s as sc,e as ux,a as w};

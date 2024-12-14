@@ -1,0 +1,1 @@
+const t=[{p:"tīng",pp:"ting1",d:"Japanese variant of 廳|厅",t:"庁",w:"庁"}],n=5,s="广",c=["丁","广"],o=[],a="",p=[],e=[],d={s:t,sc:n,r:s,c,d:o,ux:a,w:p,i:e};export{c,o as d,d as default,e as i,s as r,t as s,n as sc,a as ux,p as w};

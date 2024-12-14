@@ -1,0 +1,1 @@
+const s=[{p:"nào",pp:"nao4",d:"biceps (in Chinese medicine)/(arch.) forelimbs of livestock animal",t:"臑",w:"臑"}],c=18,n="肉",o=["月","需"],t=[],e="",i=[],a=[],p={s,sc:c,r:n,c:o,d:t,ux:e,w:i,i:a};export{o as c,t as d,p as default,a as i,n as r,s,c as sc,e as ux,i as w};

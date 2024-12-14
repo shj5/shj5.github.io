@@ -1,0 +1,1 @@
+const t=[{p:"bì",pp:"bi4",d:"(literary) to adjoin",t:"坒",w:"坒"}],o=7,s="土",c=["土","比"],n=["陛","梐"],a="",d=[],i=[],p={s:t,sc:o,r:s,c,d:n,ux:a,w:d,i};export{c,n as d,p as default,i,s as r,t as s,o as sc,a as ux,d as w};

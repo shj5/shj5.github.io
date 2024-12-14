@@ -1,1 +1,0 @@
-const s=[{p:"gǔ",pp:"gu3",d:"variant of 股[gu3]/(used in place names)",t:"𦙶",w:"𦙶"}],c=0,t="",n=[],o=[],a="B",u=[],d=[],e={s,sc:c,r:t,c:n,d:o,ux:a,w:u,i:d};export{n as c,o as d,e as default,d as i,t as r,s,c as sc,a as ux,u as w};

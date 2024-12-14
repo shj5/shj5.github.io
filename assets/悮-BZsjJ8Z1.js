@@ -1,1 +1,0 @@
-const t=[{p:"wù",pp:"wu4",d:"to impede/to delay/variant of 誤|误[wu4]",t:"悞",w:"悮"}],s=10,c="心",o=["忄","吴"],n=[],d="",w=[],a=[],e={s:t,sc:s,r:c,c:o,d:n,ux:d,w,i:a};export{o as c,n as d,e as default,a as i,c as r,t as s,s as sc,d as ux,w};

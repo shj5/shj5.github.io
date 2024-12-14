@@ -1,0 +1,1 @@
+const t=[{p:"jué",pp:"jue2",d:"(dialect) (bound form) mattock; hoe",t:"鐝",w:"镢"}],o=17,c="金",s=["厥"],n=[],d="",e=[{w:"镢头",p:"jué tóu",d:"(dialect) mattock; hoe",t:"鐝頭"}],u=[],a={s:t,sc:o,r:c,c:s,d:n,ux:d,w:e,i:u};export{s as c,n as d,a as default,u as i,c as r,t as s,o as sc,d as ux,e as w};

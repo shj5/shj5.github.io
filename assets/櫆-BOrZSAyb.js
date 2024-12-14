@@ -1,0 +1,1 @@
+const s=[{p:"kuí",pp:"kui2",d:"see 櫆師|櫆师[kui2 shi1] Polaris, the north star",t:"櫆",w:"櫆"}],t=18,o="木",c=["木"],n=[],a="",e=[{w:"櫆师",p:"kuí shī",d:"Polaris/the north star/same as 北斗[Bei3 dou3]",t:"櫆師"}],r=[],i={s,sc:t,r:o,c,d:n,ux:a,w:e,i:r};export{c,n as d,i as default,r as i,o as r,s,t as sc,a as ux,e as w};

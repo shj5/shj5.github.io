@@ -1,1 +1,0 @@
-const o=[{p:"ǎn",pp:"an3",d:"to apply (medicinal powder to a wound)/to cover up/to conceal",t:"揞",w:"揞"}],c=12,t="手",n=["扌","音"],s=[],p="",a=[],d=[],e={s:o,sc:c,r:t,c:n,d:s,ux:p,w:a,i:d};export{n as c,s as d,e as default,d as i,t as r,o as s,c as sc,p as ux,a as w};

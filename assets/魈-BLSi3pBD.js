@@ -1,0 +1,1 @@
+const n=[{p:"xiāo",pp:"xiao1",d:"used in 山魈[shan1 xiao1]",t:"魈",w:"魈"}],s=17,o="鬼",t=["肖","鬼"],i=[],c="",a=[{w:"山魈",p:"shān xiāo",d:"mandrill (Mandrillus sphinx)/legendary mountain spirit",t:"山魈"}],d=[],p={s:n,sc:s,r:o,c:t,d:i,ux:c,w:a,i:d};export{t as c,i as d,p as default,d as i,o as r,n as s,s as sc,c as ux,a as w};

@@ -1,0 +1,1 @@
+const t=[{p:"huò",pp:"huo4",d:"(interj.) oh!",t:"嚄",w:"嚄"},{p:"ǒ",pp:"o3",d:"(interj. of surprise)",t:"嚄",w:"嚄"}],o=17,s="口",c=["口","蒦"],n=[],p="",r=[],e=[],u={s:t,sc:o,r:s,c,d:n,ux:p,w:r,i:e};export{c,n as d,u as default,e as i,s as r,t as s,o as sc,p as ux,r as w};

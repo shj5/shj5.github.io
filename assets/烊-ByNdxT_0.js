@@ -1,0 +1,1 @@
+const n=[{p:"yáng",pp:"yang2",d:"molten/smelt",t:"烊",w:"烊"}],t=10,o="火",s=["火","羊"],c=[],a="",e=[{w:"打烊",p:"dǎ yàng",d:"to close shop in the evening/also pr. [da3 yang2]",t:"打烊"},{w:"烊金",p:"yáng jīn",d:"variant of 煬金|炀金[yang2 jin1]",t:"烊金"}],p=[],d={s:n,sc:t,r:o,c:s,d:c,ux:a,w:e,i:p};export{s as c,c as d,d as default,p as i,o as r,n as s,t as sc,a as ux,e as w};

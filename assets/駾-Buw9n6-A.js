@@ -1,0 +1,1 @@
+const t=[{p:"tuì",pp:"tui4",d:"approach at swift gallop (on horses)",t:"駾",w:"駾"}],s=17,o="馬",c=[],n=[],p="",a=[],r=[],u={s:t,sc:s,r:o,c,d:n,ux:p,w:a,i:r};export{c,n as d,u as default,r as i,o as r,t as s,s as sc,p as ux,a as w};
